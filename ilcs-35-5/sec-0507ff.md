@@ -1,0 +1,3 @@
+# Sec. 507FF. Epilepsy Treatment and Education Grants-in-Aid Fund checkoff. The Department must print on its standard individual income tax form a provision indicating that if the taxpayer wishes to contribute to the Epilepsy Treatment and Education Grants-in-Aid Fund, as authorized by Public Act 94-73, he or she may do so by stating the amount of the contribution (not less than $1) on the return and that the contribution will reduce the taxpayer's refund or increase the amount of payment to accompany the return. Failure to remit any amount of increased payment reduces the contribution accordingly. This Section does not apply to any amended return.
+(35 ILCS 5/507FF)
+(Source: P.A. 94-73, eff. 6-23-05; 95-331, eff. 8-21-07.)

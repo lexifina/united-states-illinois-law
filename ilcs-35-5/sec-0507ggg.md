@@ -1,0 +1,3 @@
+# Sec. 507GGG. Thriving Youth checkoff. For taxable years ending on or after December 31, 2017, the Department must print on its standard individual income tax form a provision (i) indicating that if the taxpayer wishes to contribute to the Thriving Youth Income Tax Checkoff Fund, as authorized by this amendatory Act of the 100th General Assembly, he or she may do so by stating the amount of the contribution (not less than $1) on the return and (ii) stating that the contribution will reduce the taxpayer's refund or increase the amount of payment to accompany the return. Failure to remit any amount of increased payment shall reduce the contribution accordingly. This Section does not apply to any amended return.
+(35 ILCS 5/507GGG)
+(Source: P.A. 100-329, eff. 8-24-17.)

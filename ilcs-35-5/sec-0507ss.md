@@ -1,0 +1,3 @@
+# Sec. 507SS. The hunger relief checkoff. For taxable years ending on or after December 31, 2009, the Department shall print, on its standard individual income tax form, a provision indicating that, if the taxpayer wishes to contribute to the Hunger Relief Fund, as authorized by Public Act 96-604, then he or she may do so by stating the amount of the contribution (not less than $1) on the return and indicating that the contribution will reduce the taxpayer's refund or increase the amount of payment to accompany the return. The taxpayer's failure to remit any amount of the increased payment reduces the contribution accordingly. This Section does not apply to any amended return.
+(35 ILCS 5/507SS)
+(Source: P.A. 96-604, eff. 8-24-09; 96-1000, eff. 7-2-10.)

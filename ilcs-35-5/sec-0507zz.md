@@ -1,0 +1,3 @@
+# Sec. 507ZZ. After-School Rescue Fund checkoff. For taxable years ending on or after December 31, 2011, the Department must print on its standard individual income tax form a provision (i) indicating that if the taxpayer wishes to contribute to the After-School Rescue Fund, as authorized by this amendatory Act of the 97th General Assembly, he or she may do so by stating the amount of the contribution (not less than $1) on the return and (ii) stating that the contribution will reduce the taxpayer's refund or increase the amount of payment to accompany the return. Failure to remit any amount of increased payment shall reduce the contribution accordingly. This Section does not apply to any amended return.
+(35 ILCS 5/507ZZ)
+(Source: P.A. 97-478, eff. 8-22-11.)

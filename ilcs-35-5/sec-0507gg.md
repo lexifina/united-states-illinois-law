@@ -1,0 +1,3 @@
+# Sec. 507GG. Diabetes Research Checkoff Fund checkoff. For taxable years ending on or after December 31, 2005, the Department must print on its standard individual income tax form a provision indicating that if the taxpayer wishes to contribute to the Diabetes Research Checkoff Fund, as authorized by Public Act 94-107, he or she may do so by stating the amount of the contribution (not less than $1) on the return and that the contribution will reduce the taxpayer's refund or increase the amount of payment to accompany the return. Failure to remit any amount of increased payment shall reduce the contribution accordingly. This Section does not apply to any amended return.
+(35 ILCS 5/507GG)
+(Source: P.A. 100-201, eff. 8-18-17.)
