@@ -1,0 +1,4 @@
+# Sec. 2SS. Gift certificates.
+(815 ILCS 505/2SS)
+(a) "Gift certificate" means a record evidencing a promise, made for consideration, by the seller or issuer of the record that goods or services will be provided to the holder of the record for the value shown in the record and includes, but is not limited to, a record that contains a microprocessor chip, magnetic stripe or other means for the storage of information that is prefunded and for which the value is decremented upon each use, a gift card, an electronic gift card, stored-value card or certificate, a store card or a similar record or card. "Gift certificate" also includes a credit slip issued by a store to a consumer who returns goods that enables the consumer to receive other goods of similar value in exchange for the returned goods. For purposes of this Act, the term "gift certificate" does not include any of the following:
+(i) prepaid telecommunications and technology cards

@@ -1,0 +1,3 @@
+# Sec. 2WW. Wireless telephone service provider; third party billings. A wireless telephone service provider shall provide a contact telephone number and brief description of the service for all third-party billings on the consumer's bill, to the extent allowed by federal law, or through a customer service representative. For purposes of this Section, "third-party billings" means any billing done by a wireless telephone service provider on behalf of a third party where the wireless telephone service provider is merely the billing agent for the third party with no ability to provide refunds, credits, or otherwise adjust the billings.
+(815 ILCS 505/2WW)
+(Source: P.A. 94-567, eff. 1-1-06; 95-331, eff. 8-21-07.)

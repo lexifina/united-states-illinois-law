@@ -1,0 +1,3 @@
+# Sec. 2III. Seller's shipments of similar merchandise to consumer. If a consumer purchases merchandise, it is an unlawful practice under this Act for the seller of the merchandise to periodically send and debit the consumer's account for shipments of similar merchandise, unless the consumer has agreed, by express request or consent, to receive such periodic shipments of merchandise. The seller must clearly and conspicuously disclose any minimum purchase requirement and how the consumer may cancel periodic shipments.
+(815 ILCS 505/2III)
+(Source: P.A. 96-1306, eff. 7-27-10; 97-333, eff. 8-12-11.)

@@ -1,0 +1,8 @@
+# Sec. 2XX. Performing groups.
+(815 ILCS 505/2XX)
+(a) As used in this Section:
+"Performing group" means a vocal or instrumental group seeking to use the name of another group that has previously released a commercial sound recording under that name.
+"Recording group" means a vocal or instrumental group at least one of whose members has previously released a commercial sound recording under that group's name and in which the member or members have a legal right by virtue of use or operation under the group name without having abandoned the name or affiliation with the group.
+"Sound recording" means a work that results from the fixation on a material object of a series of musical, spoken, or other sounds regardless of the nature of the material object, such as a disc, tape, or other phono-record, in which the sounds are embodied.
+(b) It is an unlawful practice for a person to advertise or conduct a live musical performance or production in this State through the use of a false, deceptive, or misleading affiliation, connection, or association between the performing group and the recording group. This Section does not apply if:
+(1) the performing group is the authorized registrant
