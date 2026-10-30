@@ -1,0 +1,327 @@
+{
+ "country": "US-IL",
+ "acts": [
+  {
+   "slug": "constitution-art-01",
+   "short": "Ill. Const. art. I",
+   "title": "Constitution of the State of Illinois, ARTICLE I BILL OF RIGHTS",
+   "url": "https://www.ilga.gov/commission/lrb/con1.htm",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 25,
+     "source_url": "https://www.ilga.gov/commission/lrb/con1.htm",
+     "sha256": "647efb3705c354b908a3aa4e9a3cc36e74176d729c6bcf10cb6d7d95d3a26236"
+    }
+   ]
+  },
+  {
+   "slug": "constitution-art-02",
+   "short": "Ill. Const. art. II",
+   "title": "Constitution of the State of Illinois, ARTICLE II THE POWERS OF THE STATE",
+   "url": "https://www.ilga.gov/commission/lrb/con2.htm",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 2,
+     "source_url": "https://www.ilga.gov/commission/lrb/con2.htm",
+     "sha256": "f2e3023462bc4e76e9cf8ece63f8e4efb95c0ea3dbefa47186eb2bb9a9212257"
+    }
+   ]
+  },
+  {
+   "slug": "constitution-art-03",
+   "short": "Ill. Const. art. III",
+   "title": "Constitution of the State of Illinois, ARTICLE III SUFFRAGE AND ELECTIONS",
+   "url": "https://www.ilga.gov/commission/lrb/con3.htm",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 7,
+     "source_url": "https://www.ilga.gov/commission/lrb/con3.htm",
+     "sha256": "f41776a0bcb436b0ccadf31b65386d57b130c47364c0c447253da0c53816ca78"
+    }
+   ]
+  },
+  {
+   "slug": "constitution-art-04",
+   "short": "Ill. Const. art. IV",
+   "title": "Constitution of the State of Illinois, ARTICLE IV THE LEGISLATURE",
+   "url": "https://www.ilga.gov/commission/lrb/con4.htm",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 15,
+     "source_url": "https://www.ilga.gov/commission/lrb/con4.htm",
+     "sha256": "59c10c5dd47c9cec1a85b8793283f2b3d2cf04f4a883bcb6d8dbc16b2eb15198"
+    }
+   ]
+  },
+  {
+   "slug": "constitution-art-05",
+   "short": "Ill. Const. art. V",
+   "title": "Constitution of the State of Illinois, ARTICLE V THE EXECUTIVE",
+   "url": "https://www.ilga.gov/commission/lrb/con5.htm",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 20,
+     "source_url": "https://www.ilga.gov/commission/lrb/con5.htm",
+     "sha256": "05315ba2c8d18026e29c386d3acda96566dfb2906070b7c53f0ae1e5cb8c79ac"
+    }
+   ]
+  },
+  {
+   "slug": "constitution-art-06",
+   "short": "Ill. Const. art. VI",
+   "title": "Constitution of the State of Illinois, ARTICLE VI THE JUDICIARY",
+   "url": "https://www.ilga.gov/commission/lrb/con6.htm",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 19,
+     "source_url": "https://www.ilga.gov/commission/lrb/con6.htm",
+     "sha256": "17a6990fe94f8e15de6a724ecccf64f978ecea45741857eecc8f2a21e0568656"
+    }
+   ]
+  },
+  {
+   "slug": "constitution-art-07",
+   "short": "Ill. Const. art. VII",
+   "title": "Constitution of the State of Illinois, ARTICLE VII LOCAL GOVERNMENT",
+   "url": "https://www.ilga.gov/commission/lrb/con7.htm",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 12,
+     "source_url": "https://www.ilga.gov/commission/lrb/con7.htm",
+     "sha256": "d768ca35b6cac883b3b9474041226e31585eda687e27fc8671dd2d0afe6d659d"
+    }
+   ]
+  },
+  {
+   "slug": "constitution-art-08",
+   "short": "Ill. Const. art. VIII",
+   "title": "Constitution of the State of Illinois, ARTICLE VIII FINANCE",
+   "url": "https://www.ilga.gov/commission/lrb/con8.htm",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 4,
+     "source_url": "https://www.ilga.gov/commission/lrb/con8.htm",
+     "sha256": "8b548b8cf76095c20d935ab80b330ca6c18e3fafc35ee0be47b28e69fabce9fc"
+    }
+   ]
+  },
+  {
+   "slug": "constitution-art-09",
+   "short": "Ill. Const. art. IX",
+   "title": "Constitution of the State of Illinois, ARTICLE IX REVENUE",
+   "url": "https://www.ilga.gov/commission/lrb/con9.htm",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 11,
+     "source_url": "https://www.ilga.gov/commission/lrb/con9.htm",
+     "sha256": "56068c6903fc4bf99cd94fce9c1bc12158811f5f9ddf227853ddc8d2673e497e"
+    }
+   ]
+  },
+  {
+   "slug": "constitution-art-10",
+   "short": "Ill. Const. art. X",
+   "title": "Constitution of the State of Illinois, ARTICLE X EDUCATION",
+   "url": "https://www.ilga.gov/commission/lrb/con10.htm",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 3,
+     "source_url": "https://www.ilga.gov/commission/lrb/con10.htm",
+     "sha256": "6263c87554dd14a01a650c8c7916189c9c710ddcf0beac5c4e05ef586aa52c21"
+    }
+   ]
+  },
+  {
+   "slug": "constitution-art-11",
+   "short": "Ill. Const. art. XI",
+   "title": "Constitution of the State of Illinois, ARTICLE XI ENVIRONMENT",
+   "url": "https://www.ilga.gov/commission/lrb/con11.htm",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 2,
+     "source_url": "https://www.ilga.gov/commission/lrb/con11.htm",
+     "sha256": "acc4c04d0e7c8c72e2e450d927285ecbebd0487081d31947a21b5144ac8bc49f"
+    }
+   ]
+  },
+  {
+   "slug": "constitution-art-12",
+   "short": "Ill. Const. art. XII",
+   "title": "Constitution of the State of Illinois, ARTICLE XII MILITIA",
+   "url": "https://www.ilga.gov/commission/lrb/con12.htm",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 5,
+     "source_url": "https://www.ilga.gov/commission/lrb/con12.htm",
+     "sha256": "6357968206cb3dcde0b2c5db697afe0bf374df0cb0a2dea0dab6719253a69052"
+    }
+   ]
+  },
+  {
+   "slug": "constitution-art-13",
+   "short": "Ill. Const. art. XIII",
+   "title": "Constitution of the State of Illinois, ARTICLE XIII GENERAL PROVISIONS",
+   "url": "https://www.ilga.gov/commission/lrb/con13.htm",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 8,
+     "source_url": "https://www.ilga.gov/commission/lrb/con13.htm",
+     "sha256": "63a8468bf002b38116da0dc8d0896e750c12b9897f3ab2cbd89398343e2512f3"
+    }
+   ]
+  },
+  {
+   "slug": "constitution-art-14",
+   "short": "Ill. Const. art. XIV",
+   "title": "Constitution of the State of Illinois, ARTICLE XIV CONSTITUTIONAL REVISION",
+   "url": "https://www.ilga.gov/commission/lrb/con14.htm",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 4,
+     "source_url": "https://www.ilga.gov/commission/lrb/con14.htm",
+     "sha256": "ec438c79d25bd6afb7ee353f2de7a6ecbb50e99a93b8a548405f92b9ed0ecc60"
+    }
+   ]
+  },
+  {
+   "slug": "constitution-preamble",
+   "short": "Ill. Const. preamble",
+   "title": "Constitution of the State of Illinois, Preamble",
+   "url": "https://www.ilga.gov/commission/lrb/conp.htm",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 1,
+     "source_url": "https://www.ilga.gov/commission/lrb/conp.htm",
+     "sha256": "de49fca9f4a7e703a3af0fcb2635af29d964ea2424d93a6231f07fd838e87be7"
+    }
+   ]
+  },
+  {
+   "slug": "constitution-transition-schedule",
+   "short": "Ill. Const. transition schedule",
+   "title": "Constitution of the State of Illinois, Transition Schedule",
+   "url": "https://www.ilga.gov/commission/lrb/contrans.htm",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 1,
+     "source_url": "https://www.ilga.gov/commission/lrb/contrans.htm",
+     "sha256": "8a32d265a2fa69ed8090e8871bd9cf69622bbb31781d45766f1507f3a30fceb9"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-720-5-article-0001",
+   "short": "720 ILCS 5 art. 1",
+   "title": "Illinois Compiled Statutes, Criminal Code of 2012 (720 ILCS 5), Article 1",
+   "url": "https://www.ilga.gov/ftp/ILCS/Ch%200720/Act%200005/",
+   "versions": [
+    {
+     "from": "2024-12-22",
+     "units": 7,
+     "source_url": "https://www.ilga.gov/ftp/ILCS/Ch%200720/Act%200005/",
+     "sha256": "1316b45dc38173e259647224acd0fc40140df0bccb1a09e31c945b410ed1e77b"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-720-5-article-0010",
+   "short": "720 ILCS 5 art. 10",
+   "title": "Illinois Compiled Statutes, Criminal Code of 2012 (720 ILCS 5), Article 10",
+   "url": "https://www.ilga.gov/ftp/ILCS/Ch%200720/Act%200005/",
+   "versions": [
+    {
+     "from": "2024-12-22",
+     "units": 14,
+     "source_url": "https://www.ilga.gov/ftp/ILCS/Ch%200720/Act%200005/",
+     "sha256": "a58ad98b55ca0285d980b9a1f8997f69a189ec8339b2d36140e7b4c16b13e97d"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-720-5-article-0003",
+   "short": "720 ILCS 5 art. 3",
+   "title": "Illinois Compiled Statutes, Criminal Code of 2012 (720 ILCS 5), Article 3",
+   "url": "https://www.ilga.gov/ftp/ILCS/Ch%200720/Act%200005/",
+   "versions": [
+    {
+     "from": "2024-12-22",
+     "units": 8,
+     "source_url": "https://www.ilga.gov/ftp/ILCS/Ch%200720/Act%200005/",
+     "sha256": "4b9ad7abf2b796c125cc79c346bb10e20b47bb8861bd998a2c2f75faa14cd17c"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-720-5-article-0004",
+   "short": "720 ILCS 5 art. 4",
+   "title": "Illinois Compiled Statutes, Criminal Code of 2012 (720 ILCS 5), Article 4",
+   "url": "https://www.ilga.gov/ftp/ILCS/Ch%200720/Act%200005/",
+   "versions": [
+    {
+     "from": "2024-12-22",
+     "units": 9,
+     "source_url": "https://www.ilga.gov/ftp/ILCS/Ch%200720/Act%200005/",
+     "sha256": "097705d80a1a146f472a002af87fc7eca1d763d727396b6f350c797371c7e913"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-720-5-article-0005",
+   "short": "720 ILCS 5 art. 5",
+   "title": "Illinois Compiled Statutes, Criminal Code of 2012 (720 ILCS 5), Article 5",
+   "url": "https://www.ilga.gov/ftp/ILCS/Ch%200720/Act%200005/",
+   "versions": [
+    {
+     "from": "2024-12-22",
+     "units": 5,
+     "source_url": "https://www.ilga.gov/ftp/ILCS/Ch%200720/Act%200005/",
+     "sha256": "6081a8f719243904e839653b1f2aa81149e52355e5a8ae88afc175cedd4f5272"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-720-5-article-0006",
+   "short": "720 ILCS 5 art. 6",
+   "title": "Illinois Compiled Statutes, Criminal Code of 2012 (720 ILCS 5), Article 6",
+   "url": "https://www.ilga.gov/ftp/ILCS/Ch%200720/Act%200005/",
+   "versions": [
+    {
+     "from": "2024-12-22",
+     "units": 4,
+     "source_url": "https://www.ilga.gov/ftp/ILCS/Ch%200720/Act%200005/",
+     "sha256": "b834388309a24dfc133d559de243d14f3c1e1d13b29473f3c982e7edb2953f11"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-720-5-article-0009",
+   "short": "720 ILCS 5 art. 9",
+   "title": "Illinois Compiled Statutes, Criminal Code of 2012 (720 ILCS 5), Article 9",
+   "url": "https://www.ilga.gov/ftp/ILCS/Ch%200720/Act%200005/",
+   "versions": [
+    {
+     "from": "2024-12-22",
+     "units": 11,
+     "source_url": "https://www.ilga.gov/ftp/ILCS/Ch%200720/Act%200005/",
+     "sha256": "9002341989874602f882030d5da9d74774803dfd781c4767c20398f5a9ad041c"
+    }
+   ]
+  }
+ ]
+}

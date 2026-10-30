@@ -1,0 +1,8 @@
+{
+  "path": "us/il",
+  "code": "US-IL",
+  "name": "United States (Illinois)",
+  "level": "state",
+  "repo": "https://github.com/lexifina/united-states-illinois-law",
+  "build": "built"
+}
