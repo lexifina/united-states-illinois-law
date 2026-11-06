@@ -50,7 +50,7 @@ Current-text preparation uses the latest explicit effective date in the source a
 
 ## Static ILCS compilation additions, 30 October 2026
 
-474 additional complete indexed acts from the [Illinois General Assembly compilation](https://ftp.ilga.gov/ILCS/) are included. The compilation incorporates Public Acts through 104-854. The publisher states that these provisions have NOT been edited for publication and are NOT the official text; this copy should not be cited as official or authoritative. The only official copy is the printed copy maintained by the Secretary of State’s office.
+476 additional complete indexed acts from the [Illinois General Assembly compilation](https://ftp.ilga.gov/ILCS/) are included. The compilation incorporates Public Acts through 104-854. The publisher states that these provisions have NOT been edited for publication and are NOT the official text; this copy should not be cited as official or authoritative. The only official copy is the printed copy maintained by the Secretary of State’s office.
 
 Each addition retains all sections, act-title documents and article headings in the publisher’s Section Sequence. Dates use the latest explicit amendment effective date in the source, otherwise the compilation’s own update date, 2026-10-30. This date fallback does not claim a commencement date the source does not identify. Future-effective text and normative images are held. Existing records retain their historical dates and text; their inclusion above does not establish equality with this static compilation. Public Acts, administrative rules and earlier wording are not added.
 
@@ -530,3 +530,5 @@ Each addition retains all sections, act-title documents and article headings in 
 | [Fire Investigation Act (425 ILCS 25)](https://ftp.ilga.gov/ILCS/Ch%200425/Act%200025/) | 18 | 2026-06-26 |
 | [Furniture Fire Safety Act (425 ILCS 45)](https://ftp.ilga.gov/ILCS/Ch%200425/Act%200045/) | 9 | 2023-06-30 |
 | [Hotel Floor Plan Posting Act (425 ILCS 50)](https://ftp.ilga.gov/ILCS/Ch%200425/Act%200050/) | 7 | 1999-07-29 |
+| [Firearm Dealer License Certification Act (430 ILCS 68)](https://ftp.ilga.gov/ILCS/Ch%200430/Act%200068/) | 27 | 2026-07-01 |
+| [Road Worker Safety Act (430 ILCS 105)](https://ftp.ilga.gov/ILCS/Ch%200430/Act%200105/) | 9 | 2026-10-30 |

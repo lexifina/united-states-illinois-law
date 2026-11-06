@@ -43912,6 +43912,34 @@
      "units": 8
     }
    ]
+  },
+  {
+   "slug": "ilcs-430-68",
+   "short": "430 ILCS 68",
+   "title": "Firearm Dealer License Certification Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200430/Act%200068/",
+   "versions": [
+    {
+     "from": "2026-07-01",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200430/Act%200068/",
+     "sha256": "881358e77ccd19579e910c50e9f40c72d1da5dc3df8e004a1cb3105ce22d5e63",
+     "units": 33
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-430-105",
+   "short": "430 ILCS 105",
+   "title": "Road Worker Safety Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200430/Act%200105/",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200430/Act%200105/",
+     "sha256": "2ea284d84169eda9aa120e3c35002b38ab75597111ff85b9393c5066e005ffa7",
+     "units": 10
+    }
+   ]
   }
  ]
 }
