@@ -37654,6 +37654,1462 @@
      "units": 4
     }
    ]
+  },
+  {
+   "slug": "ilcs-20-45",
+   "short": "20 ILCS 45",
+   "title": "Open Operating Standards Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%200045/",
+   "versions": [
+    {
+     "from": "2020-01-01",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%200045/",
+     "sha256": "d134d7b50836c536eed37c99315f925565fd6def7dc84d52b20ea39fde49c426",
+     "units": 11
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-20-50",
+   "short": "20 ILCS 50",
+   "title": "Uniform Racial Classification Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%200050/",
+   "versions": [
+    {
+     "from": "2024-01-01",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%200050/",
+     "sha256": "1af42c2159153edb66162750b8ad2c92c09785405e02caae566a8f21843dab01",
+     "units": 4
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-20-55",
+   "short": "20 ILCS 55",
+   "title": "State Agency Student Worker Opportunity Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%200055/",
+   "versions": [
+    {
+     "from": "2018-01-01",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%200055/",
+     "sha256": "b08210a3334d9bc7e23766cf1d1aecb93477b51edd57215809344789298cc8d1",
+     "units": 4
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-20-60",
+   "short": "20 ILCS 60",
+   "title": "Native American Employment Plan Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%200060/",
+   "versions": [
+    {
+     "from": "2020-01-01",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%200060/",
+     "sha256": "0cc04eeb631825e7314b6110212c0e76e3781ff1caed1e3fe570e7c1c315a78e",
+     "units": 7
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-20-205",
+   "short": "20 ILCS 205",
+   "title": "Department of Agriculture Law of the Civil Administrative Code of Illinois",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%200205/",
+   "versions": [
+    {
+     "from": "2023-07-28",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%200205/",
+     "sha256": "be9f43e38bc9a3d6bcbe905649d2941246d827e6801cd1706e0eec6786c46dbe",
+     "units": 54
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-20-210",
+   "short": "20 ILCS 210",
+   "title": "State Fair Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%200210/",
+   "versions": [
+    {
+     "from": "2026-06-16",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%200210/",
+     "sha256": "9965fcad52593e43e6d0069db52cab4e18388d3ce453eb527f12008dec800e1f",
+     "units": 20
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-20-220",
+   "short": "20 ILCS 220",
+   "title": "Rural Rehabilitation Corporation Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%200220/",
+   "versions": [
+    {
+     "from": "2007-08-21",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%200220/",
+     "sha256": "dc098c397487045262ebf0d17a523a3cdf800565c5bb315be5794f1327567410",
+     "units": 9
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-20-310",
+   "short": "20 ILCS 310",
+   "title": "Department of Human Services (Alcoholism and Substance Abuse",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%200310/",
+   "versions": [
+    {
+     "from": "2005-09-11",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%200310/",
+     "sha256": "dd25095b80ef49ee08ff1b5cd695ca0bfae39cefb21b65ff94aa55e3f415e133",
+     "units": 4
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-20-405",
+   "short": "20 ILCS 405",
+   "title": "Department of Central Management Services Law of the Civil Administrative Code of Illinois",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%200405/",
+   "versions": [
+    {
+     "from": "2026-08-21",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%200405/",
+     "sha256": "38547b026bb4113cfe28ff994302a6341ef543b8222b5ff77d04e6d3b1b722f6",
+     "units": 71
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-20-435",
+   "short": "20 ILCS 435",
+   "title": "Forms Notice Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%200435/",
+   "versions": [
+    {
+     "from": "1998-07-01",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%200435/",
+     "sha256": "1bd1e534acd56f632b57967ff5d702ce9e0528ded49b8d31b6cdc6f2fc104a39",
+     "units": 8
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-20-440",
+   "short": "20 ILCS 440",
+   "title": "Office of Consumer Services Information Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%200440/",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%200440/",
+     "sha256": "bfb4372b937c15f155c88f6cbbf0e8ab3c5eb35bd6b620017362ace4f3c1f3e3",
+     "units": 4
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-20-445",
+   "short": "20 ILCS 445",
+   "title": "State Off Street Parking in Rockford Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%200445/",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%200445/",
+     "sha256": "cced0281abd7f5de363736b4722de1709ff101523940e149dd609563b43be567",
+     "units": 3
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-20-450",
+   "short": "20 ILCS 450",
+   "title": "Data Security on State Computers Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%200450/",
+   "versions": [
+    {
+     "from": "2018-01-01",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%200450/",
+     "sha256": "bdbc6d9d03a4a0bd7e90b07cc4b682d650f510f027a14377ccdf99851925adbc",
+     "units": 10
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-20-520",
+   "short": "20 ILCS 520",
+   "title": "Foster Parent Law",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%200520/",
+   "versions": [
+    {
+     "from": "2025-08-15",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%200520/",
+     "sha256": "1f88617281494b96472894da3a32bb94eae8db487951740affe00bfaa9450142",
+     "units": 12
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-20-525",
+   "short": "20 ILCS 525",
+   "title": "Statewide Foster Care Advisory Council Law",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%200525/",
+   "versions": [
+    {
+     "from": "2023-08-08",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%200525/",
+     "sha256": "95cb0024c4b21333888db805b7e36c9c0b0f06a476058be5ac35da6def276621",
+     "units": 15
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-20-607",
+   "short": "20 ILCS 607",
+   "title": "Brownfields Redevelopment and Intermodal Promotion Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%200607/",
+   "versions": [
+    {
+     "from": "2021-08-20",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%200607/",
+     "sha256": "7ec28c001c075509f2c5dadc7f6abfee978abd0123334bf5142101ae63282f7e",
+     "units": 21
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-20-627",
+   "short": "20 ILCS 627",
+   "title": "Electric Vehicle Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%200627/",
+   "versions": [
+    {
+     "from": "2026-08-21",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%200627/",
+     "sha256": "342a9d4968b9e10af7900390a37b521a3ceea3e0e76bfaf25ade462949e3ebbe",
+     "units": 12
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-20-687",
+   "short": "20 ILCS 687",
+   "title": "Renewable Energy, Energy Efficiency, and Coal Resources Development Law of 1997",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%200687/",
+   "versions": [
+    {
+     "from": "2025-06-16",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%200687/",
+     "sha256": "de31095811e53b30c78487b00708d62f36025c00f793946053d03c65ceb694d6",
+     "units": 23
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-20-692",
+   "short": "20 ILCS 692",
+   "title": "Small Business Advisory Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%200692/",
+   "versions": [
+    {
+     "from": "2006-05-19",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%200692/",
+     "sha256": "2fc35433a0d92f2485590180601dc5ccafe8dbe39918112f4403e60fdd3ae054",
+     "units": 5
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-20-695",
+   "short": "20 ILCS 695",
+   "title": "State and Regional Development Strategy Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%200695/",
+   "versions": [
+    {
+     "from": "2005-01-15",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%200695/",
+     "sha256": "4d8d74c98f3a6eac30df8ffef955c99addcd43d09b9075c5d04c18842c235778",
+     "units": 11
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-20-700",
+   "short": "20 ILCS 700",
+   "title": "Technology Advancement and Development Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%200700/",
+   "versions": [
+    {
+     "from": "2025-11-21",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%200700/",
+     "sha256": "8f4fb12b18d776540739a7f298f4555e6a94a342f5f55b596de0e34b484c270a",
+     "units": 31
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-20-730",
+   "short": "20 ILCS 730",
+   "title": "Energy Transition Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%200730/",
+   "versions": [
+    {
+     "from": "2026-06-26",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%200730/",
+     "sha256": "09ea0ae2f00b7cd83807af22f22ca59ea4e3f5db64d4e8eff93bc8eeafebf8db",
+     "units": 47
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-20-735",
+   "short": "20 ILCS 735",
+   "title": "Energy Community Reinvestment Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%200735/",
+   "versions": [
+    {
+     "from": "2025-02-20",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%200735/",
+     "sha256": "801990f47a981732f13349045b7f1ea365eda11d93b6b5ec0f8fd6a9186e1812",
+     "units": 41
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-20-740",
+   "short": "20 ILCS 740",
+   "title": "Job Training Assistance and Support Services Pilot Program Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%200740/",
+   "versions": [
+    {
+     "from": "2023-01-01",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%200740/",
+     "sha256": "e1935469ceeb28e604b74cf40da7f604ac7ee7ece338981e534745fdc2460121",
+     "units": 7
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-20-825",
+   "short": "20 ILCS 825",
+   "title": "Forest Land Exchange Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%200825/",
+   "versions": [
+    {
+     "from": "1996-02-07",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%200825/",
+     "sha256": "b105fe7f2e413a1139208291db28f26c2a6bf697da700ecd55cf575e6d1e38f5",
+     "units": 3
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-20-830",
+   "short": "20 ILCS 830",
+   "title": "Interagency Wetland Policy Act of 1989",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%200830/",
+   "versions": [
+    {
+     "from": "2018-08-03",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%200830/",
+     "sha256": "55e08cc6746073c0ad3e2c4b53f6b84381956ae6e02ede05cc22e3f3de0cd324",
+     "units": 20
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-20-850",
+   "short": "20 ILCS 850",
+   "title": "Illinois and Michigan Canal State Park Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%200850/",
+   "versions": [
+    {
+     "from": "1996-02-07",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%200850/",
+     "sha256": "22f8cc5c615bc0af20ea3aa2ba4a7a53003b61ef07c94d34bffd187f037389db",
+     "units": 6
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-20-861",
+   "short": "20 ILCS 861",
+   "title": "Department of Natural Resources World Shooting and Recreational Complex Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%200861/",
+   "versions": [
+    {
+     "from": "2026-08-21",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%200861/",
+     "sha256": "20d63ae42b2f204aa80b47f08f3e646160e980bbdb137c50c9e22146f640d653",
+     "units": 13
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-20-862",
+   "short": "20 ILCS 862",
+   "title": "Recreational Trails of Illinois Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%200862/",
+   "versions": [
+    {
+     "from": "2022-01-01",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%200862/",
+     "sha256": "1bf5a457d3837ddff51cb41aafc7623613688f7546a4ef7cfbca8e5eb9d59ef1",
+     "units": 25
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-20-863",
+   "short": "20 ILCS 863",
+   "title": "Prairie Wind Trail Property Transfer Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%200863/",
+   "versions": [
+    {
+     "from": "2018-08-03",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%200863/",
+     "sha256": "07de2dd1ff46896c0dad47151b433fcb9a47c887dd1b080e7f4b657c50033cb7",
+     "units": 9
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-20-865",
+   "short": "20 ILCS 865",
+   "title": "Kaskaskia River Watershed Operation and Maintenance Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%200865/",
+   "versions": [
+    {
+     "from": "1996-02-07",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%200865/",
+     "sha256": "2b74aa469d886962c57a4a2edf2901d2c7273f1f25dc15c1097c56708958cf12",
+     "units": 3
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-20-875",
+   "short": "20 ILCS 875",
+   "title": "Firearms Training Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%200875/",
+   "versions": [
+    {
+     "from": "1996-02-07",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%200875/",
+     "sha256": "b38633ee64efe495ddf8bcee5f349a6f19eb6869b4fd61ce015ddeed3a2f1c99",
+     "units": 5
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-20-882",
+   "short": "20 ILCS 882",
+   "title": "Natural Resources Restoration Trust Fund Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%200882/",
+   "versions": [
+    {
+     "from": "2014-08-19",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%200882/",
+     "sha256": "6d72bf9a96bd1774e167a937dd8896536e3d050c3c6cf461e56c44faa32d65bd",
+     "units": 6
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-20-896",
+   "short": "20 ILCS 896",
+   "title": "Lake Michigan Wind Energy Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%200896/",
+   "versions": [
+    {
+     "from": "2025-11-21",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%200896/",
+     "sha256": "71f7c703e64939c2b668131e1f6ae48d85350095a60bab099f6b25c7e935a8e0",
+     "units": 13
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-20-1015",
+   "short": "20 ILCS 1015",
+   "title": "Public Employment Office Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%201015/",
+   "versions": [
+    {
+     "from": "2020-01-01",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%201015/",
+     "sha256": "044383d6983884bb9ebe5f2e72951a0bb256f3987bbb30a0187eefd8dc7ba4f1",
+     "units": 19
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-20-1108",
+   "short": "20 ILCS 1108",
+   "title": "Clean Coal FutureGen for Illinois Act of 2011",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%201108/",
+   "versions": [
+    {
+     "from": "2011-10-26",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%201108/",
+     "sha256": "952e15de46835a88a288432cdd53abccbe4a3d76095837b24fef80e08735b2e9",
+     "units": 24
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-20-1110",
+   "short": "20 ILCS 1110",
+   "title": "Illinois Coal and Energy Development Bond Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%201110/",
+   "versions": [
+    {
+     "from": "2022-06-10",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%201110/",
+     "sha256": "08f2d3227f8b02a00eb327ded1c81d3624d26f6eba2da1179b18a962ec9c8b94",
+     "units": 20
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-20-1115",
+   "short": "20 ILCS 1115",
+   "title": "Energy Conservation Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%201115/",
+   "versions": [
+    {
+     "from": "2021-08-20",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%201115/",
+     "sha256": "109bacbfc4a9a8069903188401cb4e0ea54abdc24b5db2ae972da470d5ccd74a",
+     "units": 6
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-20-1130",
+   "short": "20 ILCS 1130",
+   "title": "Hazardous Waste Technology Exchange Service Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%201130/",
+   "versions": [
+    {
+     "from": "2013-08-14",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%201130/",
+     "sha256": "ee70d421fbd7551123ff332fac7d43ba13661657d6c43e2436f9e9e0b506623f",
+     "units": 7
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-20-1205",
+   "short": "20 ILCS 1205",
+   "title": "Financial Institutions Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%201205/",
+   "versions": [
+    {
+     "from": "2026-08-21",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%201205/",
+     "sha256": "866793ec07f61c3e54d4e88684ecfe6383f075dbf8641f78190e922249af8e36",
+     "units": 23
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-20-1310",
+   "short": "20 ILCS 1310",
+   "title": "Domestic Violence Shelters Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%201310/",
+   "versions": [
+    {
+     "from": "2026-06-16",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%201310/",
+     "sha256": "22e04a063d9608135c5b39a78252a5f91ea055bc864cb82d4b893cd0caf75383",
+     "units": 8
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-20-1320",
+   "short": "20 ILCS 1320",
+   "title": "Assistive Technology Evaluation and Training Centers Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%201320/",
+   "versions": [
+    {
+     "from": "1998-01-01",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%201320/",
+     "sha256": "f34843e5ea675f93071ade0412238d4aee7dff7dc4ea044015cd7d3df855a577",
+     "units": 7
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-20-1335",
+   "short": "20 ILCS 1335",
+   "title": "2-1-1 Service Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%201335/",
+   "versions": [
+    {
+     "from": "2026-08-21",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%201335/",
+     "sha256": "59c747f76b39c704fbf0f4ddb2d82023bf64d232558c6bc9c0bde15289f50e3e",
+     "units": 17
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-20-1405",
+   "short": "20 ILCS 1405",
+   "title": "Department of Insurance Law of the Civil Administrative Code of Illinois",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%201405/",
+   "versions": [
+    {
+     "from": "2025-08-15",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%201405/",
+     "sha256": "0257f48ff5499d0e05df72e781db1649b662048b36aaf01d307b1bdcec383a99",
+     "units": 15
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-20-1410",
+   "short": "20 ILCS 1410",
+   "title": "Burn Victims Relief Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%201410/",
+   "versions": [
+    {
+     "from": "2019-07-01",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%201410/",
+     "sha256": "e258a0360a74c539ff3a9ce67f14702cbf417830d3bee4d8f3a26abbe041b71f",
+     "units": 10
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-20-1505",
+   "short": "20 ILCS 1505",
+   "title": "Department of Labor Law of the Civil Administrative Code of Illinois",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%201505/",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%201505/",
+     "sha256": "ed87492bac116c469b89daded69549b96221733806ff5193a56b529aee2cf23a",
+     "units": 24
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-20-1710",
+   "short": "20 ILCS 1710",
+   "title": "Department of Human Services (Mental Health and Developmental Disabilities",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%201710/",
+   "versions": [
+    {
+     "from": "2026-06-16",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%201710/",
+     "sha256": "7c0dd296b7f8ddc432c707b84358b618cdb90f3727dd1b2474319cdc68a765cd",
+     "units": 13
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-20-1807",
+   "short": "20 ILCS 1807",
+   "title": "Illinois Code of Military Justice",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%201807/",
+   "versions": [
+    {
+     "from": "2025-08-01",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%201807/",
+     "sha256": "5520e71749f17621df9b3bf5f0108c915767b409a22811757fdf25121c6e4cc4",
+     "units": 211
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-20-1810",
+   "short": "20 ILCS 1810",
+   "title": "Military Property Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%201810/",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%201810/",
+     "sha256": "9f7ab162ac34489671083f30218846ccaa17a9c07b3774861b9652dcf4713bbf",
+     "units": 4
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-20-1815",
+   "short": "20 ILCS 1815",
+   "title": "Illinois State Guard Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%201815/",
+   "versions": [
+    {
+     "from": "2018-08-22",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%201815/",
+     "sha256": "846b2b6235da634444ad55d8f8271e37d9f864115aeef295a36cc63c26c8cb9f",
+     "units": 19
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-20-1825",
+   "short": "20 ILCS 1825",
+   "title": "Illinois National Guardsman's Compensation Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%201825/",
+   "versions": [
+    {
+     "from": "2006-06-08",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%201825/",
+     "sha256": "81eb795871a812c385d4317b67937b764983ea7af6544431d3bd778c4e66102b",
+     "units": 6
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-20-1905",
+   "short": "20 ILCS 1905",
+   "title": "Department of Natural Resources (Mines and Minerals",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%201905/",
+   "versions": [
+    {
+     "from": "2021-08-20",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%201905/",
+     "sha256": "2c3083238775e6cc4d6f9343d91e678abe77ae4e08beed12b0b60dc57a5586cb",
+     "units": 21
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-20-1910",
+   "short": "20 ILCS 1910",
+   "title": "Coal Products Commission Transfer Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%201910/",
+   "versions": [
+    {
+     "from": "1996-02-07",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%201910/",
+     "sha256": "b3cfb7c41a21207fafeae0f42cfba9273c44f7291ec16bcdcc871c9881aad8c5",
+     "units": 3
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-20-1915",
+   "short": "20 ILCS 1915",
+   "title": "Surface Coal Mining Fee Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%201915/",
+   "versions": [
+    {
+     "from": "1999-07-29",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%201915/",
+     "sha256": "ab3f88b6f02fb8dd2c5d5d60603e06f3c0f16f6e4fae0b7fcd3172c6d021342c",
+     "units": 4
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-20-1920",
+   "short": "20 ILCS 1920",
+   "title": "Abandoned Mined Lands and Water Reclamation Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%201920/",
+   "versions": [
+    {
+     "from": "2019-01-01",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%201920/",
+     "sha256": "913e43a5da0af1d7c387cb84f41a350c2f439028bbe401299bbeb9509d0727d1",
+     "units": 31
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-20-2215",
+   "short": "20 ILCS 2215",
+   "title": "Illinois Health Finance Reform Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%202215/",
+   "versions": [
+    {
+     "from": "2021-04-27",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%202215/",
+     "sha256": "5af8d75bc6dfdf90f5cb661c79063522478274c1666247a8b6bc1502b3933884",
+     "units": 20
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-20-2230",
+   "short": "20 ILCS 2230",
+   "title": "Health Care Affordability Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%202230/",
+   "versions": [
+    {
+     "from": "2020-07-07",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%202230/",
+     "sha256": "a0d200f10ad5a0b40e3dae3a7ed52b6a4343f2d09d6b82a580b078ff9bf43c64",
+     "units": 19
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-20-2320",
+   "short": "20 ILCS 2320",
+   "title": "Health Access Network Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%202320/",
+   "versions": [
+    {
+     "from": "2007-10-11",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%202320/",
+     "sha256": "115ec445ab98cf4d68b5d221c3583c34f8a5e35e47925ce27322227aedcbfa9d",
+     "units": 9
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-20-2407",
+   "short": "20 ILCS 2407",
+   "title": "Disabilities Services Act of 2003",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%202407/",
+   "versions": [
+    {
+     "from": "2025-11-21",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%202407/",
+     "sha256": "35696d1d89a9418d922f2b09d9a7d6597f12314a63732f7a404c3e8c24edc03a",
+     "units": 16
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-20-2415",
+   "short": "20 ILCS 2415",
+   "title": "Civil Administrative Code of Illinois",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%202415/",
+   "versions": [
+    {
+     "from": "1994-07-01",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%202415/",
+     "sha256": "d9e1501d758970ac17b78843dd8490b152e955050b17aa92882357eb44781aec",
+     "units": 2
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-20-2510",
+   "short": "20 ILCS 2510",
+   "title": "Certified Audit Program Law of the Civil Administrative Code of Illinois",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%202510/",
+   "versions": [
+    {
+     "from": "2001-08-21",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%202510/",
+     "sha256": "cd724e7aafa3cea4f853d5f7653c318f34268b788543c082b447b70dc2dfea3e",
+     "units": 10
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-20-2620",
+   "short": "20 ILCS 2620",
+   "title": "Narcotic Control Division Abolition Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%202620/",
+   "versions": [
+    {
+     "from": "2024-07-01",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%202620/",
+     "sha256": "1c74881dee887f8dc9ff3768d82cb900405dac513b3f865a95ccc768bd82d0d1",
+     "units": 11
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-20-2625",
+   "short": "20 ILCS 2625",
+   "title": "Volunteer Firefighting Rescue Unit Use Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%202625/",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%202625/",
+     "sha256": "78b77fe8cdbd9dc456dd88121015186b01bcbba62da392c541e6818ab4f7519f",
+     "units": 6
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-20-2910",
+   "short": "20 ILCS 2910",
+   "title": "Peace Officer Fire Investigation Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%202910/",
+   "versions": [
+    {
+     "from": "2023-07-01",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%202910/",
+     "sha256": "daebca7a245a1c7c8a42c52f0b1042ba08a8560c2e572d6b3cd109f2a8049faf",
+     "units": 3
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-20-3020",
+   "short": "20 ILCS 3020",
+   "title": "Capital Spending Accountability Law",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%203020/",
+   "versions": [
+    {
+     "from": "2021-08-06",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%203020/",
+     "sha256": "6515f0cf2d7604fc7aaae11cf2dea21bce8e17b520886f5aa1b3869aeda47a21",
+     "units": 8
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-20-3105",
+   "short": "20 ILCS 3105",
+   "title": "Capital Development Board Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%203105/",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%203105/",
+     "sha256": "cdaa59f157ab18664773d4745eeb2748a02224d6d20f7061b5fa176e53d5d057",
+     "units": 92
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-20-3120",
+   "short": "20 ILCS 3120",
+   "title": "Asbestos Abatement Authority Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%203120/",
+   "versions": [
+    {
+     "from": "2004-08-12",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%203120/",
+     "sha256": "3b744035987bd76c5d2e5fe4f055f46c489841bccfb513536c6db2835d460aa4",
+     "units": 7
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-20-3130",
+   "short": "20 ILCS 3130",
+   "title": "Green Buildings Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%203130/",
+   "versions": [
+    {
+     "from": "2018-08-03",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%203130/",
+     "sha256": "2e99fac5f4fab7318d11463c9e52db8e9279835f89d045c701d37525f3490cb5",
+     "units": 6
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-20-3135",
+   "short": "20 ILCS 3135",
+   "title": "Mechanical Insulation Energy and Safety Assessment Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%203135/",
+   "versions": [
+    {
+     "from": "2024-01-01",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%203135/",
+     "sha256": "40e9a3bbe99711a8096086164da3f13611585cba5c1d632277901f099ca11ac1",
+     "units": 91
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-20-3205",
+   "short": "20 ILCS 3205",
+   "title": "Division of Banking Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%203205/",
+   "versions": [
+    {
+     "from": "2024-03-22",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%203205/",
+     "sha256": "ec1319b70c54779939eaa7cd69c3dbf803f7f4b1143f55678e7085459ee381c5",
+     "units": 25
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-20-3405",
+   "short": "20 ILCS 3405",
+   "title": "Historic Preservation Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%203405/",
+   "versions": [
+    {
+     "from": "2025-08-15",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%203405/",
+     "sha256": "93458e53cd852d6c72ee32fbe47107eb3d900a265276bfa705ca770e9f720726",
+     "units": 34
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-20-3407",
+   "short": "20 ILCS 3407",
+   "title": "Reimagining Hotel Florence Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%203407/",
+   "versions": [
+    {
+     "from": "2025-01-01",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%203407/",
+     "sha256": "3d87a51f4d68a98bebfb8e8649d1c861c6a4ba8af63ac871eb8874a3e6217ea2",
+     "units": 35
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-20-3435",
+   "short": "20 ILCS 3435",
+   "title": "Archaeological and Paleontological Resources Protection Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%203435/",
+   "versions": [
+    {
+     "from": "2024-07-01",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%203435/",
+     "sha256": "5ad6d1017f3bd9d52fe508736934243572c9a1d4c98113492230edad83c12486",
+     "units": 18
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-20-3440",
+   "short": "20 ILCS 3440",
+   "title": "Human Remains Protection Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%203440/",
+   "versions": [
+    {
+     "from": "2024-07-01",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%203440/",
+     "sha256": "43c317c1e30c9c31f84240eb10ed7e99fc4fb977be768c6109e61bd88672071a",
+     "units": 24
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-20-3475",
+   "short": "20 ILCS 3475",
+   "title": "Abraham Lincoln Presidential Library and Museum Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%203475/",
+   "versions": [
+    {
+     "from": "2025-06-16",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%203475/",
+     "sha256": "1436593ae8843f4a5d31c5e375e891118d640769a2e012537236d1bb18fd6a4e",
+     "units": 25
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-20-3510",
+   "short": "20 ILCS 3510",
+   "title": "Asbestos Abatement Finance Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%203510/",
+   "versions": [
+    {
+     "from": "2026-07-01",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%203510/",
+     "sha256": "a824da686edeb6d0d76b9a7df5c556785b6cdba026950a85b1d5061e3b17ca89",
+     "units": 12
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-20-3515",
+   "short": "20 ILCS 3515",
+   "title": "Illinois Environmental Facilities Financing Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%203515/",
+   "versions": [
+    {
+     "from": "2018-12-10",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%203515/",
+     "sha256": "f5a956dfa0c1e4a9fbc71ac809a9afde640dac73e0f52d2b0ad1cd3dfa427342",
+     "units": 19
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-20-3929",
+   "short": "20 ILCS 3929",
+   "title": "Capital Punishment Reform Study Committee Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%203929/",
+   "versions": [
+    {
+     "from": "2008-08-22",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%203929/",
+     "sha256": "f24bbb733f5e496414751c7630ffe2d68f3d1771560a508ebaabcda9498a6cda",
+     "units": 12
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-20-3966",
+   "short": "20 ILCS 3966",
+   "title": "Illinois Business Regulatory Review Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%203966/",
+   "versions": [
+    {
+     "from": "2006-05-19",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%203966/",
+     "sha256": "311ed5e5d1b97923932ddb8ea1913d1907b09d098043a51e8ae44b1a500cab8e",
+     "units": 19
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-20-3975",
+   "short": "20 ILCS 3975",
+   "title": "Illinois Workforce Innovation Board Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%203975/",
+   "versions": [
+    {
+     "from": "2025-08-15",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%203975/",
+     "sha256": "699d10832e8682705d6050b892627fbb530c0f18f1902593e2454edb02f799c4",
+     "units": 13
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-20-3980",
+   "short": "20 ILCS 3980",
+   "title": "Laboratory Review Board Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%203980/",
+   "versions": [
+    {
+     "from": "2021-08-20",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%203980/",
+     "sha256": "1030052a8c3126d250a60d1344bbfdd43a1e46baad7faf08ae2cc6c4b612c226",
+     "units": 5
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-20-3983",
+   "short": "20 ILCS 3983",
+   "title": "Illinois Latino Family Commission Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%203983/",
+   "versions": [
+    {
+     "from": "2022-01-01",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%203983/",
+     "sha256": "c4aad3bfd3a41b831d46f459cfeaa7cb0b54f5da069931791d0a83522baab2dd",
+     "units": 10
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-20-3985",
+   "short": "20 ILCS 3985",
+   "title": "Law Enforcement and Fire Fighting Medal of Honor Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%203985/",
+   "versions": [
+    {
+     "from": "2024-01-01",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%203985/",
+     "sha256": "19be43ab22c4c2609d879b156389b66d832722b19a5944c26a176ad474c20356",
+     "units": 13
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-20-3990",
+   "short": "20 ILCS 3990",
+   "title": "Illinois Manufacturing Technology Alliance Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%203990/",
+   "versions": [
+    {
+     "from": "2006-05-19",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%203990/",
+     "sha256": "a1ada245f96b8a861b81473e09ebfcb77a3c07df060ff3a60c3f7be5f050f289",
+     "units": 16
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-20-4000",
+   "short": "20 ILCS 4000",
+   "title": "Minority Males Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%204000/",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%204000/",
+     "sha256": "1f283e61466b30f9300e1b06429044e0f1076270912853088288a39659f69e6a",
+     "units": 7
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-20-4005",
+   "short": "20 ILCS 4005",
+   "title": "Illinois Vehicle Hijacking and Motor Vehicle Theft Prevention and Insurance Verification Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%204005/",
+   "versions": [
+    {
+     "from": "2025-06-16",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%204005/",
+     "sha256": "2a5467f84bcf07ca624a3c14a809d659550d4f3bece0be34413a465e1e13e947",
+     "units": 15
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-20-4010",
+   "short": "20 ILCS 4010",
+   "title": "Illinois Council on Developmental Disabilities Law",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%204010/",
+   "versions": [
+    {
+     "from": "2022-04-19",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%204010/",
+     "sha256": "808ea5f29e748376b1f4d67df9cc595515e7487253364f52616a62e2c3aa6a58",
+     "units": 9
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-20-4026",
+   "short": "20 ILCS 4026",
+   "title": "Sex Offender Management Board Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%204026/",
+   "versions": [
+    {
+     "from": "2026-08-21",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%204026/",
+     "sha256": "b157ee11eea3c8fd45077972fbe0d9fb2798d8956054686e99dc2da803ce882f",
+     "units": 12
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-20-4030",
+   "short": "20 ILCS 4030",
+   "title": "World's Fair Commission (1976",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%204030/",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%204030/",
+     "sha256": "4516bf0ff5d7d41c7bab8d86e38efd7f144179d8be86a4950dd69066abc41a96",
+     "units": 8
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-20-4070",
+   "short": "20 ILCS 4070",
+   "title": "Commission on Discrimination and Hate Crimes Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%204070/",
+   "versions": [
+    {
+     "from": "2007-08-24",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%204070/",
+     "sha256": "5605e69619ea30da97fdce3cda1b4c26e16d57eb7c76a58b8fe88319bf82240e",
+     "units": 9
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-20-4075",
+   "short": "20 ILCS 4075",
+   "title": "Commission on Children and Youth Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%204075/",
+   "versions": [
+    {
+     "from": "2008-08-05",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%204075/",
+     "sha256": "ae51238259002fb4433fb8e89918f0348ec3f1c74ea542bb578c2661ab80bef9",
+     "units": 10
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-20-4102",
+   "short": "20 ILCS 4102",
+   "title": "High-Speed Railway Commission Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%204102/",
+   "versions": [
+    {
+     "from": "2026-07-24",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%204102/",
+     "sha256": "648ab62bb91f8e97ffd89efb4a4c860509a5afb4b19550f07c863acbfb188ebc",
+     "units": 7
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-20-4104",
+   "short": "20 ILCS 4104",
+   "title": "Advisory Commission on Reducing the Disproportionate Representation of African-American Children in Foster Care Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%204104/",
+   "versions": [
+    {
+     "from": "2024-01-01",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%204104/",
+     "sha256": "8e16fb8dab70a5ee8dec191f24febee65255bde66eaa87d679a62e607f383c1a",
+     "units": 7
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-20-4114",
+   "short": "20 ILCS 4114",
+   "title": "Illinois America 250 Commission Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%204114/",
+   "versions": [
+    {
+     "from": "2022-05-27",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%204114/",
+     "sha256": "1d024dcd6f06ab70485901aa15aa7610f74df2f567dfde3cbf9ce824e8eaf1b2",
+     "units": 12
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-20-4117",
+   "short": "20 ILCS 4117",
+   "title": "Rivers of Illinois Coordinating Council Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%204117/",
+   "versions": [
+    {
+     "from": "2023-01-01",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%204117/",
+     "sha256": "913e1bfa782d45347878d4758b2f305d51983627463fc2d6013e28e3f54897f7",
+     "units": 10
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-20-4132",
+   "short": "20 ILCS 4132",
+   "title": "Water Plan Task Force Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%204132/",
+   "versions": [
+    {
+     "from": "2025-08-15",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%204132/",
+     "sha256": "e15b9413ba4c9e4c54d96dc4889c4a850760df6d6006a4ec8de143b574fb77b1",
+     "units": 4
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-20-4135",
+   "short": "20 ILCS 4135",
+   "title": "Farmland Transition Commission Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%204135/",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%204135/",
+     "sha256": "38b526fdaac01d3f3deceb2b0d45d546431c6d5d5ac7f385d7044712e9998472",
+     "units": 3
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-20-4136",
+   "short": "20 ILCS 4136",
+   "title": "Commission on Youth Sports Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%204136/",
+   "versions": [
+    {
+     "from": "2025-08-15",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%204136/",
+     "sha256": "1fc7ff2d29b6a62a2396dc234c347e786b9a579ac2be35ea1bf87a1469b518c2",
+     "units": 8
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-20-4137",
+   "short": "20 ILCS 4137",
+   "title": "Health Care Workforce Task Force Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%204137/",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%204137/",
+     "sha256": "a61dd30f3fccaac588ccdbc9192d6c07ee8f79521374967a37b61728e092ce5d",
+     "units": 10
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-20-4138",
+   "short": "20 ILCS 4138",
+   "title": "Climate Displacement Task Force Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%204138/",
+   "versions": [
+    {
+     "from": "2026-07-24",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%204138/",
+     "sha256": "f3c6af65d96c965101435abeb26ce4565db668543d3f991d71fe6687004af3db",
+     "units": 8
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-20-5010",
+   "short": "20 ILCS 5010",
+   "title": "Illinois Holocaust and Genocide Commission Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%205010/",
+   "versions": [
+    {
+     "from": "2026-06-16",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%205010/",
+     "sha256": "acfe3ea357f4b61c2021a83acee74a64ad0001d09952f93a28df7d098ac1843b",
+     "units": 14
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-20-5025",
+   "short": "20 ILCS 5025",
+   "title": "Racial and Ethnic Impact Research Task Force Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%205025/",
+   "versions": [
+    {
+     "from": "2021-08-20",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%205025/",
+     "sha256": "10b42a09e11bf22c80ce55470a8b06b094ae5c5574dad54906cd46f97b7d5476",
+     "units": 7
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-20-5125",
+   "short": "20 ILCS 5125",
+   "title": "Illinois Route 66 Centennial Commission Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%205125/",
+   "versions": [
+    {
+     "from": "2019-07-12",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%205125/",
+     "sha256": "47230308c196b2470d4c2030fa09a207f70c529c5ab7991bbcf91c5cab15d5f3",
+     "units": 12
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-20-5130",
+   "short": "20 ILCS 5130",
+   "title": "Illinois Council on Women and Girls Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%205130/",
+   "versions": [
+    {
+     "from": "2026-08-07",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%205130/",
+     "sha256": "094c3d304ef6bd931fd102ae0043b8215aa6960dfe4d5e34743e5bf74a54118e",
+     "units": 10
+    }
+   ]
   }
  ]
 }
