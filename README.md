@@ -50,7 +50,7 @@ Current-text preparation uses the latest explicit effective date in the source a
 
 ## Static ILCS compilation additions, 30 October 2026
 
-497 additional complete indexed acts from the [Illinois General Assembly compilation](https://ftp.ilga.gov/ILCS/) are included. The compilation incorporates Public Acts through 104-854. The publisher states that these provisions have NOT been edited for publication and are NOT the official text; this copy should not be cited as official or authoritative. The only official copy is the printed copy maintained by the Secretary of State’s office.
+514 additional complete indexed acts from the [Illinois General Assembly compilation](https://ftp.ilga.gov/ILCS/) are included. The compilation incorporates Public Acts through 104-854. The publisher states that these provisions have NOT been edited for publication and are NOT the official text; this copy should not be cited as official or authoritative. The only official copy is the printed copy maintained by the Secretary of State’s office.
 
 Each addition retains all sections, act-title documents and article headings in the publisher’s Section Sequence. Dates use the latest explicit amendment effective date in the source, otherwise the compilation’s own update date, 2026-10-30. This date fallback does not claim a commencement date the source does not identify. Future-effective text and normative images are held. Existing records retain their historical dates and text; their inclusion above does not establish equality with this static compilation. Public Acts, administrative rules and earlier wording are not added.
 
@@ -553,3 +553,20 @@ Each addition retains all sections, act-title documents and article headings in 
 | [Railroad Mooring Act (610 ILCS 100)](https://ftp.ilga.gov/ILCS/Ch%200610/Act%200100/) | 4 | 2026-10-30 |
 | [Railroad Employees Medical Treatment Act (610 ILCS 107)](https://ftp.ilga.gov/ILCS/Ch%200610/Act%200107/) | 3 | 2006-01-01 |
 | [Elevated Railroad Approval Act (610 ILCS 130)](https://ftp.ilga.gov/ILCS/Ch%200610/Act%200130/) | 3 | 2026-10-30 |
+| [Illinois Waterway Act (615 ILCS 10)](https://ftp.ilga.gov/ILCS/Ch%200615/Act%200010/) | 24 | 2007-01-01 |
+| [Flood Control Act of 1945 (615 ILCS 15)](https://ftp.ilga.gov/ILCS/Ch%200615/Act%200015/) | 11 | 2021-01-01 |
+| [Navigable Waters Obstruction Act (615 ILCS 20)](https://ftp.ilga.gov/ILCS/Ch%200615/Act%200020/) | 6 | 1999-07-29 |
+| [Illinois and Michigan Canal Management Act (615 ILCS 30)](https://ftp.ilga.gov/ILCS/Ch%200615/Act%200030/) | 21 | 2007-01-01 |
+| [Illinois and Michigan Canal Protection Act (615 ILCS 35)](https://ftp.ilga.gov/ILCS/Ch%200615/Act%200035/) | 7 | 1996-02-07 |
+| [Illinois and Michigan Canal Land Use Act (615 ILCS 40)](https://ftp.ilga.gov/ILCS/Ch%200615/Act%200040/) | 3 | 1996-02-07 |
+| [Illinois and Michigan Canal Development Act (615 ILCS 45)](https://ftp.ilga.gov/ILCS/Ch%200615/Act%200045/) | 15 | 2023-01-01 |
+| [Lake Michigan Shore Line Act (615 ILCS 55)](https://ftp.ilga.gov/ILCS/Ch%200615/Act%200055/) | 7 | 1996-02-07 |
+| [Lake Calumet Harbor Act (615 ILCS 65)](https://ftp.ilga.gov/ILCS/Ch%200615/Act%200065/) | 6 | 1996-02-07 |
+| [Kaskaskia River Watershed and Basin Act (615 ILCS 75)](https://ftp.ilga.gov/ILCS/Ch%200615/Act%200075/) | 2 | 2001-08-02 |
+| [Big Kinkaid Creek Reservoir Act (615 ILCS 80)](https://ftp.ilga.gov/ILCS/Ch%200615/Act%200080/) | 2 | 1996-02-07 |
+| [Blue Waters Ditch Flood Control Act (615 ILCS 85)](https://ftp.ilga.gov/ILCS/Ch%200615/Act%200085/) | 5 | 1996-02-07 |
+| [Fox Waterway Agency Act (615 ILCS 90)](https://ftp.ilga.gov/ILCS/Ch%200615/Act%200090/) | 26 | 2025-01-01 |
+| [Vermilion River Middle Fork Act (615 ILCS 95)](https://ftp.ilga.gov/ILCS/Ch%200615/Act%200095/) | 6 | 1996-02-07 |
+| [McHenry County Dam Act (615 ILCS 100)](https://ftp.ilga.gov/ILCS/Ch%200615/Act%200100/) | 5 | 1996-02-07 |
+| [Hennepin Canal Parkway State Park Act (615 ILCS 105)](https://ftp.ilga.gov/ILCS/Ch%200615/Act%200105/) | 6 | 1997-07-01 |
+| [Kankakee River Dam Transfer Act (615 ILCS 110)](https://ftp.ilga.gov/ILCS/Ch%200615/Act%200110/) | 4 | 2013-08-09 |

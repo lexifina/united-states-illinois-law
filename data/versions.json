@@ -44234,6 +44234,244 @@
      "units": 4
     }
    ]
+  },
+  {
+   "slug": "ilcs-615-10",
+   "short": "615 ILCS 10",
+   "title": "Illinois Waterway Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200615/Act%200010/",
+   "versions": [
+    {
+     "from": "2007-01-01",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200615/Act%200010/",
+     "sha256": "7f91904ef8c3b0f7fba6494fa98989068ec20015909f1f88dd90839f90bced0d",
+     "units": 25
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-615-15",
+   "short": "615 ILCS 15",
+   "title": "Flood Control Act of 1945",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200615/Act%200015/",
+   "versions": [
+    {
+     "from": "2021-01-01",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200615/Act%200015/",
+     "sha256": "f91c102ac4d6f8164675f23b5391d193384a3915698d7b32fd17aaada38e3b87",
+     "units": 12
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-615-20",
+   "short": "615 ILCS 20",
+   "title": "Navigable Waters Obstruction Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200615/Act%200020/",
+   "versions": [
+    {
+     "from": "1999-07-29",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200615/Act%200020/",
+     "sha256": "d65a78349f927f0fb4bbe02ab44c06ed493df1aaaa8d819de1d7f937ff3269a7",
+     "units": 7
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-615-30",
+   "short": "615 ILCS 30",
+   "title": "Illinois and Michigan Canal Management Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200615/Act%200030/",
+   "versions": [
+    {
+     "from": "2007-01-01",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200615/Act%200030/",
+     "sha256": "9cd770d19de8d08f987caf47aab49947f7349515b33e564528fc6e98c460eaba",
+     "units": 22
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-615-35",
+   "short": "615 ILCS 35",
+   "title": "Illinois and Michigan Canal Protection Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200615/Act%200035/",
+   "versions": [
+    {
+     "from": "1996-02-07",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200615/Act%200035/",
+     "sha256": "7069a0bf7c346fe2bacfb58c347e6b8f56970ed2c7976065f975f269db78a4d4",
+     "units": 8
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-615-40",
+   "short": "615 ILCS 40",
+   "title": "Illinois and Michigan Canal Land Use Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200615/Act%200040/",
+   "versions": [
+    {
+     "from": "1996-02-07",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200615/Act%200040/",
+     "sha256": "0d00b020e176eb01c1ea6c8e12891bd87f5b5f5fa2029fbf7506ef4cf100ab9a",
+     "units": 4
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-615-45",
+   "short": "615 ILCS 45",
+   "title": "Illinois and Michigan Canal Development Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200615/Act%200045/",
+   "versions": [
+    {
+     "from": "2023-01-01",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200615/Act%200045/",
+     "sha256": "405e5c61e2dde6574c351d7ce14244c80446166d3317cce15dd8b1495233379d",
+     "units": 16
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-615-55",
+   "short": "615 ILCS 55",
+   "title": "Lake Michigan Shore Line Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200615/Act%200055/",
+   "versions": [
+    {
+     "from": "1996-02-07",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200615/Act%200055/",
+     "sha256": "ceb5c4560e6525833f98cec50fff67677ae5d3b27aed10854d5569d37f6db00a",
+     "units": 8
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-615-65",
+   "short": "615 ILCS 65",
+   "title": "Lake Calumet Harbor Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200615/Act%200065/",
+   "versions": [
+    {
+     "from": "1996-02-07",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200615/Act%200065/",
+     "sha256": "831c3a6c1a3ac6ed9399cda5865591a53588991df6a00feb46f872c37cc518bf",
+     "units": 7
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-615-75",
+   "short": "615 ILCS 75",
+   "title": "Kaskaskia River Watershed and Basin Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200615/Act%200075/",
+   "versions": [
+    {
+     "from": "2001-08-02",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200615/Act%200075/",
+     "sha256": "685249a6b4867b1ebe6674a523d1d4ac33054ee6588ec3a02a0fa39696c92bb8",
+     "units": 3
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-615-80",
+   "short": "615 ILCS 80",
+   "title": "Big Kinkaid Creek Reservoir Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200615/Act%200080/",
+   "versions": [
+    {
+     "from": "1996-02-07",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200615/Act%200080/",
+     "sha256": "07911af34f7c19ba0cf09bc2244bed576441eb8e53b2173acf9ea3fe5e8cdf96",
+     "units": 3
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-615-85",
+   "short": "615 ILCS 85",
+   "title": "Blue Waters Ditch Flood Control Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200615/Act%200085/",
+   "versions": [
+    {
+     "from": "1996-02-07",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200615/Act%200085/",
+     "sha256": "bbc4ef96c3be86f4e6d61d77d7dcb8758b0e05d5cb4d9bc4411a8735f06c2eb4",
+     "units": 6
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-615-90",
+   "short": "615 ILCS 90",
+   "title": "Fox Waterway Agency Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200615/Act%200090/",
+   "versions": [
+    {
+     "from": "2025-01-01",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200615/Act%200090/",
+     "sha256": "3ecbed6d0c8bdc4393524a7f6f474955b8a4bdb3539332f9430ab01960fe0a01",
+     "units": 27
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-615-95",
+   "short": "615 ILCS 95",
+   "title": "Vermilion River Middle Fork Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200615/Act%200095/",
+   "versions": [
+    {
+     "from": "1996-02-07",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200615/Act%200095/",
+     "sha256": "05a6cde6f81272a0f5d0b09a680c78a04c3a987af286a24afd98799bcc8cce2e",
+     "units": 7
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-615-100",
+   "short": "615 ILCS 100",
+   "title": "McHenry County Dam Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200615/Act%200100/",
+   "versions": [
+    {
+     "from": "1996-02-07",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200615/Act%200100/",
+     "sha256": "4f7dc435f9db8f6963e53663adebfac40cc54a717ef2404d103c97310a0a7b08",
+     "units": 6
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-615-105",
+   "short": "615 ILCS 105",
+   "title": "Hennepin Canal Parkway State Park Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200615/Act%200105/",
+   "versions": [
+    {
+     "from": "1997-07-01",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200615/Act%200105/",
+     "sha256": "f7dabe5a2c1a1279778e84e417f1ac774b440e3c2d3b58fa3c0a2853ac466e65",
+     "units": 7
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-615-110",
+   "short": "615 ILCS 110",
+   "title": "Kankakee River Dam Transfer Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200615/Act%200110/",
+   "versions": [
+    {
+     "from": "2013-08-09",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200615/Act%200110/",
+     "sha256": "9cb50ca53a3cba7ffb1469a0b1a207149ac5d6e0dd81f16f7196ad0d6cb7c044",
+     "units": 5
+    }
+   ]
   }
  ]
 }
