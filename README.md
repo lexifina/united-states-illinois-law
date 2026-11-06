@@ -50,7 +50,7 @@ Current-text preparation uses the latest explicit effective date in the source a
 
 ## Static ILCS compilation additions, 30 October 2026
 
-567 additional complete indexed acts from the [Illinois General Assembly compilation](https://ftp.ilga.gov/ILCS/) are included. The compilation incorporates Public Acts through 104-854. The publisher states that these provisions have NOT been edited for publication and are NOT the official text; this copy should not be cited as official or authoritative. The only official copy is the printed copy maintained by the Secretary of State’s office.
+569 additional complete indexed acts from the [Illinois General Assembly compilation](https://ftp.ilga.gov/ILCS/) are included. The compilation incorporates Public Acts through 104-854. The publisher states that these provisions have NOT been edited for publication and are NOT the official text; this copy should not be cited as official or authoritative. The only official copy is the printed copy maintained by the Secretary of State’s office.
 
 Each addition retains all sections, act-title documents and article headings in the publisher’s Section Sequence. Dates use the latest explicit amendment effective date in the source, otherwise the compilation’s own update date, 2026-10-30. This date fallback does not claim a commencement date the source does not identify. Future-effective text and normative images are held. Existing records retain their historical dates and text; their inclusion above does not establish equality with this static compilation. Public Acts, administrative rules and earlier wording are not added.
 
@@ -623,3 +623,5 @@ Each addition retains all sections, act-title documents and article headings in 
 | [Uniform Criminal Extradition Act (725 ILCS 225)](https://ftp.ilga.gov/ILCS/Ch%200725/Act%200225/) | 32 | 2023-01-13 |
 | [Uniform Rendition of Accused Persons Act (725 ILCS 230)](https://ftp.ilga.gov/ILCS/Ch%200725/Act%200230/) | 6 | 2026-10-30 |
 | [Witness Protection Act (725 ILCS 245)](https://ftp.ilga.gov/ILCS/Ch%200725/Act%200245/) | 4 | 2016-07-28 |
+| [Secure Residential Youth Care Facility Licensing Act (730 ILCS 175)](https://ftp.ilga.gov/ILCS/Ch%200730/Act%200175/) | 34 | 2015-07-29 |
+| [Equitable Access to Education, Employment, and Training for Incarcerated Individuals with Disabilities Act (730 ILCS 230)](https://ftp.ilga.gov/ILCS/Ch%200730/Act%200230/) | 9 | 2026-08-07 |

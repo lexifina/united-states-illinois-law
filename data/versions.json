@@ -45214,6 +45214,34 @@
      "units": 5
     }
    ]
+  },
+  {
+   "slug": "ilcs-730-175",
+   "short": "730 ILCS 175",
+   "title": "Secure Residential Youth Care Facility Licensing Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200730/Act%200175/",
+   "versions": [
+    {
+     "from": "2015-07-29",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200730/Act%200175/",
+     "sha256": "a68ca171640d8b3000b6db6c693206e020ed45f9d7ab36e3e3b6f24a2fa821de",
+     "units": 46
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-730-230",
+   "short": "730 ILCS 230",
+   "title": "Equitable Access to Education, Employment, and Training for Incarcerated Individuals with Disabilities Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200730/Act%200230/",
+   "versions": [
+    {
+     "from": "2026-08-07",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200730/Act%200230/",
+     "sha256": "cba069a1ba7983dacc5bb93d25bf75c05f411204f237ccba23607fd2f4296f65",
+     "units": 10
+    }
+   ]
   }
  ]
 }
