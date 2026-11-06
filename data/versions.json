@@ -41028,6 +41028,20 @@
      "units": 32
     }
    ]
+  },
+  {
+   "slug": "ilcs-55-45",
+   "short": "55 ILCS 45",
+   "title": "Fees and Salaries Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200055/Act%200045/",
+   "versions": [
+    {
+     "from": "1996-01-01",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200055/Act%200045/",
+     "sha256": "82beb4328d13f184362624fd5d0b64306825b38e72311707fd1c395c8d03773f",
+     "units": 11
+    }
+   ]
   }
  ]
 }

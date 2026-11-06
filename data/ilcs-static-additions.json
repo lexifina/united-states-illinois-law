@@ -25999,5 +25999,67 @@
     "sha256": "e7bf02a88a057fe2faef88f55f07b418e3cc9f810fa2c71d0fecbf23c38e89da"
    }
   ]
+ },
+ {
+  "slug": "ilcs-55-45",
+  "source_date": "1996-01-01",
+  "date_basis": "Publisher compilation updated 2026-10-30, through Public Act 104-854. In-force basis: latest explicit effective date in source amendment notes.",
+  "files": [
+   {
+    "path": "doc-0001-005500450f.md",
+    "source_url": "https://ftp.ilga.gov/ILCS/Ch%200055/Act%200045/005500450F.html",
+    "sha256": "8aa26d7990c9ea64d2360f006667e227a4c7ce7978eb3d690b1cae9813093d1d"
+   },
+   {
+    "path": "doc-0002-005500450k22.md",
+    "source_url": "https://ftp.ilga.gov/ILCS/Ch%200055/Act%200045/005500450K22.html",
+    "sha256": "55853ae9319e537bfe3ae34e7c9768b3d979fe013b6c410846d27994b7535d23"
+   },
+   {
+    "path": "doc-0003-005500450k27-1.md",
+    "source_url": "https://ftp.ilga.gov/ILCS/Ch%200055/Act%200045/005500450K27.1.html",
+    "sha256": "20bf0199b75de36bdb63288cf774b6605b5c2bb4ac338bcb2adc79fcfcb9e302"
+   },
+   {
+    "path": "doc-0004-005500450k35.md",
+    "source_url": "https://ftp.ilga.gov/ILCS/Ch%200055/Act%200045/005500450K35.html",
+    "sha256": "63dabd0266cc85a78e815c59ff1e299029421744886b996388cacce55e99e83b"
+   },
+   {
+    "path": "doc-0005-005500450k36.md",
+    "source_url": "https://ftp.ilga.gov/ILCS/Ch%200055/Act%200045/005500450K36.html",
+    "sha256": "1374af5e8192e719843b0c8c2487a0d2d475ed822b13ad635103d8f70aa3a9c3"
+   },
+   {
+    "path": "doc-0006-005500450k36-2.md",
+    "source_url": "https://ftp.ilga.gov/ILCS/Ch%200055/Act%200045/005500450K36.2.html",
+    "sha256": "19dd407ef3488b685defdd718fc41b91517898ae1c34345677955c5f4beca24b"
+   },
+   {
+    "path": "doc-0007-005500450k36-3.md",
+    "source_url": "https://ftp.ilga.gov/ILCS/Ch%200055/Act%200045/005500450K36.3.html",
+    "sha256": "d9c76e17c7c643a347c0599fe17c5353791e0beed4fa8b9b5c71f125c5950eab"
+   },
+   {
+    "path": "doc-0008-005500450k36-4.md",
+    "source_url": "https://ftp.ilga.gov/ILCS/Ch%200055/Act%200045/005500450K36.4.html",
+    "sha256": "ecc63f14f8f1ed3e4a4636da8602c1b920c09d3e32b666d96175d588d920a6e2"
+   },
+   {
+    "path": "doc-0009-005500450k36-6.md",
+    "source_url": "https://ftp.ilga.gov/ILCS/Ch%200055/Act%200045/005500450K36.6.html",
+    "sha256": "8b65d9b8fa4822a38fd30f8df8d55212a8165e7eab29d79d29e769b086cc2a4e"
+   },
+   {
+    "path": "doc-0010-005500450k38.md",
+    "source_url": "https://ftp.ilga.gov/ILCS/Ch%200055/Act%200045/005500450K38.html",
+    "sha256": "02b2f87a6dab369111b512aa01911aa70dd23095edf6a53d40e86af8cb5b87ad"
+   },
+   {
+    "path": "doc-0011-005500450k47.md",
+    "source_url": "https://ftp.ilga.gov/ILCS/Ch%200055/Act%200045/005500450K47.html",
+    "sha256": "b24de8f0374dc472c46694e7b020d21020d0cd7c7d63164a410beb2c2134f2af"
+   }
+  ]
  }
 ]

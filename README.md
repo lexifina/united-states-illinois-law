@@ -50,7 +50,7 @@ Current-text preparation uses the latest explicit effective date in the source a
 
 ## Static ILCS compilation additions, 30 October 2026
 
-268 additional complete indexed acts from the [Illinois General Assembly compilation](https://ftp.ilga.gov/ILCS/) are included. The compilation incorporates Public Acts through 104-854. The publisher states that these provisions have NOT been edited for publication and are NOT the official text; this copy should not be cited as official or authoritative. The only official copy is the printed copy maintained by the Secretary of State’s office.
+269 additional complete indexed acts from the [Illinois General Assembly compilation](https://ftp.ilga.gov/ILCS/) are included. The compilation incorporates Public Acts through 104-854. The publisher states that these provisions have NOT been edited for publication and are NOT the official text; this copy should not be cited as official or authoritative. The only official copy is the printed copy maintained by the Secretary of State’s office.
 
 Each addition retains all sections, act-title documents and article headings in the publisher’s Section Sequence. Dates use the latest explicit amendment effective date in the source, otherwise the compilation’s own update date, 2026-10-30. This date fallback does not claim a commencement date the source does not identify. Future-effective text and normative images are held. Existing records retain their historical dates and text; their inclusion above does not establish equality with this static compilation. Public Acts, administrative rules and earlier wording are not added.
 
@@ -324,3 +324,4 @@ Each addition retains all sections, act-title documents and article headings in 
 | [Local Government Revenue Recapture Act (50 ILCS 355)](https://ftp.ilga.gov/ILCS/Ch%200050/Act%200355/) | 22 | 2021-12-17 |
 | [Local Government Electronic Reverse Auction Act (50 ILCS 531)](https://ftp.ilga.gov/ILCS/Ch%200050/Act%200531/) | 5 | 2010-07-01 |
 | [Police and Community Relations Improvement Act (50 ILCS 727)](https://ftp.ilga.gov/ILCS/Ch%200050/Act%200727/) | 26 | 2023-07-01 |
+| [Fees and Salaries Act (55 ILCS 45)](https://ftp.ilga.gov/ILCS/Ch%200055/Act%200045/) | 10 | 1996-01-01 |
