@@ -50,7 +50,7 @@ Current-text preparation uses the latest explicit effective date in the source a
 
 ## Static ILCS compilation additions, 30 October 2026
 
-378 additional complete indexed acts from the [Illinois General Assembly compilation](https://ftp.ilga.gov/ILCS/) are included. The compilation incorporates Public Acts through 104-854. The publisher states that these provisions have NOT been edited for publication and are NOT the official text; this copy should not be cited as official or authoritative. The only official copy is the printed copy maintained by the Secretary of State’s office.
+382 additional complete indexed acts from the [Illinois General Assembly compilation](https://ftp.ilga.gov/ILCS/) are included. The compilation incorporates Public Acts through 104-854. The publisher states that these provisions have NOT been edited for publication and are NOT the official text; this copy should not be cited as official or authoritative. The only official copy is the printed copy maintained by the Secretary of State’s office.
 
 Each addition retains all sections, act-title documents and article headings in the publisher’s Section Sequence. Dates use the latest explicit amendment effective date in the source, otherwise the compilation’s own update date, 2026-10-30. This date fallback does not claim a commencement date the source does not identify. Future-effective text and normative images are held. Existing records retain their historical dates and text; their inclusion above does not establish equality with this static compilation. Public Acts, administrative rules and earlier wording are not added.
 
@@ -434,3 +434,7 @@ Each addition retains all sections, act-title documents and article headings in 
 | [Displaced Person Relocation Act (310 ILCS 40)](https://ftp.ilga.gov/ILCS/Ch%200310/Act%200040/) | 8 | 2026-10-30 |
 | [Illinois Mortgage Insurance Fund Act (310 ILCS 45)](https://ftp.ilga.gov/ILCS/Ch%200310/Act%200045/) | 12 | 2026-10-30 |
 | [Community Land Trust Home Ownership Act (310 ILCS 130)](https://ftp.ilga.gov/ILCS/Ch%200310/Act%200130/) | 13 | 2025-08-15 |
+| [Blighted Vacant Areas Development Act of 1949 (315 ILCS 10)](https://ftp.ilga.gov/ILCS/Ch%200315/Act%200010/) | 8 | 2018-07-20 |
+| [Neighborhood Redevelopment Corporation Law (315 ILCS 20)](https://ftp.ilga.gov/ILCS/Ch%200315/Act%200020/) | 57 | 2021-08-20 |
+| [Urban Community Conservation Act (315 ILCS 25)](https://ftp.ilga.gov/ILCS/Ch%200315/Act%200025/) | 14 | 2025-08-15 |
+| [Urban Renewal Consolidation Act of 1961 (315 ILCS 30)](https://ftp.ilga.gov/ILCS/Ch%200315/Act%200030/) | 39 | 2021-08-20 |

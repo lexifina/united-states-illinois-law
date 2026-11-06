@@ -42568,6 +42568,62 @@
      "units": 14
     }
    ]
+  },
+  {
+   "slug": "ilcs-315-10",
+   "short": "315 ILCS 10",
+   "title": "Blighted Vacant Areas Development Act of 1949",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200315/Act%200010/",
+   "versions": [
+    {
+     "from": "2018-07-20",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200315/Act%200010/",
+     "sha256": "9bf938cf827bf85dcb0ad7942d50550a7c6b4ad2a9a26cae6e3edef1dd934da4",
+     "units": 9
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-315-20",
+   "short": "315 ILCS 20",
+   "title": "Neighborhood Redevelopment Corporation Law",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200315/Act%200020/",
+   "versions": [
+    {
+     "from": "2021-08-20",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200315/Act%200020/",
+     "sha256": "6dcbdffea1025c6128a0cc98e0e41a8839955bc425ed9735ad622281cf7dcd99",
+     "units": 58
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-315-25",
+   "short": "315 ILCS 25",
+   "title": "Urban Community Conservation Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200315/Act%200025/",
+   "versions": [
+    {
+     "from": "2025-08-15",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200315/Act%200025/",
+     "sha256": "c711da8d0ef1fa21075c30ab6cbfcba26206261d4d58e576012948efd3c7f2ae",
+     "units": 15
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-315-30",
+   "short": "315 ILCS 30",
+   "title": "Urban Renewal Consolidation Act of 1961",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200315/Act%200030/",
+   "versions": [
+    {
+     "from": "2021-08-20",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200315/Act%200030/",
+     "sha256": "cb38cd3e3d375bf5787ff8dad7ad37d1029597ec3ad72a5f3222dfab3eba2fd2",
+     "units": 43
+    }
+   ]
   }
  ]
 }
