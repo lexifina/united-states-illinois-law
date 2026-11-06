@@ -44710,6 +44710,20 @@
      "units": 9
     }
    ]
+  },
+  {
+   "slug": "ilcs-630-10",
+   "short": "630 ILCS 10",
+   "title": "Innovations for Transportation Infrastructure Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200630/Act%200010/",
+   "versions": [
+    {
+     "from": "2025-08-15",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200630/Act%200010/",
+     "sha256": "48c7fe2cc67d492ddc20a229e8fe35fc16cee64ea08d658d404c61de3f1d8ffb",
+     "units": 32
+    }
+   ]
   }
  ]
 }

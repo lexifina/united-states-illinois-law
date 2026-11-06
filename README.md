@@ -50,7 +50,7 @@ Current-text preparation uses the latest explicit effective date in the source a
 
 ## Static ILCS compilation additions, 30 October 2026
 
-531 additional complete indexed acts from the [Illinois General Assembly compilation](https://ftp.ilga.gov/ILCS/) are included. The compilation incorporates Public Acts through 104-854. The publisher states that these provisions have NOT been edited for publication and are NOT the official text; this copy should not be cited as official or authoritative. The only official copy is the printed copy maintained by the Secretary of State’s office.
+532 additional complete indexed acts from the [Illinois General Assembly compilation](https://ftp.ilga.gov/ILCS/) are included. The compilation incorporates Public Acts through 104-854. The publisher states that these provisions have NOT been edited for publication and are NOT the official text; this copy should not be cited as official or authoritative. The only official copy is the printed copy maintained by the Secretary of State’s office.
 
 Each addition retains all sections, act-title documents and article headings in the publisher’s Section Sequence. Dates use the latest explicit amendment effective date in the source, otherwise the compilation’s own update date, 2026-10-30. This date fallback does not claim a commencement date the source does not identify. Future-effective text and normative images are held. Existing records retain their historical dates and text; their inclusion above does not establish equality with this static compilation. Public Acts, administrative rules and earlier wording are not added.
 
@@ -587,3 +587,4 @@ Each addition retains all sections, act-title documents and article headings in 
 | [Snowmobile Registration and Safety Act (625 ILCS 40)](https://ftp.ilga.gov/ILCS/Ch%200625/Act%200040/) | 63 | 2026-01-01 |
 | [Taxi Safety Act of 2007 (625 ILCS 55)](https://ftp.ilga.gov/ILCS/Ch%200625/Act%200055/) | 4 | 2013-01-01 |
 | [O'Hare Driver Safety Act (625 ILCS 80)](https://ftp.ilga.gov/ILCS/Ch%200625/Act%200080/) | 8 | 2026-01-01 |
+| [Innovations for Transportation Infrastructure Act (630 ILCS 10)](https://ftp.ilga.gov/ILCS/Ch%200630/Act%200010/) | 31 | 2025-08-15 |
