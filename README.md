@@ -50,7 +50,7 @@ Current-text preparation uses the latest explicit effective date in the source a
 
 ## Static ILCS compilation additions, 30 October 2026
 
-619 additional complete indexed acts from the [Illinois General Assembly compilation](https://ftp.ilga.gov/ILCS/) are included. The compilation incorporates Public Acts through 104-854. The publisher states that these provisions have NOT been edited for publication and are NOT the official text; this copy should not be cited as official or authoritative. The only official copy is the printed copy maintained by the Secretary of State’s office.
+636 additional complete indexed acts from the [Illinois General Assembly compilation](https://ftp.ilga.gov/ILCS/) are included. The compilation incorporates Public Acts through 104-854. The publisher states that these provisions have NOT been edited for publication and are NOT the official text; this copy should not be cited as official or authoritative. The only official copy is the printed copy maintained by the Secretary of State’s office.
 
 Each addition retains all sections, act-title documents and article headings in the publisher’s Section Sequence. Dates use the latest explicit amendment effective date in the source, otherwise the compilation’s own update date, 2026-10-30. This date fallback does not claim a commencement date the source does not identify. Future-effective text and normative images are held. Existing records retain their historical dates and text; their inclusion above does not establish equality with this static compilation. Public Acts, administrative rules and earlier wording are not added.
 
@@ -675,3 +675,20 @@ Each addition retains all sections, act-title documents and article headings in 
 | [White Cane Law (775 ILCS 30)](https://ftp.ilga.gov/ILCS/Ch%200775/Act%200030/) | 6 | 2015-07-27 |
 | [Reproductive Health Act (775 ILCS 55)](https://ftp.ilga.gov/ILCS/Ch%200775/Act%200055/) | 34 | 2023-01-13 |
 | [Civil Rights Remedies Restoration Act (775 ILCS 60)](https://ftp.ilga.gov/ILCS/Ch%200775/Act%200060/) | 7 | 2024-01-01 |
+| [Franchise Tax and License Fee Amnesty Act of 2007 (805 ILCS 8)](https://ftp.ilga.gov/ILCS/Ch%200805/Act%200008/) | 6 | 2025-11-21 |
+| [Dissolution of Corporations Act (805 ILCS 20)](https://ftp.ilga.gov/ILCS/Ch%200805/Act%200020/) | 9 | 2026-10-30 |
+| [Corporation Canal Construction Act (805 ILCS 25)](https://ftp.ilga.gov/ILCS/Ch%200805/Act%200025/) | 5 | 2007-01-01 |
+| [Gas Company Property Act (805 ILCS 30)](https://ftp.ilga.gov/ILCS/Ch%200805/Act%200030/) | 14 | 2007-01-01 |
+| [Benefit Corporation Act (805 ILCS 40)](https://ftp.ilga.gov/ILCS/Ch%200805/Act%200040/) | 13 | 2022-01-01 |
+| [Religious Corporation Act (805 ILCS 110)](https://ftp.ilga.gov/ILCS/Ch%200805/Act%200110/) | 27 | 2020-01-01 |
+| [Religious Corporation Validation Act (805 ILCS 115)](https://ftp.ilga.gov/ILCS/Ch%200805/Act%200115/) | 2 | 2026-10-30 |
+| [Merger of Not For Profit Corporations Act (805 ILCS 120)](https://ftp.ilga.gov/ILCS/Ch%200805/Act%200120/) | 14 | 2007-01-01 |
+| [German School Educational Corporation Act (805 ILCS 130)](https://ftp.ilga.gov/ILCS/Ch%200805/Act%200130/) | 2 | 2026-10-30 |
+| [Fraternal Corporation Property and Borrowing Powers Act (805 ILCS 145)](https://ftp.ilga.gov/ILCS/Ch%200805/Act%200145/) | 2 | 2026-10-30 |
+| [Illinois Clean Energy Jobs and Justice Fund Act (805 ILCS 155)](https://ftp.ilga.gov/ILCS/Ch%200805/Act%200155/) | 34 | 2021-09-15 |
+| [Uniform Partnership Act (1997 (805 ILCS 206)](https://ftp.ilga.gov/ILCS/Ch%200805/Act%200206/) | 81 | 2020-01-01 |
+| [Uniform Limited Partnership Act (2001 (805 ILCS 215)](https://ftp.ilga.gov/ILCS/Ch%200805/Act%200215/) | 128 | 2026-08-21 |
+| [Professional Association Act (805 ILCS 305)](https://ftp.ilga.gov/ILCS/Ch%200805/Act%200305/) | 12 | 2013-10-01 |
+| [Agricultural Co-Operative Act (805 ILCS 315)](https://ftp.ilga.gov/ILCS/Ch%200805/Act%200315/) | 41 | 2003-07-14 |
+| [Limited Worker Cooperative Association Act (805 ILCS 317)](https://ftp.ilga.gov/ILCS/Ch%200805/Act%200317/) | 29 | 2021-08-20 |
+| [Entity Omnibus Act (805 ILCS 415)](https://ftp.ilga.gov/ILCS/Ch%200805/Act%200415/) | 42 | 2021-08-13 |
