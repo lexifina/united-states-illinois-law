@@ -1,0 +1,29 @@
+{
+  "source": "Internet Archive captures of Illinois General Assembly pages",
+  "acts": [
+    {
+      "slug": "ilcs-15-330",
+      "title": "Secretary of State Buildings in Cook County Act",
+      "versions": [
+        {
+          "from": "2007-01-01",
+          "source_url": "https://web.archive.org/web/20251207055418id_/https://ilga.gov/Legislation/ILCS/Articles?ActID=203&ChapterID=4&Print=True",
+          "sha256": "19e02578eb056810503a15378cadd7552c39e43b5ef2a894cae257d2f4ec3230",
+          "note": "Internet Archive capture 20251207055418. In-force basis: latest explicit effective date in the source's (Source: P.A. ... eff. ...) notes, 2007-01-01; capture date is provenance only."
+        }
+      ]
+    },
+    {
+      "slug": "ilcs-15-415",
+      "title": "Comptroller's Records Act",
+      "versions": [
+        {
+          "from": "2012-08-10",
+          "source_url": "https://web.archive.org/web/20251009230622id_/https://ilga.gov/Legislation/ILCS/Articles?ActID=207&ChapterID=4&Print=True",
+          "sha256": "b580d1466661db6cfe12a774c47431496be1f76d80a3b5a6c7eb51c3c946bbb1",
+          "note": "Internet Archive capture 20251009230622. In-force basis: latest explicit effective date in the source's (Source: P.A. ... eff. ...) notes, 2012-08-10; capture date is provenance only."
+        }
+      ]
+    }
+  ]
+}

@@ -4,5 +4,10 @@
   "name": "United States (Illinois)",
   "level": "state",
   "repo": "https://github.com/lexifina/united-states-illinois-law",
-  "build": "built"
+  "build": "partial",
+  "archive_additions": {
+    "acts": 2,
+    "source": "Internet Archive captures of Illinois General Assembly statute text",
+    "date_basis": "latest explicit effective date in source amendment notes"
+  }
 }

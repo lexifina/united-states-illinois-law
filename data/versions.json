@@ -37248,6 +37248,34 @@
      "sha256": "a56da6c63c9cb027be92ae7b45193f056fd90049cd231df26077fbbcd8148dd9"
     }
    ]
+  },
+  {
+   "slug": "ilcs-15-330",
+   "short": "15 ILCS 330",
+   "title": "Secretary of State Buildings in Cook County Act",
+   "url": "https://ilga.gov/Legislation/ILCS/Articles?ActID=203&ChapterID=4&Print=True",
+   "versions": [
+    {
+     "from": "2007-01-01",
+     "source_url": "https://web.archive.org/web/20251207055418id_/https://ilga.gov/Legislation/ILCS/Articles?ActID=203&ChapterID=4&Print=True",
+     "sha256": "19e02578eb056810503a15378cadd7552c39e43b5ef2a894cae257d2f4ec3230",
+     "units": 4
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-15-415",
+   "short": "15 ILCS 415",
+   "title": "Comptroller's Records Act",
+   "url": "https://ilga.gov/Legislation/ILCS/Articles?ActID=207&ChapterID=4&Print=True",
+   "versions": [
+    {
+     "from": "2012-08-10",
+     "source_url": "https://web.archive.org/web/20251009230622id_/https://ilga.gov/Legislation/ILCS/Articles?ActID=207&ChapterID=4&Print=True",
+     "sha256": "b580d1466661db6cfe12a774c47431496be1f76d80a3b5a6c7eb51c3c946bbb1",
+     "units": 7
+    }
+   ]
   }
  ]
 }
