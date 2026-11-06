@@ -43534,6 +43534,314 @@
      "units": 21
     }
    ]
+  },
+  {
+   "slug": "ilcs-415-10",
+   "short": "415 ILCS 10",
+   "title": "Local Solid Waste Disposal Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200415/Act%200010/",
+   "versions": [
+    {
+     "from": "1999-07-29",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200415/Act%200010/",
+     "sha256": "ba9b5c12b14286781f6d07f9d3768b3a66f147511c5aebcb192edcb437dc29b3",
+     "units": 9
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-415-12",
+   "short": "415 ILCS 12",
+   "title": "Solid Waste Hauling and Recycling Program Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200415/Act%200012/",
+   "versions": [
+    {
+     "from": "2014-08-26",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200415/Act%200012/",
+     "sha256": "3f821c5e2d0346a49375487609f0cd98661504d13609d0e413471f5a4bbfb4d9",
+     "units": 10
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-415-25",
+   "short": "415 ILCS 25",
+   "title": "Water Pollutant Discharge Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200415/Act%200025/",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200415/Act%200025/",
+     "sha256": "2c9c51e7361a1c22cce98e5e89ada82187ee9df62d7279ee8849e0d4d78608bf",
+     "units": 8
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-415-40",
+   "short": "415 ILCS 40",
+   "title": "Public Water Supply Regulation Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200415/Act%200040/",
+   "versions": [
+    {
+     "from": "2016-07-08",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200415/Act%200040/",
+     "sha256": "a8042d8fc9d3b83a33315b86d91f7fb15e5ed3c0d256aa72ce5431b3b969d41a",
+     "units": 7
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-415-45",
+   "short": "415 ILCS 45",
+   "title": "Public Water Supply Operations Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200415/Act%200045/",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200415/Act%200045/",
+     "sha256": "874b44d535dfcbf111724ba955373474f6c6b4fa5d268c6628eb332008c7aadd",
+     "units": 34
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-415-47",
+   "short": "415 ILCS 47",
+   "title": "Safe Public Drinking Water Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200415/Act%200047/",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200415/Act%200047/",
+     "sha256": "3575861e54e0ae01b0a58189009602169dd626d7fd1d4ae7ec599a1526dc34de",
+     "units": 6
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-415-52",
+   "short": "415 ILCS 52",
+   "title": "PFAS Wastewater Citizen Protection Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200415/Act%200052/",
+   "versions": [
+    {
+     "from": "2026-08-21",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200415/Act%200052/",
+     "sha256": "8353cae0e48c25b2421720a566dfd042f48bfce91105cff8920f09cde6c5dd1a",
+     "units": 10
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-415-61",
+   "short": "415 ILCS 61",
+   "title": "Pesticide Application on Rights-of-Way Notification Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200415/Act%200061/",
+   "versions": [
+    {
+     "from": "2025-08-15",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200415/Act%200061/",
+     "sha256": "e3407ba4f49ed3588f710754c29a156f9805ae79dbcbea56841ad2191cdfe6b7",
+     "units": 6
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-415-75",
+   "short": "415 ILCS 75",
+   "title": "Environmental Toxicology Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200415/Act%200075/",
+   "versions": [
+    {
+     "from": "2019-07-12",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200415/Act%200075/",
+     "sha256": "fbe480e3fd5b5c60bbe42d0dd1bf9bbd39593e1dd96e54eed7dbb80437ebf6e2",
+     "units": 9
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-415-80",
+   "short": "415 ILCS 80",
+   "title": "Degradable Plastic Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200415/Act%200080/",
+   "versions": [
+    {
+     "from": "2018-07-20",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200415/Act%200080/",
+     "sha256": "591d082580b46052b756e7893d0add1bb238519abfef221859951b123656ebc6",
+     "units": 6
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-415-85",
+   "short": "415 ILCS 85",
+   "title": "Toxic Pollution Prevention Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200415/Act%200085/",
+   "versions": [
+    {
+     "from": "2022-06-10",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200415/Act%200085/",
+     "sha256": "ab326f07dba14018a967df8ebc2b113b7cb41e1ef13c828c8665abbc9c3c2dc5",
+     "units": 8
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-415-92",
+   "short": "415 ILCS 92",
+   "title": "Regulation of Phosphorus in Detergents Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200415/Act%200092/",
+   "versions": [
+    {
+     "from": "2007-08-13",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200415/Act%200092/",
+     "sha256": "3a69443a440e0455fc5dc656627dc1ccbc65fea5c4603c93a0cd5d963c4f54fe",
+     "units": 4
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-415-95",
+   "short": "415 ILCS 95",
+   "title": "Junkyard Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200415/Act%200095/",
+   "versions": [
+    {
+     "from": "2007-01-01",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200415/Act%200095/",
+     "sha256": "e36077dac925ca2c52c00c5ef526d68b4741e092f0d6661a6ac1876b49e2b290",
+     "units": 12
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-415-105",
+   "short": "415 ILCS 105",
+   "title": "Litter Control Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200415/Act%200105/",
+   "versions": [
+    {
+     "from": "2016-07-28",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200415/Act%200105/",
+     "sha256": "63f511968983153ea269f3b1623b4f12095ec8964181fe6c99114de2960a4121",
+     "units": 14
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-415-122",
+   "short": "415 ILCS 122",
+   "title": "MTBE Elimination Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200415/Act%200122/",
+   "versions": [
+    {
+     "from": "2002-06-24",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200415/Act%200122/",
+     "sha256": "9722f8860f3a01b8bc3fb7c6356216b5315cf5eda4a5fb633d706370284e67c4",
+     "units": 7
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-415-125",
+   "short": "415 ILCS 125",
+   "title": "Environmental Impact Fee Law",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200415/Act%200125/",
+   "versions": [
+    {
+     "from": "2024-06-07",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200415/Act%200125/",
+     "sha256": "bd316e9bd45b6988f4f0068b1de4abfaf3ec022704e4e2aa3743fa27b0c924e2",
+     "units": 31
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-415-155",
+   "short": "415 ILCS 155",
+   "title": "Environmental Justice Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200415/Act%200155/",
+   "versions": [
+    {
+     "from": "2026-08-07",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200415/Act%200155/",
+     "sha256": "95f4518a5a2db3b2a2a2207d7ceae6f8534487de5e49eea54d68953fd51c549e",
+     "units": 6
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-415-157",
+   "short": "415 ILCS 157",
+   "title": "Justice40 Oversight Committee Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200415/Act%200157/",
+   "versions": [
+    {
+     "from": "2023-07-28",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200415/Act%200157/",
+     "sha256": "09a21800db5adde4b3fc366c640eff9b07109dc785c13fb51e0ffb8350a5791b",
+     "units": 7
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-415-160",
+   "short": "415 ILCS 160",
+   "title": "Illinois Underground Natural Gas Storage Safety Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200415/Act%200160/",
+   "versions": [
+    {
+     "from": "2024-01-01",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200415/Act%200160/",
+     "sha256": "723f0c214e39c4338b052326585098c75905ac6fc3c2731a8188abd26e0b001f",
+     "units": 19
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-415-185",
+   "short": "415 ILCS 185",
+   "title": "Safety and Aid for the Environment in Carbon Capture and Sequestration Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200415/Act%200185/",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200415/Act%200185/",
+     "sha256": "f7d0c65d6a72f18cc04304e8eea524dee81abcb630c38e02e41a4b0e39f31ee0",
+     "units": 15
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-415-190",
+   "short": "415 ILCS 190",
+   "title": "Large Event Facilities Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200415/Act%200190/",
+   "versions": [
+    {
+     "from": "2025-01-01",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200415/Act%200190/",
+     "sha256": "985be5dd363f188bebccb0be39d6c4b2794d0623b91246f6cde1ce444eb96fc4",
+     "units": 5
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-415-195",
+   "short": "415 ILCS 195",
+   "title": "Small Single-Use Plastic Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200415/Act%200195/",
+   "versions": [
+    {
+     "from": "2025-01-01",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200415/Act%200195/",
+     "sha256": "cbf07f15743d59812fb643e7aefd299461bbf8c1a23e4e73d4a775ceda84bc89",
+     "units": 5
+    }
+   ]
   }
  ]
 }

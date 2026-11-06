@@ -50,7 +50,7 @@ Current-text preparation uses the latest explicit effective date in the source a
 
 ## Static ILCS compilation additions, 30 October 2026
 
-447 additional complete indexed acts from the [Illinois General Assembly compilation](https://ftp.ilga.gov/ILCS/) are included. The compilation incorporates Public Acts through 104-854. The publisher states that these provisions have NOT been edited for publication and are NOT the official text; this copy should not be cited as official or authoritative. The only official copy is the printed copy maintained by the Secretary of State’s office.
+469 additional complete indexed acts from the [Illinois General Assembly compilation](https://ftp.ilga.gov/ILCS/) are included. The compilation incorporates Public Acts through 104-854. The publisher states that these provisions have NOT been edited for publication and are NOT the official text; this copy should not be cited as official or authoritative. The only official copy is the printed copy maintained by the Secretary of State’s office.
 
 Each addition retains all sections, act-title documents and article headings in the publisher’s Section Sequence. Dates use the latest explicit amendment effective date in the source, otherwise the compilation’s own update date, 2026-10-30. This date fallback does not claim a commencement date the source does not identify. Future-effective text and normative images are held. Existing records retain their historical dates and text; their inclusion above does not establish equality with this static compilation. Public Acts, administrative rules and earlier wording are not added.
 
@@ -503,3 +503,25 @@ Each addition retains all sections, act-title documents and article headings in 
 | [340B Transparency, Reporting, and Accountability Act (410 ILCS 665)](https://ftp.ilga.gov/ILCS/Ch%200410/Act%200665/) | 9 | 2026-08-07 |
 | [Illinois Hemp Act (410 ILCS 707)](https://ftp.ilga.gov/ILCS/Ch%200410/Act%200707/) | 37 | 2026-11-12 |
 | [Drug Take-Back Act (410 ILCS 720)](https://ftp.ilga.gov/ILCS/Ch%200410/Act%200720/) | 20 | 2023-06-30 |
+| [Local Solid Waste Disposal Act (415 ILCS 10)](https://ftp.ilga.gov/ILCS/Ch%200415/Act%200010/) | 8 | 1999-07-29 |
+| [Solid Waste Hauling and Recycling Program Act (415 ILCS 12)](https://ftp.ilga.gov/ILCS/Ch%200415/Act%200012/) | 9 | 2014-08-26 |
+| [Water Pollutant Discharge Act (415 ILCS 25)](https://ftp.ilga.gov/ILCS/Ch%200415/Act%200025/) | 7 | 2026-10-30 |
+| [Public Water Supply Regulation Act (415 ILCS 40)](https://ftp.ilga.gov/ILCS/Ch%200415/Act%200040/) | 6 | 2016-07-08 |
+| [Public Water Supply Operations Act (415 ILCS 45)](https://ftp.ilga.gov/ILCS/Ch%200415/Act%200045/) | 33 | 2026-01-01 |
+| [Safe Public Drinking Water Act (415 ILCS 47)](https://ftp.ilga.gov/ILCS/Ch%200415/Act%200047/) | 5 | 2026-01-01 |
+| [PFAS Wastewater Citizen Protection Act (415 ILCS 52)](https://ftp.ilga.gov/ILCS/Ch%200415/Act%200052/) | 9 | 2026-08-21 |
+| [Pesticide Application on Rights-of-Way Notification Act (415 ILCS 61)](https://ftp.ilga.gov/ILCS/Ch%200415/Act%200061/) | 5 | 2025-08-15 |
+| [Environmental Toxicology Act (415 ILCS 75)](https://ftp.ilga.gov/ILCS/Ch%200415/Act%200075/) | 8 | 2019-07-12 |
+| [Degradable Plastic Act (415 ILCS 80)](https://ftp.ilga.gov/ILCS/Ch%200415/Act%200080/) | 5 | 2018-07-20 |
+| [Toxic Pollution Prevention Act (415 ILCS 85)](https://ftp.ilga.gov/ILCS/Ch%200415/Act%200085/) | 7 | 2022-06-10 |
+| [Regulation of Phosphorus in Detergents Act (415 ILCS 92)](https://ftp.ilga.gov/ILCS/Ch%200415/Act%200092/) | 3 | 2007-08-13 |
+| [Junkyard Act (415 ILCS 95)](https://ftp.ilga.gov/ILCS/Ch%200415/Act%200095/) | 11 | 2007-01-01 |
+| [Litter Control Act (415 ILCS 105)](https://ftp.ilga.gov/ILCS/Ch%200415/Act%200105/) | 13 | 2016-07-28 |
+| [MTBE Elimination Act (415 ILCS 122)](https://ftp.ilga.gov/ILCS/Ch%200415/Act%200122/) | 6 | 2002-06-24 |
+| [Environmental Impact Fee Law (415 ILCS 125)](https://ftp.ilga.gov/ILCS/Ch%200415/Act%200125/) | 23 | 2024-06-07 |
+| [Environmental Justice Act (415 ILCS 155)](https://ftp.ilga.gov/ILCS/Ch%200415/Act%200155/) | 5 | 2026-08-07 |
+| [Justice40 Oversight Committee Act (415 ILCS 157)](https://ftp.ilga.gov/ILCS/Ch%200415/Act%200157/) | 6 | 2023-07-28 |
+| [Illinois Underground Natural Gas Storage Safety Act (415 ILCS 160)](https://ftp.ilga.gov/ILCS/Ch%200415/Act%200160/) | 18 | 2024-01-01 |
+| [Safety and Aid for the Environment in Carbon Capture and Sequestration Act (415 ILCS 185)](https://ftp.ilga.gov/ILCS/Ch%200415/Act%200185/) | 14 | 2026-01-01 |
+| [Large Event Facilities Act (415 ILCS 190)](https://ftp.ilga.gov/ILCS/Ch%200415/Act%200190/) | 4 | 2025-01-01 |
+| [Small Single-Use Plastic Act (415 ILCS 195)](https://ftp.ilga.gov/ILCS/Ch%200415/Act%200195/) | 4 | 2025-01-01 |
