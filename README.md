@@ -50,7 +50,7 @@ Current-text preparation uses the latest explicit effective date in the source a
 
 ## Static ILCS compilation additions, 30 October 2026
 
-370 additional complete indexed acts from the [Illinois General Assembly compilation](https://ftp.ilga.gov/ILCS/) are included. The compilation incorporates Public Acts through 104-854. The publisher states that these provisions have NOT been edited for publication and are NOT the official text; this copy should not be cited as official or authoritative. The only official copy is the printed copy maintained by the Secretary of State’s office.
+374 additional complete indexed acts from the [Illinois General Assembly compilation](https://ftp.ilga.gov/ILCS/) are included. The compilation incorporates Public Acts through 104-854. The publisher states that these provisions have NOT been edited for publication and are NOT the official text; this copy should not be cited as official or authoritative. The only official copy is the printed copy maintained by the Secretary of State’s office.
 
 Each addition retains all sections, act-title documents and article headings in the publisher’s Section Sequence. Dates use the latest explicit amendment effective date in the source, otherwise the compilation’s own update date, 2026-10-30. This date fallback does not claim a commencement date the source does not identify. Future-effective text and normative images are held. Existing records retain their historical dates and text; their inclusion above does not establish equality with this static compilation. Public Acts, administrative rules and earlier wording are not added.
 
@@ -426,3 +426,7 @@ Each addition retains all sections, act-title documents and article headings in 
 | [Sports Wagering Act (230 ILCS 45)](https://ftp.ilga.gov/ILCS/Ch%200230/Act%200045/) | 74 | 2026-08-21 |
 | [State Fair Gaming Act (230 ILCS 50)](https://ftp.ilga.gov/ILCS/Ch%200230/Act%200050/) | 44 | 2020-06-30 |
 | [Grain Code (240 ILCS 40)](https://ftp.ilga.gov/ILCS/Ch%200240/Act%200040/) | 51 | 2022-06-10 |
+| [Water and Sewer Financial Assistance Act (305 ILCS 21)](https://ftp.ilga.gov/ILCS/Ch%200305/Act%200021/) | 10 | 2021-08-06 |
+| [Pediatric Palliative Care Act (305 ILCS 60)](https://ftp.ilga.gov/ILCS/Ch%200305/Act%200060/) | 15 | 2022-01-01 |
+| [Rebuild Illinois Mental Health Workforce Act (305 ILCS 66)](https://ftp.ilga.gov/ILCS/Ch%200305/Act%200066/) | 8 | 2026-07-01 |
+| [Medicaid Technical Assistance Act (305 ILCS 75)](https://ftp.ilga.gov/ILCS/Ch%200305/Act%200075/) | 9 | 2026-07-01 |

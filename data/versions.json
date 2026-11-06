@@ -42456,6 +42456,62 @@
      "units": 64
     }
    ]
+  },
+  {
+   "slug": "ilcs-305-21",
+   "short": "305 ILCS 21",
+   "title": "Water and Sewer Financial Assistance Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200305/Act%200021/",
+   "versions": [
+    {
+     "from": "2021-08-06",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200305/Act%200021/",
+     "sha256": "1b572a1ce1351cde7bfc4edfa1f0b8b15894f92b1e76ed420b85c8523d730693",
+     "units": 11
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-305-60",
+   "short": "305 ILCS 60",
+   "title": "Pediatric Palliative Care Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200305/Act%200060/",
+   "versions": [
+    {
+     "from": "2022-01-01",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200305/Act%200060/",
+     "sha256": "51cd7a3fb46bf829eeaf2eb2e7fd8d296b66009dc6de19671275f92f52a7d3d3",
+     "units": 16
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-305-66",
+   "short": "305 ILCS 66",
+   "title": "Rebuild Illinois Mental Health Workforce Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200305/Act%200066/",
+   "versions": [
+    {
+     "from": "2026-07-01",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200305/Act%200066/",
+     "sha256": "b4ee3580badc02ca1f113ba4b461ad2a6173f1be0c7ce22e91e694862f70d872",
+     "units": 22
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-305-75",
+   "short": "305 ILCS 75",
+   "title": "Medicaid Technical Assistance Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200305/Act%200075/",
+   "versions": [
+    {
+     "from": "2026-07-01",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200305/Act%200075/",
+     "sha256": "0608b75d5b817dc4b71eebae7c2cd96b86600f4e9226027cad759e81a794400d",
+     "units": 42
+    }
+   ]
   }
  ]
 }
