@@ -50,7 +50,7 @@ Current-text preparation uses the latest explicit effective date in the source a
 
 ## Static ILCS compilation additions, 30 October 2026
 
-480 additional complete indexed acts from the [Illinois General Assembly compilation](https://ftp.ilga.gov/ILCS/) are included. The compilation incorporates Public Acts through 104-854. The publisher states that these provisions have NOT been edited for publication and are NOT the official text; this copy should not be cited as official or authoritative. The only official copy is the printed copy maintained by the Secretary of State’s office.
+490 additional complete indexed acts from the [Illinois General Assembly compilation](https://ftp.ilga.gov/ILCS/) are included. The compilation incorporates Public Acts through 104-854. The publisher states that these provisions have NOT been edited for publication and are NOT the official text; this copy should not be cited as official or authoritative. The only official copy is the printed copy maintained by the Secretary of State’s office.
 
 Each addition retains all sections, act-title documents and article headings in the publisher’s Section Sequence. Dates use the latest explicit amendment effective date in the source, otherwise the compilation’s own update date, 2026-10-30. This date fallback does not claim a commencement date the source does not identify. Future-effective text and normative images are held. Existing records retain their historical dates and text; their inclusion above does not establish equality with this static compilation. Public Acts, administrative rules and earlier wording are not added.
 
@@ -536,3 +536,13 @@ Each addition retains all sections, act-title documents and article headings in 
 | [Industrial Hemp Act (505 ILCS 89)](https://ftp.ilga.gov/ILCS/Ch%200505/Act%200089/) | 13 | 2026-06-12 |
 | [Herptiles-Herps Act (510 ILCS 68)](https://ftp.ilga.gov/ILCS/Ch%200510/Act%200068/) | 87 | 2026-08-21 |
 | [Illinois Natural Areas Stewardship Act (525 ILCS 31)](https://ftp.ilga.gov/ILCS/Ch%200525/Act%200031/) | 9 | 2017-08-25 |
+| [Dirksen Memorial Highway Act (605 ILCS 15)](https://ftp.ilga.gov/ILCS/Ch%200605/Act%200015/) | 2 | 2026-10-30 |
+| [Jolliet - Marquette Trail Act (605 ILCS 25)](https://ftp.ilga.gov/ILCS/Ch%200605/Act%200025/) | 3 | 1996-01-01 |
+| [Milwaukee Avenue Polish Heritage Corridor Act (605 ILCS 27)](https://ftp.ilga.gov/ILCS/Ch%200605/Act%200027/) | 2 | 2023-01-01 |
+| [Bridge Construction Act (605 ILCS 105)](https://ftp.ilga.gov/ILCS/Ch%200605/Act%200105/) | 2 | 2026-10-30 |
+| [Bridge Pier Protection Act (605 ILCS 110)](https://ftp.ilga.gov/ILCS/Ch%200605/Act%200110/) | 2 | 2026-10-30 |
+| [Toll Bridge Act (605 ILCS 115)](https://ftp.ilga.gov/ILCS/Ch%200605/Act%200115/) | 16 | 2020-06-26 |
+| [Illinois Adopt-A-Highway Act (605 ILCS 120)](https://ftp.ilga.gov/ILCS/Ch%200605/Act%200120/) | 12 | 2007-01-01 |
+| [Roadside Memorial Act (605 ILCS 125)](https://ftp.ilga.gov/ILCS/Ch%200605/Act%200125/) | 9 | 2026-06-16 |
+| [Heroes Way Designation Program Act (605 ILCS 127)](https://ftp.ilga.gov/ILCS/Ch%200605/Act%200127/) | 4 | 2017-01-01 |
+| [Illinois Dig Once Act (605 ILCS 145)](https://ftp.ilga.gov/ILCS/Ch%200605/Act%200145/) | 6 | 2026-08-21 |

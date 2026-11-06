@@ -43996,6 +43996,146 @@
      "units": 10
     }
    ]
+  },
+  {
+   "slug": "ilcs-605-15",
+   "short": "605 ILCS 15",
+   "title": "Dirksen Memorial Highway Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200605/Act%200015/",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200605/Act%200015/",
+     "sha256": "5d662ba16cee5dc8120bbf160ca49d35c4c1ce8449ba219a43cbc08bdc4ebe27",
+     "units": 3
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-605-25",
+   "short": "605 ILCS 25",
+   "title": "Jolliet - Marquette Trail Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200605/Act%200025/",
+   "versions": [
+    {
+     "from": "1996-01-01",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200605/Act%200025/",
+     "sha256": "254de477169eb8696b6f578e86ad488a144f992b0348369579532a0491eeb0fe",
+     "units": 4
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-605-27",
+   "short": "605 ILCS 27",
+   "title": "Milwaukee Avenue Polish Heritage Corridor Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200605/Act%200027/",
+   "versions": [
+    {
+     "from": "2023-01-01",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200605/Act%200027/",
+     "sha256": "80349915a8b117891727fc7dcc07f3e0cf5a26d3f469e1aa7a161b173aa5eb76",
+     "units": 3
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-605-105",
+   "short": "605 ILCS 105",
+   "title": "Bridge Construction Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200605/Act%200105/",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200605/Act%200105/",
+     "sha256": "5fa876ee9a71b8f7781c3af667f45192f311c6f2439a3d11dcd79f55d979f090",
+     "units": 3
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-605-110",
+   "short": "605 ILCS 110",
+   "title": "Bridge Pier Protection Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200605/Act%200110/",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200605/Act%200110/",
+     "sha256": "4df32499ecfd9c83c027b0709fd0cb45b8cd110c6cf3a9f7d7fc5170625fba69",
+     "units": 3
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-605-115",
+   "short": "605 ILCS 115",
+   "title": "Toll Bridge Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200605/Act%200115/",
+   "versions": [
+    {
+     "from": "2020-06-26",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200605/Act%200115/",
+     "sha256": "a60c4b489c9479931647b8e943d3c5c566a45276537b48626d75f5c76ff34472",
+     "units": 17
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-605-120",
+   "short": "605 ILCS 120",
+   "title": "Illinois Adopt-A-Highway Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200605/Act%200120/",
+   "versions": [
+    {
+     "from": "2007-01-01",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200605/Act%200120/",
+     "sha256": "07d44acb0e47bd95a7edc3ce8f6b7cb4d7771c046c7605c378f2c06a3257c807",
+     "units": 13
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-605-125",
+   "short": "605 ILCS 125",
+   "title": "Roadside Memorial Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200605/Act%200125/",
+   "versions": [
+    {
+     "from": "2026-06-16",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200605/Act%200125/",
+     "sha256": "332899d1e5f3c37032a750cc5d623e5163ddbde1636c2d4ed30ea1477489cba3",
+     "units": 10
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-605-127",
+   "short": "605 ILCS 127",
+   "title": "Heroes Way Designation Program Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200605/Act%200127/",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200605/Act%200127/",
+     "sha256": "2f4bf7623e47ed7f235ff2806d711a1b880c6cec441f85e87b12848e27806e74",
+     "units": 5
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-605-145",
+   "short": "605 ILCS 145",
+   "title": "Illinois Dig Once Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200605/Act%200145/",
+   "versions": [
+    {
+     "from": "2026-08-21",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200605/Act%200145/",
+     "sha256": "00461020bfb9126a8c0515dbb85c1159667bed24215fcb6c3a862edd40dbe47b",
+     "units": 7
+    }
+   ]
   }
  ]
 }
