@@ -45858,6 +45858,90 @@
      "units": 10
     }
    ]
+  },
+  {
+   "slug": "ilcs-775-10",
+   "short": "775 ILCS 10",
+   "title": "Public Works Employment Discrimination Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200775/Act%200010/",
+   "versions": [
+    {
+     "from": "2015-07-27",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200775/Act%200010/",
+     "sha256": "050df9e27256607c1ba2274db0715450b7c05af578f7038d9d6cf444ed0ee9df",
+     "units": 10
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-775-15",
+   "short": "775 ILCS 15",
+   "title": "Illinois Blacklist Trade Law",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200775/Act%200015/",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200775/Act%200015/",
+     "sha256": "82818f61ff9ec9abd0a7e5417338605f60c67ee17d957ba673ed169f4b0a8697",
+     "units": 7
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-775-25",
+   "short": "775 ILCS 25",
+   "title": "Discriminatory Club Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200775/Act%200025/",
+   "versions": [
+    {
+     "from": "2015-01-01",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200775/Act%200025/",
+     "sha256": "a5f90dc1f23bb2bd487b18a5dcd90fb4d20d21d58175b7bc96d02fb8e7ee2c38",
+     "units": 6
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-775-30",
+   "short": "775 ILCS 30",
+   "title": "White Cane Law",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200775/Act%200030/",
+   "versions": [
+    {
+     "from": "2015-07-27",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200775/Act%200030/",
+     "sha256": "27e4de7d3c3ef1fac56120d12857d1c80195dbfd884f5ad8eb6b3e85f065bde7",
+     "units": 7
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-775-55",
+   "short": "775 ILCS 55",
+   "title": "Reproductive Health Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200775/Act%200055/",
+   "versions": [
+    {
+     "from": "2023-01-13",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200775/Act%200055/",
+     "sha256": "11353c35bd183266d144451e7c0422a5391873d565215369472be19ee2ac91d5",
+     "units": 39
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-775-60",
+   "short": "775 ILCS 60",
+   "title": "Civil Rights Remedies Restoration Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200775/Act%200060/",
+   "versions": [
+    {
+     "from": "2024-01-01",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200775/Act%200060/",
+     "sha256": "c0770dde46c762751abeac90118d8137753553e6cedea70a558834eb33d80d2b",
+     "units": 8
+    }
+   ]
   }
  ]
 }

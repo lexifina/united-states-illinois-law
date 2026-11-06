@@ -50,7 +50,7 @@ Current-text preparation uses the latest explicit effective date in the source a
 
 ## Static ILCS compilation additions, 30 October 2026
 
-613 additional complete indexed acts from the [Illinois General Assembly compilation](https://ftp.ilga.gov/ILCS/) are included. The compilation incorporates Public Acts through 104-854. The publisher states that these provisions have NOT been edited for publication and are NOT the official text; this copy should not be cited as official or authoritative. The only official copy is the printed copy maintained by the Secretary of State’s office.
+619 additional complete indexed acts from the [Illinois General Assembly compilation](https://ftp.ilga.gov/ILCS/) are included. The compilation incorporates Public Acts through 104-854. The publisher states that these provisions have NOT been edited for publication and are NOT the official text; this copy should not be cited as official or authoritative. The only official copy is the printed copy maintained by the Secretary of State’s office.
 
 Each addition retains all sections, act-title documents and article headings in the publisher’s Section Sequence. Dates use the latest explicit amendment effective date in the source, otherwise the compilation’s own update date, 2026-10-30. This date fallback does not claim a commencement date the source does not identify. Future-effective text and normative images are held. Existing records retain their historical dates and text; their inclusion above does not establish equality with this static compilation. Public Acts, administrative rules and earlier wording are not added.
 
@@ -669,3 +669,9 @@ Each addition retains all sections, act-title documents and article headings in 
 | [Self-Service Storage Facility Act (770 ILCS 95)](https://ftp.ilga.gov/ILCS/Ch%200770/Act%200095/) | 9 | 2026-01-01 |
 | [Timeshare Lien and Security Interest Act (770 ILCS 103)](https://ftp.ilga.gov/ILCS/Ch%200770/Act%200103/) | 5 | 2019-01-01 |
 | [Tool and Die Lien Act (770 ILCS 105)](https://ftp.ilga.gov/ILCS/Ch%200770/Act%200105/) | 9 | 2006-01-01 |
+| [Public Works Employment Discrimination Act (775 ILCS 10)](https://ftp.ilga.gov/ILCS/Ch%200775/Act%200010/) | 9 | 2015-07-27 |
+| [Illinois Blacklist Trade Law (775 ILCS 15)](https://ftp.ilga.gov/ILCS/Ch%200775/Act%200015/) | 6 | 2026-10-30 |
+| [Discriminatory Club Act (775 ILCS 25)](https://ftp.ilga.gov/ILCS/Ch%200775/Act%200025/) | 5 | 2015-01-01 |
+| [White Cane Law (775 ILCS 30)](https://ftp.ilga.gov/ILCS/Ch%200775/Act%200030/) | 6 | 2015-07-27 |
+| [Reproductive Health Act (775 ILCS 55)](https://ftp.ilga.gov/ILCS/Ch%200775/Act%200055/) | 34 | 2023-01-13 |
+| [Civil Rights Remedies Restoration Act (775 ILCS 60)](https://ftp.ilga.gov/ILCS/Ch%200775/Act%200060/) | 7 | 2024-01-01 |
