@@ -37276,6 +37276,146 @@
      "units": 7
     }
    ]
+  },
+  {
+   "slug": "ilcs-5-382",
+   "short": "5 ILCS 382",
+   "title": "State Services Assurance Act for FY2008",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200005/Act%200382/",
+   "versions": [
+    {
+     "from": "2025-08-15",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200005/Act%200382/",
+     "sha256": "adb9d8de746a7d59115a2276020b70ec0f5cd5da53c826c515456df355222f0d",
+     "units": 11
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-5-410",
+   "short": "5 ILCS 410",
+   "title": "State Employment Records Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200005/Act%200410/",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200005/Act%200410/",
+     "sha256": "7ad5084f97df97b68a27138a4f05310b0fb9de700743b4af043b5ddc407b9fae",
+     "units": 11
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-5-517",
+   "short": "5 ILCS 517",
+   "title": "Pekin and Greenville Federal Correctional Institutions Cession Law",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200005/Act%200517/",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200005/Act%200517/",
+     "sha256": "56305ef93fc44c69228f85ea60ab0b723eb2f1dfcc18d664edfee86f2e0792c7",
+     "units": 24
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-5-537",
+   "short": "5 ILCS 537",
+   "title": "Chanute Air Force Base Retrocession Law",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200005/Act%200537/",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200005/Act%200537/",
+     "sha256": "1186741f354ada725005de1b22fb2685e419b8bd1739118d83f8905c5cba04d3",
+     "units": 24
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-5-539",
+   "short": "5 ILCS 539",
+   "title": "Ft. Dearborn United States Army Reserve Center Retrocession Law",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200005/Act%200539/",
+   "versions": [
+    {
+     "from": "1999-07-30",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200005/Act%200539/",
+     "sha256": "95e25a98d06672fa8aa894f2f9d165248c2a3ede41c585322c327b4534cb4d8c",
+     "units": 13
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-5-543",
+   "short": "5 ILCS 543",
+   "title": "Glenview Naval Air Station Retrocession Law",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200005/Act%200543/",
+   "versions": [
+    {
+     "from": "1995-06-30",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200005/Act%200543/",
+     "sha256": "74844e00ecf4e5497c377857e76440ba63e45d6d72bc0fdd07a4858d5873cba5",
+     "units": 25
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-5-573",
+   "short": "5 ILCS 573",
+   "title": "Joliet Outdoor Training Area Military Reservation Retrocession Law",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200005/Act%200573/",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200005/Act%200573/",
+     "sha256": "26244cfc67768201bc495f0b400593fd624c23ad942b19e73712d02b247b549e",
+     "units": 50
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-5-620",
+   "short": "5 ILCS 620",
+   "title": "State Fair Grounds Title Law of the Civil Administrative Code of Illinois",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200005/Act%200620/",
+   "versions": [
+    {
+     "from": "2000-01-01",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200005/Act%200620/",
+     "sha256": "52e76f46179e916f9acac4f3eaa483ce84492d6adffdb82bf36aaf4a089c0971",
+     "units": 4
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-5-705",
+   "short": "5 ILCS 705",
+   "title": "Successor Agency Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200005/Act%200705/",
+   "versions": [
+    {
+     "from": "1995-08-04",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200005/Act%200705/",
+     "sha256": "a292becaed41d31e7b94d1a2a2c0b4e2f5014c9243c7423688adb0db53ed19c6",
+     "units": 10
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-5-830",
+   "short": "5 ILCS 830",
+   "title": "Gun Trafficking Information Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200005/Act%200830/",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200005/Act%200830/",
+     "sha256": "6224993f207d0e8758b51cb9d0c6f5d66ab87e6c1268185d9530f21581b76f87",
+     "units": 10
+    }
+   ]
   }
  ]
 }
