@@ -50,7 +50,7 @@ Current-text preparation uses the latest explicit effective date in the source a
 
 ## Static ILCS compilation additions, 30 October 2026
 
-269 additional complete indexed acts from the [Illinois General Assembly compilation](https://ftp.ilga.gov/ILCS/) are included. The compilation incorporates Public Acts through 104-854. The publisher states that these provisions have NOT been edited for publication and are NOT the official text; this copy should not be cited as official or authoritative. The only official copy is the printed copy maintained by the Secretary of State’s office.
+280 additional complete indexed acts from the [Illinois General Assembly compilation](https://ftp.ilga.gov/ILCS/) are included. The compilation incorporates Public Acts through 104-854. The publisher states that these provisions have NOT been edited for publication and are NOT the official text; this copy should not be cited as official or authoritative. The only official copy is the printed copy maintained by the Secretary of State’s office.
 
 Each addition retains all sections, act-title documents and article headings in the publisher’s Section Sequence. Dates use the latest explicit amendment effective date in the source, otherwise the compilation’s own update date, 2026-10-30. This date fallback does not claim a commencement date the source does not identify. Future-effective text and normative images are held. Existing records retain their historical dates and text; their inclusion above does not establish equality with this static compilation. Public Acts, administrative rules and earlier wording are not added.
 
@@ -325,3 +325,14 @@ Each addition retains all sections, act-title documents and article headings in 
 | [Local Government Electronic Reverse Auction Act (50 ILCS 531)](https://ftp.ilga.gov/ILCS/Ch%200050/Act%200531/) | 5 | 2010-07-01 |
 | [Police and Community Relations Improvement Act (50 ILCS 727)](https://ftp.ilga.gov/ILCS/Ch%200050/Act%200727/) | 26 | 2023-07-01 |
 | [Fees and Salaries Act (55 ILCS 45)](https://ftp.ilga.gov/ILCS/Ch%200055/Act%200045/) | 10 | 1996-01-01 |
+| [Revised Cities and Villages Act of 1941 (65 ILCS 20)](https://ftp.ilga.gov/ILCS/Ch%200065/Act%200020/) | 53 | 2026-08-21 |
+| [Mayoral Election Validation Act (65 ILCS 25)](https://ftp.ilga.gov/ILCS/Ch%200065/Act%200025/) | 2 | 2026-10-30 |
+| [Village Incorporation Validation Act (65 ILCS 35)](https://ftp.ilga.gov/ILCS/Ch%200065/Act%200035/) | 2 | 2026-10-30 |
+| [Town Incorporation Validation Act (65 ILCS 40)](https://ftp.ilga.gov/ILCS/Ch%200065/Act%200040/) | 3 | 2026-10-30 |
+| [Municipal Tax Validation (1989 (65 ILCS 45)](https://ftp.ilga.gov/ILCS/Ch%200065/Act%200045/) | 2 | 2026-10-30 |
+| [Municipal Validation Law of 2002 (65 ILCS 46)](https://ftp.ilga.gov/ILCS/Ch%200065/Act%200046/) | 4 | 2003-01-13 |
+| [Municipal Federal Grant Tax and Bond Act (65 ILCS 55)](https://ftp.ilga.gov/ILCS/Ch%200065/Act%200055/) | 26 | 1999-07-29 |
+| [Neighborhood Security Patrol Act (65 ILCS 97)](https://ftp.ilga.gov/ILCS/Ch%200065/Act%200097/) | 13 | 2026-10-30 |
+| [Sports Stadium Act (65 ILCS 100)](https://ftp.ilga.gov/ILCS/Ch%200065/Act%200100/) | 5 | 2007-01-01 |
+| [Shore Lands for Park Use Act (65 ILCS 105)](https://ftp.ilga.gov/ILCS/Ch%200065/Act%200105/) | 2 | 2026-10-30 |
+| [River Edge Redevelopment Zone Act (65 ILCS 115)](https://ftp.ilga.gov/ILCS/Ch%200065/Act%200115/) | 21 | 2026-08-21 |
