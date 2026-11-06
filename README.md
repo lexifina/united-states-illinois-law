@@ -50,7 +50,7 @@ Current-text preparation uses the latest explicit effective date in the source a
 
 ## Static ILCS compilation additions, 30 October 2026
 
-227 additional complete indexed acts from the [Illinois General Assembly compilation](https://ftp.ilga.gov/ILCS/) are included. The compilation incorporates Public Acts through 104-854. The publisher states that these provisions have NOT been edited for publication and are NOT the official text; this copy should not be cited as official or authoritative. The only official copy is the printed copy maintained by the Secretary of State’s office.
+264 additional complete indexed acts from the [Illinois General Assembly compilation](https://ftp.ilga.gov/ILCS/) are included. The compilation incorporates Public Acts through 104-854. The publisher states that these provisions have NOT been edited for publication and are NOT the official text; this copy should not be cited as official or authoritative. The only official copy is the printed copy maintained by the Secretary of State’s office.
 
 Each addition retains all sections, act-title documents and article headings in the publisher’s Section Sequence. Dates use the latest explicit amendment effective date in the source, otherwise the compilation’s own update date, 2026-10-30. This date fallback does not claim a commencement date the source does not identify. Future-effective text and normative images are held. Existing records retain their historical dates and text; their inclusion above does not establish equality with this static compilation. Public Acts, administrative rules and earlier wording are not added.
 
@@ -283,3 +283,40 @@ Each addition retains all sections, act-title documents and article headings in 
 | [Eliminate the Digital Divide Law (30 ILCS 780)](https://ftp.ilga.gov/ILCS/Ch%200030/Act%200780/) | 13 | 2026-08-21 |
 | [Inclusion of Women and Minorities in Clinical Research Act (30 ILCS 785)](https://ftp.ilga.gov/ILCS/Ch%200030/Act%200785/) | 7 | 2022-01-01 |
 | [State Mandates Act (30 ILCS 805)](https://ftp.ilga.gov/ILCS/Ch%200030/Act%200805/) | 60 | 2026-08-21 |
+| [Economic Development for a Growing Economy Tax Credit Act (35 ILCS 10)](https://ftp.ilga.gov/ILCS/Ch%200035/Act%200010/) | 30 | 2026-08-21 |
+| [Live Theater Production Tax Credit Act (35 ILCS 17)](https://ftp.ilga.gov/ILCS/Ch%200035/Act%200017/) | 13 | 2026-06-16 |
+| [Tax Shelter Voluntary Compliance Law (35 ILCS 20)](https://ftp.ilga.gov/ILCS/Ch%200035/Act%200020/) | 6 | 2004-07-30 |
+| [Small Business Job Creation Tax Credit Act (35 ILCS 25)](https://ftp.ilga.gov/ILCS/Ch%200035/Act%200025/) | 13 | 2018-08-14 |
+| [Historic Preservation Tax Credit Pilot Program Act (35 ILCS 30)](https://ftp.ilga.gov/ILCS/Ch%200035/Act%200030/) | 8 | 2018-08-03 |
+| [State Tax Preparer Oversight Act (35 ILCS 35)](https://ftp.ilga.gov/ILCS/Ch%200035/Act%200035/) | 6 | 2017-01-01 |
+| [Manufacturing Illinois Chips for Real Opportunity (MICRO (35 ILCS 45)](https://ftp.ilga.gov/ILCS/Ch%200035/Act%200045/) | 31 | 2026-08-21 |
+| [Recovery and Mental Health Tax Credit Act (35 ILCS 50)](https://ftp.ilga.gov/ILCS/Ch%200035/Act%200050/) | 8 | 2022-06-10 |
+| [Advancing Innovative Manufacturing for Illinois Tax Credit Act (35 ILCS 65)](https://ftp.ilga.gov/ILCS/Ch%200035/Act%200065/) | 16 | 2026-01-01 |
+| [Service Use Tax Act (35 ILCS 110)](https://ftp.ilga.gov/ILCS/Ch%200035/Act%200110/) | 53 | 2026-08-21 |
+| [Cigarette Machine Operators' Occupation Tax Act (35 ILCS 128)](https://ftp.ilga.gov/ILCS/Ch%200035/Act%200128/) | 39 | 2026-06-16 |
+| [Cigarette Use Tax Act (35 ILCS 135)](https://ftp.ilga.gov/ILCS/Ch%200035/Act%200135/) | 55 | 2026-06-16 |
+| [Home Rule Cigarette Tax Restriction Act (35 ILCS 140)](https://ftp.ilga.gov/ILCS/Ch%200035/Act%200140/) | 2 | 2026-10-30 |
+| [Tobacco Products Tax Act of 1995 (35 ILCS 143)](https://ftp.ilga.gov/ILCS/Ch%200035/Act%200143/) | 51 | 2026-08-21 |
+| [Use and Occupation Tax Refund Act (35 ILCS 150)](https://ftp.ilga.gov/ILCS/Ch%200035/Act%200150/) | 2 | 2026-06-01 |
+| [Watercraft Use Tax Law (35 ILCS 158)](https://ftp.ilga.gov/ILCS/Ch%200035/Act%200158/) | 13 | 2004-07-30 |
+| [Simplified Sales and Use Tax Administration Act (35 ILCS 171)](https://ftp.ilga.gov/ILCS/Ch%200035/Act%200171/) | 14 | 2026-06-01 |
+| [Gas Use Tax Law (35 ILCS 173)](https://ftp.ilga.gov/ILCS/Ch%200035/Act%200173/) | 13 | 2024-06-26 |
+| [Leveling the Playing Field for Illinois Retail Act (35 ILCS 185)](https://ftp.ilga.gov/ILCS/Ch%200035/Act%200185/) | 46 | 2025-06-16 |
+| [Targeted Advertising Services Tax Act (35 ILCS 190)](https://ftp.ilga.gov/ILCS/Ch%200035/Act%200190/) | 55 | 2026-07-01 |
+| [Digital Asset Tax Act (35 ILCS 195)](https://ftp.ilga.gov/ILCS/Ch%200035/Act%200195/) | 51 | 2026-07-01 |
+| [Illinois Hydraulic Fracturing Tax Act (35 ILCS 450)](https://ftp.ilga.gov/ILCS/Ch%200035/Act%200450/) | 17 | 2019-01-04 |
+| [Mobile Home Local Services Tax Act (35 ILCS 515)](https://ftp.ilga.gov/ILCS/Ch%200035/Act%200515/) | 24 | 2025-08-15 |
+| [Mobile Home Local Services Tax Enforcement Act (35 ILCS 516)](https://ftp.ilga.gov/ILCS/Ch%200035/Act%200516/) | 94 | 2026-08-21 |
+| [Illinois Central Railroad Tax Act (35 ILCS 605)](https://ftp.ilga.gov/ILCS/Ch%200035/Act%200605/) | 3 | 2026-10-30 |
+| [Water Company Invested Capital Tax Act (35 ILCS 625)](https://ftp.ilga.gov/ILCS/Ch%200035/Act%200625/) | 16 | 2021-06-25 |
+| [Simplified Municipal Telecommunications Tax Act (35 ILCS 636)](https://ftp.ilga.gov/ILCS/Ch%200035/Act%200636/) | 28 | 2024-06-26 |
+| [Mobile Telecommunications Sourcing Conformity Act (35 ILCS 638)](https://ftp.ilga.gov/ILCS/Ch%200035/Act%200638/) | 23 | 2002-08-01 |
+| [Tax Collection Suit Act (35 ILCS 705)](https://ftp.ilga.gov/ILCS/Ch%200035/Act%200705/) | 4 | 2026-10-30 |
+| [Local Tax Collection Act (35 ILCS 720)](https://ftp.ilga.gov/ILCS/Ch%200035/Act%200720/) | 2 | 2017-08-18 |
+| [Federal Excise Tax Refund Act (35 ILCS 730)](https://ftp.ilga.gov/ILCS/Ch%200035/Act%200730/) | 2 | 2026-10-30 |
+| [Tax Delinquency Amnesty Act (35 ILCS 745)](https://ftp.ilga.gov/ILCS/Ch%200035/Act%200745/) | 5 | 2025-06-16 |
+| [American Hostage Tax Liability Postponement Act (35 ILCS 746)](https://ftp.ilga.gov/ILCS/Ch%200035/Act%200746/) | 14 | 2026-01-01 |
+| [State Tax Lien Registration Act (35 ILCS 750)](https://ftp.ilga.gov/ILCS/Ch%200035/Act%200750/) | 34 | 2020-01-01 |
+| [Glenview Naval Air Station Tax Exemption Act (35 ILCS 805)](https://ftp.ilga.gov/ILCS/Ch%200035/Act%200805/) | 2 | 2026-10-30 |
+| [Great Lakes Naval Station Tax Exemption Act (35 ILCS 810)](https://ftp.ilga.gov/ILCS/Ch%200035/Act%200810/) | 2 | 2026-10-30 |
+| [Illinois Independent Tax Tribunal Act of 2012 (35 ILCS 1010)](https://ftp.ilga.gov/ILCS/Ch%200035/Act%201010/) | 49 | 2026-06-16 |

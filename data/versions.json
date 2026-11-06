@@ -40454,6 +40454,524 @@
      "units": 61
     }
    ]
+  },
+  {
+   "slug": "ilcs-35-10",
+   "short": "35 ILCS 10",
+   "title": "Economic Development for a Growing Economy Tax Credit Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200035/Act%200010/",
+   "versions": [
+    {
+     "from": "2026-08-21",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200035/Act%200010/",
+     "sha256": "085f88a176a0dbae3592d9296790c1675da67e28d22fe3ce307e493e4ef27867",
+     "units": 36
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-35-17",
+   "short": "35 ILCS 17",
+   "title": "Live Theater Production Tax Credit Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200035/Act%200017/",
+   "versions": [
+    {
+     "from": "2026-06-16",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200035/Act%200017/",
+     "sha256": "4fd41a6a0dc89ebbb6ec685ea2ba35e7b40450d3a22f4abff812e5d73e673f50",
+     "units": 18
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-35-20",
+   "short": "35 ILCS 20",
+   "title": "Tax Shelter Voluntary Compliance Law",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200035/Act%200020/",
+   "versions": [
+    {
+     "from": "2004-07-30",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200035/Act%200020/",
+     "sha256": "051c098ad202a836344046a7a63a629d48b917c3ddda4b0d4cd8e5ed50926a80",
+     "units": 19
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-35-25",
+   "short": "35 ILCS 25",
+   "title": "Small Business Job Creation Tax Credit Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200035/Act%200025/",
+   "versions": [
+    {
+     "from": "2018-08-14",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200035/Act%200025/",
+     "sha256": "1f867c3a44420898c4565d3785bc3719bc75b4e715e848cedc2a04e446bf9a45",
+     "units": 14
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-35-30",
+   "short": "35 ILCS 30",
+   "title": "Historic Preservation Tax Credit Pilot Program Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200035/Act%200030/",
+   "versions": [
+    {
+     "from": "2018-08-03",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200035/Act%200030/",
+     "sha256": "063c83a56200dd593201e31e0163ba15aa8a9d7204d984808fb1b0d1d0a9a98d",
+     "units": 9
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-35-35",
+   "short": "35 ILCS 35",
+   "title": "State Tax Preparer Oversight Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200035/Act%200035/",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200035/Act%200035/",
+     "sha256": "ce1585a17a9127c62d6c7a570ab5f937eca87d29737111dd30b66dc0ebbb67e6",
+     "units": 7
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-35-45",
+   "short": "35 ILCS 45",
+   "title": "Manufacturing Illinois Chips for Real Opportunity (MICRO",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200035/Act%200045/",
+   "versions": [
+    {
+     "from": "2026-08-21",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200035/Act%200045/",
+     "sha256": "fcfb36d51bf135adfaee541076118c97f2451ca82121d81fd6917739926b7df0",
+     "units": 53
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-35-50",
+   "short": "35 ILCS 50",
+   "title": "Recovery and Mental Health Tax Credit Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200035/Act%200050/",
+   "versions": [
+    {
+     "from": "2022-06-10",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200035/Act%200050/",
+     "sha256": "4811ad7efb296ed04d932b75f418731d390485691d38075bda70c64474106181",
+     "units": 14
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-35-65",
+   "short": "35 ILCS 65",
+   "title": "Advancing Innovative Manufacturing for Illinois Tax Credit Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200035/Act%200065/",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200035/Act%200065/",
+     "sha256": "48d9fb56e6bdbc9b615a34928d1754302cfd7e3c5fd4cb19048539a7777c4631",
+     "units": 36
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-35-110",
+   "short": "35 ILCS 110",
+   "title": "Service Use Tax Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200035/Act%200110/",
+   "versions": [
+    {
+     "from": "2026-08-21",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200035/Act%200110/",
+     "sha256": "ec0a72e3af4cc62c1cf581d737185acf99416238ee80ce2c824ea8b69f14e1a7",
+     "units": 54
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-35-128",
+   "short": "35 ILCS 128",
+   "title": "Cigarette Machine Operators' Occupation Tax Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200035/Act%200128/",
+   "versions": [
+    {
+     "from": "2026-06-16",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200035/Act%200128/",
+     "sha256": "ac4926291af9ea316be73ba2360266f0ab8fa52ca0650dfaedcb335d46e80ff8",
+     "units": 43
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-35-135",
+   "short": "35 ILCS 135",
+   "title": "Cigarette Use Tax Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200035/Act%200135/",
+   "versions": [
+    {
+     "from": "2026-06-16",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200035/Act%200135/",
+     "sha256": "528b3c8813ef357e8b8194b43d726fb0121341e668b711000b6a0df9d87be8cb",
+     "units": 56
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-35-140",
+   "short": "35 ILCS 140",
+   "title": "Home Rule Cigarette Tax Restriction Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200035/Act%200140/",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200035/Act%200140/",
+     "sha256": "aa37a81984af81fd61adf01e7552a4b4f13be3f126042ad59ef3014307cb39a1",
+     "units": 3
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-35-143",
+   "short": "35 ILCS 143",
+   "title": "Tobacco Products Tax Act of 1995",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200035/Act%200143/",
+   "versions": [
+    {
+     "from": "2026-08-21",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200035/Act%200143/",
+     "sha256": "7b0fd2e7a234e8b58c19ffb050ec0572dde97b0d13bc04d5c111354ffcb2c47d",
+     "units": 57
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-35-150",
+   "short": "35 ILCS 150",
+   "title": "Use and Occupation Tax Refund Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200035/Act%200150/",
+   "versions": [
+    {
+     "from": "2026-06-01",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200035/Act%200150/",
+     "sha256": "5b59991e04718d7e6fe9b27ec39889ec7b33fc89e9a364485c01d84e2aaabc34",
+     "units": 3
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-35-158",
+   "short": "35 ILCS 158",
+   "title": "Watercraft Use Tax Law",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200035/Act%200158/",
+   "versions": [
+    {
+     "from": "2004-07-30",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200035/Act%200158/",
+     "sha256": "6427ee587d57055863b659f6b73ff757b9684abd486e36be8655dab1d6e4c839",
+     "units": 26
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-35-171",
+   "short": "35 ILCS 171",
+   "title": "Simplified Sales and Use Tax Administration Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200035/Act%200171/",
+   "versions": [
+    {
+     "from": "2026-06-01",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200035/Act%200171/",
+     "sha256": "91ac8032d6e10d76fecd73e9dbd07ce8631d5417915b571d5f1b9a6cd946e827",
+     "units": 15
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-35-173",
+   "short": "35 ILCS 173",
+   "title": "Gas Use Tax Law",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200035/Act%200173/",
+   "versions": [
+    {
+     "from": "2024-06-26",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200035/Act%200173/",
+     "sha256": "cb9233a788cc87b4c46aa605536929c7c7090c123da1c5fe11f0594a82aaff2a",
+     "units": 15
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-35-185",
+   "short": "35 ILCS 185",
+   "title": "Leveling the Playing Field for Illinois Retail Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200035/Act%200185/",
+   "versions": [
+    {
+     "from": "2025-06-16",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200035/Act%200185/",
+     "sha256": "856d9c04dcd0ee8ddf6de22ed428324c64ff3846de76a8b3badffb49d895d11e",
+     "units": 55
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-35-190",
+   "short": "35 ILCS 190",
+   "title": "Targeted Advertising Services Tax Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200035/Act%200190/",
+   "versions": [
+    {
+     "from": "2026-07-01",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200035/Act%200190/",
+     "sha256": "11184342d318f8f146654bea3c70bfa0637db7255c960db852611392766070e4",
+     "units": 91
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-35-195",
+   "short": "35 ILCS 195",
+   "title": "Digital Asset Tax Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200035/Act%200195/",
+   "versions": [
+    {
+     "from": "2026-07-01",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200035/Act%200195/",
+     "sha256": "b9c1fe02b6a7b413f267449c1879c02efc59a43669fcd540fcab710121006ccf",
+     "units": 87
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-35-450",
+   "short": "35 ILCS 450",
+   "title": "Illinois Hydraulic Fracturing Tax Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200035/Act%200450/",
+   "versions": [
+    {
+     "from": "2019-01-04",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200035/Act%200450/",
+     "sha256": "62f6a4f9d130d7f5753d024d13a1001751799b7ca3563b6d23954eecc0501f06",
+     "units": 22
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-35-515",
+   "short": "35 ILCS 515",
+   "title": "Mobile Home Local Services Tax Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200035/Act%200515/",
+   "versions": [
+    {
+     "from": "2025-08-15",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200035/Act%200515/",
+     "sha256": "eccd1286740fca5d54d9c30758d85b3d00ac7511fa55323a647ba5e1dff4d714",
+     "units": 25
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-35-516",
+   "short": "35 ILCS 516",
+   "title": "Mobile Home Local Services Tax Enforcement Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200035/Act%200516/",
+   "versions": [
+    {
+     "from": "2026-08-21",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200035/Act%200516/",
+     "sha256": "4f1836a19993fb28d71be7229ac44dae6e41d08dee9297e6ebb4e2ce88fc0c5b",
+     "units": 107
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-35-605",
+   "short": "35 ILCS 605",
+   "title": "Illinois Central Railroad Tax Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200035/Act%200605/",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200035/Act%200605/",
+     "sha256": "05c5c2b7862e1df54b094ab19d03ed13aa0a43248544f252b008c19afd180515",
+     "units": 4
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-35-625",
+   "short": "35 ILCS 625",
+   "title": "Water Company Invested Capital Tax Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200035/Act%200625/",
+   "versions": [
+    {
+     "from": "2021-06-25",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200035/Act%200625/",
+     "sha256": "76ab65cb295007c807984aa6d28da572199ba1325d32e6e8242bdd7a645d2420",
+     "units": 17
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-35-636",
+   "short": "35 ILCS 636",
+   "title": "Simplified Municipal Telecommunications Tax Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200035/Act%200636/",
+   "versions": [
+    {
+     "from": "2024-06-26",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200035/Act%200636/",
+     "sha256": "58794ff1dadfd09ea0a252df6317ffd303346659ca5dfde5d6d6e0821cc7d116",
+     "units": 33
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-35-638",
+   "short": "35 ILCS 638",
+   "title": "Mobile Telecommunications Sourcing Conformity Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200035/Act%200638/",
+   "versions": [
+    {
+     "from": "2002-08-01",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200035/Act%200638/",
+     "sha256": "ae1ee63aea955b2e0acc93dd8b1635e797b6cf357294efbc833f32c8f4d202be",
+     "units": 24
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-35-705",
+   "short": "35 ILCS 705",
+   "title": "Tax Collection Suit Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200035/Act%200705/",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200035/Act%200705/",
+     "sha256": "4356d1237642108a66e4853743f0c4d2ff5959b87fd1a9707987041db6d32f82",
+     "units": 5
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-35-720",
+   "short": "35 ILCS 720",
+   "title": "Local Tax Collection Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200035/Act%200720/",
+   "versions": [
+    {
+     "from": "2017-08-18",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200035/Act%200720/",
+     "sha256": "b834ef76a5898f54a69b34e20e7f37673a3d9896b97e5ac8ea2203c9318072c7",
+     "units": 3
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-35-730",
+   "short": "35 ILCS 730",
+   "title": "Federal Excise Tax Refund Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200035/Act%200730/",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200035/Act%200730/",
+     "sha256": "610dc2e0da8888b40bc42738d957118fb813970499cabbe4084d9f993e6c6929",
+     "units": 3
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-35-745",
+   "short": "35 ILCS 745",
+   "title": "Tax Delinquency Amnesty Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200035/Act%200745/",
+   "versions": [
+    {
+     "from": "2025-06-16",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200035/Act%200745/",
+     "sha256": "d9cf5c756ed600ea27ac2aa8f2e2cc43a8173e7d466c50d8d1fd1337f3e1fddd",
+     "units": 6
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-35-746",
+   "short": "35 ILCS 746",
+   "title": "American Hostage Tax Liability Postponement Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200035/Act%200746/",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200035/Act%200746/",
+     "sha256": "2e32d77295d018861709e9a3d8ac6945ae513a4d520917f87442f24d98eb4a57",
+     "units": 34
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-35-750",
+   "short": "35 ILCS 750",
+   "title": "State Tax Lien Registration Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200035/Act%200750/",
+   "versions": [
+    {
+     "from": "2020-01-01",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200035/Act%200750/",
+     "sha256": "370a83212e4fdf2a3bcd4b6c6036347d8e8407c23b6d985cd8953fc45a95ba6d",
+     "units": 43
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-35-805",
+   "short": "35 ILCS 805",
+   "title": "Glenview Naval Air Station Tax Exemption Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200035/Act%200805/",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200035/Act%200805/",
+     "sha256": "c7096659fb81e461fc54a2df60d85cdaadc8d316c3ba398a745f85df41908f7d",
+     "units": 3
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-35-810",
+   "short": "35 ILCS 810",
+   "title": "Great Lakes Naval Station Tax Exemption Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200035/Act%200810/",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200035/Act%200810/",
+     "sha256": "e96bcd47dfd2da3321dc33f18daa172d80a1e0b26a6ec036cd8e13f339bc630e",
+     "units": 3
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-35-1010",
+   "short": "35 ILCS 1010",
+   "title": "Illinois Independent Tax Tribunal Act of 2012",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200035/Act%201010/",
+   "versions": [
+    {
+     "from": "2026-06-16",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200035/Act%201010/",
+     "sha256": "98ae5f1c17f96483e98bff83700e1503b090f5dee01bd4de148692b79d3764d4",
+     "units": 54
+    }
+   ]
   }
  ]
 }
