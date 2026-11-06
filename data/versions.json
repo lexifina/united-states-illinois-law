@@ -42442,6 +42442,20 @@
      "units": 53
     }
    ]
+  },
+  {
+   "slug": "ilcs-240-40",
+   "short": "240 ILCS 40",
+   "title": "Grain Code",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200240/Act%200040/",
+   "versions": [
+    {
+     "from": "2022-06-10",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200240/Act%200040/",
+     "sha256": "e4255cef4f4b78645dab66c4bf957f5b7d1c375dea64f58f4d6df6e62bf0241b",
+     "units": 64
+    }
+   ]
   }
  ]
 }
