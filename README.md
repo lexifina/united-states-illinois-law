@@ -50,7 +50,7 @@ Current-text preparation uses the latest explicit effective date in the source a
 
 ## Static ILCS compilation additions, 30 October 2026
 
-158 additional complete indexed acts from the [Illinois General Assembly compilation](https://ftp.ilga.gov/ILCS/) are included. The compilation incorporates Public Acts through 104-854. The publisher states that these provisions have NOT been edited for publication and are NOT the official text; this copy should not be cited as official or authoritative. The only official copy is the printed copy maintained by the Secretary of State’s office.
+227 additional complete indexed acts from the [Illinois General Assembly compilation](https://ftp.ilga.gov/ILCS/) are included. The compilation incorporates Public Acts through 104-854. The publisher states that these provisions have NOT been edited for publication and are NOT the official text; this copy should not be cited as official or authoritative. The only official copy is the printed copy maintained by the Secretary of State’s office.
 
 Each addition retains all sections, act-title documents and article headings in the publisher’s Section Sequence. Dates use the latest explicit amendment effective date in the source, otherwise the compilation’s own update date, 2026-10-30. This date fallback does not claim a commencement date the source does not identify. Future-effective text and normative images are held. Existing records retain their historical dates and text; their inclusion above does not establish equality with this static compilation. Public Acts, administrative rules and earlier wording are not added.
 
@@ -214,3 +214,72 @@ Each addition retains all sections, act-title documents and article headings in 
 | [National Conference of State Legislatures Act (25 ILCS 165)](https://ftp.ilga.gov/ILCS/Ch%200025/Act%200165/) | 2 | 2026-10-30 |
 | [Council of State Governments Act (25 ILCS 166)](https://ftp.ilga.gov/ILCS/Ch%200025/Act%200166/) | 54 | 2024-01-01 |
 | [Legislative Accessibility Act (25 ILCS 175)](https://ftp.ilga.gov/ILCS/Ch%200025/Act%200175/) | 4 | 2025-01-01 |
+| [Public Funds Statement Publication Act (30 ILCS 15)](https://ftp.ilga.gov/ILCS/Ch%200030/Act%200015/) | 10 | 2012-01-01 |
+| [Public Funds Accounting Act (30 ILCS 20)](https://ftp.ilga.gov/ILCS/Ch%200030/Act%200020/) | 10 | 2002-06-24 |
+| [State Revenue Sharing Act (30 ILCS 115)](https://ftp.ilga.gov/ILCS/Ch%200030/Act%200115/) | 12 | 2026-06-16 |
+| [Fair and Exposition Transfer of Funds Act (30 ILCS 135)](https://ftp.ilga.gov/ILCS/Ch%200030/Act%200135/) | 2 | 2026-10-30 |
+| [Illinois Non-Game Wildlife Protection Act (30 ILCS 155)](https://ftp.ilga.gov/ILCS/Ch%200030/Act%200155/) | 4 | 2013-01-01 |
+| [Tobacco Product Manufacturers' Escrow Act (30 ILCS 168)](https://ftp.ilga.gov/ILCS/Ch%200030/Act%200168/) | 6 | 2025-06-16 |
+| [Railsplitter Tobacco Settlement Authority Act (30 ILCS 171)](https://ftp.ilga.gov/ILCS/Ch%200030/Act%200171/) | 16 | 2023-06-07 |
+| [Transportation Funding Protection Act (30 ILCS 178)](https://ftp.ilga.gov/ILCS/Ch%200030/Act%200178/) | 3 | 2019-06-28 |
+| [Uncollected State Claims Act (30 ILCS 205)](https://ftp.ilga.gov/ILCS/Ch%200030/Act%200205/) | 4 | 2011-08-19 |
+| [Illinois State Collection Act of 1986 (30 ILCS 210)](https://ftp.ilga.gov/ILCS/Ch%200030/Act%200210/) | 12 | 2019-06-28 |
+| [Gifts to State for Charitable Use Act (30 ILCS 215)](https://ftp.ilga.gov/ILCS/Ch%200030/Act%200215/) | 2 | 2026-10-30 |
+| [Fees and Salaries Act (30 ILCS 220)](https://ftp.ilga.gov/ILCS/Ch%200030/Act%200220/) | 3 | 1996-01-01 |
+| [Public Funds Deposit Act (30 ILCS 225)](https://ftp.ilga.gov/ILCS/Ch%200030/Act%200225/) | 3 | 2021-08-06 |
+| [Public Funds Investment Act (30 ILCS 235)](https://ftp.ilga.gov/ILCS/Ch%200030/Act%200235/) | 14 | 2026-01-01 |
+| [Accountability for the Investment of Public Funds Act (30 ILCS 237)](https://ftp.ilga.gov/ILCS/Ch%200030/Act%200237/) | 4 | 2025-08-15 |
+| [Public Funds in Failed Banks Act (30 ILCS 240)](https://ftp.ilga.gov/ILCS/Ch%200030/Act%200240/) | 2 | 2026-10-30 |
+| [Tennessee Valley Authority Payment Act (30 ILCS 250)](https://ftp.ilga.gov/ILCS/Ch%200030/Act%200250/) | 2 | 2011-06-28 |
+| [Technology Development Act (30 ILCS 265)](https://ftp.ilga.gov/ILCS/Ch%200030/Act%200265/) | 8 | 2023-01-01 |
+| [Bond Authorization Act (30 ILCS 305)](https://ftp.ilga.gov/ILCS/Ch%200030/Act%200305/) | 7 | 2004-01-01 |
+| [Illinois Bond Replacement Act (30 ILCS 315)](https://ftp.ilga.gov/ILCS/Ch%200030/Act%200315/) | 9 | 2026-10-30 |
+| [General Obligation Bond Act (30 ILCS 330)](https://ftp.ilga.gov/ILCS/Ch%200030/Act%200330/) | 30 | 2026-06-16 |
+| [General Obligation Bond Investment Act (30 ILCS 335)](https://ftp.ilga.gov/ILCS/Ch%200030/Act%200335/) | 3 | 2026-10-30 |
+| [Short Term Borrowing Act (30 ILCS 340)](https://ftp.ilga.gov/ILCS/Ch%200030/Act%200340/) | 5 | 2020-05-29 |
+| [Coronavirus Urgent Remediation Emergency Borrowing Act (30 ILCS 343)](https://ftp.ilga.gov/ILCS/Ch%200030/Act%200343/) | 8 | 2020-05-29 |
+| [Bond Issue Notification Act (30 ILCS 352)](https://ftp.ilga.gov/ILCS/Ch%200030/Act%200352/) | 13 | 2018-06-01 |
+| [Public Works Finance Act (30 ILCS 370)](https://ftp.ilga.gov/ILCS/Ch%200030/Act%200370/) | 2 | 2026-10-30 |
+| [Local Government Debt Offering Act (30 ILCS 375)](https://ftp.ilga.gov/ILCS/Ch%200030/Act%200375/) | 9 | 2021-08-06 |
+| [Build Illinois Bond Act (30 ILCS 425)](https://ftp.ilga.gov/ILCS/Ch%200030/Act%200425/) | 20 | 2026-06-16 |
+| [Human Services Provider Bond Reserve Payment Act (30 ILCS 435)](https://ftp.ilga.gov/ILCS/Ch%200030/Act%200435/) | 7 | 2007-08-21 |
+| [Illinois Unemployment Insurance Trust Fund Financing Act (30 ILCS 440)](https://ftp.ilga.gov/ILCS/Ch%200030/Act%200440/) | 18 | 2011-11-18 |
+| [Climate Bank Loan Financing Act (30 ILCS 445)](https://ftp.ilga.gov/ILCS/Ch%200030/Act%200445/) | 11 | 2025-06-16 |
+| [Procurement of Domestic Products Act (30 ILCS 517)](https://ftp.ilga.gov/ILCS/Ch%200030/Act%200517/) | 10 | 2023-01-01 |
+| [Transportation Sustainability Procurement Program Act (30 ILCS 530)](https://ftp.ilga.gov/ILCS/Ch%200030/Act%200530/) | 5 | 2024-01-01 |
+| [Design-Build Procurement Act (30 ILCS 537)](https://ftp.ilga.gov/ILCS/Ch%200030/Act%200537/) | 16 | 2026-06-26 |
+| [Public Contract Fraud Act (30 ILCS 545)](https://ftp.ilga.gov/ILCS/Ch%200030/Act%200545/) | 5 | 2025-01-01 |
+| [Illinois Mined Coal Act (30 ILCS 555)](https://ftp.ilga.gov/ILCS/Ch%200030/Act%200555/) | 5 | 1996-02-07 |
+| [Public Construction Contract Act (30 ILCS 557)](https://ftp.ilga.gov/ILCS/Ch%200030/Act%200557/) | 7 | 1999-11-30 |
+| [Public-Private Partnership for Civic and Transit Infrastructure Project Act (30 ILCS 558)](https://ftp.ilga.gov/ILCS/Ch%200030/Act%200558/) | 42 | 2021-08-20 |
+| [Illinois Works Jobs Program Act (30 ILCS 559)](https://ftp.ilga.gov/ILCS/Ch%200030/Act%200559/) | 46 | 2026-06-16 |
+| [Steel Products Procurement Act (30 ILCS 565)](https://ftp.ilga.gov/ILCS/Ch%200030/Act%200565/) | 7 | 2026-10-30 |
+| [State Entities Single-Use Plastic Reporting Act (30 ILCS 567)](https://ftp.ilga.gov/ILCS/Ch%200030/Act%200567/) | 5 | 2023-08-04 |
+| [Drug Free Workplace Act (30 ILCS 580)](https://ftp.ilga.gov/ILCS/Ch%200030/Act%200580/) | 11 | 2026-10-30 |
+| [International Anti-Boycott Certification Act (30 ILCS 582)](https://ftp.ilga.gov/ILCS/Ch%200030/Act%200582/) | 6 | 1999-07-29 |
+| [Data Processing Confidentiality Act (30 ILCS 585)](https://ftp.ilga.gov/ILCS/Ch%200030/Act%200585/) | 3 | 2026-10-30 |
+| [State Property Control Act (30 ILCS 605)](https://ftp.ilga.gov/ILCS/Ch%200030/Act%200605/) | 37 | 2026-01-01 |
+| [State Facilities Closure Act (30 ILCS 608)](https://ftp.ilga.gov/ILCS/Ch%200030/Act%200608/) | 6 | 2025-08-15 |
+| [Grant Information Collection Act (30 ILCS 707)](https://ftp.ilga.gov/ILCS/Ch%200030/Act%200707/) | 3 | 2018-07-20 |
+| [Rural Economic Development Act (30 ILCS 710)](https://ftp.ilga.gov/ILCS/Ch%200030/Act%200710/) | 14 | 2026-08-21 |
+| [Intergovernmental Drug Laws Enforcement Act (30 ILCS 715)](https://ftp.ilga.gov/ILCS/Ch%200030/Act%200715/) | 12 | 2026-07-31 |
+| [Industrial Development Assistance Law (30 ILCS 720)](https://ftp.ilga.gov/ILCS/Ch%200030/Act%200720/) | 8 | 2023-07-28 |
+| [Illinois Coal Technology Development Assistance Act (30 ILCS 730)](https://ftp.ilga.gov/ILCS/Ch%200030/Act%200730/) | 6 | 2026-06-16 |
+| [Urban and Community Forestry Assistance Act (30 ILCS 735)](https://ftp.ilga.gov/ILCS/Ch%200030/Act%200735/) | 7 | 2026-01-01 |
+| [Urban Weatherization Initiative Act (30 ILCS 738)](https://ftp.ilga.gov/ILCS/Ch%200030/Act%200738/) | 11 | 2026-08-07 |
+| [Downstate Public Transportation Act (30 ILCS 740)](https://ftp.ilga.gov/ILCS/Ch%200030/Act%200740/) | 70 | 2026-07-10 |
+| [Intermodal Facilities Promotion Act (30 ILCS 743)](https://ftp.ilga.gov/ILCS/Ch%200030/Act%200743/) | 10 | 2009-08-21 |
+| [Public Radio and Television Grant Act (30 ILCS 745)](https://ftp.ilga.gov/ILCS/Ch%200030/Act%200745/) | 10 | 1999-06-09 |
+| [Invest in Illinois Act (30 ILCS 751)](https://ftp.ilga.gov/ILCS/Ch%200030/Act%200751/) | 31 | 2023-02-03 |
+| [Community Youth Employment Act (30 ILCS 757)](https://ftp.ilga.gov/ILCS/Ch%200030/Act%200757/) | 5 | 2010-07-23 |
+| [Business Economic Support Act (30 ILCS 760)](https://ftp.ilga.gov/ILCS/Ch%200030/Act%200760/) | 4 | 2026-10-30 |
+| [Park and Recreational Facility Construction Act of 2009 (30 ILCS 764)](https://ftp.ilga.gov/ILCS/Ch%200030/Act%200764/) | 11 | 2021-08-20 |
+| [Illinois Equal Justice Act (30 ILCS 765)](https://ftp.ilga.gov/ILCS/Ch%200030/Act%200765/) | 11 | 2026-06-16 |
+| [Community Health Center Construction Act (30 ILCS 766)](https://ftp.ilga.gov/ILCS/Ch%200030/Act%200766/) | 7 | 2009-07-13 |
+| [Public Library Construction Act (30 ILCS 767)](https://ftp.ilga.gov/ILCS/Ch%200030/Act%200767/) | 14 | 2020-06-10 |
+| [Private Colleges and Universities Capital Distribution Formula Act (30 ILCS 769)](https://ftp.ilga.gov/ILCS/Ch%200030/Act%200769/) | 6 | 2025-06-16 |
+| [Employee Wellness Program Grant Act (30 ILCS 770)](https://ftp.ilga.gov/ILCS/Ch%200030/Act%200770/) | 11 | 1996-12-31 |
+| [Equity in Long-term Care Quality Act (30 ILCS 772)](https://ftp.ilga.gov/ILCS/Ch%200030/Act%200772/) | 9 | 2025-11-21 |
+| [Eliminate the Digital Divide Law (30 ILCS 780)](https://ftp.ilga.gov/ILCS/Ch%200030/Act%200780/) | 13 | 2026-08-21 |
+| [Inclusion of Women and Minorities in Clinical Research Act (30 ILCS 785)](https://ftp.ilga.gov/ILCS/Ch%200030/Act%200785/) | 7 | 2022-01-01 |
+| [State Mandates Act (30 ILCS 805)](https://ftp.ilga.gov/ILCS/Ch%200030/Act%200805/) | 60 | 2026-08-21 |

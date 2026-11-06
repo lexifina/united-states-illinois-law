@@ -39488,6 +39488,972 @@
      "units": 5
     }
    ]
+  },
+  {
+   "slug": "ilcs-30-15",
+   "short": "30 ILCS 15",
+   "title": "Public Funds Statement Publication Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200030/Act%200015/",
+   "versions": [
+    {
+     "from": "2012-01-01",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200030/Act%200015/",
+     "sha256": "317e16a56ddbd4bada618a9998fede0cec80e85509e8ec6f4385986884861e7c",
+     "units": 11
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-30-20",
+   "short": "30 ILCS 20",
+   "title": "Public Funds Accounting Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200030/Act%200020/",
+   "versions": [
+    {
+     "from": "2002-06-24",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200030/Act%200020/",
+     "sha256": "130b8d469e67b64a592b7e36f47dc9105f329b21745794c9b1e20847e2984bef",
+     "units": 11
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-30-115",
+   "short": "30 ILCS 115",
+   "title": "State Revenue Sharing Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200030/Act%200115/",
+   "versions": [
+    {
+     "from": "2026-06-16",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200030/Act%200115/",
+     "sha256": "23d837998d8bbe6e9f6978c31637129bb17bd30fff6318c79eb5da17844eaa04",
+     "units": 13
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-30-135",
+   "short": "30 ILCS 135",
+   "title": "Fair and Exposition Transfer of Funds Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200030/Act%200135/",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200030/Act%200135/",
+     "sha256": "7044b2b88c38af6c8608366907f632e170f5593a6cfb0269c8b08df5cf251252",
+     "units": 3
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-30-155",
+   "short": "30 ILCS 155",
+   "title": "Illinois Non-Game Wildlife Protection Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200030/Act%200155/",
+   "versions": [
+    {
+     "from": "2013-01-01",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200030/Act%200155/",
+     "sha256": "9b46d592f32b765db2d176cfcf41b8a708d176ee3b77d32affb6efb5dd2c3453",
+     "units": 5
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-30-168",
+   "short": "30 ILCS 168",
+   "title": "Tobacco Product Manufacturers' Escrow Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200030/Act%200168/",
+   "versions": [
+    {
+     "from": "2025-06-16",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200030/Act%200168/",
+     "sha256": "5475194e2ad73dbe57b415ae53eadf45b7c99d3fe6aa3b5e56fcb694567397a9",
+     "units": 7
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-30-171",
+   "short": "30 ILCS 171",
+   "title": "Railsplitter Tobacco Settlement Authority Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200030/Act%200171/",
+   "versions": [
+    {
+     "from": "2023-06-07",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200030/Act%200171/",
+     "sha256": "d65ca15bba4feb217bc47b32a22fe41eb075690fe7069f0f4807dbcecf9a6a31",
+     "units": 25
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-30-178",
+   "short": "30 ILCS 178",
+   "title": "Transportation Funding Protection Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200030/Act%200178/",
+   "versions": [
+    {
+     "from": "2019-06-28",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200030/Act%200178/",
+     "sha256": "3728c824f16f31b2b85f6d15b1d0d0791c697f11387637e7312a4c4e11b9aecd",
+     "units": 10
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-30-205",
+   "short": "30 ILCS 205",
+   "title": "Uncollected State Claims Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200030/Act%200205/",
+   "versions": [
+    {
+     "from": "2011-08-19",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200030/Act%200205/",
+     "sha256": "0a2c2b570d02fee4142bb7a8bb6755f2f0ca489318dfba144c40f594474c78a4",
+     "units": 5
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-30-210",
+   "short": "30 ILCS 210",
+   "title": "Illinois State Collection Act of 1986",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200030/Act%200210/",
+   "versions": [
+    {
+     "from": "2019-06-28",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200030/Act%200210/",
+     "sha256": "ea4f911d942efde5e1a55239e6bd50392a7c43a950088dc07c0e0094bcb82882",
+     "units": 13
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-30-215",
+   "short": "30 ILCS 215",
+   "title": "Gifts to State for Charitable Use Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200030/Act%200215/",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200030/Act%200215/",
+     "sha256": "ca3f5e7f8f62412bcb9b11983a496abd33ee73d4714bb5d264a366648b1d5127",
+     "units": 3
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-30-220",
+   "short": "30 ILCS 220",
+   "title": "Fees and Salaries Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200030/Act%200220/",
+   "versions": [
+    {
+     "from": "1996-01-01",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200030/Act%200220/",
+     "sha256": "12c496e63348758f162f200c072f4eb818cf81fd2e81659d4fd49c8c38be72d4",
+     "units": 4
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-30-225",
+   "short": "30 ILCS 225",
+   "title": "Public Funds Deposit Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200030/Act%200225/",
+   "versions": [
+    {
+     "from": "2021-08-06",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200030/Act%200225/",
+     "sha256": "a480f6f5135e01226eaaa47d98fee7b203d743200099f5a71adf95a3d35142a5",
+     "units": 4
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-30-235",
+   "short": "30 ILCS 235",
+   "title": "Public Funds Investment Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200030/Act%200235/",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200030/Act%200235/",
+     "sha256": "f1d1346ad9fa708f80d621fd6249212e949ebc5c46cb877f714bfd1f76a9e5dd",
+     "units": 15
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-30-237",
+   "short": "30 ILCS 237",
+   "title": "Accountability for the Investment of Public Funds Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200030/Act%200237/",
+   "versions": [
+    {
+     "from": "2025-08-15",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200030/Act%200237/",
+     "sha256": "1494039d6d75ed912a0ec01ca459043e28f43f5d982a599ccda40d6dd2628b3a",
+     "units": 5
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-30-240",
+   "short": "30 ILCS 240",
+   "title": "Public Funds in Failed Banks Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200030/Act%200240/",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200030/Act%200240/",
+     "sha256": "a3c89a4f54c4f8401bf0d2783f5fda5b63c4bdb6d019182ec2aec30ec1117458",
+     "units": 3
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-30-250",
+   "short": "30 ILCS 250",
+   "title": "Tennessee Valley Authority Payment Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200030/Act%200250/",
+   "versions": [
+    {
+     "from": "2011-06-28",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200030/Act%200250/",
+     "sha256": "f9271ca06fb4fd07d9fec09d26c4b195464bc06a1bcd3a783696be6927d4737c",
+     "units": 3
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-30-265",
+   "short": "30 ILCS 265",
+   "title": "Technology Development Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200030/Act%200265/",
+   "versions": [
+    {
+     "from": "2023-01-01",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200030/Act%200265/",
+     "sha256": "ff99417ef5716982c99e88376c34d49ca985828130ee535c3c65d2a1af9b4e44",
+     "units": 9
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-30-305",
+   "short": "30 ILCS 305",
+   "title": "Bond Authorization Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200030/Act%200305/",
+   "versions": [
+    {
+     "from": "2004-01-01",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200030/Act%200305/",
+     "sha256": "58868f7b5f0ca08b0a77b476aeaacadc7419816d80580860dca8545c05d0049f",
+     "units": 8
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-30-315",
+   "short": "30 ILCS 315",
+   "title": "Illinois Bond Replacement Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200030/Act%200315/",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200030/Act%200315/",
+     "sha256": "c9da5471bee76bda3f397d7c34a023d2df9ef1a93d7a055ee75fec43ec568827",
+     "units": 10
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-30-330",
+   "short": "30 ILCS 330",
+   "title": "General Obligation Bond Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200030/Act%200330/",
+   "versions": [
+    {
+     "from": "2026-06-16",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200030/Act%200330/",
+     "sha256": "fcc5ceccf8a40745c5497c921e7f7dca017579d266be34f30f29b7934546068f",
+     "units": 31
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-30-335",
+   "short": "30 ILCS 335",
+   "title": "General Obligation Bond Investment Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200030/Act%200335/",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200030/Act%200335/",
+     "sha256": "d65ac3ee14e6eb1de5f94447bc029199b7a038b54f7de383818be0a31f312cc3",
+     "units": 4
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-30-340",
+   "short": "30 ILCS 340",
+   "title": "Short Term Borrowing Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200030/Act%200340/",
+   "versions": [
+    {
+     "from": "2020-05-29",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200030/Act%200340/",
+     "sha256": "20cf5bea52a513cce01e83f9e755e850df8ed78daa8ced5dd7e26a7436d6d677",
+     "units": 6
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-30-343",
+   "short": "30 ILCS 343",
+   "title": "Coronavirus Urgent Remediation Emergency Borrowing Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200030/Act%200343/",
+   "versions": [
+    {
+     "from": "2020-05-29",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200030/Act%200343/",
+     "sha256": "c7c527452c37e584da5307cd70335fbe496ee1b31263bf25466f7749aba06cf2",
+     "units": 9
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-30-352",
+   "short": "30 ILCS 352",
+   "title": "Bond Issue Notification Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200030/Act%200352/",
+   "versions": [
+    {
+     "from": "2018-06-01",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200030/Act%200352/",
+     "sha256": "fcdb6c78579a749cc141cab09cb5ee4147de950de39900e23f68269a9db459a0",
+     "units": 14
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-30-370",
+   "short": "30 ILCS 370",
+   "title": "Public Works Finance Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200030/Act%200370/",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200030/Act%200370/",
+     "sha256": "6c80d3112078a5f189074a6430c619bdabd39b04096d24fd8bf25f7b36c1343c",
+     "units": 3
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-30-375",
+   "short": "30 ILCS 375",
+   "title": "Local Government Debt Offering Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200030/Act%200375/",
+   "versions": [
+    {
+     "from": "2021-08-06",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200030/Act%200375/",
+     "sha256": "edd9a7bb688bc66b89b3535a68fe984ef64ec8a64549bc3fbe0897ab032650e8",
+     "units": 10
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-30-425",
+   "short": "30 ILCS 425",
+   "title": "Build Illinois Bond Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200030/Act%200425/",
+   "versions": [
+    {
+     "from": "2026-06-16",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200030/Act%200425/",
+     "sha256": "69391d072e37edb99fc48c933cd93d1cd917a9aa463335d0b64324aa59f2451a",
+     "units": 21
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-30-435",
+   "short": "30 ILCS 435",
+   "title": "Human Services Provider Bond Reserve Payment Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200030/Act%200435/",
+   "versions": [
+    {
+     "from": "2007-08-21",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200030/Act%200435/",
+     "sha256": "370799794ee99214e300de63e19429fed23908424df1b56823399357697a6736",
+     "units": 8
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-30-440",
+   "short": "30 ILCS 440",
+   "title": "Illinois Unemployment Insurance Trust Fund Financing Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200030/Act%200440/",
+   "versions": [
+    {
+     "from": "2011-11-18",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200030/Act%200440/",
+     "sha256": "85ace8cb52cd307da1a1fc5daec793761657366e9ea9dd62dc3c0f4ef45783e9",
+     "units": 19
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-30-445",
+   "short": "30 ILCS 445",
+   "title": "Climate Bank Loan Financing Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200030/Act%200445/",
+   "versions": [
+    {
+     "from": "2025-06-16",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200030/Act%200445/",
+     "sha256": "68a9c4537d814164c4f4b8c7e2453d5801f2af93e2e7881384fa631410839f8c",
+     "units": 12
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-30-517",
+   "short": "30 ILCS 517",
+   "title": "Procurement of Domestic Products Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200030/Act%200517/",
+   "versions": [
+    {
+     "from": "2023-01-01",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200030/Act%200517/",
+     "sha256": "f5f9f98a67b8eadd6bb224896cb4b43b1676637650383b032aa544e7cfbab8f3",
+     "units": 11
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-30-530",
+   "short": "30 ILCS 530",
+   "title": "Transportation Sustainability Procurement Program Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200030/Act%200530/",
+   "versions": [
+    {
+     "from": "2024-01-01",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200030/Act%200530/",
+     "sha256": "130c1179069438dce1e24da3ef18590282a48f11572c52556b5d65d6328dc924",
+     "units": 6
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-30-537",
+   "short": "30 ILCS 537",
+   "title": "Design-Build Procurement Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200030/Act%200537/",
+   "versions": [
+    {
+     "from": "2026-06-26",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200030/Act%200537/",
+     "sha256": "dc762f752c58f9b49b62feda8e34f829e75d51eae43eaa44e9242b736d68e0ca",
+     "units": 17
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-30-545",
+   "short": "30 ILCS 545",
+   "title": "Public Contract Fraud Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200030/Act%200545/",
+   "versions": [
+    {
+     "from": "2025-01-01",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200030/Act%200545/",
+     "sha256": "9d577ea0cf143158405e43b96dee7b1af5fbea35dc2600acb8c6d2b91881d3bf",
+     "units": 6
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-30-555",
+   "short": "30 ILCS 555",
+   "title": "Illinois Mined Coal Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200030/Act%200555/",
+   "versions": [
+    {
+     "from": "1996-02-07",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200030/Act%200555/",
+     "sha256": "83598f2b00add0d8dda6705599b20b409e485929a67651c1eda7b152328442cb",
+     "units": 6
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-30-557",
+   "short": "30 ILCS 557",
+   "title": "Public Construction Contract Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200030/Act%200557/",
+   "versions": [
+    {
+     "from": "1999-11-30",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200030/Act%200557/",
+     "sha256": "6ae5af78e0f293706202b661168e51ee34a8a775e9945546a47a2951d88d41d1",
+     "units": 8
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-30-558",
+   "short": "30 ILCS 558",
+   "title": "Public-Private Partnership for Civic and Transit Infrastructure Project Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200030/Act%200558/",
+   "versions": [
+    {
+     "from": "2021-08-20",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200030/Act%200558/",
+     "sha256": "1b8e9dbb56e77a9b598c945da7f19d2bdc876740735babf8eac983b567df2742",
+     "units": 55
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-30-559",
+   "short": "30 ILCS 559",
+   "title": "Illinois Works Jobs Program Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200030/Act%200559/",
+   "versions": [
+    {
+     "from": "2026-06-16",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200030/Act%200559/",
+     "sha256": "e09a5e9c1b532f62c263c8a701be9317248c4d6e6e483531f0d136eadcdca774",
+     "units": 55
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-30-565",
+   "short": "30 ILCS 565",
+   "title": "Steel Products Procurement Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200030/Act%200565/",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200030/Act%200565/",
+     "sha256": "b869d5e59bc446145e7afb32ecd83715b118475ccd2a330c9acd398124051e7c",
+     "units": 8
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-30-567",
+   "short": "30 ILCS 567",
+   "title": "State Entities Single-Use Plastic Reporting Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200030/Act%200567/",
+   "versions": [
+    {
+     "from": "2023-08-04",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200030/Act%200567/",
+     "sha256": "a662eb5a9e6cf046bef60f28353d8cf27324b5d1799ac76ebc452574642ec4b6",
+     "units": 6
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-30-580",
+   "short": "30 ILCS 580",
+   "title": "Drug Free Workplace Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200030/Act%200580/",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200030/Act%200580/",
+     "sha256": "ed1e9bc3b2fb36b96330f13b74480ef5cdbd7c828cdd03be42d50b388947450c",
+     "units": 12
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-30-582",
+   "short": "30 ILCS 582",
+   "title": "International Anti-Boycott Certification Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200030/Act%200582/",
+   "versions": [
+    {
+     "from": "1999-07-29",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200030/Act%200582/",
+     "sha256": "3ca9c07315fb85c37ad811a815e1976f5bdc428a5883f7d3626eb5c1f6788c86",
+     "units": 7
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-30-585",
+   "short": "30 ILCS 585",
+   "title": "Data Processing Confidentiality Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200030/Act%200585/",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200030/Act%200585/",
+     "sha256": "3917f354c18ddf0c3fc00222ff5faaf6820e956c00cb8524e0aee85f0fcf95a8",
+     "units": 4
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-30-605",
+   "short": "30 ILCS 605",
+   "title": "State Property Control Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200030/Act%200605/",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200030/Act%200605/",
+     "sha256": "b904ee49f2c20bf63372664413a68e9cb5290ca048aaee8056c0f7c453c57210",
+     "units": 38
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-30-608",
+   "short": "30 ILCS 608",
+   "title": "State Facilities Closure Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200030/Act%200608/",
+   "versions": [
+    {
+     "from": "2025-08-15",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200030/Act%200608/",
+     "sha256": "f57044a2315822e4c2513ab2093368f2131385988ee4814b493881c9537b274c",
+     "units": 11
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-30-707",
+   "short": "30 ILCS 707",
+   "title": "Grant Information Collection Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200030/Act%200707/",
+   "versions": [
+    {
+     "from": "2018-07-20",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200030/Act%200707/",
+     "sha256": "04c62c2b282f31ec543364d69d7c3039f84fb20240b629c665b1b29e40e7634d",
+     "units": 4
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-30-710",
+   "short": "30 ILCS 710",
+   "title": "Rural Economic Development Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200030/Act%200710/",
+   "versions": [
+    {
+     "from": "2026-08-21",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200030/Act%200710/",
+     "sha256": "69d71357b4632e61a426779ee75afe247f27517eac08ba6ad280ba5d181c01a3",
+     "units": 18
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-30-715",
+   "short": "30 ILCS 715",
+   "title": "Intergovernmental Drug Laws Enforcement Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200030/Act%200715/",
+   "versions": [
+    {
+     "from": "2026-07-31",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200030/Act%200715/",
+     "sha256": "66eb4c7b9ba30abcf764a88c137c658b22869631d86e4f00d13509255e57b24c",
+     "units": 13
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-30-720",
+   "short": "30 ILCS 720",
+   "title": "Industrial Development Assistance Law",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200030/Act%200720/",
+   "versions": [
+    {
+     "from": "2023-07-28",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200030/Act%200720/",
+     "sha256": "56fdda379ac21621e3c04c2db85f6cd2683ff4b746a0be8c8026b917be9b44a2",
+     "units": 9
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-30-730",
+   "short": "30 ILCS 730",
+   "title": "Illinois Coal Technology Development Assistance Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200030/Act%200730/",
+   "versions": [
+    {
+     "from": "2026-06-16",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200030/Act%200730/",
+     "sha256": "90a35f3a538a4351960d83453ecb38bb7528574e2766b1e0c0b9d3a61df4e94d",
+     "units": 7
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-30-735",
+   "short": "30 ILCS 735",
+   "title": "Urban and Community Forestry Assistance Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200030/Act%200735/",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200030/Act%200735/",
+     "sha256": "1494690da12f8514dce7f1eccbaafbfe6553b46da64b4eb1927144fc43486771",
+     "units": 8
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-30-738",
+   "short": "30 ILCS 738",
+   "title": "Urban Weatherization Initiative Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200030/Act%200738/",
+   "versions": [
+    {
+     "from": "2026-08-07",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200030/Act%200738/",
+     "sha256": "64956ad93ac535c399fb0f062b7fb9407d00f60334c073b27a51c17641ea368b",
+     "units": 31
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-30-740",
+   "short": "30 ILCS 740",
+   "title": "Downstate Public Transportation Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200030/Act%200740/",
+   "versions": [
+    {
+     "from": "2026-07-10",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200030/Act%200740/",
+     "sha256": "b942d96cf641ef3a8e516fa5840bcbeb24d2392ce6328ad57285e468757e8fe4",
+     "units": 76
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-30-743",
+   "short": "30 ILCS 743",
+   "title": "Intermodal Facilities Promotion Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200030/Act%200743/",
+   "versions": [
+    {
+     "from": "2009-08-21",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200030/Act%200743/",
+     "sha256": "57019df7bc7afe378b68a9219504ec1a74524968c3f970fdae549bb6ca161d9d",
+     "units": 11
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-30-745",
+   "short": "30 ILCS 745",
+   "title": "Public Radio and Television Grant Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200030/Act%200745/",
+   "versions": [
+    {
+     "from": "1999-06-09",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200030/Act%200745/",
+     "sha256": "057126aff6ae5d21ace04bc6cdc52b663d5bb223b9b4c4e13058cfa14b1fbde0",
+     "units": 11
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-30-751",
+   "short": "30 ILCS 751",
+   "title": "Invest in Illinois Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200030/Act%200751/",
+   "versions": [
+    {
+     "from": "2023-02-03",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200030/Act%200751/",
+     "sha256": "722d0b1897a550a00f60d686152b45ede3a97120fd1c54b32f072eb8ff2234a3",
+     "units": 32
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-30-757",
+   "short": "30 ILCS 757",
+   "title": "Community Youth Employment Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200030/Act%200757/",
+   "versions": [
+    {
+     "from": "2010-07-23",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200030/Act%200757/",
+     "sha256": "60783637b1b27f0ce6417debac88dacbf80e0f9dbb019588285538e5f779c2b2",
+     "units": 6
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-30-760",
+   "short": "30 ILCS 760",
+   "title": "Business Economic Support Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200030/Act%200760/",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200030/Act%200760/",
+     "sha256": "d674a1225bc60a6d4cae4b14447faa92b802f4647f1081f7f639d909fe5c2d37",
+     "units": 5
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-30-764",
+   "short": "30 ILCS 764",
+   "title": "Park and Recreational Facility Construction Act of 2009",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200030/Act%200764/",
+   "versions": [
+    {
+     "from": "2021-08-20",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200030/Act%200764/",
+     "sha256": "6533453be78154f7c0c141089fc11016b5310e9c9fef8862585a54ef29a7d6da",
+     "units": 16
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-30-765",
+   "short": "30 ILCS 765",
+   "title": "Illinois Equal Justice Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200030/Act%200765/",
+   "versions": [
+    {
+     "from": "2026-06-16",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200030/Act%200765/",
+     "sha256": "cc8ff5d8b4e5c8eb1cea04ca2720d9ffb2b980fb9bc30a3f15f402da81350ade",
+     "units": 12
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-30-766",
+   "short": "30 ILCS 766",
+   "title": "Community Health Center Construction Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200030/Act%200766/",
+   "versions": [
+    {
+     "from": "2009-07-13",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200030/Act%200766/",
+     "sha256": "11902bf065a9803f279700fd5b3845bbdaea64869486ca00aa05e75f11138778",
+     "units": 27
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-30-767",
+   "short": "30 ILCS 767",
+   "title": "Public Library Construction Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200030/Act%200767/",
+   "versions": [
+    {
+     "from": "2020-06-10",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200030/Act%200767/",
+     "sha256": "f4d541115f1e8bc2433c5c071b0a9c0308d334d977ce0fb55806267717c3322e",
+     "units": 34
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-30-769",
+   "short": "30 ILCS 769",
+   "title": "Private Colleges and Universities Capital Distribution Formula Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200030/Act%200769/",
+   "versions": [
+    {
+     "from": "2025-06-16",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200030/Act%200769/",
+     "sha256": "7ae2b04dce593f41bc1b9a02ae783b23ded5ad56e606a87ae710287b8d61abf4",
+     "units": 26
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-30-770",
+   "short": "30 ILCS 770",
+   "title": "Employee Wellness Program Grant Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200030/Act%200770/",
+   "versions": [
+    {
+     "from": "1996-12-31",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200030/Act%200770/",
+     "sha256": "430d230f2a8641f20adb750c717eabafdee799681e68b181b9d8b34b3f7ba6c6",
+     "units": 12
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-30-772",
+   "short": "30 ILCS 772",
+   "title": "Equity in Long-term Care Quality Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200030/Act%200772/",
+   "versions": [
+    {
+     "from": "2025-11-21",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200030/Act%200772/",
+     "sha256": "af2c42c0adafb3480811bd970b9ecbfe8b4ecebcd5272a0f2f27c5c06c528b5e",
+     "units": 10
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-30-780",
+   "short": "30 ILCS 780",
+   "title": "Eliminate the Digital Divide Law",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200030/Act%200780/",
+   "versions": [
+    {
+     "from": "2026-08-21",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200030/Act%200780/",
+     "sha256": "4b80ba599999c7b70ce8557f402553a47d474f709b3abdff8f48d0a9a303c97c",
+     "units": 18
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-30-785",
+   "short": "30 ILCS 785",
+   "title": "Inclusion of Women and Minorities in Clinical Research Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200030/Act%200785/",
+   "versions": [
+    {
+     "from": "2022-01-01",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200030/Act%200785/",
+     "sha256": "0ecfa534d18d7fe32a1cdad1239bbfc21637c41a92bbb23cc43c4535bdf6458c",
+     "units": 8
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-30-805",
+   "short": "30 ILCS 805",
+   "title": "State Mandates Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200030/Act%200805/",
+   "versions": [
+    {
+     "from": "2026-08-21",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200030/Act%200805/",
+     "sha256": "5fff1123acf9427b86c048934b8837d234d461145f7717b0fa77cd9a01213f17",
+     "units": 61
+    }
+   ]
   }
  ]
 }
