@@ -50,7 +50,7 @@ Current-text preparation uses the latest explicit effective date in the source a
 
 ## Static ILCS compilation additions, 30 October 2026
 
-514 additional complete indexed acts from the [Illinois General Assembly compilation](https://ftp.ilga.gov/ILCS/) are included. The compilation incorporates Public Acts through 104-854. The publisher states that these provisions have NOT been edited for publication and are NOT the official text; this copy should not be cited as official or authoritative. The only official copy is the printed copy maintained by the Secretary of State’s office.
+527 additional complete indexed acts from the [Illinois General Assembly compilation](https://ftp.ilga.gov/ILCS/) are included. The compilation incorporates Public Acts through 104-854. The publisher states that these provisions have NOT been edited for publication and are NOT the official text; this copy should not be cited as official or authoritative. The only official copy is the printed copy maintained by the Secretary of State’s office.
 
 Each addition retains all sections, act-title documents and article headings in the publisher’s Section Sequence. Dates use the latest explicit amendment effective date in the source, otherwise the compilation’s own update date, 2026-10-30. This date fallback does not claim a commencement date the source does not identify. Future-effective text and normative images are held. Existing records retain their historical dates and text; their inclusion above does not establish equality with this static compilation. Public Acts, administrative rules and earlier wording are not added.
 
@@ -570,3 +570,16 @@ Each addition retains all sections, act-title documents and article headings in 
 | [McHenry County Dam Act (615 ILCS 100)](https://ftp.ilga.gov/ILCS/Ch%200615/Act%200100/) | 5 | 1996-02-07 |
 | [Hennepin Canal Parkway State Park Act (615 ILCS 105)](https://ftp.ilga.gov/ILCS/Ch%200615/Act%200105/) | 6 | 1997-07-01 |
 | [Kankakee River Dam Transfer Act (615 ILCS 110)](https://ftp.ilga.gov/ILCS/Ch%200615/Act%200110/) | 4 | 2013-08-09 |
+| [Military Emergency Aircraft Restriction Act (620 ILCS 10)](https://ftp.ilga.gov/ILCS/Ch%200620/Act%200010/) | 9 | 2021-08-20 |
+| [Aircraft Landing and Taking Off Restriction Act (620 ILCS 15)](https://ftp.ilga.gov/ILCS/Ch%200620/Act%200015/) | 9 | 1999-07-29 |
+| [Joint Airports Act (620 ILCS 20)](https://ftp.ilga.gov/ILCS/Ch%200620/Act%200020/) | 8 | 2026-10-30 |
+| [Airport Zoning Act (620 ILCS 25)](https://ftp.ilga.gov/ILCS/Ch%200620/Act%200025/) | 37 | 2007-01-01 |
+| [Zoning to Eliminate Airport Hazards Act (620 ILCS 30)](https://ftp.ilga.gov/ILCS/Ch%200620/Act%200030/) | 13 | 2026-10-30 |
+| [General County Airport and Landing Field Act (620 ILCS 40)](https://ftp.ilga.gov/ILCS/Ch%200620/Act%200040/) | 18 | 2007-01-01 |
+| [County Airport Law of 1943 (620 ILCS 45)](https://ftp.ilga.gov/ILCS/Ch%200620/Act%200045/) | 23 | 2014-07-16 |
+| [County Airports Act (620 ILCS 50)](https://ftp.ilga.gov/ILCS/Ch%200620/Act%200050/) | 76 | 2025-08-15 |
+| [County Air Corridor Protection Act (620 ILCS 52)](https://ftp.ilga.gov/ILCS/Ch%200620/Act%200052/) | 6 | 2007-01-01 |
+| [East St. Louis Airport Act (620 ILCS 55)](https://ftp.ilga.gov/ILCS/Ch%200620/Act%200055/) | 3 | 2007-01-01 |
+| [O'Hare Modernization Act (620 ILCS 65)](https://ftp.ilga.gov/ILCS/Ch%200620/Act%200065/) | 20 | 2012-07-13 |
+| [Aircraft Crash Parts Act (620 ILCS 70)](https://ftp.ilga.gov/ILCS/Ch%200620/Act%200070/) | 2 | 2026-10-30 |
+| [Public-Private Agreements for the South Suburban Airport Act (620 ILCS 75)](https://ftp.ilga.gov/ILCS/Ch%200620/Act%200075/) | 36 | 2024-08-09 |
