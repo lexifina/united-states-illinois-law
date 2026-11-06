@@ -50,7 +50,7 @@ Current-text preparation uses the latest explicit effective date in the source a
 
 ## Static ILCS compilation additions, 30 October 2026
 
-415 additional complete indexed acts from the [Illinois General Assembly compilation](https://ftp.ilga.gov/ILCS/) are included. The compilation incorporates Public Acts through 104-854. The publisher states that these provisions have NOT been edited for publication and are NOT the official text; this copy should not be cited as official or authoritative. The only official copy is the printed copy maintained by the Secretary of State’s office.
+435 additional complete indexed acts from the [Illinois General Assembly compilation](https://ftp.ilga.gov/ILCS/) are included. The compilation incorporates Public Acts through 104-854. The publisher states that these provisions have NOT been edited for publication and are NOT the official text; this copy should not be cited as official or authoritative. The only official copy is the printed copy maintained by the Secretary of State’s office.
 
 Each addition retains all sections, act-title documents and article headings in the publisher’s Section Sequence. Dates use the latest explicit amendment effective date in the source, otherwise the compilation’s own update date, 2026-10-30. This date fallback does not claim a commencement date the source does not identify. Future-effective text and normative images are held. Existing records retain their historical dates and text; their inclusion above does not establish equality with this static compilation. Public Acts, administrative rules and earlier wording are not added.
 
@@ -471,3 +471,23 @@ Each addition retains all sections, act-title documents and article headings in 
 | [National Guard Veterans Exposure to Hazardous Materials Act (330 ILCS 130)](https://ftp.ilga.gov/ILCS/Ch%200330/Act%200130/) | 6 | 2025-08-15 |
 | [Military and Veterans Courts Act (330 ILCS 135)](https://ftp.ilga.gov/ILCS/Ch%200330/Act%200135/) | 5 | 2009-07-27 |
 | [Veterans' and Military Discount Program Act (330 ILCS 140)](https://ftp.ilga.gov/ILCS/Ch%200330/Act%200140/) | 6 | 2025-08-15 |
+| [Uniform Act for the Extradition of Persons of Unsound Mind (405 ILCS 10)](https://ftp.ilga.gov/ILCS/Ch%200405/Act%200010/) | 6 | 1999-07-29 |
+| [Mental Treatment for Incarcerated Persons Act (405 ILCS 15)](https://ftp.ilga.gov/ILCS/Ch%200405/Act%200015/) | 3 | 1997-07-01 |
+| [Specialized Living Centers Act (405 ILCS 25)](https://ftp.ilga.gov/ILCS/Ch%200405/Act%200025/) | 28 | 2023-01-01 |
+| [Community Support Systems Act (405 ILCS 35)](https://ftp.ilga.gov/ILCS/Ch%200405/Act%200035/) | 6 | 2009-08-25 |
+| [Protection and Advocacy for Persons with Developmental Disabilities Act (405 ILCS 40)](https://ftp.ilga.gov/ILCS/Ch%200405/Act%200040/) | 2 | 2019-01-01 |
+| [Protection and Advocacy for Mentally Ill Persons Act (405 ILCS 45)](https://ftp.ilga.gov/ILCS/Ch%200405/Act%200045/) | 5 | 2015-07-29 |
+| [Infant/Early Childhood Mental Health Consultations Act (405 ILCS 47)](https://ftp.ilga.gov/ILCS/Ch%200405/Act%200047/) | 3 | 2026-07-01 |
+| [Mental Health Patient Travel Act (405 ILCS 55)](https://ftp.ilga.gov/ILCS/Ch%200405/Act%200055/) | 2 | 1997-07-01 |
+| [Mental Health Hispanic Interpreter Act (405 ILCS 75)](https://ftp.ilga.gov/ILCS/Ch%200405/Act%200075/) | 2 | 2000-01-01 |
+| [Developmental Disability and Mental Health Safety Act (405 ILCS 82)](https://ftp.ilga.gov/ILCS/Ch%200405/Act%200082/) | 14 | 2015-07-27 |
+| [Home Environment Living Program Act (405 ILCS 85)](https://ftp.ilga.gov/ILCS/Ch%200405/Act%200085/) | 9 | 2015-07-27 |
+| [Psychiatry Practice Incentive Act (405 ILCS 100)](https://ftp.ilga.gov/ILCS/Ch%200405/Act%200100/) | 9 | 2018-12-10 |
+| [Illinois Mental Health First Aid Training Act (405 ILCS 105)](https://ftp.ilga.gov/ILCS/Ch%200405/Act%200105/) | 9 | 2019-01-01 |
+| [Out-of-State Person Subject to Involuntary Admission on an Inpatient Basis Mental Health Treatment Act (405 ILCS 110)](https://ftp.ilga.gov/ILCS/Ch%200405/Act%200110/) | 11 | 2025-08-01 |
+| [Maternal Mental Health Conditions Education, Early Diagnosis, and Treatment Act (405 ILCS 120)](https://ftp.ilga.gov/ILCS/Ch%200405/Act%200120/) | 6 | 2025-01-01 |
+| [Interstate Contracts for Mental Health Disorder Treatment Act (405 ILCS 130)](https://ftp.ilga.gov/ILCS/Ch%200405/Act%200130/) | 12 | 2022-01-01 |
+| [First Responder Mental Health Grant Program Act (405 ILCS 135)](https://ftp.ilga.gov/ILCS/Ch%200405/Act%200135/) | 5 | 2025-08-15 |
+| [Psychiatric Residential Treatment Facilities (PRTF (405 ILCS 142)](https://ftp.ilga.gov/ILCS/Ch%200405/Act%200142/) | 12 | 2026-06-16 |
+| [Outdoor Rx Program Act (405 ILCS 155)](https://ftp.ilga.gov/ILCS/Ch%200405/Act%200155/) | 10 | 2024-01-01 |
+| [Interagency Children's Behavioral Health Services Act (405 ILCS 165)](https://ftp.ilga.gov/ILCS/Ch%200405/Act%200165/) | 11 | 2026-01-01 |

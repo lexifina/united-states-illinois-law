@@ -43086,6 +43086,286 @@
      "units": 7
     }
    ]
+  },
+  {
+   "slug": "ilcs-405-10",
+   "short": "405 ILCS 10",
+   "title": "Uniform Act for the Extradition of Persons of Unsound Mind",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200405/Act%200010/",
+   "versions": [
+    {
+     "from": "1999-07-29",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200405/Act%200010/",
+     "sha256": "6f066ccafd6e87dee56894990c75bf9b40fa069e0487a95e24bf1a34937e9f16",
+     "units": 7
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-405-15",
+   "short": "405 ILCS 15",
+   "title": "Mental Treatment for Incarcerated Persons Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200405/Act%200015/",
+   "versions": [
+    {
+     "from": "1997-07-01",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200405/Act%200015/",
+     "sha256": "398a9bf09e76aab127dbfb1bae271e101574ef6cdd452254c683f247819d6de3",
+     "units": 4
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-405-25",
+   "short": "405 ILCS 25",
+   "title": "Specialized Living Centers Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200405/Act%200025/",
+   "versions": [
+    {
+     "from": "2023-01-01",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200405/Act%200025/",
+     "sha256": "8e7c271ca226c7fa80bbe8df908476847c8fce64b565fdd148d24a209f00f14f",
+     "units": 29
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-405-35",
+   "short": "405 ILCS 35",
+   "title": "Community Support Systems Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200405/Act%200035/",
+   "versions": [
+    {
+     "from": "2009-08-25",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200405/Act%200035/",
+     "sha256": "55f7cd8f470e61a8dc1691ecbae9cb38efa0d3202937309c112a0f384a88f419",
+     "units": 7
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-405-40",
+   "short": "405 ILCS 40",
+   "title": "Protection and Advocacy for Persons with Developmental Disabilities Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200405/Act%200040/",
+   "versions": [
+    {
+     "from": "2019-01-01",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200405/Act%200040/",
+     "sha256": "be992c0833372e764c7c6d1d0a89c6ebdfd9398807263b39243d432ff9ebe729",
+     "units": 3
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-405-45",
+   "short": "405 ILCS 45",
+   "title": "Protection and Advocacy for Mentally Ill Persons Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200405/Act%200045/",
+   "versions": [
+    {
+     "from": "2015-07-29",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200405/Act%200045/",
+     "sha256": "62c6f4b6d026585aab512dd348973adfffd839279bbf082c754ede990d587720",
+     "units": 6
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-405-47",
+   "short": "405 ILCS 47",
+   "title": "Infant/Early Childhood Mental Health Consultations Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200405/Act%200047/",
+   "versions": [
+    {
+     "from": "2026-07-01",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200405/Act%200047/",
+     "sha256": "2d9109b2a27417c1e9ce8f0bdd25643c95a15cb098f8e61d7999c5ecdf4bb785",
+     "units": 29
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-405-55",
+   "short": "405 ILCS 55",
+   "title": "Mental Health Patient Travel Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200405/Act%200055/",
+   "versions": [
+    {
+     "from": "1997-07-01",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200405/Act%200055/",
+     "sha256": "865b071e34f8b442b6f624b76605f3421cf51e5e39f606d768300c5875970655",
+     "units": 3
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-405-75",
+   "short": "405 ILCS 75",
+   "title": "Mental Health Hispanic Interpreter Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200405/Act%200075/",
+   "versions": [
+    {
+     "from": "2000-01-01",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200405/Act%200075/",
+     "sha256": "8e9d1eaa3db23dcbdeb6e687d1c2bec611501c94caf7c383371dae286332f8d3",
+     "units": 3
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-405-82",
+   "short": "405 ILCS 82",
+   "title": "Developmental Disability and Mental Health Safety Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200405/Act%200082/",
+   "versions": [
+    {
+     "from": "2015-07-27",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200405/Act%200082/",
+     "sha256": "136d7c18a1b24687785d014b0cae5e6a9804ab88b5aec2897c44067fb4ad6016",
+     "units": 15
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-405-85",
+   "short": "405 ILCS 85",
+   "title": "Home Environment Living Program Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200405/Act%200085/",
+   "versions": [
+    {
+     "from": "2015-07-27",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200405/Act%200085/",
+     "sha256": "a25db9be8a1956452196ec70ae699c46cdb565de2e687f8b2344ad3bb19b554d",
+     "units": 10
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-405-100",
+   "short": "405 ILCS 100",
+   "title": "Psychiatry Practice Incentive Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200405/Act%200100/",
+   "versions": [
+    {
+     "from": "2018-12-10",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200405/Act%200100/",
+     "sha256": "422e42581c54a4b706e24df343a1ecd9ccae70e8ca887a6c6e4741c650431889",
+     "units": 10
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-405-105",
+   "short": "405 ILCS 105",
+   "title": "Illinois Mental Health First Aid Training Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200405/Act%200105/",
+   "versions": [
+    {
+     "from": "2019-01-01",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200405/Act%200105/",
+     "sha256": "94ece948ea7d10f2ccea15355c5323fcaa80ddc318677c677af2192f0eebb92b",
+     "units": 10
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-405-110",
+   "short": "405 ILCS 110",
+   "title": "Out-of-State Person Subject to Involuntary Admission on an Inpatient Basis Mental Health Treatment Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200405/Act%200110/",
+   "versions": [
+    {
+     "from": "2025-08-01",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200405/Act%200110/",
+     "sha256": "89c65240c55a819962b5a50a1381a5a9c7ac1652b6521b4c75344732704a37a9",
+     "units": 12
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-405-120",
+   "short": "405 ILCS 120",
+   "title": "Maternal Mental Health Conditions Education, Early Diagnosis, and Treatment Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200405/Act%200120/",
+   "versions": [
+    {
+     "from": "2025-01-01",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200405/Act%200120/",
+     "sha256": "c40265366a5b7ec502abad1cb7900a1724dd44367e973f569a061087f5da71f6",
+     "units": 7
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-405-130",
+   "short": "405 ILCS 130",
+   "title": "Interstate Contracts for Mental Health Disorder Treatment Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200405/Act%200130/",
+   "versions": [
+    {
+     "from": "2022-01-01",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200405/Act%200130/",
+     "sha256": "289f0db5953618f87b7dce3b6580613db715f1af34e9b2ac6e0a955b566bb84f",
+     "units": 13
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-405-135",
+   "short": "405 ILCS 135",
+   "title": "First Responder Mental Health Grant Program Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200405/Act%200135/",
+   "versions": [
+    {
+     "from": "2025-08-15",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200405/Act%200135/",
+     "sha256": "94f274b5baf71b6a1b386cf458344945bf94dbde88b957bdcf6e00e3b2537fa5",
+     "units": 6
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-405-142",
+   "short": "405 ILCS 142",
+   "title": "Psychiatric Residential Treatment Facilities (PRTF",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200405/Act%200142/",
+   "versions": [
+    {
+     "from": "2026-06-16",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200405/Act%200142/",
+     "sha256": "01a2e7c41b16697fea2760c214ea943ea9e90091fa485dce7645ffc5d79084d1",
+     "units": 13
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-405-155",
+   "short": "405 ILCS 155",
+   "title": "Outdoor Rx Program Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200405/Act%200155/",
+   "versions": [
+    {
+     "from": "2024-01-01",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200405/Act%200155/",
+     "sha256": "bcd35342a3e110a0574bf1c21a912be751aba715a0aa880fbaf592d7333b7503",
+     "units": 11
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-405-165",
+   "short": "405 ILCS 165",
+   "title": "Interagency Children's Behavioral Health Services Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200405/Act%200165/",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200405/Act%200165/",
+     "sha256": "ed834de545b2d7b5cdb65d73563b067f8dca35b7e7718d09b133c4fa69e59440",
+     "units": 12
+    }
+   ]
   }
  ]
 }
