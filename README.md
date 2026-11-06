@@ -50,7 +50,7 @@ Current-text preparation uses the latest explicit effective date in the source a
 
 ## Static ILCS compilation additions, 30 October 2026
 
-338 additional complete indexed acts from the [Illinois General Assembly compilation](https://ftp.ilga.gov/ILCS/) are included. The compilation incorporates Public Acts through 104-854. The publisher states that these provisions have NOT been edited for publication and are NOT the official text; this copy should not be cited as official or authoritative. The only official copy is the printed copy maintained by the Secretary of State’s office.
+349 additional complete indexed acts from the [Illinois General Assembly compilation](https://ftp.ilga.gov/ILCS/) are included. The compilation incorporates Public Acts through 104-854. The publisher states that these provisions have NOT been edited for publication and are NOT the official text; this copy should not be cited as official or authoritative. The only official copy is the printed copy maintained by the Secretary of State’s office.
 
 Each addition retains all sections, act-title documents and article headings in the publisher’s Section Sequence. Dates use the latest explicit amendment effective date in the source, otherwise the compilation’s own update date, 2026-10-30. This date fallback does not claim a commencement date the source does not identify. Future-effective text and normative images are held. Existing records retain their historical dates and text; their inclusion above does not establish equality with this static compilation. Public Acts, administrative rules and earlier wording are not added.
 
@@ -394,3 +394,14 @@ Each addition retains all sections, act-title documents and article headings in 
 | [Residential Mortgage License Act of 1987 (205 ILCS 635)](https://ftp.ilga.gov/ILCS/Ch%200205/Act%200635/) | 83 | 2025-01-01 |
 | [Foreign Banking Office Act (205 ILCS 645)](https://ftp.ilga.gov/ILCS/Ch%200205/Act%200645/) | 30 | 2010-07-28 |
 | [Adverse Claims to Deposit Accounts Act (205 ILCS 700)](https://ftp.ilga.gov/ILCS/Ch%200205/Act%200700/) | 9 | 2018-01-01 |
+| [Illinois Clinical Laboratory and Blood Bank Act (210 ILCS 25)](https://ftp.ilga.gov/ILCS/Ch%200210/Act%200025/) | 47 | 2025-11-21 |
+| [Accountable Care Organization Clinical Laboratory Testing Advisory Board Act (210 ILCS 26)](https://ftp.ilga.gov/ILCS/Ch%200210/Act%200026/) | 8 | 2015-01-01 |
+| [Illinois Certified Community Behavioral Health Clinics Act (210 ILCS 34)](https://ftp.ilga.gov/ILCS/Ch%200210/Act%200034/) | 6 | 2021-07-06 |
+| [Supportive Residences Licensing Act (210 ILCS 65)](https://ftp.ilga.gov/ILCS/Ch%200210/Act%200065/) | 15 | 2015-07-27 |
+| [Emergency Medical Treatment Act (210 ILCS 70)](https://ftp.ilga.gov/ILCS/Ch%200210/Act%200070/) | 3 | 2015-01-01 |
+| [Hospital Infant Feeding Act (210 ILCS 81)](https://ftp.ilga.gov/ILCS/Ch%200210/Act%200081/) | 6 | 2013-01-01 |
+| [Language Assistance Services Act (210 ILCS 87)](https://ftp.ilga.gov/ILCS/Ch%200210/Act%200087/) | 8 | 2021-04-27 |
+| [X-Ray Retention Act (210 ILCS 90)](https://ftp.ilga.gov/ILCS/Ch%200210/Act%200090/) | 2 | 2026-10-30 |
+| [Swimming Pool Safety Act (210 ILCS 130)](https://ftp.ilga.gov/ILCS/Ch%200210/Act%200130/) | 4 | 2026-10-30 |
+| [Safe Pharmaceutical Disposal Act (210 ILCS 150)](https://ftp.ilga.gov/ILCS/Ch%200210/Act%200150/) | 8 | 2021-08-20 |
+| [Birth Center Licensing Act (210 ILCS 170)](https://ftp.ilga.gov/ILCS/Ch%200210/Act%200170/) | 16 | 2024-07-01 |
