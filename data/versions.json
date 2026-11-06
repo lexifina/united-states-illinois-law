@@ -43842,6 +43842,76 @@
      "units": 5
     }
    ]
+  },
+  {
+   "slug": "ilcs-425-15",
+   "short": "425 ILCS 15",
+   "title": "Fire Escape Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200425/Act%200015/",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200425/Act%200015/",
+     "sha256": "f0528709053a3aee0d735598a927c787ba2d1f657edf7374352bf9c06f0e17a6",
+     "units": 9
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-425-17",
+   "short": "425 ILCS 17",
+   "title": "Fire Extinguisher Service Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200425/Act%200017/",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200425/Act%200017/",
+     "sha256": "888913c3439fca5281b255a60fa53ddaecf3227e21135951c43a9781c560efe4",
+     "units": 3
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-425-25",
+   "short": "425 ILCS 25",
+   "title": "Fire Investigation Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200425/Act%200025/",
+   "versions": [
+    {
+     "from": "2026-06-26",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200425/Act%200025/",
+     "sha256": "0408161fc9f1807ba5a615c87dd6bf20a8f7984be76f9ff70061bd5382028b6b",
+     "units": 19
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-425-45",
+   "short": "425 ILCS 45",
+   "title": "Furniture Fire Safety Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200425/Act%200045/",
+   "versions": [
+    {
+     "from": "2023-06-30",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200425/Act%200045/",
+     "sha256": "f3005b25da21c5123a2a455cd0ffe3907869d56561736708de4f7eed97176e18",
+     "units": 12
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-425-50",
+   "short": "425 ILCS 50",
+   "title": "Hotel Floor Plan Posting Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200425/Act%200050/",
+   "versions": [
+    {
+     "from": "1999-07-29",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200425/Act%200050/",
+     "sha256": "8d4baf62175f452485330fcb836e8dad8a40f164c769e8b6e4bd964e7a4545bf",
+     "units": 8
+    }
+   ]
   }
  ]
 }
