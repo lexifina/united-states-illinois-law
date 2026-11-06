@@ -44724,6 +44724,244 @@
      "units": 32
     }
    ]
+  },
+  {
+   "slug": "ilcs-705-5",
+   "short": "705 ILCS 5",
+   "title": "Supreme Court Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200705/Act%200005/",
+   "versions": [
+    {
+     "from": "2021-07-09",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200705/Act%200005/",
+     "sha256": "4f5a1b1b5404fd4c332ac68c610757b29cc264d43ecc5c1f8cd4e3d8183a7c1b",
+     "units": 14
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-705-10",
+   "short": "705 ILCS 10",
+   "title": "Supreme Court Terms Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200705/Act%200010/",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200705/Act%200010/",
+     "sha256": "40bcb00cfaf5a828cc72a2746d76844deafada2aafdd7442afa49fbdc32387b2",
+     "units": 3
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-705-15",
+   "short": "705 ILCS 15",
+   "title": "Supreme Court Building Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200705/Act%200015/",
+   "versions": [
+    {
+     "from": "2001-08-15",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200705/Act%200015/",
+     "sha256": "ec5ae9c6999ec1ae084b6eb7e896fa8baaf6a451c00a12844b543fe3b3e50982",
+     "units": 4
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-705-17",
+   "short": "705 ILCS 17",
+   "title": "Supreme Court Historic Preservation Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200705/Act%200017/",
+   "versions": [
+    {
+     "from": "2007-12-31",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200705/Act%200017/",
+     "sha256": "11fb4020cdc892dfd0d516ddbb7a080de4999d61a77e6f8721a4dcca371beba0",
+     "units": 10
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-705-23",
+   "short": "705 ILCS 23",
+   "title": "Judicial Districts Act of 2021",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200705/Act%200023/",
+   "versions": [
+    {
+     "from": "2021-12-17",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200705/Act%200023/",
+     "sha256": "5a45c9ed00640db372e327ac2b0b3ce92433d9aaac89af645f51672462763801",
+     "units": 13
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-705-24",
+   "short": "705 ILCS 24",
+   "title": "Judicial Circuits Districting Act of 2022",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200705/Act%200024/",
+   "versions": [
+    {
+     "from": "2023-02-10",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200705/Act%200024/",
+     "sha256": "37284e48262653ea1e5185e6aba19347e5df86867a2cca2e84daa54c6c958451",
+     "units": 18
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-705-35",
+   "short": "705 ILCS 35",
+   "title": "Circuit Courts Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200705/Act%200035/",
+   "versions": [
+    {
+     "from": "2026-08-07",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200705/Act%200035/",
+     "sha256": "dc5ebe088d0f237a455f12e463740c8b396f0b117bfb07350cdb477de749009b",
+     "units": 50
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-705-40",
+   "short": "705 ILCS 40",
+   "title": "Judicial Vacancies Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200705/Act%200040/",
+   "versions": [
+    {
+     "from": "2023-02-10",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200705/Act%200040/",
+     "sha256": "58194fd7f83900b8ea85887d210451a4e6f1658d68355da3d59e7eebf7a5b8c0",
+     "units": 6
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-705-60",
+   "short": "705 ILCS 60",
+   "title": "Qualifications of Judges Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200705/Act%200060/",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200705/Act%200060/",
+     "sha256": "f3369e689f3de55fa5f621b21c3752ed961d28eafa9a976b370da29b7c4d81b5",
+     "units": 3
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-705-78",
+   "short": "705 ILCS 78",
+   "title": "Foreign Language Court Interpreter Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200705/Act%200078/",
+   "versions": [
+    {
+     "from": "2001-06-28",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200705/Act%200078/",
+     "sha256": "979ec0fc8e74f5e499fa9ae77ecbd7c7b1d03d1ea3cc2fba19d2b60028496ce8",
+     "units": 5
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-705-90",
+   "short": "705 ILCS 90",
+   "title": "Judicial Privacy Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200705/Act%200090/",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200705/Act%200090/",
+     "sha256": "f41e378a01c144282856d9d6d08a00ecdebfec8f0a9cf1a01f7f037f634ab263",
+     "units": 20
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-705-95",
+   "short": "705 ILCS 95",
+   "title": "Access to Justice Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200705/Act%200095/",
+   "versions": [
+    {
+     "from": "2025-08-15",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200705/Act%200095/",
+     "sha256": "c1c6a9584cae929dcc7fcfc2a01f1810cdca72b103ae40af17e70985c7f285f1",
+     "units": 14
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-705-230",
+   "short": "705 ILCS 230",
+   "title": "Building and Loan Receivership Fee Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200705/Act%200230/",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200705/Act%200230/",
+     "sha256": "ff2620bbb6d983560acef3d14f428399acb406d4238e4e1089db09d7b9433088",
+     "units": 3
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-705-315",
+   "short": "705 ILCS 315",
+   "title": "Jury Secrecy Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200705/Act%200315/",
+   "versions": [
+    {
+     "from": "2000-01-01",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200705/Act%200315/",
+     "sha256": "5d6a6683f39fe9638b87c48ebc94ad8c45cd5c70d696420a9194248b00239d85",
+     "units": 4
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-705-320",
+   "short": "705 ILCS 320",
+   "title": "Juror Protection Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200705/Act%200320/",
+   "versions": [
+    {
+     "from": "2013-01-25",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200705/Act%200320/",
+     "sha256": "1018a3f8c363f6f38632d81250f852c8d09883f0bb4fdaa703c458ee9774ebb7",
+     "units": 6
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-705-420",
+   "short": "705 ILCS 420",
+   "title": "Dependency Determinations for Unaccompanied Children Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200705/Act%200420/",
+   "versions": [
+    {
+     "from": "2026-06-01",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200705/Act%200420/",
+     "sha256": "b3d2b8891c388a529bd1ccb30b75dd52a873888464f1d973b1b1dbfbeabcdd80",
+     "units": 11
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-705-510",
+   "short": "705 ILCS 510",
+   "title": "Medical Fees of State Inmate Escapees Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200705/Act%200510/",
+   "versions": [
+    {
+     "from": "1997-07-01",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200705/Act%200510/",
+     "sha256": "a4fdb9366b5f7639247eedf943fbb04c63ba46472fbab22c7d55e4663b193aa8",
+     "units": 3
+    }
+   ]
   }
  ]
 }

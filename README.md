@@ -50,7 +50,7 @@ Current-text preparation uses the latest explicit effective date in the source a
 
 ## Static ILCS compilation additions, 30 October 2026
 
-532 additional complete indexed acts from the [Illinois General Assembly compilation](https://ftp.ilga.gov/ILCS/) are included. The compilation incorporates Public Acts through 104-854. The publisher states that these provisions have NOT been edited for publication and are NOT the official text; this copy should not be cited as official or authoritative. The only official copy is the printed copy maintained by the Secretary of State’s office.
+549 additional complete indexed acts from the [Illinois General Assembly compilation](https://ftp.ilga.gov/ILCS/) are included. The compilation incorporates Public Acts through 104-854. The publisher states that these provisions have NOT been edited for publication and are NOT the official text; this copy should not be cited as official or authoritative. The only official copy is the printed copy maintained by the Secretary of State’s office.
 
 Each addition retains all sections, act-title documents and article headings in the publisher’s Section Sequence. Dates use the latest explicit amendment effective date in the source, otherwise the compilation’s own update date, 2026-10-30. This date fallback does not claim a commencement date the source does not identify. Future-effective text and normative images are held. Existing records retain their historical dates and text; their inclusion above does not establish equality with this static compilation. Public Acts, administrative rules and earlier wording are not added.
 
@@ -588,3 +588,20 @@ Each addition retains all sections, act-title documents and article headings in 
 | [Taxi Safety Act of 2007 (625 ILCS 55)](https://ftp.ilga.gov/ILCS/Ch%200625/Act%200055/) | 4 | 2013-01-01 |
 | [O'Hare Driver Safety Act (625 ILCS 80)](https://ftp.ilga.gov/ILCS/Ch%200625/Act%200080/) | 8 | 2026-01-01 |
 | [Innovations for Transportation Infrastructure Act (630 ILCS 10)](https://ftp.ilga.gov/ILCS/Ch%200630/Act%200010/) | 31 | 2025-08-15 |
+| [Supreme Court Act (705 ILCS 5)](https://ftp.ilga.gov/ILCS/Ch%200705/Act%200005/) | 13 | 2021-07-09 |
+| [Supreme Court Terms Act (705 ILCS 10)](https://ftp.ilga.gov/ILCS/Ch%200705/Act%200010/) | 2 | 2026-10-30 |
+| [Supreme Court Building Act (705 ILCS 15)](https://ftp.ilga.gov/ILCS/Ch%200705/Act%200015/) | 3 | 2001-08-15 |
+| [Supreme Court Historic Preservation Act (705 ILCS 17)](https://ftp.ilga.gov/ILCS/Ch%200705/Act%200017/) | 9 | 2007-12-31 |
+| [Judicial Districts Act of 2021 (705 ILCS 23)](https://ftp.ilga.gov/ILCS/Ch%200705/Act%200023/) | 12 | 2021-12-17 |
+| [Judicial Circuits Districting Act of 2022 (705 ILCS 24)](https://ftp.ilga.gov/ILCS/Ch%200705/Act%200024/) | 17 | 2023-02-10 |
+| [Circuit Courts Act (705 ILCS 35)](https://ftp.ilga.gov/ILCS/Ch%200705/Act%200035/) | 49 | 2026-08-07 |
+| [Judicial Vacancies Act (705 ILCS 40)](https://ftp.ilga.gov/ILCS/Ch%200705/Act%200040/) | 5 | 2023-02-10 |
+| [Qualifications of Judges Act (705 ILCS 60)](https://ftp.ilga.gov/ILCS/Ch%200705/Act%200060/) | 2 | 2026-10-30 |
+| [Foreign Language Court Interpreter Act (705 ILCS 78)](https://ftp.ilga.gov/ILCS/Ch%200705/Act%200078/) | 4 | 2001-06-28 |
+| [Judicial Privacy Act (705 ILCS 90)](https://ftp.ilga.gov/ILCS/Ch%200705/Act%200090/) | 15 | 2026-01-01 |
+| [Access to Justice Act (705 ILCS 95)](https://ftp.ilga.gov/ILCS/Ch%200705/Act%200095/) | 13 | 2025-08-15 |
+| [Building and Loan Receivership Fee Act (705 ILCS 230)](https://ftp.ilga.gov/ILCS/Ch%200705/Act%200230/) | 2 | 2026-10-30 |
+| [Jury Secrecy Act (705 ILCS 315)](https://ftp.ilga.gov/ILCS/Ch%200705/Act%200315/) | 3 | 2000-01-01 |
+| [Juror Protection Act (705 ILCS 320)](https://ftp.ilga.gov/ILCS/Ch%200705/Act%200320/) | 5 | 2013-01-25 |
+| [Dependency Determinations for Unaccompanied Children Act (705 ILCS 420)](https://ftp.ilga.gov/ILCS/Ch%200705/Act%200420/) | 10 | 2026-06-01 |
+| [Medical Fees of State Inmate Escapees Act (705 ILCS 510)](https://ftp.ilga.gov/ILCS/Ch%200705/Act%200510/) | 2 | 1997-07-01 |
