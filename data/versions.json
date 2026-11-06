@@ -37416,6 +37416,48 @@
      "units": 10
     }
    ]
+  },
+  {
+   "slug": "ilcs-10-22",
+   "short": "10 ILCS 22",
+   "title": "Uniform Faithful Presidential Electors Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200010/Act%200022/",
+   "versions": [
+    {
+     "from": "2025-08-15",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200010/Act%200022/",
+     "sha256": "bf7926b9f314449eea53385de2e78d78562a8f0afc5dbf1e8fd0960b73fc536c",
+     "units": 22
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-10-78",
+   "short": "10 ILCS 78",
+   "title": "Illinois Congressional Redistricting Act of 2021",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200010/Act%200078/",
+   "versions": [
+    {
+     "from": "2021-11-23",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200010/Act%200078/",
+     "sha256": "32b7fd5871e43e9747190a58658dd5147a68df59d0a9d7d62da42602f54df4c8",
+     "units": 8
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-10-115",
+   "short": "10 ILCS 115",
+   "title": "Chicago Board of Education District Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200010/Act%200115/",
+   "versions": [
+    {
+     "from": "2024-03-18",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200010/Act%200115/",
+     "sha256": "9c755ef8498e3088286151bb110652044251f7f2521b9bc2d55313fc7bc421d4",
+     "units": 10
+    }
+   ]
   }
  ]
 }
