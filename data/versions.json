@@ -45564,6 +45564,146 @@
      "units": 3
     }
    ]
+  },
+  {
+   "slug": "ilcs-765-10",
+   "short": "765 ILCS 10",
+   "title": "Seals and Real Estate Contracts Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200765/Act%200010/",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200765/Act%200010/",
+     "sha256": "d5d653f0f4334542a86c160b4f4030d31d1d217b230c50d433c443049c76be36",
+     "units": 10
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-765-15",
+   "short": "765 ILCS 15",
+   "title": "Land Patent Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200765/Act%200015/",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200765/Act%200015/",
+     "sha256": "a6e7ee04be213f70842032a66476e9e892993c117bc915bab7cfc68073ca212c",
+     "units": 3
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-765-77",
+   "short": "765 ILCS 77",
+   "title": "Residential Real Property Disclosure Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200765/Act%200077/",
+   "versions": [
+    {
+     "from": "2026-06-16",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200765/Act%200077/",
+     "sha256": "c52207e68c5e6c8c0c8912b0638411b7b702f4112e14535777e5c6f5518ccfc3",
+     "units": 27
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-765-170",
+   "short": "765 ILCS 170",
+   "title": "Conveyance and Encumbrance of Manufactured Homes as Real Property and Severance Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200765/Act%200170/",
+   "versions": [
+    {
+     "from": "2015-07-28",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200765/Act%200170/",
+     "sha256": "e6cd5dc57adcd11b59cfa1a07c43f0fe24a715350ebc9f2edf53367c933cf320",
+     "units": 40
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-765-415",
+   "short": "765 ILCS 415",
+   "title": "Land Trustee as Creditor Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200765/Act%200415/",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200765/Act%200415/",
+     "sha256": "47c8a1d9bc37cd77b490284247c186014da09f95aa0327d5c741ee7fed748e43",
+     "units": 6
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-765-505",
+   "short": "765 ILCS 505",
+   "title": "Mining Act of 1874",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200765/Act%200505/",
+   "versions": [
+    {
+     "from": "2007-01-01",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200765/Act%200505/",
+     "sha256": "c2a95d1c1ba3178d6ab3c6ac0ae98e8b1fa8b59e47cae16371def1656494f746",
+     "units": 15
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-765-810",
+   "short": "765 ILCS 810",
+   "title": "Cemetery Company Land Not Used for Burial Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200765/Act%200810/",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200765/Act%200810/",
+     "sha256": "c9e51f694c753e7d1bb32b1426dce0e4077922c3c083e9eeb67763657646f511",
+     "units": 3
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-765-1050",
+   "short": "765 ILCS 1050",
+   "title": "Registered Container Trade Mark Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200765/Act%201050/",
+   "versions": [
+    {
+     "from": "1998-01-01",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200765/Act%201050/",
+     "sha256": "7954547abcc09cf734b6bb73140543d2b6a3d360b0236490d1f95919ad40c461",
+     "units": 11
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-765-1065",
+   "short": "765 ILCS 1065",
+   "title": "Illinois Trade Secrets Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200765/Act%201065/",
+   "versions": [
+    {
+     "from": "2021-08-20",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200765/Act%201065/",
+     "sha256": "fad4c2a3d1f94988b0754cac182f102756446598c5d6344110356333bc02f36e",
+     "units": 10
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-765-1080",
+   "short": "765 ILCS 1080",
+   "title": "Park District and Public Utility Liability Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200765/Act%201080/",
+   "versions": [
+    {
+     "from": "2022-06-10",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200765/Act%201080/",
+     "sha256": "ddb91a366f77e983f8943e519eb0413cdbe9d50691302a0166db1dee87e626d2",
+     "units": 5
+    }
+   ]
   }
  ]
 }

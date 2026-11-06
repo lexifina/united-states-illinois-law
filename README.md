@@ -50,7 +50,7 @@ Current-text preparation uses the latest explicit effective date in the source a
 
 ## Static ILCS compilation additions, 30 October 2026
 
-592 additional complete indexed acts from the [Illinois General Assembly compilation](https://ftp.ilga.gov/ILCS/) are included. The compilation incorporates Public Acts through 104-854. The publisher states that these provisions have NOT been edited for publication and are NOT the official text; this copy should not be cited as official or authoritative. The only official copy is the printed copy maintained by the Secretary of State’s office.
+602 additional complete indexed acts from the [Illinois General Assembly compilation](https://ftp.ilga.gov/ILCS/) are included. The compilation incorporates Public Acts through 104-854. The publisher states that these provisions have NOT been edited for publication and are NOT the official text; this copy should not be cited as official or authoritative. The only official copy is the printed copy maintained by the Secretary of State’s office.
 
 Each addition retains all sections, act-title documents and article headings in the publisher’s Section Sequence. Dates use the latest explicit amendment effective date in the source, otherwise the compilation’s own update date, 2026-10-30. This date fallback does not claim a commencement date the source does not identify. Future-effective text and normative images are held. Existing records retain their historical dates and text; their inclusion above does not establish equality with this static compilation. Public Acts, administrative rules and earlier wording are not added.
 
@@ -648,3 +648,13 @@ Each addition retains all sections, act-title documents and article headings in 
 | [Securities in Fiduciary Accounts Act (760 ILCS 75)](https://ftp.ilga.gov/ILCS/Ch%200760/Act%200075/) | 5 | 2026-10-30 |
 | [Trustee Surety Release Act (760 ILCS 85)](https://ftp.ilga.gov/ILCS/Ch%200760/Act%200085/) | 2 | 2026-10-30 |
 | [Cemetery Perpetual Trust Authorization Act (760 ILCS 95)](https://ftp.ilga.gov/ILCS/Ch%200760/Act%200095/) | 2 | 2010-03-01 |
+| [Seals and Real Estate Contracts Act (765 ILCS 10)](https://ftp.ilga.gov/ILCS/Ch%200765/Act%200010/) | 9 | 2026-10-30 |
+| [Land Patent Act (765 ILCS 15)](https://ftp.ilga.gov/ILCS/Ch%200765/Act%200015/) | 2 | 2026-10-30 |
+| [Residential Real Property Disclosure Act (765 ILCS 77)](https://ftp.ilga.gov/ILCS/Ch%200765/Act%200077/) | 22 | 2026-06-16 |
+| [Conveyance and Encumbrance of Manufactured Homes as Real Property and Severance Act (765 ILCS 170)](https://ftp.ilga.gov/ILCS/Ch%200765/Act%200170/) | 36 | 2015-07-28 |
+| [Land Trustee as Creditor Act (765 ILCS 415)](https://ftp.ilga.gov/ILCS/Ch%200765/Act%200415/) | 5 | 2026-10-30 |
+| [Mining Act of 1874 (765 ILCS 505)](https://ftp.ilga.gov/ILCS/Ch%200765/Act%200505/) | 14 | 2007-01-01 |
+| [Cemetery Company Land Not Used for Burial Act (765 ILCS 810)](https://ftp.ilga.gov/ILCS/Ch%200765/Act%200810/) | 2 | 2026-10-30 |
+| [Registered Container Trade Mark Act (765 ILCS 1050)](https://ftp.ilga.gov/ILCS/Ch%200765/Act%201050/) | 10 | 1998-01-01 |
+| [Illinois Trade Secrets Act (765 ILCS 1065)](https://ftp.ilga.gov/ILCS/Ch%200765/Act%201065/) | 9 | 2021-08-20 |
+| [Park District and Public Utility Liability Act (765 ILCS 1080)](https://ftp.ilga.gov/ILCS/Ch%200765/Act%201080/) | 4 | 2022-06-10 |
