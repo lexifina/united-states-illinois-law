@@ -50,7 +50,7 @@ Current-text preparation uses the latest explicit effective date in the source a
 
 ## Static ILCS compilation additions, 30 October 2026
 
-583 additional complete indexed acts from the [Illinois General Assembly compilation](https://ftp.ilga.gov/ILCS/) are included. The compilation incorporates Public Acts through 104-854. The publisher states that these provisions have NOT been edited for publication and are NOT the official text; this copy should not be cited as official or authoritative. The only official copy is the printed copy maintained by the Secretary of State’s office.
+592 additional complete indexed acts from the [Illinois General Assembly compilation](https://ftp.ilga.gov/ILCS/) are included. The compilation incorporates Public Acts through 104-854. The publisher states that these provisions have NOT been edited for publication and are NOT the official text; this copy should not be cited as official or authoritative. The only official copy is the printed copy maintained by the Secretary of State’s office.
 
 Each addition retains all sections, act-title documents and article headings in the publisher’s Section Sequence. Dates use the latest explicit amendment effective date in the source, otherwise the compilation’s own update date, 2026-10-30. This date fallback does not claim a commencement date the source does not identify. Future-effective text and normative images are held. Existing records retain their historical dates and text; their inclusion above does not establish equality with this static compilation. Public Acts, administrative rules and earlier wording are not added.
 
@@ -639,3 +639,12 @@ Each addition retains all sections, act-title documents and article headings in 
 | [Real Estate Investment Trust Act (745 ILCS 60)](https://ftp.ilga.gov/ILCS/Ch%200745/Act%200060/) | 3 | 2017-08-18 |
 | [State of Illinois Recreational Use of Leased Land Act (745 ILCS 67)](https://ftp.ilga.gov/ILCS/Ch%200745/Act%200067/) | 6 | 2007-09-11 |
 | [Sports Volunteer Immunity Act (745 ILCS 80)](https://ftp.ilga.gov/ILCS/Ch%200745/Act%200080/) | 2 | 2015-07-27 |
+| [Trustees' Emergency Act (760 ILCS 10)](https://ftp.ilga.gov/ILCS/Ch%200760/Act%200010/) | 7 | 2026-10-30 |
+| [Disclaimer Under Nontestamentary Instrument Act (760 ILCS 25)](https://ftp.ilga.gov/ILCS/Ch%200760/Act%200025/) | 2 | 2026-10-30 |
+| [Instruments Regarding Adopted Children Act (760 ILCS 30)](https://ftp.ilga.gov/ILCS/Ch%200760/Act%200030/) | 2 | 1998-01-01 |
+| [Uniform Prudent Management of Institutional Funds Act (760 ILCS 51)](https://ftp.ilga.gov/ILCS/Ch%200760/Act%200051/) | 13 | 2009-06-30 |
+| [Charitable Trust Tax Law Conformance Act (760 ILCS 60)](https://ftp.ilga.gov/ILCS/Ch%200760/Act%200060/) | 3 | 2026-10-30 |
+| [Fiduciary Transfer of Securities Act (760 ILCS 70)](https://ftp.ilga.gov/ILCS/Ch%200760/Act%200070/) | 10 | 2026-10-30 |
+| [Securities in Fiduciary Accounts Act (760 ILCS 75)](https://ftp.ilga.gov/ILCS/Ch%200760/Act%200075/) | 5 | 2026-10-30 |
+| [Trustee Surety Release Act (760 ILCS 85)](https://ftp.ilga.gov/ILCS/Ch%200760/Act%200085/) | 2 | 2026-10-30 |
+| [Cemetery Perpetual Trust Authorization Act (760 ILCS 95)](https://ftp.ilga.gov/ILCS/Ch%200760/Act%200095/) | 2 | 2010-03-01 |

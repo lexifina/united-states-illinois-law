@@ -45438,6 +45438,132 @@
      "units": 3
     }
    ]
+  },
+  {
+   "slug": "ilcs-760-10",
+   "short": "760 ILCS 10",
+   "title": "Trustees' Emergency Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200760/Act%200010/",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200760/Act%200010/",
+     "sha256": "a71e33d895d35f55272fbf4dc995f20fad2f12fff5ea508adeead44c9e048cfe",
+     "units": 8
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-760-25",
+   "short": "760 ILCS 25",
+   "title": "Disclaimer Under Nontestamentary Instrument Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200760/Act%200025/",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200760/Act%200025/",
+     "sha256": "ab103af953ac42849da366b0db824950ffbb1766c17a2515d3094f53b5d6a2f1",
+     "units": 3
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-760-30",
+   "short": "760 ILCS 30",
+   "title": "Instruments Regarding Adopted Children Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200760/Act%200030/",
+   "versions": [
+    {
+     "from": "1998-01-01",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200760/Act%200030/",
+     "sha256": "f1376ff22d638ebd575ba2f1fbfb3487581ab4f71c3222c0349e58c1774112a8",
+     "units": 3
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-760-51",
+   "short": "760 ILCS 51",
+   "title": "Uniform Prudent Management of Institutional Funds Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200760/Act%200051/",
+   "versions": [
+    {
+     "from": "2009-06-30",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200760/Act%200051/",
+     "sha256": "e8941790e82625c633de341235bb882b53f7ce6ace2f82f7af857fdcbc5e89db",
+     "units": 14
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-760-60",
+   "short": "760 ILCS 60",
+   "title": "Charitable Trust Tax Law Conformance Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200760/Act%200060/",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200760/Act%200060/",
+     "sha256": "eb592f1d94cad4ae18011fd54bbe3409b2ad07119753d33e9b10c1a58cad27ae",
+     "units": 4
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-760-70",
+   "short": "760 ILCS 70",
+   "title": "Fiduciary Transfer of Securities Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200760/Act%200070/",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200760/Act%200070/",
+     "sha256": "2c1b17827e8c2b0748b22dfeb0de2d354f027d2da274f638bc39c41e5b867462",
+     "units": 11
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-760-75",
+   "short": "760 ILCS 75",
+   "title": "Securities in Fiduciary Accounts Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200760/Act%200075/",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200760/Act%200075/",
+     "sha256": "84988f5113bc5818c12923822c756dffa81999a154d847457841e6a0fb431e42",
+     "units": 6
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-760-85",
+   "short": "760 ILCS 85",
+   "title": "Trustee Surety Release Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200760/Act%200085/",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200760/Act%200085/",
+     "sha256": "483fa6ed3f01853b2149de04116ddabb091e1184d2866ff8d478d38450955390",
+     "units": 3
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-760-95",
+   "short": "760 ILCS 95",
+   "title": "Cemetery Perpetual Trust Authorization Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200760/Act%200095/",
+   "versions": [
+    {
+     "from": "2010-03-01",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200760/Act%200095/",
+     "sha256": "5677ab31ab1185fdec119f34c54d4eaf77cb6a959153ec3c463972d469475bdf",
+     "units": 3
+    }
+   ]
   }
  ]
 }
