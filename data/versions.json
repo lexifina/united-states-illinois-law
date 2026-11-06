@@ -41294,6 +41294,118 @@
      "units": 28
     }
    ]
+  },
+  {
+   "slug": "ilcs-75-12",
+   "short": "75 ILCS 12",
+   "title": "License to Read Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200075/Act%200012/",
+   "versions": [
+    {
+     "from": "2023-06-30",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200075/Act%200012/",
+     "sha256": "5a4def2fce3f8f9af91493ba40d4fff8f7db36ed6c0956304001b2026f75b895",
+     "units": 12
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-75-20",
+   "short": "75 ILCS 20",
+   "title": "Chicago Public Library Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200075/Act%200020/",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200075/Act%200020/",
+     "sha256": "00574fdefc0e34812e92d1c13c62425fafc6e62f2312488b6c42d7985e0a72e6",
+     "units": 4
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-75-23",
+   "short": "75 ILCS 23",
+   "title": "Maywood Public Library District Tax Levy Validation (2002",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200075/Act%200023/",
+   "versions": [
+    {
+     "from": "2003-01-13",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200075/Act%200023/",
+     "sha256": "c3cacee4cab472d94d2668112b03c4375925d91015f2752b7edb99c2fd63e813",
+     "units": 8
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-75-25",
+   "short": "75 ILCS 25",
+   "title": "Township Library Bond Validation (1963",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200075/Act%200025/",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200075/Act%200025/",
+     "sha256": "3d7aef8fed72c18025294cefbd06f754179d6177af0f9d834ae46ddad8eed5e6",
+     "units": 3
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-75-30",
+   "short": "75 ILCS 30",
+   "title": "Township Library Bond Validation (1969",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200075/Act%200030/",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200075/Act%200030/",
+     "sha256": "8b861307fc4aa7ebafc9a9250a8c2e87fe4997c26aba59a5fd5b34153f6ecc52",
+     "units": 3
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-75-45",
+   "short": "75 ILCS 45",
+   "title": "Village Library Conversion Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200075/Act%200045/",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200075/Act%200045/",
+     "sha256": "d697c824a96801ec26a8f73d921dd97566fe6aacabbb156cd64f81a4e21d2346",
+     "units": 3
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-75-60",
+   "short": "75 ILCS 60",
+   "title": "Library Incorporation Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200075/Act%200060/",
+   "versions": [
+    {
+     "from": "2010-01-01",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200075/Act%200060/",
+     "sha256": "36af174c5d1b446c43d17b8bb3880b869a97f3ed2d62880fc82d851b06900654",
+     "units": 7
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-75-70",
+   "short": "75 ILCS 70",
+   "title": "Library Records Confidentiality Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200075/Act%200070/",
+   "versions": [
+    {
+     "from": "2008-01-01",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200075/Act%200070/",
+     "sha256": "e7a0e065c57b3bda3d43dc543350d9841838243b0c3e1b1fc7578c6f74f7eafd",
+     "units": 3
+    }
+   ]
   }
  ]
 }
