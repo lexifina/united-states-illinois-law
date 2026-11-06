@@ -50,7 +50,7 @@ Current-text preparation uses the latest explicit effective date in the source a
 
 ## Static ILCS compilation additions, 30 October 2026
 
-550 additional complete indexed acts from the [Illinois General Assembly compilation](https://ftp.ilga.gov/ILCS/) are included. The compilation incorporates Public Acts through 104-854. The publisher states that these provisions have NOT been edited for publication and are NOT the official text; this copy should not be cited as official or authoritative. The only official copy is the printed copy maintained by the Secretary of State’s office.
+553 additional complete indexed acts from the [Illinois General Assembly compilation](https://ftp.ilga.gov/ILCS/) are included. The compilation incorporates Public Acts through 104-854. The publisher states that these provisions have NOT been edited for publication and are NOT the official text; this copy should not be cited as official or authoritative. The only official copy is the printed copy maintained by the Secretary of State’s office.
 
 Each addition retains all sections, act-title documents and article headings in the publisher’s Section Sequence. Dates use the latest explicit amendment effective date in the source, otherwise the compilation’s own update date, 2026-10-30. This date fallback does not claim a commencement date the source does not identify. Future-effective text and normative images are held. Existing records retain their historical dates and text; their inclusion above does not establish equality with this static compilation. Public Acts, administrative rules and earlier wording are not added.
 
@@ -606,3 +606,6 @@ Each addition retains all sections, act-title documents and article headings in 
 | [Dependency Determinations for Unaccompanied Children Act (705 ILCS 420)](https://ftp.ilga.gov/ILCS/Ch%200705/Act%200420/) | 10 | 2026-06-01 |
 | [Medical Fees of State Inmate Escapees Act (705 ILCS 510)](https://ftp.ilga.gov/ILCS/Ch%200705/Act%200510/) | 2 | 1997-07-01 |
 | [International Commercial Arbitration Act (710 ILCS 30)](https://ftp.ilga.gov/ILCS/Ch%200710/Act%200030/) | 36 | 1998-07-24 |
+| [Methamphetamine Precursor Control Act (720 ILCS 648)](https://ftp.ilga.gov/ILCS/Ch%200720/Act%200648/) | 25 | 2025-08-15 |
+| [Methamphetamine Precursor Tracking Act (720 ILCS 649)](https://ftp.ilga.gov/ILCS/Ch%200720/Act%200649/) | 12 | 2025-08-15 |
+| [Sale of Immoral Publications to Children Act (720 ILCS 670)](https://ftp.ilga.gov/ILCS/Ch%200720/Act%200670/) | 4 | 2026-10-30 |

@@ -44976,6 +44976,48 @@
      "units": 44
     }
    ]
+  },
+  {
+   "slug": "ilcs-720-648",
+   "short": "720 ILCS 648",
+   "title": "Methamphetamine Precursor Control Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200720/Act%200648/",
+   "versions": [
+    {
+     "from": "2025-08-15",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200720/Act%200648/",
+     "sha256": "123dff63b1f2a647131a307831fb112b6feca28c6f5bf880c3f75ce0127640ad",
+     "units": 26
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-720-649",
+   "short": "720 ILCS 649",
+   "title": "Methamphetamine Precursor Tracking Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200720/Act%200649/",
+   "versions": [
+    {
+     "from": "2025-08-15",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200720/Act%200649/",
+     "sha256": "1f90c82172d114e25e45c5b70d6afa093a020c57df0c0876b33cf0c0b843cc32",
+     "units": 13
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-720-670",
+   "short": "720 ILCS 670",
+   "title": "Sale of Immoral Publications to Children Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200720/Act%200670/",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200720/Act%200670/",
+     "sha256": "fe9422a54158b24df63193534143d49a29116790b0d319078ea2883b17499492",
+     "units": 5
+    }
+   ]
   }
  ]
 }
