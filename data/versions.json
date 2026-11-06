@@ -42512,6 +42512,62 @@
      "units": 42
     }
    ]
+  },
+  {
+   "slug": "ilcs-310-35",
+   "short": "310 ILCS 35",
+   "title": "House Relocation Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200310/Act%200035/",
+   "versions": [
+    {
+     "from": "2007-01-01",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200310/Act%200035/",
+     "sha256": "1a07df5c05b27c43df40101cde6dbccdf1c3d84b89b6f33ab5931f10b1fa0662",
+     "units": 7
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-310-40",
+   "short": "310 ILCS 40",
+   "title": "Displaced Person Relocation Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200310/Act%200040/",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200310/Act%200040/",
+     "sha256": "2fa111cd22c26a8d521f74bf108cda7f65af9ef38ca27e52b65f3438213a95b6",
+     "units": 9
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-310-45",
+   "short": "310 ILCS 45",
+   "title": "Illinois Mortgage Insurance Fund Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200310/Act%200045/",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200310/Act%200045/",
+     "sha256": "3a55d63f5689eb961e9f46c3c3f62942f386a8373269e9e2ea560894899e4819",
+     "units": 13
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-310-130",
+   "short": "310 ILCS 130",
+   "title": "Community Land Trust Home Ownership Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200310/Act%200130/",
+   "versions": [
+    {
+     "from": "2025-08-15",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200310/Act%200130/",
+     "sha256": "bca02cf817ede4d29e6daa38ebb3930c350f07b88675ac21c4ce7a784056bd20",
+     "units": 14
+    }
+   ]
   }
  ]
 }
