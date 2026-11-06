@@ -50,7 +50,7 @@ Current-text preparation uses the latest explicit effective date in the source a
 
 ## Static ILCS compilation additions, 30 October 2026
 
-675 additional complete indexed acts from the [Illinois General Assembly compilation](https://ftp.ilga.gov/ILCS/) are included. The compilation incorporates Public Acts through 104-854. The publisher states that these provisions have NOT been edited for publication and are NOT the official text; this copy should not be cited as official or authoritative. The only official copy is the printed copy maintained by the Secretary of State’s office.
+751 additional complete indexed acts from the [Illinois General Assembly compilation](https://ftp.ilga.gov/ILCS/) are included. The compilation incorporates Public Acts through 104-854. The publisher states that these provisions have NOT been edited for publication and are NOT the official text; this copy should not be cited as official or authoritative. The only official copy is the printed copy maintained by the Secretary of State’s office.
 
 Each addition retains all sections, act-title documents and article headings in the publisher’s Section Sequence. Dates use the latest explicit amendment effective date in the source, otherwise the compilation’s own update date, 2026-10-30. This date fallback does not claim a commencement date the source does not identify. Future-effective text and normative images are held. Existing records retain their historical dates and text; their inclusion above does not establish equality with this static compilation. Public Acts, administrative rules and earlier wording are not added.
 
@@ -731,3 +731,79 @@ Each addition retains all sections, act-title documents and article headings in 
 | [Motor Vehicle Franchise Act (815 ILCS 710)](https://ftp.ilga.gov/ILCS/Ch%200815/Act%200710/) | 35 | 2024-08-09 |
 | [Illinois Equipment Fair Dealership Law (815 ILCS 715)](https://ftp.ilga.gov/ILCS/Ch%200815/Act%200715/) | 14 | 2011-08-12 |
 | [Beer Industry Fair Dealing Act (815 ILCS 720)](https://ftp.ilga.gov/ILCS/Ch%200815/Act%200720/) | 11 | 2019-07-12 |
+| [Labor Dispute Act (820 ILCS 5)](https://ftp.ilga.gov/ILCS/Ch%200820/Act%200005/) | 6 | 2026-08-07 |
+| [Collective Bargaining Successor Employer Act (820 ILCS 10)](https://ftp.ilga.gov/ILCS/Ch%200820/Act%200010/) | 3 | 2026-10-30 |
+| [Collective Bargaining Freedom Act (820 ILCS 12)](https://ftp.ilga.gov/ILCS/Ch%200820/Act%200012/) | 9 | 2024-01-01 |
+| [Transportation Network Driver Labor Relations Act (820 ILCS 14)](https://ftp.ilga.gov/ILCS/Ch%200820/Act%200014/) | 26 | 2026-08-07 |
+| [Employment Contract Act (820 ILCS 15)](https://ftp.ilga.gov/ILCS/Ch%200820/Act%200015/) | 2 | 2026-10-30 |
+| [Broadcast Industry Free Market Act (820 ILCS 17)](https://ftp.ilga.gov/ILCS/Ch%200820/Act%200017/) | 4 | 2002-01-01 |
+| [Artistic Contracts by Minors Act (820 ILCS 20)](https://ftp.ilga.gov/ILCS/Ch%200820/Act%200020/) | 4 | 2026-10-30 |
+| [Advertisement for Strike Workers Act (820 ILCS 25)](https://ftp.ilga.gov/ILCS/Ch%200820/Act%200025/) | 3 | 2026-10-30 |
+| [Employment of Strikebreakers Act (820 ILCS 30)](https://ftp.ilga.gov/ILCS/Ch%200820/Act%200030/) | 5 | 2004-01-01 |
+| [Employee Arbitration Act (820 ILCS 35)](https://ftp.ilga.gov/ILCS/Ch%200820/Act%200035/) | 11 | 2023-06-30 |
+| [Personnel Record Review Act (820 ILCS 40)](https://ftp.ilga.gov/ILCS/Ch%200820/Act%200040/) | 15 | 2026-01-01 |
+| [Artificial Intelligence Video Interview Act (820 ILCS 42)](https://ftp.ilga.gov/ILCS/Ch%200820/Act%200042/) | 5 | 2022-01-01 |
+| [Health Insurance Claim Filing Act (820 ILCS 45)](https://ftp.ilga.gov/ILCS/Ch%200820/Act%200045/) | 3 | 2026-10-30 |
+| [Consumer Coverage Disclosure Act (820 ILCS 46)](https://ftp.ilga.gov/ILCS/Ch%200820/Act%200046/) | 7 | 2021-08-27 |
+| [Right to Privacy in the Workplace Act (820 ILCS 55)](https://ftp.ilga.gov/ILCS/Ch%200820/Act%200055/) | 13 | 2026-08-21 |
+| [Worker Freedom of Speech Act (820 ILCS 57)](https://ftp.ilga.gov/ILCS/Ch%200820/Act%200057/) | 8 | 2025-08-15 |
+| [Union Employee Health and Benefits Protection Act (820 ILCS 60)](https://ftp.ilga.gov/ILCS/Ch%200820/Act%200060/) | 11 | 2026-10-30 |
+| [Sexual Harassment Victim Representation Act (820 ILCS 61)](https://ftp.ilga.gov/ILCS/Ch%200820/Act%200061/) | 6 | 2020-07-01 |
+| [Transportation Benefits Program Act (820 ILCS 63)](https://ftp.ilga.gov/ILCS/Ch%200820/Act%200063/) | 6 | 2026-06-01 |
+| [Illinois Worker Adjustment and Retraining Notification Act (820 ILCS 65)](https://ftp.ilga.gov/ILCS/Ch%200820/Act%200065/) | 16 | 2021-09-15 |
+| [Employee Credit Privacy Act (820 ILCS 70)](https://ftp.ilga.gov/ILCS/Ch%200820/Act%200070/) | 7 | 2021-08-20 |
+| [Illinois Secure Choice Savings Program Act (820 ILCS 80)](https://ftp.ilga.gov/ILCS/Ch%200820/Act%200080/) | 23 | 2025-08-01 |
+| [Illinois Freedom to Work Act (820 ILCS 90)](https://ftp.ilga.gov/ILCS/Ch%200820/Act%200090/) | 10 | 2025-08-15 |
+| [Employee Misclassification Referral System Act (820 ILCS 92)](https://ftp.ilga.gov/ILCS/Ch%200820/Act%200092/) | 5 | 2018-06-01 |
+| [Human Trafficking Recognition Training Act (820 ILCS 95)](https://ftp.ilga.gov/ILCS/Ch%200820/Act%200095/) | 11 | 2026-01-01 |
+| [Workplace Transparency Act (820 ILCS 96)](https://ftp.ilga.gov/ILCS/Ch%200820/Act%200096/) | 13 | 2026-01-01 |
+| [Customized Employment for Individuals with Disabilities Act (820 ILCS 97)](https://ftp.ilga.gov/ILCS/Ch%200820/Act%200097/) | 10 | 2025-01-01 |
+| [Workers' Rights and Worker Safety Act (820 ILCS 98)](https://ftp.ilga.gov/ILCS/Ch%200820/Act%200098/) | 7 | 2025-08-14 |
+| [Minimum Wage Law (820 ILCS 105)](https://ftp.ilga.gov/ILCS/Ch%200820/Act%200105/) | 17 | 2026-07-01 |
+| [Equal Wage Act (820 ILCS 110)](https://ftp.ilga.gov/ILCS/Ch%200820/Act%200110/) | 3 | 2026-10-30 |
+| [Equal Pay Act of 2003 (820 ILCS 112)](https://ftp.ilga.gov/ILCS/Ch%200820/Act%200112/) | 15 | 2025-06-30 |
+| [Illinois Wage Payment and Collection Act (820 ILCS 115)](https://ftp.ilga.gov/ILCS/Ch%200820/Act%200115/) | 21 | 2026-06-01 |
+| [Sales Representative Act (820 ILCS 120)](https://ftp.ilga.gov/ILCS/Ch%200820/Act%200120/) | 4 | 2026-10-30 |
+| [Prevailing Wage Act (820 ILCS 130)](https://ftp.ilga.gov/ILCS/Ch%200820/Act%200130/) | 19 | 2026-08-21 |
+| [Burial Rights Act (820 ILCS 135)](https://ftp.ilga.gov/ILCS/Ch%200820/Act%200135/) | 8 | 2010-03-01 |
+| [One Day Rest In Seven Act (820 ILCS 140)](https://ftp.ilga.gov/ILCS/Ch%200820/Act%200140/) | 13 | 2025-03-21 |
+| [Eight Hour Work Day Act (820 ILCS 145)](https://ftp.ilga.gov/ILCS/Ch%200820/Act%200145/) | 3 | 2026-10-30 |
+| [School Visitation Rights Act (820 ILCS 147)](https://ftp.ilga.gov/ILCS/Ch%200820/Act%200147/) | 11 | 2020-08-01 |
+| [Civil Air Patrol Leave Act (820 ILCS 148)](https://ftp.ilga.gov/ILCS/Ch%200820/Act%200148/) | 8 | 2019-07-12 |
+| [Employee Blood and Organ Donation Leave Act (820 ILCS 149)](https://ftp.ilga.gov/ILCS/Ch%200820/Act%200149/) | 5 | 2026-01-01 |
+| [Employee Medical Contribution Act (820 ILCS 150)](https://ftp.ilga.gov/ILCS/Ch%200820/Act%200150/) | 3 | 1998-07-30 |
+| [Military Leave Act (820 ILCS 151)](https://ftp.ilga.gov/ILCS/Ch%200820/Act%200151/) | 9 | 2025-08-01 |
+| [Family Bereavement Leave Act (820 ILCS 154)](https://ftp.ilga.gov/ILCS/Ch%200820/Act%200154/) | 10 | 2025-06-16 |
+| [Employer as Lessee Bond Act (820 ILCS 155)](https://ftp.ilga.gov/ILCS/Ch%200820/Act%200155/) | 6 | 2026-10-30 |
+| [Child Extended Bereavement Leave Act (820 ILCS 156)](https://ftp.ilga.gov/ILCS/Ch%200820/Act%200156/) | 10 | 2024-01-01 |
+| [Family Neonatal Intensive Care Leave Act (820 ILCS 157)](https://ftp.ilga.gov/ILCS/Ch%200820/Act%200157/) | 7 | 2026-06-16 |
+| [Employee Benefit Contribution Act (820 ILCS 160)](https://ftp.ilga.gov/ILCS/Ch%200820/Act%200160/) | 3 | 2002-01-01 |
+| [Personal Service Wage Refund Act (820 ILCS 165)](https://ftp.ilga.gov/ILCS/Ch%200820/Act%200165/) | 5 | 1999-07-29 |
+| [Earned Income Tax Credit Information Act (820 ILCS 170)](https://ftp.ilga.gov/ILCS/Ch%200820/Act%200170/) | 5 | 2017-08-18 |
+| [Day and Temporary Labor Services Act (820 ILCS 175)](https://ftp.ilga.gov/ILCS/Ch%200820/Act%200175/) | 31 | 2025-11-21 |
+| [Victims' Economic Security and Safety Act (820 ILCS 180)](https://ftp.ilga.gov/ILCS/Ch%200820/Act%200180/) | 13 | 2026-08-21 |
+| [Domestic Workers' Bill of Rights Act (820 ILCS 182)](https://ftp.ilga.gov/ILCS/Ch%200820/Act%200182/) | 9 | 2026-07-01 |
+| [Employee Classification Act (820 ILCS 185)](https://ftp.ilga.gov/ILCS/Ch%200820/Act%200185/) | 30 | 2026-06-16 |
+| [Illinois Fringe Benefit Portability and Continuity Act (820 ILCS 190)](https://ftp.ilga.gov/ILCS/Ch%200820/Act%200190/) | 8 | 2007-08-27 |
+| [Employee Sick Leave Act (820 ILCS 191)](https://ftp.ilga.gov/ILCS/Ch%200820/Act%200191/) | 8 | 2023-01-01 |
+| [Paid Leave for All Workers Act (820 ILCS 192)](https://ftp.ilga.gov/ILCS/Ch%200820/Act%200192/) | 11 | 2026-06-16 |
+| [Freelance Worker Protection Act (820 ILCS 193)](https://ftp.ilga.gov/ILCS/Ch%200820/Act%200193/) | 13 | 2026-08-21 |
+| [Child Labor Law of 2024 (820 ILCS 206)](https://ftp.ilga.gov/ILCS/Ch%200820/Act%200206/) | 32 | 2026-08-21 |
+| [Disclosure of Offenses Against Children Act (820 ILCS 210)](https://ftp.ilga.gov/ILCS/Ch%200820/Act%200210/) | 2 | 2026-10-30 |
+| [Occupational Safety and Health Act (820 ILCS 219)](https://ftp.ilga.gov/ILCS/Ch%200820/Act%200219/) | 36 | 2025-08-14 |
+| [Illinois Safe and Healthy Workplace Act (820 ILCS 226)](https://ftp.ilga.gov/ILCS/Ch%200820/Act%200226/) | 8 | 2025-08-14 |
+| [OSHA Program Reorganization Act (820 ILCS 227)](https://ftp.ilga.gov/ILCS/Ch%200820/Act%200227/) | 17 | 2012-07-13 |
+| [Employee Washroom Act (820 ILCS 230)](https://ftp.ilga.gov/ILCS/Ch%200820/Act%200230/) | 7 | 2022-06-10 |
+| [Medical Examination of Employees Act (820 ILCS 235)](https://ftp.ilga.gov/ILCS/Ch%200820/Act%200235/) | 5 | 2026-10-30 |
+| [Work Under Compressed Air Act (820 ILCS 245)](https://ftp.ilga.gov/ILCS/Ch%200820/Act%200245/) | 9 | 2022-06-10 |
+| [Underground Sewer Employee Safety Act (820 ILCS 250)](https://ftp.ilga.gov/ILCS/Ch%200820/Act%200250/) | 8 | 2025-08-15 |
+| [Toxic Substances Disclosure to Employees Act (820 ILCS 255)](https://ftp.ilga.gov/ILCS/Ch%200820/Act%200255/) | 21 | 2022-06-10 |
+| [Nursing Mothers in the Workplace Act (820 ILCS 260)](https://ftp.ilga.gov/ILCS/Ch%200820/Act%200260/) | 5 | 2026-01-01 |
+| [Substance Abuse Prevention on Public Works Projects Act (820 ILCS 265)](https://ftp.ilga.gov/ILCS/Ch%200820/Act%200265/) | 7 | 2008-01-01 |
+| [Aerial Exhibitors Safety Act (820 ILCS 270)](https://ftp.ilga.gov/ILCS/Ch%200820/Act%200270/) | 4 | 2026-10-30 |
+| [Workplace Violence Prevention Act (820 ILCS 275)](https://ftp.ilga.gov/ILCS/Ch%200820/Act%200275/) | 28 | 2018-08-14 |
+| [Workers' Compensation Act (820 ILCS 305)](https://ftp.ilga.gov/ILCS/Ch%200820/Act%200305/) | 63 | 2026-08-07 |
+| [Workers' Occupational Diseases Act (820 ILCS 310)](https://ftp.ilga.gov/ILCS/Ch%200820/Act%200310/) | 33 | 2022-05-27 |
+| [Line of Duty Compensation Act (820 ILCS 315)](https://ftp.ilga.gov/ILCS/Ch%200820/Act%200315/) | 6 | 2024-07-01 |
+| [Public Safety Employee Benefits Act (820 ILCS 320)](https://ftp.ilga.gov/ILCS/Ch%200820/Act%200320/) | 9 | 2024-01-01 |
+| [Hotel and Casino Employee Safety Act (820 ILCS 325)](https://ftp.ilga.gov/ILCS/Ch%200820/Act%200325/) | 7 | 2021-03-01 |

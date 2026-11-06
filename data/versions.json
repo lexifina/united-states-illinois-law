@@ -46726,6 +46726,1070 @@
      "units": 12
     }
    ]
+  },
+  {
+   "slug": "ilcs-820-5",
+   "short": "820 ILCS 5",
+   "title": "Labor Dispute Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200820/Act%200005/",
+   "versions": [
+    {
+     "from": "2026-08-07",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200820/Act%200005/",
+     "sha256": "940655b7adcff9feb00b1b6cbac78b106b9ef241b54ad811573a3f527965655f",
+     "units": 7
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-820-10",
+   "short": "820 ILCS 10",
+   "title": "Collective Bargaining Successor Employer Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200820/Act%200010/",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200820/Act%200010/",
+     "sha256": "6a04ea22cb799f026019653535bd3dd212ffb154dfb44f461ca15777dedd2e79",
+     "units": 4
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-820-12",
+   "short": "820 ILCS 12",
+   "title": "Collective Bargaining Freedom Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200820/Act%200012/",
+   "versions": [
+    {
+     "from": "2024-01-01",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200820/Act%200012/",
+     "sha256": "5633e289f1b1298a6ce5f519aebefefb9871dab0854a8284f9b0cf2ebc8cce54",
+     "units": 10
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-820-14",
+   "short": "820 ILCS 14",
+   "title": "Transportation Network Driver Labor Relations Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200820/Act%200014/",
+   "versions": [
+    {
+     "from": "2026-08-07",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200820/Act%200014/",
+     "sha256": "47870d69c7d86d9c85df6da6957573bd2897547e9dac335a9fddb38d933c0656",
+     "units": 27
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-820-15",
+   "short": "820 ILCS 15",
+   "title": "Employment Contract Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200820/Act%200015/",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200820/Act%200015/",
+     "sha256": "931aa519406d31d4df41169b6c6c24def3eba96dfb1af3b5c85bfc27b7de594f",
+     "units": 3
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-820-17",
+   "short": "820 ILCS 17",
+   "title": "Broadcast Industry Free Market Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200820/Act%200017/",
+   "versions": [
+    {
+     "from": "2002-01-01",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200820/Act%200017/",
+     "sha256": "6a6483a5cb9faa929c729646738a934b084c585d245a2341b9d5793c63bd2e3b",
+     "units": 5
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-820-20",
+   "short": "820 ILCS 20",
+   "title": "Artistic Contracts by Minors Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200820/Act%200020/",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200820/Act%200020/",
+     "sha256": "412f90b53187ddde6dc3857b1b1f1f2444535deea57aea65aab9f5089a26c527",
+     "units": 5
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-820-25",
+   "short": "820 ILCS 25",
+   "title": "Advertisement for Strike Workers Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200820/Act%200025/",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200820/Act%200025/",
+     "sha256": "5f747b8b8c298cda7d6e26e9de7ebebd65e1a64197f5a1ccd6aaf308f46c3065",
+     "units": 4
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-820-30",
+   "short": "820 ILCS 30",
+   "title": "Employment of Strikebreakers Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200820/Act%200030/",
+   "versions": [
+    {
+     "from": "2004-01-01",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200820/Act%200030/",
+     "sha256": "ea887e7a476f103891443b40f74908c50aadc765d7c97c48f673a94e2ecc7a27",
+     "units": 6
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-820-35",
+   "short": "820 ILCS 35",
+   "title": "Employee Arbitration Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200820/Act%200035/",
+   "versions": [
+    {
+     "from": "2023-06-30",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200820/Act%200035/",
+     "sha256": "0691a5c70b5ce1eed0a3d33237ec280f76c775ef05d2e27479b63e9163088789",
+     "units": 12
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-820-40",
+   "short": "820 ILCS 40",
+   "title": "Personnel Record Review Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200820/Act%200040/",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200820/Act%200040/",
+     "sha256": "a9ad5f5526378b399a471f84473225f65e74e83f289f2b302cf2628a9364f662",
+     "units": 16
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-820-42",
+   "short": "820 ILCS 42",
+   "title": "Artificial Intelligence Video Interview Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200820/Act%200042/",
+   "versions": [
+    {
+     "from": "2022-01-01",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200820/Act%200042/",
+     "sha256": "91855cfd52b037f4bed2c503f6beb8c9602e77b490d99380c605a38ed9fd7c60",
+     "units": 6
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-820-45",
+   "short": "820 ILCS 45",
+   "title": "Health Insurance Claim Filing Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200820/Act%200045/",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200820/Act%200045/",
+     "sha256": "b97575b977289f9ae9f1f8dbc73f0abcfc679c374156b467792495f1a31948b6",
+     "units": 4
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-820-46",
+   "short": "820 ILCS 46",
+   "title": "Consumer Coverage Disclosure Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200820/Act%200046/",
+   "versions": [
+    {
+     "from": "2021-08-27",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200820/Act%200046/",
+     "sha256": "cb22c816ffba1d1311128afff4a8e701962b9b4316e40ee19760d6d1d9c8b5e9",
+     "units": 8
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-820-55",
+   "short": "820 ILCS 55",
+   "title": "Right to Privacy in the Workplace Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200820/Act%200055/",
+   "versions": [
+    {
+     "from": "2026-08-21",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200820/Act%200055/",
+     "sha256": "c03cd4ada4b2c77ffccababa4314366cb4c7874544733a80912362ce3f1f9089",
+     "units": 14
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-820-57",
+   "short": "820 ILCS 57",
+   "title": "Worker Freedom of Speech Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200820/Act%200057/",
+   "versions": [
+    {
+     "from": "2025-08-15",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200820/Act%200057/",
+     "sha256": "573d486e324401ce84bf90b26ef74140da77cb2bbc9ea4a27f28a155bc89b2fd",
+     "units": 9
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-820-60",
+   "short": "820 ILCS 60",
+   "title": "Union Employee Health and Benefits Protection Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200820/Act%200060/",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200820/Act%200060/",
+     "sha256": "bd98521c602b5f472c48484f57159f9eeb90fa2655da20374a16ef31e277bd19",
+     "units": 12
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-820-61",
+   "short": "820 ILCS 61",
+   "title": "Sexual Harassment Victim Representation Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200820/Act%200061/",
+   "versions": [
+    {
+     "from": "2020-07-01",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200820/Act%200061/",
+     "sha256": "1a9e7abc5cf55904d55c85f987bfa7c45bcfa1e62092a3d75c22efe3c097c787",
+     "units": 14
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-820-63",
+   "short": "820 ILCS 63",
+   "title": "Transportation Benefits Program Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200820/Act%200063/",
+   "versions": [
+    {
+     "from": "2026-06-01",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200820/Act%200063/",
+     "sha256": "63a1ced60f5ba304592be84092cb433b445fbb7ee5783537b1bb5d7f72b4b131",
+     "units": 7
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-820-65",
+   "short": "820 ILCS 65",
+   "title": "Illinois Worker Adjustment and Retraining Notification Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200820/Act%200065/",
+   "versions": [
+    {
+     "from": "2021-09-15",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200820/Act%200065/",
+     "sha256": "a3165e74f13c4ebdebc9c877eb4b330976ae89c81eb508adce802531361393ac",
+     "units": 17
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-820-70",
+   "short": "820 ILCS 70",
+   "title": "Employee Credit Privacy Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200820/Act%200070/",
+   "versions": [
+    {
+     "from": "2021-08-20",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200820/Act%200070/",
+     "sha256": "446e4acb866a7d66170872f3c4850b09f1cc60ec8456ef212f77e4e8aa4b1656",
+     "units": 8
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-820-80",
+   "short": "820 ILCS 80",
+   "title": "Illinois Secure Choice Savings Program Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200820/Act%200080/",
+   "versions": [
+    {
+     "from": "2025-08-01",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200820/Act%200080/",
+     "sha256": "2d74a055cd78c1384f92deb82fbf212513008ed0f11a3ac94840c114ca104ad1",
+     "units": 24
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-820-90",
+   "short": "820 ILCS 90",
+   "title": "Illinois Freedom to Work Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200820/Act%200090/",
+   "versions": [
+    {
+     "from": "2025-08-15",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200820/Act%200090/",
+     "sha256": "88f9d3d8a688bab6b6ca0818854e19ede09dcccb75d495c17c746ef01d105f85",
+     "units": 11
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-820-92",
+   "short": "820 ILCS 92",
+   "title": "Employee Misclassification Referral System Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200820/Act%200092/",
+   "versions": [
+    {
+     "from": "2018-06-01",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200820/Act%200092/",
+     "sha256": "41dc0a19b84cb017aede0b5d20b1ab8fef9fdf53f5788bec41accf6c86ca94f7",
+     "units": 6
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-820-95",
+   "short": "820 ILCS 95",
+   "title": "Human Trafficking Recognition Training Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200820/Act%200095/",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200820/Act%200095/",
+     "sha256": "712f8f4d5add07ee769e5c2d5dd029e5f52811424f2648c32717da684836d42e",
+     "units": 12
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-820-96",
+   "short": "820 ILCS 96",
+   "title": "Workplace Transparency Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200820/Act%200096/",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200820/Act%200096/",
+     "sha256": "11e50878cc8b32031ab5222b4a8210be4d75831a7e778e1a54751244fc7f2d49",
+     "units": 21
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-820-97",
+   "short": "820 ILCS 97",
+   "title": "Customized Employment for Individuals with Disabilities Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200820/Act%200097/",
+   "versions": [
+    {
+     "from": "2025-01-01",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200820/Act%200097/",
+     "sha256": "0d404a73cb7a23736421bf707738dea2f5ddf85df97174f516c786c456404507",
+     "units": 11
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-820-98",
+   "short": "820 ILCS 98",
+   "title": "Workers' Rights and Worker Safety Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200820/Act%200098/",
+   "versions": [
+    {
+     "from": "2025-08-14",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200820/Act%200098/",
+     "sha256": "75e0abc452a7d35481eb2ae548da1ed0699fee11bfa448babf755d109199223c",
+     "units": 12
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-820-105",
+   "short": "820 ILCS 105",
+   "title": "Minimum Wage Law",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200820/Act%200105/",
+   "versions": [
+    {
+     "from": "2026-07-01",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200820/Act%200105/",
+     "sha256": "a570265256cb556a246bedea90715015345859a0c80b1271742c8ea965120dd7",
+     "units": 18
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-820-110",
+   "short": "820 ILCS 110",
+   "title": "Equal Wage Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200820/Act%200110/",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200820/Act%200110/",
+     "sha256": "65b21f17dfeb795d966e188ecc0165b1437579a5db57ca8103fbcdd4aaaa09f9",
+     "units": 4
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-820-112",
+   "short": "820 ILCS 112",
+   "title": "Equal Pay Act of 2003",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200820/Act%200112/",
+   "versions": [
+    {
+     "from": "2025-06-30",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200820/Act%200112/",
+     "sha256": "569cc56d4ccc07d5dab0da60080b64643b10e35cd7a1235143586ccae06e9651",
+     "units": 16
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-820-115",
+   "short": "820 ILCS 115",
+   "title": "Illinois Wage Payment and Collection Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200820/Act%200115/",
+   "versions": [
+    {
+     "from": "2026-06-01",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200820/Act%200115/",
+     "sha256": "d10b5b692f30fcabe83234880f91e7e8457215512a1cd27ef6825872262e19ea",
+     "units": 22
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-820-120",
+   "short": "820 ILCS 120",
+   "title": "Sales Representative Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200820/Act%200120/",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200820/Act%200120/",
+     "sha256": "fd82fe87194fe5fdad2f46824bae981fbdf3f456e05ad4129c3ad3a478d8521b",
+     "units": 5
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-820-130",
+   "short": "820 ILCS 130",
+   "title": "Prevailing Wage Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200820/Act%200130/",
+   "versions": [
+    {
+     "from": "2026-08-21",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200820/Act%200130/",
+     "sha256": "87fb95eb87ec339b31bd9868fc32ad39aff3772d32f350ef8282c4de1346d345",
+     "units": 20
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-820-135",
+   "short": "820 ILCS 135",
+   "title": "Burial Rights Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200820/Act%200135/",
+   "versions": [
+    {
+     "from": "2010-03-01",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200820/Act%200135/",
+     "sha256": "0c5634c70bf04b4e283241d7391bf46edee47add3ff59b6468d347cb24c47f57",
+     "units": 9
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-820-140",
+   "short": "820 ILCS 140",
+   "title": "One Day Rest In Seven Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200820/Act%200140/",
+   "versions": [
+    {
+     "from": "2025-03-21",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200820/Act%200140/",
+     "sha256": "881cce05496ec31d911d6694f9e2b6f981433f1c7353100a348ba7e279109106",
+     "units": 14
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-820-145",
+   "short": "820 ILCS 145",
+   "title": "Eight Hour Work Day Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200820/Act%200145/",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200820/Act%200145/",
+     "sha256": "e3f103b7234459c620101e08e15b0e2e42fa685f1e24c429c554f71cdfd5d67d",
+     "units": 4
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-820-147",
+   "short": "820 ILCS 147",
+   "title": "School Visitation Rights Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200820/Act%200147/",
+   "versions": [
+    {
+     "from": "2020-08-01",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200820/Act%200147/",
+     "sha256": "6883cc1cb95baac7cde6bdd68ba3afc9212e08acb538fa26417aec111df24cbc",
+     "units": 12
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-820-148",
+   "short": "820 ILCS 148",
+   "title": "Civil Air Patrol Leave Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200820/Act%200148/",
+   "versions": [
+    {
+     "from": "2019-07-12",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200820/Act%200148/",
+     "sha256": "22e08bd57a4d9e4459284bf1177fc61831e85f1e9a651c18ed41fad9b961e02d",
+     "units": 9
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-820-149",
+   "short": "820 ILCS 149",
+   "title": "Employee Blood and Organ Donation Leave Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200820/Act%200149/",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200820/Act%200149/",
+     "sha256": "272b4504840d8bb4f51ca7fefcc578b5d92e7c627e5fb6abde2320afd91544fd",
+     "units": 6
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-820-150",
+   "short": "820 ILCS 150",
+   "title": "Employee Medical Contribution Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200820/Act%200150/",
+   "versions": [
+    {
+     "from": "1998-07-30",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200820/Act%200150/",
+     "sha256": "0ab14d0788ba8e6cf467a45fdd08eb6794e77315c284c919db688f9ea267ab56",
+     "units": 4
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-820-151",
+   "short": "820 ILCS 151",
+   "title": "Military Leave Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200820/Act%200151/",
+   "versions": [
+    {
+     "from": "2025-08-01",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200820/Act%200151/",
+     "sha256": "ec6e82fb965f1b149f3986ac6b5980c7a27234ffb0c275f041f42be0f0933852",
+     "units": 10
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-820-154",
+   "short": "820 ILCS 154",
+   "title": "Family Bereavement Leave Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200820/Act%200154/",
+   "versions": [
+    {
+     "from": "2025-06-16",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200820/Act%200154/",
+     "sha256": "1a1c5071495e1bfeeaceaf1fcc47490761294877d5abb0803725c106b7fae1b3",
+     "units": 11
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-820-155",
+   "short": "820 ILCS 155",
+   "title": "Employer as Lessee Bond Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200820/Act%200155/",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200820/Act%200155/",
+     "sha256": "9c2ac3c4bfbb109b7cc9382373f9ebb258b4f927e16d6d9f4986d8ff7aa7a4c5",
+     "units": 7
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-820-156",
+   "short": "820 ILCS 156",
+   "title": "Child Extended Bereavement Leave Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200820/Act%200156/",
+   "versions": [
+    {
+     "from": "2024-01-01",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200820/Act%200156/",
+     "sha256": "868418a0b38487e0bf5f3c8a590e3fd41964633e3fe1e98cfab56a6dc4a4eee7",
+     "units": 11
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-820-157",
+   "short": "820 ILCS 157",
+   "title": "Family Neonatal Intensive Care Leave Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200820/Act%200157/",
+   "versions": [
+    {
+     "from": "2026-06-16",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200820/Act%200157/",
+     "sha256": "d0ab5b17e714efc9de5f0fbf304f3d985bcfb46ba6049dd8419d84fe75b31629",
+     "units": 8
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-820-160",
+   "short": "820 ILCS 160",
+   "title": "Employee Benefit Contribution Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200820/Act%200160/",
+   "versions": [
+    {
+     "from": "2002-01-01",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200820/Act%200160/",
+     "sha256": "fd2ad3dc984bbd662a6cb92580c38bc44ef2df8c705c20d036f419381be37e9f",
+     "units": 4
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-820-165",
+   "short": "820 ILCS 165",
+   "title": "Personal Service Wage Refund Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200820/Act%200165/",
+   "versions": [
+    {
+     "from": "1999-07-29",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200820/Act%200165/",
+     "sha256": "2038bc561ec879d5e7470da2d66adf0bb9c3054a8522a06d735bbfc1fc9a108f",
+     "units": 6
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-820-170",
+   "short": "820 ILCS 170",
+   "title": "Earned Income Tax Credit Information Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200820/Act%200170/",
+   "versions": [
+    {
+     "from": "2017-08-18",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200820/Act%200170/",
+     "sha256": "595ccf12db42ee2fbe98c3a8e2fabb5e26676cc527eacaabb00c3c40d73f6715",
+     "units": 6
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-820-175",
+   "short": "820 ILCS 175",
+   "title": "Day and Temporary Labor Services Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200820/Act%200175/",
+   "versions": [
+    {
+     "from": "2025-11-21",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200820/Act%200175/",
+     "sha256": "1688ae7a9d72dcb04708ab201dac4f083fff1dfa55b9bbc12f873b2b157dea27",
+     "units": 32
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-820-180",
+   "short": "820 ILCS 180",
+   "title": "Victims' Economic Security and Safety Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200820/Act%200180/",
+   "versions": [
+    {
+     "from": "2026-08-21",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200820/Act%200180/",
+     "sha256": "c0f53f9822086c7ed85da44a8376f53a8b6a523bfc2b172afb59b80447df654a",
+     "units": 14
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-820-182",
+   "short": "820 ILCS 182",
+   "title": "Domestic Workers' Bill of Rights Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200820/Act%200182/",
+   "versions": [
+    {
+     "from": "2026-07-01",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200820/Act%200182/",
+     "sha256": "9da2f103ba9a9e7eaccd2f3904e6aa5a4553681011c99588edc23492c88fedaf",
+     "units": 10
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-820-185",
+   "short": "820 ILCS 185",
+   "title": "Employee Classification Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200820/Act%200185/",
+   "versions": [
+    {
+     "from": "2026-06-16",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200820/Act%200185/",
+     "sha256": "bcce0e587330a9f8cfb1c8621977fafeebde4b6068a70fe2bea29a4fd256d4b7",
+     "units": 31
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-820-190",
+   "short": "820 ILCS 190",
+   "title": "Illinois Fringe Benefit Portability and Continuity Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200820/Act%200190/",
+   "versions": [
+    {
+     "from": "2007-08-27",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200820/Act%200190/",
+     "sha256": "8ff9dbeba67c3c2ffbf7f3d7ccffaf9f4dff8d4680d307dc29f73d55573c3951",
+     "units": 9
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-820-191",
+   "short": "820 ILCS 191",
+   "title": "Employee Sick Leave Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200820/Act%200191/",
+   "versions": [
+    {
+     "from": "2023-01-01",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200820/Act%200191/",
+     "sha256": "9b83253fdbe0ca84db195876cc0c3cfa7def90812683cbd98e7bd5a5cee30807",
+     "units": 9
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-820-192",
+   "short": "820 ILCS 192",
+   "title": "Paid Leave for All Workers Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200820/Act%200192/",
+   "versions": [
+    {
+     "from": "2026-06-16",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200820/Act%200192/",
+     "sha256": "f9572294243cc7d8010c9bc94106cdcfb59fa5d9f70dd098bb6461e59aca2274",
+     "units": 12
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-820-193",
+   "short": "820 ILCS 193",
+   "title": "Freelance Worker Protection Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200820/Act%200193/",
+   "versions": [
+    {
+     "from": "2026-08-21",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200820/Act%200193/",
+     "sha256": "52a290507d812888668524da4116c5140c9b2e4ca3178a0e1953c0e19f41e730",
+     "units": 14
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-820-206",
+   "short": "820 ILCS 206",
+   "title": "Child Labor Law of 2024",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200820/Act%200206/",
+   "versions": [
+    {
+     "from": "2026-08-21",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200820/Act%200206/",
+     "sha256": "0a531ac90abc51c9a9c69d8fc7408138bf37921141664fd312809b2f47febccd",
+     "units": 33
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-820-210",
+   "short": "820 ILCS 210",
+   "title": "Disclosure of Offenses Against Children Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200820/Act%200210/",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200820/Act%200210/",
+     "sha256": "8a7f31e297bad53aa561a9ab41234b7d3ed281c47815852a33574e67f8d29c5a",
+     "units": 3
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-820-219",
+   "short": "820 ILCS 219",
+   "title": "Occupational Safety and Health Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200820/Act%200219/",
+   "versions": [
+    {
+     "from": "2025-08-14",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200820/Act%200219/",
+     "sha256": "fd896cac26c22772dea748c7142ec4c6c2e8fa4a87324b301f1ceff168a27839",
+     "units": 37
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-820-226",
+   "short": "820 ILCS 226",
+   "title": "Illinois Safe and Healthy Workplace Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200820/Act%200226/",
+   "versions": [
+    {
+     "from": "2025-08-14",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200820/Act%200226/",
+     "sha256": "89b527d7c0425c6df7abcb8188a0d0e4d7c44a2c51edd30884b4e3828e5184cb",
+     "units": 13
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-820-227",
+   "short": "820 ILCS 227",
+   "title": "OSHA Program Reorganization Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200820/Act%200227/",
+   "versions": [
+    {
+     "from": "2012-07-13",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200820/Act%200227/",
+     "sha256": "1c75aca0967e6322080bafb4007960bfe6890710533ff048c7137c85db4140f0",
+     "units": 18
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-820-230",
+   "short": "820 ILCS 230",
+   "title": "Employee Washroom Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200820/Act%200230/",
+   "versions": [
+    {
+     "from": "2022-06-10",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200820/Act%200230/",
+     "sha256": "aac8a604c626d37f1c2a1ad035210f225229ed989c012b4caca40be41b8e3dd0",
+     "units": 8
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-820-235",
+   "short": "820 ILCS 235",
+   "title": "Medical Examination of Employees Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200820/Act%200235/",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200820/Act%200235/",
+     "sha256": "d5a78e9159998b7ba16fd18e0e7afe57abaa8967ad7c85614c7dd4f88e40ba3b",
+     "units": 6
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-820-245",
+   "short": "820 ILCS 245",
+   "title": "Work Under Compressed Air Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200820/Act%200245/",
+   "versions": [
+    {
+     "from": "2022-06-10",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200820/Act%200245/",
+     "sha256": "983e61ba088a7075c1a2581cae31af60041f2192ddf23924c94b4d659bae3cf0",
+     "units": 10
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-820-250",
+   "short": "820 ILCS 250",
+   "title": "Underground Sewer Employee Safety Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200820/Act%200250/",
+   "versions": [
+    {
+     "from": "2025-08-15",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200820/Act%200250/",
+     "sha256": "6387d3c336353e5d86761d4404695d973914f1d46dd9511f994590790f3ad280",
+     "units": 9
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-820-255",
+   "short": "820 ILCS 255",
+   "title": "Toxic Substances Disclosure to Employees Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200820/Act%200255/",
+   "versions": [
+    {
+     "from": "2022-06-10",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200820/Act%200255/",
+     "sha256": "7b5b824631e9a83ffdafac5ba1b0aebaa1e5d09255979df5156968e0804fe1de",
+     "units": 22
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-820-260",
+   "short": "820 ILCS 260",
+   "title": "Nursing Mothers in the Workplace Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200820/Act%200260/",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200820/Act%200260/",
+     "sha256": "9c7fd2f531d3f0b2fd786f97101bdb3e08a3cc015c15ab5d8756a2142a671a32",
+     "units": 6
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-820-265",
+   "short": "820 ILCS 265",
+   "title": "Substance Abuse Prevention on Public Works Projects Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200820/Act%200265/",
+   "versions": [
+    {
+     "from": "2008-01-01",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200820/Act%200265/",
+     "sha256": "7e40304ab0729b1c920cffeb49614bdabe082d0a15cecc16f70205db96237459",
+     "units": 8
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-820-270",
+   "short": "820 ILCS 270",
+   "title": "Aerial Exhibitors Safety Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200820/Act%200270/",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200820/Act%200270/",
+     "sha256": "c8fd665e1e044ad54bd963c471a1661f1177d5def2416b8d75a7b97e34224539",
+     "units": 5
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-820-275",
+   "short": "820 ILCS 275",
+   "title": "Workplace Violence Prevention Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200820/Act%200275/",
+   "versions": [
+    {
+     "from": "2018-08-14",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200820/Act%200275/",
+     "sha256": "6a285c2fd72f5ecd774ad65d34a6509198e154ce5f05f2725209feb60955fb39",
+     "units": 29
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-820-305",
+   "short": "820 ILCS 305",
+   "title": "Workers' Compensation Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200820/Act%200305/",
+   "versions": [
+    {
+     "from": "2026-08-07",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200820/Act%200305/",
+     "sha256": "87efdba3746e336283a8bcd1d2ca11e43cd69333f2158c852e2b7e4655cf7615",
+     "units": 64
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-820-310",
+   "short": "820 ILCS 310",
+   "title": "Workers' Occupational Diseases Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200820/Act%200310/",
+   "versions": [
+    {
+     "from": "2022-05-27",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200820/Act%200310/",
+     "sha256": "4a506c5f52f2be3696ea20a637cfe584f890d7b13a3585e2b7587ba5e4350eb2",
+     "units": 34
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-820-315",
+   "short": "820 ILCS 315",
+   "title": "Line of Duty Compensation Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200820/Act%200315/",
+   "versions": [
+    {
+     "from": "2024-07-01",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200820/Act%200315/",
+     "sha256": "099354c6b3bf7c4bfa67545b2709506d9c043fcb3d5e1312ffb0d0c8d3070dd5",
+     "units": 7
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-820-320",
+   "short": "820 ILCS 320",
+   "title": "Public Safety Employee Benefits Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200820/Act%200320/",
+   "versions": [
+    {
+     "from": "2024-01-01",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200820/Act%200320/",
+     "sha256": "ebbf2b9c74aed58165dc6e8d586e62360c3cdb94b00ea8e2bfe893aaa7ed4925",
+     "units": 10
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-820-325",
+   "short": "820 ILCS 325",
+   "title": "Hotel and Casino Employee Safety Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200820/Act%200325/",
+   "versions": [
+    {
+     "from": "2021-03-01",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200820/Act%200325/",
+     "sha256": "0ad21155f2d15f50cce3568e0f5b85acfdd3d715b2e6367e04a1287662489e3b",
+     "units": 15
+    }
+   ]
   }
  ]
 }
