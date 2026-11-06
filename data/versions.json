@@ -45018,6 +45018,202 @@
      "units": 5
     }
    ]
+  },
+  {
+   "slug": "ilcs-725-105",
+   "short": "725 ILCS 105",
+   "title": "State Appellate Defender Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200725/Act%200105/",
+   "versions": [
+    {
+     "from": "2024-01-01",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200725/Act%200105/",
+     "sha256": "4dc0d40e92cec546d288782e7d4feadee200a19058b4002ca9081737bb7e67c9",
+     "units": 15
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-725-110",
+   "short": "725 ILCS 110",
+   "title": "Arrest and Conviction of Out of State Murderers Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200725/Act%200110/",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200725/Act%200110/",
+     "sha256": "df0d4595597ad2956be1a1a2a9ec955be094c944ad7e7719c70e3d8939f88b50",
+     "units": 3
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-725-137",
+   "short": "725 ILCS 137",
+   "title": "Citizen Privacy Protection Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200725/Act%200137/",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200725/Act%200137/",
+     "sha256": "d8328d62fccb11988c6b6b5837c8531035037fc6d4fee5e28ad1d11bdbad1926",
+     "units": 6
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-725-140",
+   "short": "725 ILCS 140",
+   "title": "Criminal Proceeding Interpreter Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200725/Act%200140/",
+   "versions": [
+    {
+     "from": "2009-01-01",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200725/Act%200140/",
+     "sha256": "4aa3b56e22b5b597bb6c1de2a3fac866161e79b00a19ab020add74f4b18869e9",
+     "units": 6
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-725-145",
+   "short": "725 ILCS 145",
+   "title": "Criminal Victims' Asset Discovery Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200725/Act%200145/",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200725/Act%200145/",
+     "sha256": "e777a9e97fa1888b774e54f3b4caf9f6a357d71adbe7f4c0f57f1fe0e0a83065",
+     "units": 6
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-725-165",
+   "short": "725 ILCS 165",
+   "title": "Firearm Seizure Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200725/Act%200165/",
+   "versions": [
+    {
+     "from": "2009-08-11",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200725/Act%200165/",
+     "sha256": "fac23e05db59323b7f0596f1255dbbe86bccfefcb9ab6b1b8cb00d0424a66b59",
+     "units": 7
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-725-173",
+   "short": "725 ILCS 173",
+   "title": "Violent Crime Witness Protection Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200725/Act%200173/",
+   "versions": [
+    {
+     "from": "2024-06-05",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200725/Act%200173/",
+     "sha256": "d18518000c897f8ab24f3082b05ca5753b15044095355004908c3067d88a898c",
+     "units": 9
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-725-187",
+   "short": "725 ILCS 187",
+   "title": "Pretrial Success Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200725/Act%200187/",
+   "versions": [
+    {
+     "from": "2025-08-15",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200725/Act%200187/",
+     "sha256": "73a9c322bb4d27b992808b3b0300f004b728a48ccaf6b98c97d6b933efaa8df8",
+     "units": 37
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-725-191",
+   "short": "725 ILCS 191",
+   "title": "Privacy of Adult Victims of Criminal Sexual Offenses Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200725/Act%200191/",
+   "versions": [
+    {
+     "from": "2022-05-13",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200725/Act%200191/",
+     "sha256": "d046db48bdca8ea483a47105a0447bf7eb3ad9315f1fe6d9e8d4e188f8193143",
+     "units": 5
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-725-195",
+   "short": "725 ILCS 195",
+   "title": "Quasi-criminal and Misdemeanor Pretrial Release Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200725/Act%200195/",
+   "versions": [
+    {
+     "from": "2023-01-01",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200725/Act%200195/",
+     "sha256": "925c616a0705a6f0e2a5da2573295fc3971ad11bb5ff585964d3e8d4ccd65647",
+     "units": 7
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-725-220",
+   "short": "725 ILCS 220",
+   "title": "Uniform Act to Secure the Attendance of Witnesses from Within or Without a State in Criminal Proceedings",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200725/Act%200220/",
+   "versions": [
+    {
+     "from": "2023-01-13",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200725/Act%200220/",
+     "sha256": "81edb88fd3d9c47c3382634e3bfe8d0a4344239a30cc4f17ee272fd905a1c5a3",
+     "units": 7
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-725-225",
+   "short": "725 ILCS 225",
+   "title": "Uniform Criminal Extradition Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200725/Act%200225/",
+   "versions": [
+    {
+     "from": "2023-01-13",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200725/Act%200225/",
+     "sha256": "e0b493c79ed7273a4a5469c7779c066b9c3f02eef46cb2ab1672ea33c2bb7a7b",
+     "units": 33
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-725-230",
+   "short": "725 ILCS 230",
+   "title": "Uniform Rendition of Accused Persons Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200725/Act%200230/",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200725/Act%200230/",
+     "sha256": "98a13fab43bc6a8d0b7058d16bb8c24261364ca34c7b8ebfe2a94c0270f0c8c0",
+     "units": 7
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-725-245",
+   "short": "725 ILCS 245",
+   "title": "Witness Protection Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200725/Act%200245/",
+   "versions": [
+    {
+     "from": "2016-07-28",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200725/Act%200245/",
+     "sha256": "2b72c458e94e3e3897b4bf041349aa9107dc9ae979fb4c6a2e67c0696b3388f6",
+     "units": 5
+    }
+   ]
   }
  ]
 }

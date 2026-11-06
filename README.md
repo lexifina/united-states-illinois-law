@@ -50,7 +50,7 @@ Current-text preparation uses the latest explicit effective date in the source a
 
 ## Static ILCS compilation additions, 30 October 2026
 
-553 additional complete indexed acts from the [Illinois General Assembly compilation](https://ftp.ilga.gov/ILCS/) are included. The compilation incorporates Public Acts through 104-854. The publisher states that these provisions have NOT been edited for publication and are NOT the official text; this copy should not be cited as official or authoritative. The only official copy is the printed copy maintained by the Secretary of State’s office.
+567 additional complete indexed acts from the [Illinois General Assembly compilation](https://ftp.ilga.gov/ILCS/) are included. The compilation incorporates Public Acts through 104-854. The publisher states that these provisions have NOT been edited for publication and are NOT the official text; this copy should not be cited as official or authoritative. The only official copy is the printed copy maintained by the Secretary of State’s office.
 
 Each addition retains all sections, act-title documents and article headings in the publisher’s Section Sequence. Dates use the latest explicit amendment effective date in the source, otherwise the compilation’s own update date, 2026-10-30. This date fallback does not claim a commencement date the source does not identify. Future-effective text and normative images are held. Existing records retain their historical dates and text; their inclusion above does not establish equality with this static compilation. Public Acts, administrative rules and earlier wording are not added.
 
@@ -609,3 +609,17 @@ Each addition retains all sections, act-title documents and article headings in 
 | [Methamphetamine Precursor Control Act (720 ILCS 648)](https://ftp.ilga.gov/ILCS/Ch%200720/Act%200648/) | 25 | 2025-08-15 |
 | [Methamphetamine Precursor Tracking Act (720 ILCS 649)](https://ftp.ilga.gov/ILCS/Ch%200720/Act%200649/) | 12 | 2025-08-15 |
 | [Sale of Immoral Publications to Children Act (720 ILCS 670)](https://ftp.ilga.gov/ILCS/Ch%200720/Act%200670/) | 4 | 2026-10-30 |
+| [State Appellate Defender Act (725 ILCS 105)](https://ftp.ilga.gov/ILCS/Ch%200725/Act%200105/) | 14 | 2024-01-01 |
+| [Arrest and Conviction of Out of State Murderers Act (725 ILCS 110)](https://ftp.ilga.gov/ILCS/Ch%200725/Act%200110/) | 2 | 2026-10-30 |
+| [Citizen Privacy Protection Act (725 ILCS 137)](https://ftp.ilga.gov/ILCS/Ch%200725/Act%200137/) | 5 | 2017-01-01 |
+| [Criminal Proceeding Interpreter Act (725 ILCS 140)](https://ftp.ilga.gov/ILCS/Ch%200725/Act%200140/) | 5 | 2009-01-01 |
+| [Criminal Victims' Asset Discovery Act (725 ILCS 145)](https://ftp.ilga.gov/ILCS/Ch%200725/Act%200145/) | 5 | 2026-10-30 |
+| [Firearm Seizure Act (725 ILCS 165)](https://ftp.ilga.gov/ILCS/Ch%200725/Act%200165/) | 6 | 2009-08-11 |
+| [Violent Crime Witness Protection Act (725 ILCS 173)](https://ftp.ilga.gov/ILCS/Ch%200725/Act%200173/) | 8 | 2024-06-05 |
+| [Pretrial Success Act (725 ILCS 187)](https://ftp.ilga.gov/ILCS/Ch%200725/Act%200187/) | 22 | 2025-08-15 |
+| [Privacy of Adult Victims of Criminal Sexual Offenses Act (725 ILCS 191)](https://ftp.ilga.gov/ILCS/Ch%200725/Act%200191/) | 4 | 2022-05-13 |
+| [Quasi-criminal and Misdemeanor Pretrial Release Act (725 ILCS 195)](https://ftp.ilga.gov/ILCS/Ch%200725/Act%200195/) | 6 | 2023-01-01 |
+| [Uniform Act to Secure the Attendance of Witnesses from Within or Without a State in Criminal Proceedings (725 ILCS 220)](https://ftp.ilga.gov/ILCS/Ch%200725/Act%200220/) | 6 | 2023-01-13 |
+| [Uniform Criminal Extradition Act (725 ILCS 225)](https://ftp.ilga.gov/ILCS/Ch%200725/Act%200225/) | 32 | 2023-01-13 |
+| [Uniform Rendition of Accused Persons Act (725 ILCS 230)](https://ftp.ilga.gov/ILCS/Ch%200725/Act%200230/) | 6 | 2026-10-30 |
+| [Witness Protection Act (725 ILCS 245)](https://ftp.ilga.gov/ILCS/Ch%200725/Act%200245/) | 4 | 2016-07-28 |
