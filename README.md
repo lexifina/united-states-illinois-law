@@ -50,7 +50,7 @@ Current-text preparation uses the latest explicit effective date in the source a
 
 ## Static ILCS compilation additions, 30 October 2026
 
-384 additional complete indexed acts from the [Illinois General Assembly compilation](https://ftp.ilga.gov/ILCS/) are included. The compilation incorporates Public Acts through 104-854. The publisher states that these provisions have NOT been edited for publication and are NOT the official text; this copy should not be cited as official or authoritative. The only official copy is the printed copy maintained by the Secretary of State’s office.
+393 additional complete indexed acts from the [Illinois General Assembly compilation](https://ftp.ilga.gov/ILCS/) are included. The compilation incorporates Public Acts through 104-854. The publisher states that these provisions have NOT been edited for publication and are NOT the official text; this copy should not be cited as official or authoritative. The only official copy is the printed copy maintained by the Secretary of State’s office.
 
 Each addition retains all sections, act-title documents and article headings in the publisher’s Section Sequence. Dates use the latest explicit amendment effective date in the source, otherwise the compilation’s own update date, 2026-10-30. This date fallback does not claim a commencement date the source does not identify. Future-effective text and normative images are held. Existing records retain their historical dates and text; their inclusion above does not establish equality with this static compilation. Public Acts, administrative rules and earlier wording are not added.
 
@@ -440,3 +440,12 @@ Each addition retains all sections, act-title documents and article headings in 
 | [Urban Renewal Consolidation Act of 1961 (315 ILCS 30)](https://ftp.ilga.gov/ILCS/Ch%200315/Act%200030/) | 39 | 2021-08-20 |
 | [Senior Citizens Real Estate Tax Deferral Act (320 ILCS 30)](https://ftp.ilga.gov/ILCS/Ch%200320/Act%200030/) | 8 | 2026-08-21 |
 | [Illinois Caregiver Assistance and Resource Portal Act (320 ILCS 70)](https://ftp.ilga.gov/ILCS/Ch%200320/Act%200070/) | 19 | 2026-08-21 |
+| [Bias-Free Child Removal Pilot Program Act (325 ILCS 7)](https://ftp.ilga.gov/ILCS/Ch%200325/Act%200007/) | 8 | 2026-06-26 |
+| [Children's Privacy Protection and Parental Empowerment Act (325 ILCS 17)](https://ftp.ilga.gov/ILCS/Ch%200325/Act%200017/) | 6 | 2015-01-01 |
+| [Language Equality Acquisition for Deaf, Hard of Hearing, or DeafBlind Children Act (325 ILCS 43)](https://ftp.ilga.gov/ILCS/Ch%200325/Act%200043/) | 11 | 2026-07-30 |
+| [Minor Identification and Protection Act (325 ILCS 45)](https://ftp.ilga.gov/ILCS/Ch%200325/Act%200045/) | 3 | 2026-10-30 |
+| [Missing Children Records Act (325 ILCS 50)](https://ftp.ilga.gov/ILCS/Ch%200325/Act%200050/) | 6 | 2026-07-01 |
+| [Missing Children Registration Law (325 ILCS 55)](https://ftp.ilga.gov/ILCS/Ch%200325/Act%200055/) | 8 | 2021-08-20 |
+| [Equitable Early Childhood Education and Care Act (325 ILCS 75)](https://ftp.ilga.gov/ILCS/Ch%200325/Act%200075/) | 3 | 2021-03-08 |
+| [Early Childhood Workforce Act (325 ILCS 80)](https://ftp.ilga.gov/ILCS/Ch%200325/Act%200080/) | 3 | 2021-03-08 |
+| [Smart Start Illinois Act (325 ILCS 85)](https://ftp.ilga.gov/ILCS/Ch%200325/Act%200085/) | 57 | 2026-07-01 |

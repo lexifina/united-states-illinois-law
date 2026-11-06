@@ -42652,6 +42652,132 @@
      "units": 34
     }
    ]
+  },
+  {
+   "slug": "ilcs-325-7",
+   "short": "325 ILCS 7",
+   "title": "Bias-Free Child Removal Pilot Program Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200325/Act%200007/",
+   "versions": [
+    {
+     "from": "2026-06-26",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200325/Act%200007/",
+     "sha256": "884041922533bcf40283d9edd673a0af8d02b6aaca05e381d4cab75daea504f8",
+     "units": 9
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-325-17",
+   "short": "325 ILCS 17",
+   "title": "Children's Privacy Protection and Parental Empowerment Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200325/Act%200017/",
+   "versions": [
+    {
+     "from": "2015-01-01",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200325/Act%200017/",
+     "sha256": "b3dcbc832cca73d9e335363330516a765f9b10fce2008fd4582f92a79ce95fea",
+     "units": 7
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-325-43",
+   "short": "325 ILCS 43",
+   "title": "Language Equality Acquisition for Deaf, Hard of Hearing, or DeafBlind Children Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200325/Act%200043/",
+   "versions": [
+    {
+     "from": "2026-07-30",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200325/Act%200043/",
+     "sha256": "a2e10f33f3a068b3380702fbe6efa8039c39ae02d276cd03b6bf0f91256031be",
+     "units": 12
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-325-45",
+   "short": "325 ILCS 45",
+   "title": "Minor Identification and Protection Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200325/Act%200045/",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200325/Act%200045/",
+     "sha256": "fc27d1d087c06dfd5c518cb0c6d6482db8cc87f25c9b71a1f887c786e855b74d",
+     "units": 4
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-325-50",
+   "short": "325 ILCS 50",
+   "title": "Missing Children Records Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200325/Act%200050/",
+   "versions": [
+    {
+     "from": "2026-07-01",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200325/Act%200050/",
+     "sha256": "df99c211dade6872778cb15601a70f6d3fa96789d13896febd5341151079f54a",
+     "units": 7
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-325-55",
+   "short": "325 ILCS 55",
+   "title": "Missing Children Registration Law",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200325/Act%200055/",
+   "versions": [
+    {
+     "from": "2021-08-20",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200325/Act%200055/",
+     "sha256": "9c4b27be3520706baca87a2b39f7ef44c4ce2b6e244ae7b840febdd3058ae983",
+     "units": 9
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-325-75",
+   "short": "325 ILCS 75",
+   "title": "Equitable Early Childhood Education and Care Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200325/Act%200075/",
+   "versions": [
+    {
+     "from": "2021-03-08",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200325/Act%200075/",
+     "sha256": "558cf1f8a29653587088665bbb96fcdbbd7e90fb319936e30d191ef34f08ccdb",
+     "units": 29
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-325-80",
+   "short": "325 ILCS 80",
+   "title": "Early Childhood Workforce Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200325/Act%200080/",
+   "versions": [
+    {
+     "from": "2021-03-08",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200325/Act%200080/",
+     "sha256": "1275db065abe6f30e22daea4f1d20d5c80f9e059c14ef97cd40e21fbae6c3dac",
+     "units": 29
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-325-85",
+   "short": "325 ILCS 85",
+   "title": "Smart Start Illinois Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200325/Act%200085/",
+   "versions": [
+    {
+     "from": "2026-07-01",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200325/Act%200085/",
+     "sha256": "637fe2fa6e8a50f4b4c66395272ff8c8ba194bb118ce0271313fba5b3c1de723",
+     "units": 91
+    }
+   ]
   }
  ]
 }
