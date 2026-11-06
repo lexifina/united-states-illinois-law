@@ -37458,6 +37458,202 @@
      "units": 10
     }
    ]
+  },
+  {
+   "slug": "ilcs-15-10",
+   "short": "15 ILCS 10",
+   "title": "Governor Transition Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200015/Act%200010/",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200015/Act%200010/",
+     "sha256": "e60cd27359a4e9c89799d2243886a91fe670eaea2aa0c1facec23d795a4195e0",
+     "units": 3
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-15-15",
+   "short": "15 ILCS 15",
+   "title": "Executive Reorganization Implementation Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200015/Act%200015/",
+   "versions": [
+    {
+     "from": "2021-08-20",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200015/Act%200015/",
+     "sha256": "c07699c00382ea4962347875ca50b43c3e28f44f66e8c703f322f1faacdcd8e2",
+     "units": 17
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-15-16",
+   "short": "15 ILCS 16",
+   "title": "Executive Order 1 (2012",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200015/Act%200016/",
+   "versions": [
+    {
+     "from": "2025-08-15",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200015/Act%200016/",
+     "sha256": "da1df4e0d48b8fd35c7216059e4078430519d9aa8b3696518106a2859a5b6333",
+     "units": 26
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-15-17",
+   "short": "15 ILCS 17",
+   "title": "Executive Order 3 (2017",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200015/Act%200017/",
+   "versions": [
+    {
+     "from": "2021-08-20",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200015/Act%200017/",
+     "sha256": "0a91d59844aff8a8f3f696ffcf9e606cba4a17525dc2aab5e8c99b118da1a300",
+     "units": 32
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-15-25",
+   "short": "15 ILCS 25",
+   "title": "Governors Conference Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200015/Act%200025/",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200015/Act%200025/",
+     "sha256": "2c26c0ff037dc6bf9ad6aa69d6676b720bf3944ba068d75e1582a14eb6ecc9cd",
+     "units": 3
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-15-50",
+   "short": "15 ILCS 50",
+   "title": "Gubernatorial Boards and Commissions Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200015/Act%200050/",
+   "versions": [
+    {
+     "from": "2018-01-01",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200015/Act%200050/",
+     "sha256": "10ab035a86ff51a704cb9ecfefde7ae7bccd5ca59756b4985da19520fd34247e",
+     "units": 11
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-15-215",
+   "short": "15 ILCS 215",
+   "title": "Pollution Abatement Enforcement Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200015/Act%200215/",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200015/Act%200215/",
+     "sha256": "ef7b29f25949f66414f95a656769965e4f42ca4a60d81e0170763bc4e6042947",
+     "units": 4
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-15-321",
+   "short": "15 ILCS 321",
+   "title": "Illinois State Library Foundation Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200015/Act%200321/",
+   "versions": [
+    {
+     "from": "2004-01-01",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200015/Act%200321/",
+     "sha256": "88b76f4098bb191aea12a558ce44b2b44bfbb9a1906dea59fdffe33ac8195680",
+     "units": 7
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-15-325",
+   "short": "15 ILCS 325",
+   "title": "Lost State Archives Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200015/Act%200325/",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200015/Act%200325/",
+     "sha256": "97a84dd46e93127eedd1f3ea0e9822beb8fd2588c27e4e0c4b14fdaed51faf0a",
+     "units": 3
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-15-405",
+   "short": "15 ILCS 405",
+   "title": "State Comptroller Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200015/Act%200405/",
+   "versions": [
+    {
+     "from": "2026-07-01",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200015/Act%200405/",
+     "sha256": "98b4f8e0d45097204444f464fe387d1338b5d0eae9726429c96e5e88040d5b96",
+     "units": 71
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-15-410",
+   "short": "15 ILCS 410",
+   "title": "Comptroller Merit Employment Code",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200015/Act%200410/",
+   "versions": [
+    {
+     "from": "2025-11-21",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200015/Act%200410/",
+     "sha256": "6cfa4aeea2f4da4ce5bc94a9c55ee592eaff2f62811d8dab2b9d87f38387cbb4",
+     "units": 58
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-15-515",
+   "short": "15 ILCS 515",
+   "title": "Treasurer as Custodian of Funds Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200015/Act%200515/",
+   "versions": [
+    {
+     "from": "1996-02-07",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200015/Act%200515/",
+     "sha256": "7fbb1b68e01619003ba5f3fc83a0dab96c90873506fa8a16e6fe546df5877e27",
+     "units": 7
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-15-525",
+   "short": "15 ILCS 525",
+   "title": "Securities Safekeeping Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200015/Act%200525/",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200015/Act%200525/",
+     "sha256": "c64e5d112a4691b836b4451cb9a3160ba5575086a16b224f992a834e8f537d80",
+     "units": 3
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-15-540",
+   "short": "15 ILCS 540",
+   "title": "Disabled Militarymen Money Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200015/Act%200540/",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200015/Act%200540/",
+     "sha256": "84dd063d1295fea85fade244ab9ac50f89b419ed781422945fa6cd2def388b7e",
+     "units": 4
+    }
+   ]
   }
  ]
 }
