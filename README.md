@@ -50,7 +50,7 @@ Current-text preparation uses the latest explicit effective date in the source a
 
 ## Static ILCS compilation additions, 30 October 2026
 
-333 additional complete indexed acts from the [Illinois General Assembly compilation](https://ftp.ilga.gov/ILCS/) are included. The compilation incorporates Public Acts through 104-854. The publisher states that these provisions have NOT been edited for publication and are NOT the official text; this copy should not be cited as official or authoritative. The only official copy is the printed copy maintained by the Secretary of State’s office.
+338 additional complete indexed acts from the [Illinois General Assembly compilation](https://ftp.ilga.gov/ILCS/) are included. The compilation incorporates Public Acts through 104-854. The publisher states that these provisions have NOT been edited for publication and are NOT the official text; this copy should not be cited as official or authoritative. The only official copy is the printed copy maintained by the Secretary of State’s office.
 
 Each addition retains all sections, act-title documents and article headings in the publisher’s Section Sequence. Dates use the latest explicit amendment effective date in the source, otherwise the compilation’s own update date, 2026-10-30. This date fallback does not claim a commencement date the source does not identify. Future-effective text and normative images are held. Existing records retain their historical dates and text; their inclusion above does not establish equality with this static compilation. Public Acts, administrative rules and earlier wording are not added.
 
@@ -389,3 +389,8 @@ Each addition retains all sections, act-title documents and article headings in 
 | [Military School Scholarship Act (110 ILCS 955)](https://ftp.ilga.gov/ILCS/Ch%200110/Act%200955/) | 3 | 2026-08-21 |
 | [Nurse Educator Assistance Act (110 ILCS 967)](https://ftp.ilga.gov/ILCS/Ch%200110/Act%200967/) | 20 | 2022-06-10 |
 | [Private Medical Scholarship Agreement Act (110 ILCS 980)](https://ftp.ilga.gov/ILCS/Ch%200110/Act%200980/) | 4 | 2022-05-17 |
+| [Savings and Loan Share and Account Act (205 ILCS 115)](https://ftp.ilga.gov/ILCS/Ch%200205/Act%200115/) | 4 | 2026-10-30 |
+| [Corporate Fiduciary Act (205 ILCS 620)](https://ftp.ilga.gov/ILCS/Ch%200205/Act%200620/) | 99 | 2025-08-18 |
+| [Residential Mortgage License Act of 1987 (205 ILCS 635)](https://ftp.ilga.gov/ILCS/Ch%200205/Act%200635/) | 83 | 2025-01-01 |
+| [Foreign Banking Office Act (205 ILCS 645)](https://ftp.ilga.gov/ILCS/Ch%200205/Act%200645/) | 30 | 2010-07-28 |
+| [Adverse Claims to Deposit Accounts Act (205 ILCS 700)](https://ftp.ilga.gov/ILCS/Ch%200205/Act%200700/) | 9 | 2018-01-01 |

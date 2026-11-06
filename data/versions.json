@@ -41938,6 +41938,76 @@
      "units": 5
     }
    ]
+  },
+  {
+   "slug": "ilcs-205-115",
+   "short": "205 ILCS 115",
+   "title": "Savings and Loan Share and Account Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200205/Act%200115/",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200205/Act%200115/",
+     "sha256": "201397cb803ecd19f9a15145e1037260fa61102064cb53f0ea4d3c0396bd1386",
+     "units": 5
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-205-620",
+   "short": "205 ILCS 620",
+   "title": "Corporate Fiduciary Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200205/Act%200620/",
+   "versions": [
+    {
+     "from": "2025-08-18",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200205/Act%200620/",
+     "sha256": "5635ba865c81c14137a8500855214fd1be2ea51cd41ea1c87adb8ba7f105c5f0",
+     "units": 111
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-205-635",
+   "short": "205 ILCS 635",
+   "title": "Residential Mortgage License Act of 1987",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200205/Act%200635/",
+   "versions": [
+    {
+     "from": "2025-01-01",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200205/Act%200635/",
+     "sha256": "525d33c85063db893caffa7e655d183b886367cbfdcc237de98384d7abed4a52",
+     "units": 91
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-205-645",
+   "short": "205 ILCS 645",
+   "title": "Foreign Banking Office Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200205/Act%200645/",
+   "versions": [
+    {
+     "from": "2010-07-28",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200205/Act%200645/",
+     "sha256": "7639dd16b1b4adeb81b6b75172105ddae72547d3d1294e4a2610a00fbf5bf80d",
+     "units": 31
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-205-700",
+   "short": "205 ILCS 700",
+   "title": "Adverse Claims to Deposit Accounts Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200205/Act%200700/",
+   "versions": [
+    {
+     "from": "2018-01-01",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200205/Act%200700/",
+     "sha256": "91e1f851acb38d69bf941e86a0a3654bbf8fe6c12a4980a27af48853bc555827",
+     "units": 10
+    }
+   ]
   }
  ]
 }
