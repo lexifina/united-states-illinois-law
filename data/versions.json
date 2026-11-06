@@ -43968,6 +43968,20 @@
      "units": 14
     }
    ]
+  },
+  {
+   "slug": "ilcs-510-68",
+   "short": "510 ILCS 68",
+   "title": "Herptiles-Herps Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200510/Act%200068/",
+   "versions": [
+    {
+     "from": "2026-08-21",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200510/Act%200068/",
+     "sha256": "ed123496ad9eb62b11d3154e127967dcb06003ceabb034a1d655d09cea8f4112",
+     "units": 112
+    }
+   ]
   }
  ]
 }

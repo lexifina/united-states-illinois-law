@@ -50,7 +50,7 @@ Current-text preparation uses the latest explicit effective date in the source a
 
 ## Static ILCS compilation additions, 30 October 2026
 
-478 additional complete indexed acts from the [Illinois General Assembly compilation](https://ftp.ilga.gov/ILCS/) are included. The compilation incorporates Public Acts through 104-854. The publisher states that these provisions have NOT been edited for publication and are NOT the official text; this copy should not be cited as official or authoritative. The only official copy is the printed copy maintained by the Secretary of State’s office.
+479 additional complete indexed acts from the [Illinois General Assembly compilation](https://ftp.ilga.gov/ILCS/) are included. The compilation incorporates Public Acts through 104-854. The publisher states that these provisions have NOT been edited for publication and are NOT the official text; this copy should not be cited as official or authoritative. The only official copy is the printed copy maintained by the Secretary of State’s office.
 
 Each addition retains all sections, act-title documents and article headings in the publisher’s Section Sequence. Dates use the latest explicit amendment effective date in the source, otherwise the compilation’s own update date, 2026-10-30. This date fallback does not claim a commencement date the source does not identify. Future-effective text and normative images are held. Existing records retain their historical dates and text; their inclusion above does not establish equality with this static compilation. Public Acts, administrative rules and earlier wording are not added.
 
@@ -534,3 +534,4 @@ Each addition retains all sections, act-title documents and article headings in 
 | [Road Worker Safety Act (430 ILCS 105)](https://ftp.ilga.gov/ILCS/Ch%200430/Act%200105/) | 9 | 2026-10-30 |
 | [Illinois Conservation Enhancement Act (505 ILCS 35)](https://ftp.ilga.gov/ILCS/Ch%200505/Act%200035/) | 13 | 2016-07-28 |
 | [Industrial Hemp Act (505 ILCS 89)](https://ftp.ilga.gov/ILCS/Ch%200505/Act%200089/) | 13 | 2026-06-12 |
+| [Herptiles-Herps Act (510 ILCS 68)](https://ftp.ilga.gov/ILCS/Ch%200510/Act%200068/) | 87 | 2026-08-21 |
