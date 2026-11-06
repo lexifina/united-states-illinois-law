@@ -43982,6 +43982,20 @@
      "units": 112
     }
    ]
+  },
+  {
+   "slug": "ilcs-525-31",
+   "short": "525 ILCS 31",
+   "title": "Illinois Natural Areas Stewardship Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200525/Act%200031/",
+   "versions": [
+    {
+     "from": "2017-08-25",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200525/Act%200031/",
+     "sha256": "c4bff81b06824874e77b292861e7b7c22e0ee3121b7f16a2ad8b7a25928dab9d",
+     "units": 10
+    }
+   ]
   }
  ]
 }
