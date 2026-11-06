@@ -50,7 +50,7 @@ Current-text preparation uses the latest explicit effective date in the source a
 
 ## Static ILCS compilation additions, 30 October 2026
 
-393 additional complete indexed acts from the [Illinois General Assembly compilation](https://ftp.ilga.gov/ILCS/) are included. The compilation incorporates Public Acts through 104-854. The publisher states that these provisions have NOT been edited for publication and are NOT the official text; this copy should not be cited as official or authoritative. The only official copy is the printed copy maintained by the Secretary of State’s office.
+415 additional complete indexed acts from the [Illinois General Assembly compilation](https://ftp.ilga.gov/ILCS/) are included. The compilation incorporates Public Acts through 104-854. The publisher states that these provisions have NOT been edited for publication and are NOT the official text; this copy should not be cited as official or authoritative. The only official copy is the printed copy maintained by the Secretary of State’s office.
 
 Each addition retains all sections, act-title documents and article headings in the publisher’s Section Sequence. Dates use the latest explicit amendment effective date in the source, otherwise the compilation’s own update date, 2026-10-30. This date fallback does not claim a commencement date the source does not identify. Future-effective text and normative images are held. Existing records retain their historical dates and text; their inclusion above does not establish equality with this static compilation. Public Acts, administrative rules and earlier wording are not added.
 
@@ -449,3 +449,25 @@ Each addition retains all sections, act-title documents and article headings in 
 | [Equitable Early Childhood Education and Care Act (325 ILCS 75)](https://ftp.ilga.gov/ILCS/Ch%200325/Act%200075/) | 3 | 2021-03-08 |
 | [Early Childhood Workforce Act (325 ILCS 80)](https://ftp.ilga.gov/ILCS/Ch%200325/Act%200080/) | 3 | 2021-03-08 |
 | [Smart Start Illinois Act (325 ILCS 85)](https://ftp.ilga.gov/ILCS/Ch%200325/Act%200085/) | 57 | 2026-07-01 |
+| [Veterans' Employment Act (330 ILCS 25)](https://ftp.ilga.gov/ILCS/Ch%200330/Act%200025/) | 7 | 2006-01-01 |
+| [Prisoner of War Bonus Act (330 ILCS 35)](https://ftp.ilga.gov/ILCS/Ch%200330/Act%200035/) | 7 | 2025-08-15 |
+| [Veteran Service Organizations State Charter Act (330 ILCS 46)](https://ftp.ilga.gov/ILCS/Ch%200330/Act%200046/) | 11 | 2024-01-01 |
+| [Veterans' Employment Representative Act (330 ILCS 50)](https://ftp.ilga.gov/ILCS/Ch%200330/Act%200050/) | 3 | 2013-07-23 |
+| [Veterans Preference Act (330 ILCS 55)](https://ftp.ilga.gov/ILCS/Ch%200330/Act%200055/) | 5 | 2025-01-01 |
+| [Veterans Preference in Private Employment Act (330 ILCS 56)](https://ftp.ilga.gov/ILCS/Ch%200330/Act%200056/) | 6 | 2016-01-01 |
+| [Service Member's Tenure Act (330 ILCS 60)](https://ftp.ilga.gov/ILCS/Ch%200330/Act%200060/) | 11 | 2019-01-01 |
+| [Service Member Employment and Reemployment Rights Act (330 ILCS 61)](https://ftp.ilga.gov/ILCS/Ch%200330/Act%200061/) | 32 | 2025-08-15 |
+| [Service Member Residential Property Act (330 ILCS 62)](https://ftp.ilga.gov/ILCS/Ch%200330/Act%200062/) | 8 | 2018-07-20 |
+| [Illinois Service Member Civil Relief Act (330 ILCS 63)](https://ftp.ilga.gov/ILCS/Ch%200330/Act%200063/) | 34 | 2019-01-01 |
+| [Records for Veterans Administration Act (330 ILCS 70)](https://ftp.ilga.gov/ILCS/Ch%200330/Act%200070/) | 3 | 2025-08-15 |
+| [Military Compensation Records Act (330 ILCS 75)](https://ftp.ilga.gov/ILCS/Ch%200330/Act%200075/) | 2 | 2026-10-30 |
+| [Service Compensation Records Transfer Act (330 ILCS 80)](https://ftp.ilga.gov/ILCS/Ch%200330/Act%200080/) | 2 | 2026-10-30 |
+| [Service Recognition Board Termination Act (330 ILCS 85)](https://ftp.ilga.gov/ILCS/Ch%200330/Act%200085/) | 3 | 2026-10-30 |
+| [Military Service Button Act (330 ILCS 90)](https://ftp.ilga.gov/ILCS/Ch%200330/Act%200090/) | 2 | 2026-10-30 |
+| [Under Age Veterans Benefits Act (330 ILCS 95)](https://ftp.ilga.gov/ILCS/Ch%200330/Act%200095/) | 2 | 2026-10-30 |
+| [Deceased, Disabled, and MIA/POW Veterans' Dependents Educational Opportunity Grant Act (330 ILCS 105)](https://ftp.ilga.gov/ILCS/Ch%200330/Act%200105/) | 3 | 2026-08-21 |
+| [Veterans Burial Places Act (330 ILCS 110)](https://ftp.ilga.gov/ILCS/Ch%200330/Act%200110/) | 6 | 2026-08-21 |
+| [Disposition of Veterans' Cremated Remains Act (330 ILCS 112)](https://ftp.ilga.gov/ILCS/Ch%200330/Act%200112/) | 5 | 2011-08-12 |
+| [National Guard Veterans Exposure to Hazardous Materials Act (330 ILCS 130)](https://ftp.ilga.gov/ILCS/Ch%200330/Act%200130/) | 6 | 2025-08-15 |
+| [Military and Veterans Courts Act (330 ILCS 135)](https://ftp.ilga.gov/ILCS/Ch%200330/Act%200135/) | 5 | 2009-07-27 |
+| [Veterans' and Military Discount Program Act (330 ILCS 140)](https://ftp.ilga.gov/ILCS/Ch%200330/Act%200140/) | 6 | 2025-08-15 |

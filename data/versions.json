@@ -42778,6 +42778,314 @@
      "units": 91
     }
    ]
+  },
+  {
+   "slug": "ilcs-330-25",
+   "short": "330 ILCS 25",
+   "title": "Veterans' Employment Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200330/Act%200025/",
+   "versions": [
+    {
+     "from": "2006-01-01",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200330/Act%200025/",
+     "sha256": "9471a62279f72c4eb6cb3c037f5f11060856c49b99bd378e92209e37b080c5ba",
+     "units": 8
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-330-35",
+   "short": "330 ILCS 35",
+   "title": "Prisoner of War Bonus Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200330/Act%200035/",
+   "versions": [
+    {
+     "from": "2025-08-15",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200330/Act%200035/",
+     "sha256": "206dee65c299f14957c00076e8c672aaf0e596d7adc1ec104ac7f5b7ca76b00b",
+     "units": 8
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-330-46",
+   "short": "330 ILCS 46",
+   "title": "Veteran Service Organizations State Charter Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200330/Act%200046/",
+   "versions": [
+    {
+     "from": "2024-01-01",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200330/Act%200046/",
+     "sha256": "741b983c541e3ce0704c69c07cced5f3b2bb7c27bc1afb2abc31ea4e73de9bfc",
+     "units": 12
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-330-50",
+   "short": "330 ILCS 50",
+   "title": "Veterans' Employment Representative Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200330/Act%200050/",
+   "versions": [
+    {
+     "from": "2013-07-23",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200330/Act%200050/",
+     "sha256": "dfeeb71a69aca3aebe2319890211164090ff4252c381a77e5956acbdd1416828",
+     "units": 4
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-330-55",
+   "short": "330 ILCS 55",
+   "title": "Veterans Preference Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200330/Act%200055/",
+   "versions": [
+    {
+     "from": "2025-01-01",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200330/Act%200055/",
+     "sha256": "d4daf11e2bba865a543329a30f79dea21e3a39719730106550dc396e2b9c12e3",
+     "units": 6
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-330-56",
+   "short": "330 ILCS 56",
+   "title": "Veterans Preference in Private Employment Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200330/Act%200056/",
+   "versions": [
+    {
+     "from": "2016-01-01",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200330/Act%200056/",
+     "sha256": "ef55876e9b5288cff074117d047c405de0c570088f068c6a3f42df9b08819380",
+     "units": 7
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-330-60",
+   "short": "330 ILCS 60",
+   "title": "Service Member's Tenure Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200330/Act%200060/",
+   "versions": [
+    {
+     "from": "2019-01-01",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200330/Act%200060/",
+     "sha256": "bd22fb04fac699803a0189a36f6d8dd0114875e69c992cf101ad7f520fcea989",
+     "units": 12
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-330-61",
+   "short": "330 ILCS 61",
+   "title": "Service Member Employment and Reemployment Rights Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200330/Act%200061/",
+   "versions": [
+    {
+     "from": "2025-08-15",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200330/Act%200061/",
+     "sha256": "54d454df5c2be6f11b2c0b2d48acf4a8ecc0230d29bfaf0c1d9339892dda9751",
+     "units": 43
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-330-62",
+   "short": "330 ILCS 62",
+   "title": "Service Member Residential Property Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200330/Act%200062/",
+   "versions": [
+    {
+     "from": "2018-07-20",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200330/Act%200062/",
+     "sha256": "21874b828bd8de10ae2dbe8ebee800aff16c27756074865de57ac7b0185fd9c8",
+     "units": 12
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-330-63",
+   "short": "330 ILCS 63",
+   "title": "Illinois Service Member Civil Relief Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200330/Act%200063/",
+   "versions": [
+    {
+     "from": "2019-01-01",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200330/Act%200063/",
+     "sha256": "dab2a2f6a9947577a0db981ebba0446d2eb24e39904cf3c7abd2e87d355a5660",
+     "units": 35
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-330-70",
+   "short": "330 ILCS 70",
+   "title": "Records for Veterans Administration Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200330/Act%200070/",
+   "versions": [
+    {
+     "from": "2025-08-15",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200330/Act%200070/",
+     "sha256": "8c91f8d3a3d4eaa604671c068bdf2e4449af474518669acfc7c518945169389f",
+     "units": 4
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-330-75",
+   "short": "330 ILCS 75",
+   "title": "Military Compensation Records Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200330/Act%200075/",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200330/Act%200075/",
+     "sha256": "ff7053d5734a58f7a454ebc86e8ed39fd0d69e6d5ebcf921ff79e71858d6e807",
+     "units": 3
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-330-80",
+   "short": "330 ILCS 80",
+   "title": "Service Compensation Records Transfer Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200330/Act%200080/",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200330/Act%200080/",
+     "sha256": "cd32725cfd046f7cd1ce5dc7730ba498ea3ef1e8e940552563c0c8e2b7e6d872",
+     "units": 3
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-330-85",
+   "short": "330 ILCS 85",
+   "title": "Service Recognition Board Termination Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200330/Act%200085/",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200330/Act%200085/",
+     "sha256": "275780de5f56bf0e26ab6f5d8a0f5f39d21a1638f49358b015605673e1461ffe",
+     "units": 4
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-330-90",
+   "short": "330 ILCS 90",
+   "title": "Military Service Button Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200330/Act%200090/",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200330/Act%200090/",
+     "sha256": "cc1367b85a5d22b1a9ae7442867d725e47c4d04ce6b0551cb58dd43f3ad58579",
+     "units": 3
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-330-95",
+   "short": "330 ILCS 95",
+   "title": "Under Age Veterans Benefits Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200330/Act%200095/",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200330/Act%200095/",
+     "sha256": "665bfbd6c3ea06e45c46ff6da51091b06f2a61d88cfbc617cebf815dab754d74",
+     "units": 3
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-330-105",
+   "short": "330 ILCS 105",
+   "title": "Deceased, Disabled, and MIA/POW Veterans' Dependents Educational Opportunity Grant Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200330/Act%200105/",
+   "versions": [
+    {
+     "from": "2026-08-21",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200330/Act%200105/",
+     "sha256": "7b8936cc66cfe31e59023279d8a3e6800ff029d0cdf7ed50d37ee575e6d4281c",
+     "units": 4
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-330-110",
+   "short": "330 ILCS 110",
+   "title": "Veterans Burial Places Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200330/Act%200110/",
+   "versions": [
+    {
+     "from": "2026-08-21",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200330/Act%200110/",
+     "sha256": "20592e7bc46d805cefd4b6d7ca59712ed1bb0c6398565d2bac5e54b74f53c08a",
+     "units": 7
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-330-112",
+   "short": "330 ILCS 112",
+   "title": "Disposition of Veterans' Cremated Remains Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200330/Act%200112/",
+   "versions": [
+    {
+     "from": "2011-08-12",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200330/Act%200112/",
+     "sha256": "caaea604789ec6eb5cc8b15ceede2e3db42c8f9fdde56a90ca4eb5a05324cc3f",
+     "units": 6
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-330-130",
+   "short": "330 ILCS 130",
+   "title": "National Guard Veterans Exposure to Hazardous Materials Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200330/Act%200130/",
+   "versions": [
+    {
+     "from": "2025-08-15",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200330/Act%200130/",
+     "sha256": "82e7b5de0e5243f9650ddb69840249d26e18a054342f803aa1a919efda134c62",
+     "units": 7
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-330-135",
+   "short": "330 ILCS 135",
+   "title": "Military and Veterans Courts Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200330/Act%200135/",
+   "versions": [
+    {
+     "from": "2009-07-27",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200330/Act%200135/",
+     "sha256": "d9ade134ed287ebfa0a13b9823841d5026956c6db842c07efb751dcbd37822ba",
+     "units": 6
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-330-140",
+   "short": "330 ILCS 140",
+   "title": "Veterans' and Military Discount Program Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200330/Act%200140/",
+   "versions": [
+    {
+     "from": "2025-08-15",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200330/Act%200140/",
+     "sha256": "427130940b9162515f6ce7c42f6ad5c9694e7310b0f692e00afde2ccdacda1b3",
+     "units": 7
+    }
+   ]
   }
  ]
 }
