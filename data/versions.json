@@ -42624,6 +42624,34 @@
      "units": 43
     }
    ]
+  },
+  {
+   "slug": "ilcs-320-30",
+   "short": "320 ILCS 30",
+   "title": "Senior Citizens Real Estate Tax Deferral Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200320/Act%200030/",
+   "versions": [
+    {
+     "from": "2026-08-21",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200320/Act%200030/",
+     "sha256": "5ae76a44ce7269f4657c57d0260b20ed6c64e34d818e85ad855f4923e1a0bba0",
+     "units": 9
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-320-70",
+   "short": "320 ILCS 70",
+   "title": "Illinois Caregiver Assistance and Resource Portal Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200320/Act%200070/",
+   "versions": [
+    {
+     "from": "2026-08-21",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200320/Act%200070/",
+     "sha256": "2777c7ca72807b0ae9a293b7f1e437bbe5e0ad5116d52717737ebfddc70ed971",
+     "units": 34
+    }
+   ]
   }
  ]
 }
