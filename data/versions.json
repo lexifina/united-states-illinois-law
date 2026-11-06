@@ -41476,6 +41476,468 @@
      "units": 3
     }
    ]
+  },
+  {
+   "slug": "ilcs-110-32",
+   "short": "110 ILCS 32",
+   "title": "Educational Credit for Military Experience Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200110/Act%200032/",
+   "versions": [
+    {
+     "from": "2018-01-01",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200110/Act%200032/",
+     "sha256": "0d427c7a308124c18af30b759324c194fffe32464965f35693822aec16fd0df2",
+     "units": 5
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-110-48",
+   "short": "110 ILCS 48",
+   "title": "Grow Your Own Teacher Education Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200110/Act%200048/",
+   "versions": [
+    {
+     "from": "2019-07-26",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200110/Act%200048/",
+     "sha256": "912254ede7a0373f45dcfcbf264b8ce4f769f4784a6f4b33aca213c8c6b92327",
+     "units": 13
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-110-57",
+   "short": "110 ILCS 57",
+   "title": "Medical School Matriculant Criminal History Records Check Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200110/Act%200057/",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200110/Act%200057/",
+     "sha256": "b3c10388af0447ced8cc1ceae5466ed77eb9e8cc52fd603e029f664bc43a61f0",
+     "units": 10
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-110-60",
+   "short": "110 ILCS 60",
+   "title": "Nonresident College Trustees Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200110/Act%200060/",
+   "versions": [
+    {
+     "from": "2000-07-09",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200110/Act%200060/",
+     "sha256": "44e42e417ca392641a6e1b677f7a5f004e5e646838ad34995f5087bc0430bb03",
+     "units": 3
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-110-73",
+   "short": "110 ILCS 73",
+   "title": "State University Certificates of Participation Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200110/Act%200073/",
+   "versions": [
+    {
+     "from": "2009-06-22",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200110/Act%200073/",
+     "sha256": "87338c424d96e06b87152d87d77b7b8fa5dec005ee4b8cae0611cd505db30cf5",
+     "units": 12
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-110-80",
+   "short": "110 ILCS 80",
+   "title": "University Airport Access Road Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200110/Act%200080/",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200110/Act%200080/",
+     "sha256": "129e0b92ff536c30ed60916088eab02af1bc4686b1552076e94bce3393e23f47",
+     "units": 3
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-110-100",
+   "short": "110 ILCS 100",
+   "title": "University Faculty Research and Consulting Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200110/Act%200100/",
+   "versions": [
+    {
+     "from": "1996-01-01",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200110/Act%200100/",
+     "sha256": "67d4188531ea2d07a3323047ef936d0856d33fed009d9e1a6b34c749adb77584",
+     "units": 5
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-110-117",
+   "short": "110 ILCS 117",
+   "title": "Public University Direct Admission Program Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200110/Act%200117/",
+   "versions": [
+    {
+     "from": "2025-06-30",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200110/Act%200117/",
+     "sha256": "8adbe9468c1bcd27860efe257c80718894a7ce9c483a7246bf3e46e3cf433cec",
+     "units": 9
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-110-152",
+   "short": "110 ILCS 152",
+   "title": "Illinois Articulation Initiative Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200110/Act%200152/",
+   "versions": [
+    {
+     "from": "2024-08-09",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200110/Act%200152/",
+     "sha256": "d212824ea2ef32c0d4940ebb12f2a353550aceebb5b6a4fbe24a6b3cf5d1c0d0",
+     "units": 8
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-110-170",
+   "short": "110 ILCS 170",
+   "title": "Bridge Program for Underrepresented Students Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200110/Act%200170/",
+   "versions": [
+    {
+     "from": "2018-08-24",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200110/Act%200170/",
+     "sha256": "868e9ebb147ff502d662a58ef82ffcaf51780c386849e5740cc4e5670178b3cd",
+     "units": 8
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-110-180",
+   "short": "110 ILCS 180",
+   "title": "Transitions in Education Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200110/Act%200180/",
+   "versions": [
+    {
+     "from": "2025-11-21",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200110/Act%200180/",
+     "sha256": "4c7453f36239a248742bb8e086389d63f2ea980df884127b9980411f54994bc3",
+     "units": 30
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-110-215",
+   "short": "110 ILCS 215",
+   "title": "Health Services Education Grants Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200110/Act%200215/",
+   "versions": [
+    {
+     "from": "2009-07-23",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200110/Act%200215/",
+     "sha256": "de961c4e31ebd700203b6083e1fa46a0ffcc85cb8eb49baa8c3974d80ce908d6",
+     "units": 8
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-110-235",
+   "short": "110 ILCS 235",
+   "title": "Equity in Higher Education Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200110/Act%200235/",
+   "versions": [
+    {
+     "from": "2021-03-08",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200110/Act%200235/",
+     "sha256": "7f77476afdb966942bb4487e7b51642046604adae2a613a0ef1c603c4cf06ed9",
+     "units": 29
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-110-305",
+   "short": "110 ILCS 305",
+   "title": "University of Illinois Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200110/Act%200305/",
+   "versions": [
+    {
+     "from": "2026-08-07",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200110/Act%200305/",
+     "sha256": "6d8bfdb655c50cfafd34e1dbae5734ad37c6cc046f54ae768f480db98441e1af",
+     "units": 69
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-110-325",
+   "short": "110 ILCS 325",
+   "title": "University of Illinois at Chicago Land Transfer Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200110/Act%200325/",
+   "versions": [
+    {
+     "from": "2007-01-01",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200110/Act%200325/",
+     "sha256": "86303b02fe58fec15f8bea6bcd1d23e177ec6a5921aaee54f6b1b24b408cc1a7",
+     "units": 7
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-110-327",
+   "short": "110 ILCS 327",
+   "title": "University of Illinois at Springfield Law",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200110/Act%200327/",
+   "versions": [
+    {
+     "from": "1995-07-01",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200110/Act%200327/",
+     "sha256": "3c91b77e894b244d276314d894c0a8bb8b01a0170bd5e663248d0577b8aa6201",
+     "units": 8
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-110-345",
+   "short": "110 ILCS 345",
+   "title": "Specialized Care for Children Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200110/Act%200345/",
+   "versions": [
+    {
+     "from": "2015-07-27",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200110/Act%200345/",
+     "sha256": "ca1a4e55d08d308267e291cb94625a5b96ed1c07c0da110905e3fd3c685943bd",
+     "units": 5
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-110-410",
+   "short": "110 ILCS 410",
+   "title": "University of Illinois Works Projects Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200110/Act%200410/",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200110/Act%200410/",
+     "sha256": "ec10acbeabca7adc5c816fde69b938038c0afd904477d44ac32dccdb6c3d3375",
+     "units": 6
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-110-420",
+   "short": "110 ILCS 420",
+   "title": "University of Illinois Revenue Bond Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200110/Act%200420/",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200110/Act%200420/",
+     "sha256": "7d123735f9e4cd70cf05108f45f13985e364597420ccb089b9506ed4be7afc8f",
+     "units": 10
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-110-615",
+   "short": "110 ILCS 615",
+   "title": "State Colleges and Universities Revenue Bond Act of 1967",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200110/Act%200615/",
+   "versions": [
+    {
+     "from": "2007-01-01",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200110/Act%200615/",
+     "sha256": "77fb4c147d13156e7c79b93917432add981fcd0781389701192d210fb13d86c9",
+     "units": 16
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-110-660",
+   "short": "110 ILCS 660",
+   "title": "Chicago State University Law",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200110/Act%200660/",
+   "versions": [
+    {
+     "from": "2026-08-07",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200110/Act%200660/",
+     "sha256": "22149385e502aa5c00b760bc4bc361a08e41e897d737c5bda0e10b4e78c8a3e0",
+     "units": 62
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-110-665",
+   "short": "110 ILCS 665",
+   "title": "Eastern Illinois University Law",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200110/Act%200665/",
+   "versions": [
+    {
+     "from": "2026-08-07",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200110/Act%200665/",
+     "sha256": "c564ea49db4bc6d8e84565870565d6ebde54bdf6314d235e027bc59d1d56ba85",
+     "units": 63
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-110-666",
+   "short": "110 ILCS 666",
+   "title": "Eastern Illinois University Revenue Bond Law",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200110/Act%200666/",
+   "versions": [
+    {
+     "from": "2007-01-01",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200110/Act%200666/",
+     "sha256": "3df34123bb50015f118eec13e40c041f6203521db2713498081c14ab2cc94e61",
+     "units": 18
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-110-671",
+   "short": "110 ILCS 671",
+   "title": "Governors State University Revenue Bond Law",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200110/Act%200671/",
+   "versions": [
+    {
+     "from": "2007-01-01",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200110/Act%200671/",
+     "sha256": "ff2ecdb41875f5f5014f8b34f6666af038523cca11528a0bd263eb0e7eeac4fe",
+     "units": 18
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-110-681",
+   "short": "110 ILCS 681",
+   "title": "Northeastern Illinois University Revenue Bond Law",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200110/Act%200681/",
+   "versions": [
+    {
+     "from": "2007-01-01",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200110/Act%200681/",
+     "sha256": "b4ffa62773709973866fff8a62032cded415647f789d62c9f6eedac3dad81565",
+     "units": 18
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-110-685",
+   "short": "110 ILCS 685",
+   "title": "Northern Illinois University Law",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200110/Act%200685/",
+   "versions": [
+    {
+     "from": "2026-08-07",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200110/Act%200685/",
+     "sha256": "1519444e94c57f9891007348461a54cffecc0d1274a22fadbad81cbc573985e7",
+     "units": 64
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-110-686",
+   "short": "110 ILCS 686",
+   "title": "Northern Illinois University Revenue Bond Law",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200110/Act%200686/",
+   "versions": [
+    {
+     "from": "2007-01-01",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200110/Act%200686/",
+     "sha256": "813d4aa879d3667af6ca3fd22a8ab432e06023305ed5322893bd70ccf7bad515",
+     "units": 18
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-110-690",
+   "short": "110 ILCS 690",
+   "title": "Western Illinois University Law",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200110/Act%200690/",
+   "versions": [
+    {
+     "from": "2026-08-07",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200110/Act%200690/",
+     "sha256": "8978dbdb2c055d4b416892c58bab7d8cf48e094aa80b7f3f230ceecd71ce847e",
+     "units": 63
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-110-691",
+   "short": "110 ILCS 691",
+   "title": "Western Illinois University Revenue Bond Law",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200110/Act%200691/",
+   "versions": [
+    {
+     "from": "2007-01-01",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200110/Act%200691/",
+     "sha256": "033321252869f8a81f537ac196ef9df5eb8b33e5f94d3cde2ce354ab803e5656",
+     "units": 18
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-110-925",
+   "short": "110 ILCS 925",
+   "title": "Dental Student Grant Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200110/Act%200925/",
+   "versions": [
+    {
+     "from": "2022-05-27",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200110/Act%200925/",
+     "sha256": "9af8ae481129b5162b04148f21a063b9f8562e6d4d4588423e6fbf7dc0a296e0",
+     "units": 17
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-110-955",
+   "short": "110 ILCS 955",
+   "title": "Military School Scholarship Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200110/Act%200955/",
+   "versions": [
+    {
+     "from": "2026-08-21",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200110/Act%200955/",
+     "sha256": "011469a52524bedd71038778bc965531ae42329db523c8f9f62c23a7e8147dcf",
+     "units": 4
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-110-967",
+   "short": "110 ILCS 967",
+   "title": "Nurse Educator Assistance Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200110/Act%200967/",
+   "versions": [
+    {
+     "from": "2022-06-10",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200110/Act%200967/",
+     "sha256": "ae6ca400d593f9089e8aa7fa3e453a30970223ea508aad944b15e017aa18d18b",
+     "units": 26
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-110-980",
+   "short": "110 ILCS 980",
+   "title": "Private Medical Scholarship Agreement Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200110/Act%200980/",
+   "versions": [
+    {
+     "from": "2022-05-17",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200110/Act%200980/",
+     "sha256": "3e2806849c1a7c3e12286975eedabb08ab2d100a99130d8a9e78be180be5cb04",
+     "units": 5
+    }
+   ]
   }
  ]
 }

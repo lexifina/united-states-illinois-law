@@ -50,7 +50,7 @@ Current-text preparation uses the latest explicit effective date in the source a
 
 ## Static ILCS compilation additions, 30 October 2026
 
-300 additional complete indexed acts from the [Illinois General Assembly compilation](https://ftp.ilga.gov/ILCS/) are included. The compilation incorporates Public Acts through 104-854. The publisher states that these provisions have NOT been edited for publication and are NOT the official text; this copy should not be cited as official or authoritative. The only official copy is the printed copy maintained by the Secretary of State’s office.
+333 additional complete indexed acts from the [Illinois General Assembly compilation](https://ftp.ilga.gov/ILCS/) are included. The compilation incorporates Public Acts through 104-854. The publisher states that these provisions have NOT been edited for publication and are NOT the official text; this copy should not be cited as official or authoritative. The only official copy is the printed copy maintained by the Secretary of State’s office.
 
 Each addition retains all sections, act-title documents and article headings in the publisher’s Section Sequence. Dates use the latest explicit amendment effective date in the source, otherwise the compilation’s own update date, 2026-10-30. This date fallback does not claim a commencement date the source does not identify. Future-effective text and normative images are held. Existing records retain their historical dates and text; their inclusion above does not establish equality with this static compilation. Public Acts, administrative rules and earlier wording are not added.
 
@@ -356,3 +356,36 @@ Each addition retains all sections, act-title documents and article headings in 
 | [Vocational Academies Act (105 ILCS 433)](https://ftp.ilga.gov/ILCS/Ch%200105/Act%200433/) | 5 | 2019-07-01 |
 | [School Tax Rate Validation (1968 (105 ILCS 520)](https://ftp.ilga.gov/ILCS/Ch%200105/Act%200520/) | 2 | 2026-10-30 |
 | [School Tax Rate Validation (1969 (105 ILCS 525)](https://ftp.ilga.gov/ILCS/Ch%200105/Act%200525/) | 2 | 2026-10-30 |
+| [Educational Credit for Military Experience Act (110 ILCS 32)](https://ftp.ilga.gov/ILCS/Ch%200110/Act%200032/) | 4 | 2018-01-01 |
+| [Grow Your Own Teacher Education Act (110 ILCS 48)](https://ftp.ilga.gov/ILCS/Ch%200110/Act%200048/) | 12 | 2019-07-26 |
+| [Medical School Matriculant Criminal History Records Check Act (110 ILCS 57)](https://ftp.ilga.gov/ILCS/Ch%200110/Act%200057/) | 9 | 2026-01-01 |
+| [Nonresident College Trustees Act (110 ILCS 60)](https://ftp.ilga.gov/ILCS/Ch%200110/Act%200060/) | 2 | 2000-07-09 |
+| [State University Certificates of Participation Act (110 ILCS 73)](https://ftp.ilga.gov/ILCS/Ch%200110/Act%200073/) | 11 | 2009-06-22 |
+| [University Airport Access Road Act (110 ILCS 80)](https://ftp.ilga.gov/ILCS/Ch%200110/Act%200080/) | 2 | 2026-10-30 |
+| [University Faculty Research and Consulting Act (110 ILCS 100)](https://ftp.ilga.gov/ILCS/Ch%200110/Act%200100/) | 4 | 1996-01-01 |
+| [Public University Direct Admission Program Act (110 ILCS 117)](https://ftp.ilga.gov/ILCS/Ch%200110/Act%200117/) | 8 | 2025-06-30 |
+| [Illinois Articulation Initiative Act (110 ILCS 152)](https://ftp.ilga.gov/ILCS/Ch%200110/Act%200152/) | 7 | 2024-08-09 |
+| [Bridge Program for Underrepresented Students Act (110 ILCS 170)](https://ftp.ilga.gov/ILCS/Ch%200110/Act%200170/) | 7 | 2018-08-24 |
+| [Transitions in Education Act (110 ILCS 180)](https://ftp.ilga.gov/ILCS/Ch%200110/Act%200180/) | 4 | 2025-11-21 |
+| [Health Services Education Grants Act (110 ILCS 215)](https://ftp.ilga.gov/ILCS/Ch%200110/Act%200215/) | 7 | 2009-07-23 |
+| [Equity in Higher Education Act (110 ILCS 235)](https://ftp.ilga.gov/ILCS/Ch%200110/Act%200235/) | 3 | 2021-03-08 |
+| [University of Illinois Act (110 ILCS 305)](https://ftp.ilga.gov/ILCS/Ch%200110/Act%200305/) | 68 | 2026-08-07 |
+| [University of Illinois at Chicago Land Transfer Act (110 ILCS 325)](https://ftp.ilga.gov/ILCS/Ch%200110/Act%200325/) | 6 | 2007-01-01 |
+| [University of Illinois at Springfield Law (110 ILCS 327)](https://ftp.ilga.gov/ILCS/Ch%200110/Act%200327/) | 5 | 1995-07-01 |
+| [Specialized Care for Children Act (110 ILCS 345)](https://ftp.ilga.gov/ILCS/Ch%200110/Act%200345/) | 4 | 2015-07-27 |
+| [University of Illinois Works Projects Act (110 ILCS 410)](https://ftp.ilga.gov/ILCS/Ch%200110/Act%200410/) | 5 | 2026-10-30 |
+| [University of Illinois Revenue Bond Act (110 ILCS 420)](https://ftp.ilga.gov/ILCS/Ch%200110/Act%200420/) | 9 | 2026-10-30 |
+| [State Colleges and Universities Revenue Bond Act of 1967 (110 ILCS 615)](https://ftp.ilga.gov/ILCS/Ch%200110/Act%200615/) | 15 | 2007-01-01 |
+| [Chicago State University Law (110 ILCS 660)](https://ftp.ilga.gov/ILCS/Ch%200110/Act%200660/) | 59 | 2026-08-07 |
+| [Eastern Illinois University Law (110 ILCS 665)](https://ftp.ilga.gov/ILCS/Ch%200110/Act%200665/) | 60 | 2026-08-07 |
+| [Eastern Illinois University Revenue Bond Law (110 ILCS 666)](https://ftp.ilga.gov/ILCS/Ch%200110/Act%200666/) | 15 | 2007-01-01 |
+| [Governors State University Revenue Bond Law (110 ILCS 671)](https://ftp.ilga.gov/ILCS/Ch%200110/Act%200671/) | 15 | 2007-01-01 |
+| [Northeastern Illinois University Revenue Bond Law (110 ILCS 681)](https://ftp.ilga.gov/ILCS/Ch%200110/Act%200681/) | 15 | 2007-01-01 |
+| [Northern Illinois University Law (110 ILCS 685)](https://ftp.ilga.gov/ILCS/Ch%200110/Act%200685/) | 61 | 2026-08-07 |
+| [Northern Illinois University Revenue Bond Law (110 ILCS 686)](https://ftp.ilga.gov/ILCS/Ch%200110/Act%200686/) | 15 | 2007-01-01 |
+| [Western Illinois University Law (110 ILCS 690)](https://ftp.ilga.gov/ILCS/Ch%200110/Act%200690/) | 60 | 2026-08-07 |
+| [Western Illinois University Revenue Bond Law (110 ILCS 691)](https://ftp.ilga.gov/ILCS/Ch%200110/Act%200691/) | 15 | 2007-01-01 |
+| [Dental Student Grant Act (110 ILCS 925)](https://ftp.ilga.gov/ILCS/Ch%200110/Act%200925/) | 16 | 2022-05-27 |
+| [Military School Scholarship Act (110 ILCS 955)](https://ftp.ilga.gov/ILCS/Ch%200110/Act%200955/) | 3 | 2026-08-21 |
+| [Nurse Educator Assistance Act (110 ILCS 967)](https://ftp.ilga.gov/ILCS/Ch%200110/Act%200967/) | 20 | 2022-06-10 |
+| [Private Medical Scholarship Agreement Act (110 ILCS 980)](https://ftp.ilga.gov/ILCS/Ch%200110/Act%200980/) | 4 | 2022-05-17 |
