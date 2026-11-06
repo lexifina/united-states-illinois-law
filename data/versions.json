@@ -40986,6 +40986,48 @@
      "units": 17
     }
    ]
+  },
+  {
+   "slug": "ilcs-50-355",
+   "short": "50 ILCS 355",
+   "title": "Local Government Revenue Recapture Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200050/Act%200355/",
+   "versions": [
+    {
+     "from": "2021-12-17",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200050/Act%200355/",
+     "sha256": "ac79e545d406cb70b0fb4c230a209be1c73eaf20cd8a58aa828ec32188e4d8fd",
+     "units": 27
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-50-531",
+   "short": "50 ILCS 531",
+   "title": "Local Government Electronic Reverse Auction Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200050/Act%200531/",
+   "versions": [
+    {
+     "from": "2010-07-01",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200050/Act%200531/",
+     "sha256": "26c8d9451177f0102dc371c20a554927f0d7533182da1f9fee9dd834cb55ea08",
+     "units": 9
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-50-727",
+   "short": "50 ILCS 727",
+   "title": "Police and Community Relations Improvement Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200050/Act%200727/",
+   "versions": [
+    {
+     "from": "2023-07-01",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200050/Act%200727/",
+     "sha256": "317328fd41fb6cc2a0169e58889ed876ae621e6bef2a63a2fca7d86e684e7433",
+     "units": 32
+    }
+   ]
   }
  ]
 }
