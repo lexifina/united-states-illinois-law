@@ -41406,6 +41406,76 @@
      "units": 3
     }
    ]
+  },
+  {
+   "slug": "ilcs-105-230",
+   "short": "105 ILCS 230",
+   "title": "School Construction Law",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200105/Act%200230/",
+   "versions": [
+    {
+     "from": "2026-07-01",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200105/Act%200230/",
+     "sha256": "5d32ecae2bbea8c7aea8dd7529d643fbefe3d307ade7714f4c8ec18e46cac044",
+     "units": 37
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-105-240",
+   "short": "105 ILCS 240",
+   "title": "School District Intergovernmental Cooperation Renewable Energy Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200105/Act%200240/",
+   "versions": [
+    {
+     "from": "2010-06-25",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200105/Act%200240/",
+     "sha256": "e780c9c043d83e385c2c847fb02f46464d3f16752504ded223b6036405949a6c",
+     "units": 18
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-105-433",
+   "short": "105 ILCS 433",
+   "title": "Vocational Academies Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200105/Act%200433/",
+   "versions": [
+    {
+     "from": "2019-07-01",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200105/Act%200433/",
+     "sha256": "31fd8e13d30c5b981d9c0f8e9506881eff7fd96c00c900f9ea4d2828421e4ee7",
+     "units": 6
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-105-520",
+   "short": "105 ILCS 520",
+   "title": "School Tax Rate Validation (1968",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200105/Act%200520/",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200105/Act%200520/",
+     "sha256": "99440133c0c1fad52c6c361a9061e8e12a203beeddecc3166bed44042c3b97df",
+     "units": 3
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-105-525",
+   "short": "105 ILCS 525",
+   "title": "School Tax Rate Validation (1969",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200105/Act%200525/",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200105/Act%200525/",
+     "sha256": "01e663cbd4d0c83aa00c18a1ffcdc1b299c2f1a8ea1a368f4014d117320a82df",
+     "units": 3
+    }
+   ]
   }
  ]
 }
