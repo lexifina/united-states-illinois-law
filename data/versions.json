@@ -39110,6 +39110,384 @@
      "units": 10
     }
    ]
+  },
+  {
+   "slug": "ilcs-25-5",
+   "short": "25 ILCS 5",
+   "title": "General Assembly Organization Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200025/Act%200005/",
+   "versions": [
+    {
+     "from": "2018-12-10",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200025/Act%200005/",
+     "sha256": "8af31c6e67f631bd1c043ae8f2b82cdaa520cdbf5f379845d0142a3ff1f49fff",
+     "units": 18
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-25-10",
+   "short": "25 ILCS 10",
+   "title": "General Assembly Operations Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200025/Act%200010/",
+   "versions": [
+    {
+     "from": "2026-07-01",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200025/Act%200010/",
+     "sha256": "89faa9ede5711b7f1dac56938565b5424bc353c152bddbefa0780e20a698e3c2",
+     "units": 11
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-25-15",
+   "short": "25 ILCS 15",
+   "title": "Special Session Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200025/Act%200015/",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200025/Act%200015/",
+     "sha256": "66144b12ce9269ea38b6e33fee284bde7aba4c5315ff1997f7cc6845409c0d4e",
+     "units": 5
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-25-20",
+   "short": "25 ILCS 20",
+   "title": "House Voting Device Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200025/Act%200020/",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200025/Act%200020/",
+     "sha256": "7decd8343a8148e88afdc3bf22daa1f4cc16e976a815b54c135438c8100ed7c0",
+     "units": 5
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-25-25",
+   "short": "25 ILCS 25",
+   "title": "Pre-Filing of Bills Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200025/Act%200025/",
+   "versions": [
+    {
+     "from": "1994-09-16",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200025/Act%200025/",
+     "sha256": "752456938fa5ceacfe07002ced2e062e76cbec8b41bdc1836260ff5faf3220a2",
+     "units": 7
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-25-30",
+   "short": "25 ILCS 30",
+   "title": "Bill Synopsis Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200025/Act%200030/",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200025/Act%200030/",
+     "sha256": "3b5656adea09c73c863c97baef524e20af128e138de44970785278b8429f0522",
+     "units": 3
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-25-35",
+   "short": "25 ILCS 35",
+   "title": "Bill Introduction and Duplication Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200025/Act%200035/",
+   "versions": [
+    {
+     "from": "1994-09-16",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200025/Act%200035/",
+     "sha256": "98a7f356543b210628452cd529902756de5275f533d68b0bbf600d1ef37b2345",
+     "units": 4
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-25-40",
+   "short": "25 ILCS 40",
+   "title": "Governor's Bill Action Report Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200025/Act%200040/",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200025/Act%200040/",
+     "sha256": "0e166d9f2a3498bcf1c8dddbc4c936736129afdfcb13683c41621505a8474484",
+     "units": 4
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-25-65",
+   "short": "25 ILCS 65",
+   "title": "State Debt Impact Note Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200025/Act%200065/",
+   "versions": [
+    {
+     "from": "2005-01-15",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200025/Act%200065/",
+     "sha256": "110d2cb60956d815b44d884ace6042921e6f5712ee0477b5e4a5837d500e967e",
+     "units": 10
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-25-70",
+   "short": "25 ILCS 70",
+   "title": "Correctional Budget and Impact Note Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200025/Act%200070/",
+   "versions": [
+    {
+     "from": "2001-06-28",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200025/Act%200070/",
+     "sha256": "5213c59307003d4a313d93ad532f9a7cb4bfd51a160b9fcd4202f4dfff97a0d0",
+     "units": 10
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-25-82",
+   "short": "25 ILCS 82",
+   "title": "Housing Affordability Impact Note Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200025/Act%200082/",
+   "versions": [
+    {
+     "from": "2017-08-18",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200025/Act%200082/",
+     "sha256": "d9f97b917bd73deb3ea858dd5f92ddf29aa86ce30f6679b657657118b44f5d1e",
+     "units": 9
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-25-83",
+   "short": "25 ILCS 83",
+   "title": "Racial Impact Note Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200025/Act%200083/",
+   "versions": [
+    {
+     "from": "2021-12-17",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200025/Act%200083/",
+     "sha256": "057e8f192314b9f86df9d3eba3786336ff33c5128a95c2479e28af1cc592223d",
+     "units": 40
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-25-90",
+   "short": "25 ILCS 90",
+   "title": "General Assembly Appointments Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200025/Act%200090/",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200025/Act%200090/",
+     "sha256": "a50f8b83464fe87abc6c80494fa19eacaaf212c43b0b4b32c707992fb7705c7e",
+     "units": 3
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-25-95",
+   "short": "25 ILCS 95",
+   "title": "General Assembly Appointing Authority Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200025/Act%200095/",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200025/Act%200095/",
+     "sha256": "0efc5b4462c61969b9463c463ae261bab02bbfceda4e62263b9bf8b747973677",
+     "units": 4
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-25-100",
+   "short": "25 ILCS 100",
+   "title": "Debate Transcript Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200025/Act%200100/",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200025/Act%200100/",
+     "sha256": "0b6017d136ef7441142d8b5abcdfef34a832714689ad867f83a9b6bfa421fd97",
+     "units": 4
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-25-105",
+   "short": "25 ILCS 105",
+   "title": "Legislative Materials Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200025/Act%200105/",
+   "versions": [
+    {
+     "from": "2023-01-09",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200025/Act%200105/",
+     "sha256": "ae135d4312535b84c49976b9668ac1a54fc1f464580dea46c36ea6680dfe244d",
+     "units": 3
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-25-110",
+   "short": "25 ILCS 110",
+   "title": "Reports to the Commission on Government Forecasting and Accountability Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200025/Act%200110/",
+   "versions": [
+    {
+     "from": "2018-12-10",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200025/Act%200110/",
+     "sha256": "ea10087224e7d22941d3a4cc356fe78b37abaca67c9904a0c7fb40afcd782aba",
+     "units": 3
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-25-115",
+   "short": "25 ILCS 115",
+   "title": "General Assembly Compensation Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200025/Act%200115/",
+   "versions": [
+    {
+     "from": "2023-01-09",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200025/Act%200115/",
+     "sha256": "46e1675a4735f329f832c9904ee51fb380db41e38580676b3639d8b32f44286e",
+     "units": 14
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-25-120",
+   "short": "25 ILCS 120",
+   "title": "Compensation Review Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200025/Act%200120/",
+   "versions": [
+    {
+     "from": "2018-06-04",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200025/Act%200120/",
+     "sha256": "edace1e6162c5dbdafe44a44ba2966e21aa658845e8cebbb76956345feb5688f",
+     "units": 20
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-25-130",
+   "short": "25 ILCS 130",
+   "title": "Legislative Commission Reorganization Act of 1984",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200025/Act%200130/",
+   "versions": [
+    {
+     "from": "2025-08-15",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200025/Act%200130/",
+     "sha256": "3344a732a4edfdc44a002427765c7de7d46d74f57aeb24737363561e700e37b2",
+     "units": 59
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-25-135",
+   "short": "25 ILCS 135",
+   "title": "Legislative Reference Bureau Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200025/Act%200135/",
+   "versions": [
+    {
+     "from": "2025-08-15",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200025/Act%200135/",
+     "sha256": "4ed81725337efde6ed2cb7110829df78a3c6abb303ea7e6041217b057563de64",
+     "units": 13
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-25-140",
+   "short": "25 ILCS 140",
+   "title": "Statute Computerization Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200025/Act%200140/",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200025/Act%200140/",
+     "sha256": "b6e133fbd027fe1680c3b9ba71a4e1a2ff33747beac10f7b6b15c51cb8154c5d",
+     "units": 5
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-25-145",
+   "short": "25 ILCS 145",
+   "title": "Legislative Information System Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200025/Act%200145/",
+   "versions": [
+    {
+     "from": "2018-12-10",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200025/Act%200145/",
+     "sha256": "80929c416eab3ea10c35537cafc4f51abfff86d9d589e2ca2efa88f57dbfc8c9",
+     "units": 18
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-25-160",
+   "short": "25 ILCS 160",
+   "title": "General Assembly Staff Assistants Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200025/Act%200160/",
+   "versions": [
+    {
+     "from": "2003-11-19",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200025/Act%200160/",
+     "sha256": "4dc6cb99da6d3f2f47cf25e697d492dfeb0f9a5e8e564a6b613b64c069197230",
+     "units": 4
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-25-165",
+   "short": "25 ILCS 165",
+   "title": "National Conference of State Legislatures Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200025/Act%200165/",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200025/Act%200165/",
+     "sha256": "45ec913ee9f8dc060bfe5e9481bd9cbba4c1917bdac2d74e1e637fde22c7b1f6",
+     "units": 3
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-25-166",
+   "short": "25 ILCS 166",
+   "title": "Council of State Governments Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200025/Act%200166/",
+   "versions": [
+    {
+     "from": "2024-01-01",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200025/Act%200166/",
+     "sha256": "0fda290e7459696928cbecb0b1a9045dafd09a6104ee7f53cc54bc2fdbb87521",
+     "units": 88
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-25-175",
+   "short": "25 ILCS 175",
+   "title": "Legislative Accessibility Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200025/Act%200175/",
+   "versions": [
+    {
+     "from": "2025-01-01",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200025/Act%200175/",
+     "sha256": "92539978ca34fa8e8e2cc9a1acd2e0abf6a53718def30a8be8c8c8b190fd7bc5",
+     "units": 5
+    }
+   ]
   }
  ]
 }

@@ -50,7 +50,7 @@ Current-text preparation uses the latest explicit effective date in the source a
 
 ## Static ILCS compilation additions, 30 October 2026
 
-131 additional complete indexed acts from the [Illinois General Assembly compilation](https://ftp.ilga.gov/ILCS/) are included. The compilation incorporates Public Acts through 104-854. The publisher states that these provisions have NOT been edited for publication and are NOT the official text; this copy should not be cited as official or authoritative. The only official copy is the printed copy maintained by the Secretary of State’s office.
+158 additional complete indexed acts from the [Illinois General Assembly compilation](https://ftp.ilga.gov/ILCS/) are included. The compilation incorporates Public Acts through 104-854. The publisher states that these provisions have NOT been edited for publication and are NOT the official text; this copy should not be cited as official or authoritative. The only official copy is the printed copy maintained by the Secretary of State’s office.
 
 Each addition retains all sections, act-title documents and article headings in the publisher’s Section Sequence. Dates use the latest explicit amendment effective date in the source, otherwise the compilation’s own update date, 2026-10-30. This date fallback does not claim a commencement date the source does not identify. Future-effective text and normative images are held. Existing records retain their historical dates and text; their inclusion above does not establish equality with this static compilation. Public Acts, administrative rules and earlier wording are not added.
 
@@ -187,3 +187,30 @@ Each addition retains all sections, act-title documents and article headings in 
 | [Racial and Ethnic Impact Research Task Force Act (20 ILCS 5025)](https://ftp.ilga.gov/ILCS/Ch%200020/Act%205025/) | 6 | 2021-08-20 |
 | [Illinois Route 66 Centennial Commission Act (20 ILCS 5125)](https://ftp.ilga.gov/ILCS/Ch%200020/Act%205125/) | 11 | 2019-07-12 |
 | [Illinois Council on Women and Girls Act (20 ILCS 5130)](https://ftp.ilga.gov/ILCS/Ch%200020/Act%205130/) | 9 | 2026-08-07 |
+| [General Assembly Organization Act (25 ILCS 5)](https://ftp.ilga.gov/ILCS/Ch%200025/Act%200005/) | 17 | 2018-12-10 |
+| [General Assembly Operations Act (25 ILCS 10)](https://ftp.ilga.gov/ILCS/Ch%200025/Act%200010/) | 10 | 2026-07-01 |
+| [Special Session Act (25 ILCS 15)](https://ftp.ilga.gov/ILCS/Ch%200025/Act%200015/) | 4 | 2026-10-30 |
+| [House Voting Device Act (25 ILCS 20)](https://ftp.ilga.gov/ILCS/Ch%200025/Act%200020/) | 4 | 2026-10-30 |
+| [Pre-Filing of Bills Act (25 ILCS 25)](https://ftp.ilga.gov/ILCS/Ch%200025/Act%200025/) | 6 | 1994-09-16 |
+| [Bill Synopsis Act (25 ILCS 30)](https://ftp.ilga.gov/ILCS/Ch%200025/Act%200030/) | 2 | 2026-10-30 |
+| [Bill Introduction and Duplication Act (25 ILCS 35)](https://ftp.ilga.gov/ILCS/Ch%200025/Act%200035/) | 3 | 1994-09-16 |
+| [Governor's Bill Action Report Act (25 ILCS 40)](https://ftp.ilga.gov/ILCS/Ch%200025/Act%200040/) | 3 | 2026-10-30 |
+| [State Debt Impact Note Act (25 ILCS 65)](https://ftp.ilga.gov/ILCS/Ch%200025/Act%200065/) | 9 | 2005-01-15 |
+| [Correctional Budget and Impact Note Act (25 ILCS 70)](https://ftp.ilga.gov/ILCS/Ch%200025/Act%200070/) | 9 | 2001-06-28 |
+| [Housing Affordability Impact Note Act (25 ILCS 82)](https://ftp.ilga.gov/ILCS/Ch%200025/Act%200082/) | 8 | 2017-08-18 |
+| [Racial Impact Note Act (25 ILCS 83)](https://ftp.ilga.gov/ILCS/Ch%200025/Act%200083/) | 7 | 2021-12-17 |
+| [General Assembly Appointments Act (25 ILCS 90)](https://ftp.ilga.gov/ILCS/Ch%200025/Act%200090/) | 2 | 2026-10-30 |
+| [General Assembly Appointing Authority Act (25 ILCS 95)](https://ftp.ilga.gov/ILCS/Ch%200025/Act%200095/) | 3 | 2026-10-30 |
+| [Debate Transcript Act (25 ILCS 100)](https://ftp.ilga.gov/ILCS/Ch%200025/Act%200100/) | 3 | 2026-10-30 |
+| [Legislative Materials Act (25 ILCS 105)](https://ftp.ilga.gov/ILCS/Ch%200025/Act%200105/) | 2 | 2023-01-09 |
+| [Reports to the Commission on Government Forecasting and Accountability Act (25 ILCS 110)](https://ftp.ilga.gov/ILCS/Ch%200025/Act%200110/) | 2 | 2018-12-10 |
+| [General Assembly Compensation Act (25 ILCS 115)](https://ftp.ilga.gov/ILCS/Ch%200025/Act%200115/) | 13 | 2023-01-09 |
+| [Compensation Review Act (25 ILCS 120)](https://ftp.ilga.gov/ILCS/Ch%200025/Act%200120/) | 19 | 2018-06-04 |
+| [Legislative Commission Reorganization Act of 1984 (25 ILCS 130)](https://ftp.ilga.gov/ILCS/Ch%200025/Act%200130/) | 45 | 2025-08-15 |
+| [Legislative Reference Bureau Act (25 ILCS 135)](https://ftp.ilga.gov/ILCS/Ch%200025/Act%200135/) | 12 | 2025-08-15 |
+| [Statute Computerization Act (25 ILCS 140)](https://ftp.ilga.gov/ILCS/Ch%200025/Act%200140/) | 4 | 2026-10-30 |
+| [Legislative Information System Act (25 ILCS 145)](https://ftp.ilga.gov/ILCS/Ch%200025/Act%200145/) | 17 | 2018-12-10 |
+| [General Assembly Staff Assistants Act (25 ILCS 160)](https://ftp.ilga.gov/ILCS/Ch%200025/Act%200160/) | 3 | 2003-11-19 |
+| [National Conference of State Legislatures Act (25 ILCS 165)](https://ftp.ilga.gov/ILCS/Ch%200025/Act%200165/) | 2 | 2026-10-30 |
+| [Council of State Governments Act (25 ILCS 166)](https://ftp.ilga.gov/ILCS/Ch%200025/Act%200166/) | 54 | 2024-01-01 |
+| [Legislative Accessibility Act (25 ILCS 175)](https://ftp.ilga.gov/ILCS/Ch%200025/Act%200175/) | 4 | 2025-01-01 |
