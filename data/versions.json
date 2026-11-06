@@ -43940,6 +43940,34 @@
      "units": 10
     }
    ]
+  },
+  {
+   "slug": "ilcs-505-35",
+   "short": "505 ILCS 35",
+   "title": "Illinois Conservation Enhancement Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200505/Act%200035/",
+   "versions": [
+    {
+     "from": "2016-07-28",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200505/Act%200035/",
+     "sha256": "7c977a55b9ef8bbd53e7420edc1e99d57817021cd304fb8d12ae57bb246a1f4a",
+     "units": 19
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-505-89",
+   "short": "505 ILCS 89",
+   "title": "Industrial Hemp Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200505/Act%200089/",
+   "versions": [
+    {
+     "from": "2026-06-12",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200505/Act%200089/",
+     "sha256": "fa7c1692be6d53ec4e06ba512659c2c44e2623811d0136891b92d89aea4f1864",
+     "units": 14
+    }
+   ]
   }
  ]
 }
