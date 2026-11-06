@@ -44962,6 +44962,20 @@
      "units": 3
     }
    ]
+  },
+  {
+   "slug": "ilcs-710-30",
+   "short": "710 ILCS 30",
+   "title": "International Commercial Arbitration Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200710/Act%200030/",
+   "versions": [
+    {
+     "from": "1998-07-24",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200710/Act%200030/",
+     "sha256": "19b484c49d14f4441e7fa3925c3d4cdbb4c2cba7b346f4f9b08b2b1ecd421803",
+     "units": 44
+    }
+   ]
   }
  ]
 }
