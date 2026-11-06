@@ -42414,6 +42414,34 @@
      "units": 16
     }
    ]
+  },
+  {
+   "slug": "ilcs-230-45",
+   "short": "230 ILCS 45",
+   "title": "Sports Wagering Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200230/Act%200045/",
+   "versions": [
+    {
+     "from": "2026-08-21",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200230/Act%200045/",
+     "sha256": "1575fd2e43154c6079eb8d6ccf26b2f40bc768d3cd824c64dc08318d82b01485",
+     "units": 83
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-230-50",
+   "short": "230 ILCS 50",
+   "title": "State Fair Gaming Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200230/Act%200050/",
+   "versions": [
+    {
+     "from": "2020-06-30",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200230/Act%200050/",
+     "sha256": "0d1b7d6ec2b6bbc0fa4de5ad617e8ab2d74e992bf9eda5aeda784e17de5334de",
+     "units": 53
+    }
+   ]
   }
  ]
 }
