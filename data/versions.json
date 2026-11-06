@@ -43366,6 +43366,174 @@
      "units": 12
     }
    ]
+  },
+  {
+   "slug": "ilcs-410-67",
+   "short": "410 ILCS 67",
+   "title": "Community Health Worker Certification and Reimbursement Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200410/Act%200067/",
+   "versions": [
+    {
+     "from": "2021-11-30",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200410/Act%200067/",
+     "sha256": "09b6f4eda04fe8169fb923dda130966e72e8e0cf89f3f12782611831a0d7f6ac",
+     "units": 42
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-410-115",
+   "short": "410 ILCS 115",
+   "title": "Obesity Prevention Initiative Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200410/Act%200115/",
+   "versions": [
+    {
+     "from": "2009-08-07",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200410/Act%200115/",
+     "sha256": "fd3e31661092ae61546e9cc55f94138a882f036cfd8b03d42e4aaf361be321a9",
+     "units": 5
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-410-175",
+   "short": "410 ILCS 175",
+   "title": "Feminine Hygiene Products for the Homeless Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200410/Act%200175/",
+   "versions": [
+    {
+     "from": "2022-01-01",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200410/Act%200175/",
+     "sha256": "c67a229e3b3fdb177f1fdb70e2e80ff176b503658c26244bb270d70ed4dd77ef",
+     "units": 3
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-410-180",
+   "short": "410 ILCS 180",
+   "title": "Latex Glove Ban Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200410/Act%200180/",
+   "versions": [
+    {
+     "from": "2023-01-01",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200410/Act%200180/",
+     "sha256": "3a1f9daa657f09248dd54f3de9c706a717279c224c4a8e64df80eaa7ca24730e",
+     "units": 5
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-410-460",
+   "short": "410 ILCS 460",
+   "title": "Sickle Cell Prevention, Care, and Treatment Program Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200410/Act%200460/",
+   "versions": [
+    {
+     "from": "2021-04-27",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200410/Act%200460/",
+     "sha256": "98dc96c159bf872f9d185b753628a19e0e954015d45a0e08e8e13c1f43df90e0",
+     "units": 42
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-410-465",
+   "short": "410 ILCS 465",
+   "title": "Tracking Infectious Cases Knowledgeably Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200410/Act%200465/",
+   "versions": [
+    {
+     "from": "2025-08-01",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200410/Act%200465/",
+     "sha256": "6d5aec3b46b8c687eedfcd052b20119f7e8aad55cf1112b712d8fe1d7f08feaf",
+     "units": 6
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-410-520",
+   "short": "410 ILCS 520",
+   "title": "Illinois Health Statistics Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200410/Act%200520/",
+   "versions": [
+    {
+     "from": "2025-08-15",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200410/Act%200520/",
+     "sha256": "299be307783df88c51f73d7968e04085ae4c78a5ef000a277bd6b2938206a777",
+     "units": 12
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-410-649",
+   "short": "410 ILCS 649",
+   "title": "Right to Try Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200410/Act%200649/",
+   "versions": [
+    {
+     "from": "2016-01-01",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200410/Act%200649/",
+     "sha256": "6d0418e490e8f97e562a92ab9aaf64f68e9d17e3fc3b3e1ed2a75e441c874bfa",
+     "units": 9
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-410-660",
+   "short": "410 ILCS 660",
+   "title": "Patient Access to Pharmacy Protection Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200410/Act%200660/",
+   "versions": [
+    {
+     "from": "2026-08-07",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200410/Act%200660/",
+     "sha256": "b6cce95b18657764a725ec7aa3e33e6eb09501858603605858edc92cd99ce032",
+     "units": 13
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-410-665",
+   "short": "410 ILCS 665",
+   "title": "340B Transparency, Reporting, and Accountability Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200410/Act%200665/",
+   "versions": [
+    {
+     "from": "2026-08-07",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200410/Act%200665/",
+     "sha256": "0840d01369e6f4ea45ec820206311c97ee8ddeb7cea6cca7d649bd74280a07dd",
+     "units": 10
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-410-707",
+   "short": "410 ILCS 707",
+   "title": "Illinois Hemp Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200410/Act%200707/",
+   "versions": [
+    {
+     "from": "2026-11-12",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200410/Act%200707/",
+     "sha256": "596343bee4a1923184e55aff7f0ba7a30784c2386ecc63d75862b1b223c51734",
+     "units": 38
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-410-720",
+   "short": "410 ILCS 720",
+   "title": "Drug Take-Back Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200410/Act%200720/",
+   "versions": [
+    {
+     "from": "2023-06-30",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200410/Act%200720/",
+     "sha256": "0628dde0a90df73552a676bca819da381150f4a87b8864fc33a8be32168e4e73",
+     "units": 21
+    }
+   ]
   }
  ]
 }

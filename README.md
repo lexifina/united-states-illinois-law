@@ -50,7 +50,7 @@ Current-text preparation uses the latest explicit effective date in the source a
 
 ## Static ILCS compilation additions, 30 October 2026
 
-435 additional complete indexed acts from the [Illinois General Assembly compilation](https://ftp.ilga.gov/ILCS/) are included. The compilation incorporates Public Acts through 104-854. The publisher states that these provisions have NOT been edited for publication and are NOT the official text; this copy should not be cited as official or authoritative. The only official copy is the printed copy maintained by the Secretary of State’s office.
+447 additional complete indexed acts from the [Illinois General Assembly compilation](https://ftp.ilga.gov/ILCS/) are included. The compilation incorporates Public Acts through 104-854. The publisher states that these provisions have NOT been edited for publication and are NOT the official text; this copy should not be cited as official or authoritative. The only official copy is the printed copy maintained by the Secretary of State’s office.
 
 Each addition retains all sections, act-title documents and article headings in the publisher’s Section Sequence. Dates use the latest explicit amendment effective date in the source, otherwise the compilation’s own update date, 2026-10-30. This date fallback does not claim a commencement date the source does not identify. Future-effective text and normative images are held. Existing records retain their historical dates and text; their inclusion above does not establish equality with this static compilation. Public Acts, administrative rules and earlier wording are not added.
 
@@ -491,3 +491,15 @@ Each addition retains all sections, act-title documents and article headings in 
 | [Psychiatric Residential Treatment Facilities (PRTF (405 ILCS 142)](https://ftp.ilga.gov/ILCS/Ch%200405/Act%200142/) | 12 | 2026-06-16 |
 | [Outdoor Rx Program Act (405 ILCS 155)](https://ftp.ilga.gov/ILCS/Ch%200405/Act%200155/) | 10 | 2024-01-01 |
 | [Interagency Children's Behavioral Health Services Act (405 ILCS 165)](https://ftp.ilga.gov/ILCS/Ch%200405/Act%200165/) | 11 | 2026-01-01 |
+| [Community Health Worker Certification and Reimbursement Act (410 ILCS 67)](https://ftp.ilga.gov/ILCS/Ch%200410/Act%200067/) | 9 | 2021-11-30 |
+| [Obesity Prevention Initiative Act (410 ILCS 115)](https://ftp.ilga.gov/ILCS/Ch%200410/Act%200115/) | 4 | 2009-08-07 |
+| [Feminine Hygiene Products for the Homeless Act (410 ILCS 175)](https://ftp.ilga.gov/ILCS/Ch%200410/Act%200175/) | 2 | 2022-01-01 |
+| [Latex Glove Ban Act (410 ILCS 180)](https://ftp.ilga.gov/ILCS/Ch%200410/Act%200180/) | 4 | 2023-01-01 |
+| [Sickle Cell Prevention, Care, and Treatment Program Act (410 ILCS 460)](https://ftp.ilga.gov/ILCS/Ch%200410/Act%200460/) | 9 | 2021-04-27 |
+| [Tracking Infectious Cases Knowledgeably Act (410 ILCS 465)](https://ftp.ilga.gov/ILCS/Ch%200410/Act%200465/) | 5 | 2025-08-01 |
+| [Illinois Health Statistics Act (410 ILCS 520)](https://ftp.ilga.gov/ILCS/Ch%200410/Act%200520/) | 11 | 2025-08-15 |
+| [Right to Try Act (410 ILCS 649)](https://ftp.ilga.gov/ILCS/Ch%200410/Act%200649/) | 8 | 2016-01-01 |
+| [Patient Access to Pharmacy Protection Act (410 ILCS 660)](https://ftp.ilga.gov/ILCS/Ch%200410/Act%200660/) | 12 | 2026-08-07 |
+| [340B Transparency, Reporting, and Accountability Act (410 ILCS 665)](https://ftp.ilga.gov/ILCS/Ch%200410/Act%200665/) | 9 | 2026-08-07 |
+| [Illinois Hemp Act (410 ILCS 707)](https://ftp.ilga.gov/ILCS/Ch%200410/Act%200707/) | 37 | 2026-11-12 |
+| [Drug Take-Back Act (410 ILCS 720)](https://ftp.ilga.gov/ILCS/Ch%200410/Act%200720/) | 20 | 2023-06-30 |
