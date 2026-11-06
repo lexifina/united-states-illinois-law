@@ -50,7 +50,7 @@ Current-text preparation uses the latest explicit effective date in the source a
 
 ## Static ILCS compilation additions, 30 October 2026
 
-280 additional complete indexed acts from the [Illinois General Assembly compilation](https://ftp.ilga.gov/ILCS/) are included. The compilation incorporates Public Acts through 104-854. The publisher states that these provisions have NOT been edited for publication and are NOT the official text; this copy should not be cited as official or authoritative. The only official copy is the printed copy maintained by the Secretary of State’s office.
+287 additional complete indexed acts from the [Illinois General Assembly compilation](https://ftp.ilga.gov/ILCS/) are included. The compilation incorporates Public Acts through 104-854. The publisher states that these provisions have NOT been edited for publication and are NOT the official text; this copy should not be cited as official or authoritative. The only official copy is the printed copy maintained by the Secretary of State’s office.
 
 Each addition retains all sections, act-title documents and article headings in the publisher’s Section Sequence. Dates use the latest explicit amendment effective date in the source, otherwise the compilation’s own update date, 2026-10-30. This date fallback does not claim a commencement date the source does not identify. Future-effective text and normative images are held. Existing records retain their historical dates and text; their inclusion above does not establish equality with this static compilation. Public Acts, administrative rules and earlier wording are not added.
 
@@ -336,3 +336,10 @@ Each addition retains all sections, act-title documents and article headings in 
 | [Sports Stadium Act (65 ILCS 100)](https://ftp.ilga.gov/ILCS/Ch%200065/Act%200100/) | 5 | 2007-01-01 |
 | [Shore Lands for Park Use Act (65 ILCS 105)](https://ftp.ilga.gov/ILCS/Ch%200065/Act%200105/) | 2 | 2026-10-30 |
 | [River Edge Redevelopment Zone Act (65 ILCS 115)](https://ftp.ilga.gov/ILCS/Ch%200065/Act%200115/) | 21 | 2026-08-21 |
+| [Civic Center Code (70 ILCS 200)](https://ftp.ilga.gov/ILCS/Ch%200070/Act%200200/) | 658 | 2026-06-16 |
+| [Southern Illinois Economic Development Authority Act (70 ILCS 519)](https://ftp.ilga.gov/ILCS/Ch%200070/Act%200519/) | 18 | 2025-08-15 |
+| [Chicago Submerged Lands (1931 (70 ILCS 1555)](https://ftp.ilga.gov/ILCS/Ch%200070/Act%201555/) | 2 | 2026-10-30 |
+| [Massac-Metropolis Port District Act (70 ILCS 1831)](https://ftp.ilga.gov/ILCS/Ch%200070/Act%201831/) | 39 | 2009-12-16 |
+| [Rock Island Regional Port District Act (70 ILCS 1842)](https://ftp.ilga.gov/ILCS/Ch%200070/Act%201842/) | 29 | 2024-01-01 |
+| [Railroad Terminal Authority Act (70 ILCS 1905)](https://ftp.ilga.gov/ILCS/Ch%200070/Act%201905/) | 31 | 2007-01-01 |
+| [Dixon Railroad Relocation Authority Law (70 ILCS 1925)](https://ftp.ilga.gov/ILCS/Ch%200070/Act%201925/) | 24 | 2007-08-21 |

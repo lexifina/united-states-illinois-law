@@ -41196,6 +41196,104 @@
      "units": 26
     }
    ]
+  },
+  {
+   "slug": "ilcs-70-200",
+   "short": "70 ILCS 200",
+   "title": "Civic Center Code",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200070/Act%200200/",
+   "versions": [
+    {
+     "from": "2026-06-16",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200070/Act%200200/",
+     "sha256": "41bfe57efbcd0d1aa20b62f818d0daaed8693d03828f5d7cb3146da71eb48202",
+     "units": 720
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-70-519",
+   "short": "70 ILCS 519",
+   "title": "Southern Illinois Economic Development Authority Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200070/Act%200519/",
+   "versions": [
+    {
+     "from": "2025-08-15",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200070/Act%200519/",
+     "sha256": "c547eb1c1add5db4831350385a9aa4f8b56c63a722c5980f2c031a01525a3b8d",
+     "units": 23
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-70-1555",
+   "short": "70 ILCS 1555",
+   "title": "Chicago Submerged Lands (1931",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200070/Act%201555/",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200070/Act%201555/",
+     "sha256": "2e9b777026e1f50678255909869e7bed0e9c23633e45f31b253725fdbbcd71c3",
+     "units": 3
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-70-1831",
+   "short": "70 ILCS 1831",
+   "title": "Massac-Metropolis Port District Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200070/Act%201831/",
+   "versions": [
+    {
+     "from": "2009-12-16",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200070/Act%201831/",
+     "sha256": "61c936387e6c92faaa54358a4cdc88860a71421604b271d6ebacaca1a4d4a077",
+     "units": 40
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-70-1842",
+   "short": "70 ILCS 1842",
+   "title": "Rock Island Regional Port District Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200070/Act%201842/",
+   "versions": [
+    {
+     "from": "2024-01-01",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200070/Act%201842/",
+     "sha256": "e3fecc21b283ca9dbfc98705fcc49bf031b768483d0db0226e8d6f480e3fa80c",
+     "units": 30
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-70-1905",
+   "short": "70 ILCS 1905",
+   "title": "Railroad Terminal Authority Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200070/Act%201905/",
+   "versions": [
+    {
+     "from": "2007-01-01",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200070/Act%201905/",
+     "sha256": "861528fd12cd544d378ab78e1d7d9b17e993d6b7b28dfbcbdb0837baca87d202",
+     "units": 32
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-70-1925",
+   "short": "70 ILCS 1925",
+   "title": "Dixon Railroad Relocation Authority Law",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200070/Act%201925/",
+   "versions": [
+    {
+     "from": "2007-08-21",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200070/Act%201925/",
+     "sha256": "176ff005cf434775e1937463d455f57ba1d2531e841f879b7303e169f4f84487",
+     "units": 28
+    }
+   ]
   }
  ]
 }
