@@ -45242,6 +45242,20 @@
      "units": 10
     }
    ]
+  },
+  {
+   "slug": "ilcs-735-105",
+   "short": "735 ILCS 105",
+   "title": "Choice of Law and Forum Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200735/Act%200105/",
+   "versions": [
+    {
+     "from": "1998-01-01",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200735/Act%200105/",
+     "sha256": "b10f2c59c22994e07b3c12e6fa15287df74b1f6591cf6d7dd02c0f9629758968",
+     "units": 10
+    }
+   ]
   }
  ]
 }
