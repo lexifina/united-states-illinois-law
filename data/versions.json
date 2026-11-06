@@ -45704,6 +45704,160 @@
      "units": 5
     }
    ]
+  },
+  {
+   "slug": "ilcs-770-5",
+   "short": "770 ILCS 5",
+   "title": "Attorneys Lien Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200770/Act%200005/",
+   "versions": [
+    {
+     "from": "2003-07-01",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200770/Act%200005/",
+     "sha256": "3280e5c8e04c30e9c8ff09d76e3eef50ffc9c9d141b3a674645f6d2fa067ae83",
+     "units": 3
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-770-40",
+   "short": "770 ILCS 40",
+   "title": "Innkeepers Lien Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200770/Act%200040/",
+   "versions": [
+    {
+     "from": "2012-01-01",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200770/Act%200040/",
+     "sha256": "d7c9300431374632b3be167defb3273f64c88e1fc58c95117826ae20e5e63199",
+     "units": 6
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-770-45",
+   "short": "770 ILCS 45",
+   "title": "Labor and Storage Lien Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200770/Act%200045/",
+   "versions": [
+    {
+     "from": "2017-11-23",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200770/Act%200045/",
+     "sha256": "957550e29cc78b4d111e5f41891a05b5c6e1c31a8e9904f43a24b55d1b7066c6",
+     "units": 11
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-770-50",
+   "short": "770 ILCS 50",
+   "title": "Labor and Storage Lien (Small Amount",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200770/Act%200050/",
+   "versions": [
+    {
+     "from": "2017-11-23",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200770/Act%200050/",
+     "sha256": "08aea658d700a34e7f218e4d0db5199c120b486832b33f08f91f8aee890d662f",
+     "units": 9
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-770-55",
+   "short": "770 ILCS 55",
+   "title": "Liens Against Railroads Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200770/Act%200055/",
+   "versions": [
+    {
+     "from": "1999-07-29",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200770/Act%200055/",
+     "sha256": "51407a3be640558e7c0af9aa581fdd17d53a8275ea3ab495bd51194de74b4116",
+     "units": 10
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-770-70",
+   "short": "770 ILCS 70",
+   "title": "Oil and Gas Lien Act of 1989",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200770/Act%200070/",
+   "versions": [
+    {
+     "from": "2000-01-01",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200770/Act%200070/",
+     "sha256": "95bba7746c89c08f901574eb41df77b06d14c6e6b74ae13c7f2cc8ea2b320034",
+     "units": 22
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-770-85",
+   "short": "770 ILCS 85",
+   "title": "Preference of Claims for Wages Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200770/Act%200085/",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200770/Act%200085/",
+     "sha256": "ec3dd791c97d147d173077d778395bc37644e9752c4a7ba42be806d3ae6af9e1",
+     "units": 5
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-770-90",
+   "short": "770 ILCS 90",
+   "title": "Sale of Unclaimed Property Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200770/Act%200090/",
+   "versions": [
+    {
+     "from": "2018-01-01",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200770/Act%200090/",
+     "sha256": "9b18485fe28fb182fac977e03a2d7f5dfc546bfd429b2932c041b37544c53036",
+     "units": 5
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-770-95",
+   "short": "770 ILCS 95",
+   "title": "Self-Service Storage Facility Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200770/Act%200095/",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200770/Act%200095/",
+     "sha256": "d21a886b5db24271e9440b6b487e4dd290383a23717bc0dfade85237c830de8e",
+     "units": 10
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-770-103",
+   "short": "770 ILCS 103",
+   "title": "Timeshare Lien and Security Interest Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200770/Act%200103/",
+   "versions": [
+    {
+     "from": "2019-01-01",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200770/Act%200103/",
+     "sha256": "8257e829772229abc0c3ae5d60c872c4b217e2cd79e50ca35e61d5a4bfe2fe8a",
+     "units": 6
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-770-105",
+   "short": "770 ILCS 105",
+   "title": "Tool and Die Lien Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200770/Act%200105/",
+   "versions": [
+    {
+     "from": "2006-01-01",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200770/Act%200105/",
+     "sha256": "8b12989bb7ffb05ab24bde563e47b9ad4b5eac667bf4a7eaafc88b7d97e4b84a",
+     "units": 10
+    }
+   ]
   }
  ]
 }

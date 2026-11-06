@@ -50,7 +50,7 @@ Current-text preparation uses the latest explicit effective date in the source a
 
 ## Static ILCS compilation additions, 30 October 2026
 
-602 additional complete indexed acts from the [Illinois General Assembly compilation](https://ftp.ilga.gov/ILCS/) are included. The compilation incorporates Public Acts through 104-854. The publisher states that these provisions have NOT been edited for publication and are NOT the official text; this copy should not be cited as official or authoritative. The only official copy is the printed copy maintained by the Secretary of State’s office.
+613 additional complete indexed acts from the [Illinois General Assembly compilation](https://ftp.ilga.gov/ILCS/) are included. The compilation incorporates Public Acts through 104-854. The publisher states that these provisions have NOT been edited for publication and are NOT the official text; this copy should not be cited as official or authoritative. The only official copy is the printed copy maintained by the Secretary of State’s office.
 
 Each addition retains all sections, act-title documents and article headings in the publisher’s Section Sequence. Dates use the latest explicit amendment effective date in the source, otherwise the compilation’s own update date, 2026-10-30. This date fallback does not claim a commencement date the source does not identify. Future-effective text and normative images are held. Existing records retain their historical dates and text; their inclusion above does not establish equality with this static compilation. Public Acts, administrative rules and earlier wording are not added.
 
@@ -658,3 +658,14 @@ Each addition retains all sections, act-title documents and article headings in 
 | [Registered Container Trade Mark Act (765 ILCS 1050)](https://ftp.ilga.gov/ILCS/Ch%200765/Act%201050/) | 10 | 1998-01-01 |
 | [Illinois Trade Secrets Act (765 ILCS 1065)](https://ftp.ilga.gov/ILCS/Ch%200765/Act%201065/) | 9 | 2021-08-20 |
 | [Park District and Public Utility Liability Act (765 ILCS 1080)](https://ftp.ilga.gov/ILCS/Ch%200765/Act%201080/) | 4 | 2022-06-10 |
+| [Attorneys Lien Act (770 ILCS 5)](https://ftp.ilga.gov/ILCS/Ch%200770/Act%200005/) | 2 | 2003-07-01 |
+| [Innkeepers Lien Act (770 ILCS 40)](https://ftp.ilga.gov/ILCS/Ch%200770/Act%200040/) | 5 | 2012-01-01 |
+| [Labor and Storage Lien Act (770 ILCS 45)](https://ftp.ilga.gov/ILCS/Ch%200770/Act%200045/) | 10 | 2017-11-23 |
+| [Labor and Storage Lien (Small Amount (770 ILCS 50)](https://ftp.ilga.gov/ILCS/Ch%200770/Act%200050/) | 8 | 2017-11-23 |
+| [Liens Against Railroads Act (770 ILCS 55)](https://ftp.ilga.gov/ILCS/Ch%200770/Act%200055/) | 9 | 1999-07-29 |
+| [Oil and Gas Lien Act of 1989 (770 ILCS 70)](https://ftp.ilga.gov/ILCS/Ch%200770/Act%200070/) | 21 | 2000-01-01 |
+| [Preference of Claims for Wages Act (770 ILCS 85)](https://ftp.ilga.gov/ILCS/Ch%200770/Act%200085/) | 4 | 2026-10-30 |
+| [Sale of Unclaimed Property Act (770 ILCS 90)](https://ftp.ilga.gov/ILCS/Ch%200770/Act%200090/) | 4 | 2018-01-01 |
+| [Self-Service Storage Facility Act (770 ILCS 95)](https://ftp.ilga.gov/ILCS/Ch%200770/Act%200095/) | 9 | 2026-01-01 |
+| [Timeshare Lien and Security Interest Act (770 ILCS 103)](https://ftp.ilga.gov/ILCS/Ch%200770/Act%200103/) | 5 | 2019-01-01 |
+| [Tool and Die Lien Act (770 ILCS 105)](https://ftp.ilga.gov/ILCS/Ch%200770/Act%200105/) | 9 | 2006-01-01 |
