@@ -44654,6 +44654,62 @@
      "units": 43
     }
    ]
+  },
+  {
+   "slug": "ilcs-625-20",
+   "short": "625 ILCS 20",
+   "title": "Chauffeur Protection Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200625/Act%200020/",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200625/Act%200020/",
+     "sha256": "d9397ae9d0940c4bb40f4e5d6245c4dc16dc88cbb710272e39d89df60cf4c119",
+     "units": 4
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-625-40",
+   "short": "625 ILCS 40",
+   "title": "Snowmobile Registration and Safety Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200625/Act%200040/",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200625/Act%200040/",
+     "sha256": "cd823e3093a827e523837ba0220db0cfb8e5cc229d255b71ae0c8236f98b28e9",
+     "units": 75
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-625-55",
+   "short": "625 ILCS 55",
+   "title": "Taxi Safety Act of 2007",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200625/Act%200055/",
+   "versions": [
+    {
+     "from": "2013-01-01",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200625/Act%200055/",
+     "sha256": "cc854977ed61ac01408fc2d194c48aa185b8853f15e5c2605a4fed169de19004",
+     "units": 5
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-625-80",
+   "short": "625 ILCS 80",
+   "title": "O'Hare Driver Safety Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200625/Act%200080/",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200625/Act%200080/",
+     "sha256": "36b23f8c3877b0c5c59a64bbbb1484df10408e908088f227251e4a8c001c1d0d",
+     "units": 9
+    }
+   ]
   }
  ]
 }

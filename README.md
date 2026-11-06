@@ -50,7 +50,7 @@ Current-text preparation uses the latest explicit effective date in the source a
 
 ## Static ILCS compilation additions, 30 October 2026
 
-527 additional complete indexed acts from the [Illinois General Assembly compilation](https://ftp.ilga.gov/ILCS/) are included. The compilation incorporates Public Acts through 104-854. The publisher states that these provisions have NOT been edited for publication and are NOT the official text; this copy should not be cited as official or authoritative. The only official copy is the printed copy maintained by the Secretary of State’s office.
+531 additional complete indexed acts from the [Illinois General Assembly compilation](https://ftp.ilga.gov/ILCS/) are included. The compilation incorporates Public Acts through 104-854. The publisher states that these provisions have NOT been edited for publication and are NOT the official text; this copy should not be cited as official or authoritative. The only official copy is the printed copy maintained by the Secretary of State’s office.
 
 Each addition retains all sections, act-title documents and article headings in the publisher’s Section Sequence. Dates use the latest explicit amendment effective date in the source, otherwise the compilation’s own update date, 2026-10-30. This date fallback does not claim a commencement date the source does not identify. Future-effective text and normative images are held. Existing records retain their historical dates and text; their inclusion above does not establish equality with this static compilation. Public Acts, administrative rules and earlier wording are not added.
 
@@ -583,3 +583,7 @@ Each addition retains all sections, act-title documents and article headings in 
 | [O'Hare Modernization Act (620 ILCS 65)](https://ftp.ilga.gov/ILCS/Ch%200620/Act%200065/) | 20 | 2012-07-13 |
 | [Aircraft Crash Parts Act (620 ILCS 70)](https://ftp.ilga.gov/ILCS/Ch%200620/Act%200070/) | 2 | 2026-10-30 |
 | [Public-Private Agreements for the South Suburban Airport Act (620 ILCS 75)](https://ftp.ilga.gov/ILCS/Ch%200620/Act%200075/) | 36 | 2024-08-09 |
+| [Chauffeur Protection Act (625 ILCS 20)](https://ftp.ilga.gov/ILCS/Ch%200625/Act%200020/) | 3 | 2026-10-30 |
+| [Snowmobile Registration and Safety Act (625 ILCS 40)](https://ftp.ilga.gov/ILCS/Ch%200625/Act%200040/) | 63 | 2026-01-01 |
+| [Taxi Safety Act of 2007 (625 ILCS 55)](https://ftp.ilga.gov/ILCS/Ch%200625/Act%200055/) | 4 | 2013-01-01 |
+| [O'Hare Driver Safety Act (625 ILCS 80)](https://ftp.ilga.gov/ILCS/Ch%200625/Act%200080/) | 8 | 2026-01-01 |
