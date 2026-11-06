@@ -47790,6 +47790,20 @@
      "units": 15
     }
    ]
+  },
+  {
+   "slug": "ilcs-30-25",
+   "short": "30 ILCS 25",
+   "title": "Public Accountability and Performance System Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200030/Act%200025/",
+   "versions": [
+    {
+     "from": "2009-07-15",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200030/Act%200025/",
+     "sha256": "d73b2433923d08e71308ce442217e20a2f60653f4da568c30c03a2a37d3abd37",
+     "units": 12
+    }
+   ]
   }
  ]
 }

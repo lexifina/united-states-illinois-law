@@ -50,7 +50,7 @@ Current-text preparation uses the latest explicit effective date in the source a
 
 ## Static ILCS compilation additions, 30 October 2026
 
-751 additional complete indexed acts from the [Illinois General Assembly compilation](https://ftp.ilga.gov/ILCS/) are included. The compilation incorporates Public Acts through 104-854. The publisher states that these provisions have NOT been edited for publication and are NOT the official text; this copy should not be cited as official or authoritative. The only official copy is the printed copy maintained by the Secretary of State’s office.
+752 additional complete indexed acts from the [Illinois General Assembly compilation](https://ftp.ilga.gov/ILCS/) are included. The compilation incorporates Public Acts through 104-854. The publisher states that these provisions have NOT been edited for publication and are NOT the official text; this copy should not be cited as official or authoritative. The only official copy is the printed copy maintained by the Secretary of State’s office.
 
 Each addition retains all sections, act-title documents and article headings in the publisher’s Section Sequence. Dates use the latest explicit amendment effective date in the source, otherwise the compilation’s own update date, 2026-10-30. This date fallback does not claim a commencement date the source does not identify. Future-effective text and normative images are held. Existing records retain their historical dates and text; their inclusion above does not establish equality with this static compilation. Public Acts, administrative rules and earlier wording are not added.
 
@@ -807,3 +807,4 @@ Each addition retains all sections, act-title documents and article headings in 
 | [Line of Duty Compensation Act (820 ILCS 315)](https://ftp.ilga.gov/ILCS/Ch%200820/Act%200315/) | 6 | 2024-07-01 |
 | [Public Safety Employee Benefits Act (820 ILCS 320)](https://ftp.ilga.gov/ILCS/Ch%200820/Act%200320/) | 9 | 2024-01-01 |
 | [Hotel and Casino Employee Safety Act (820 ILCS 325)](https://ftp.ilga.gov/ILCS/Ch%200820/Act%200325/) | 7 | 2021-03-01 |
+| [Public Accountability and Performance System Act (30 ILCS 25)](https://ftp.ilga.gov/ILCS/Ch%200030/Act%200025/) | 7 | 2009-07-15 |
