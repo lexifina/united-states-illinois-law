@@ -42260,6 +42260,160 @@
      "units": 5
     }
    ]
+  },
+  {
+   "slug": "ilcs-225-41",
+   "short": "225 ILCS 41",
+   "title": "Funeral Directors and Embalmers Licensing Code",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200225/Act%200041/",
+   "versions": [
+    {
+     "from": "2025-01-01",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200225/Act%200041/",
+     "sha256": "dfd8c6a396606000f40eb384782d09c254598acc31495fd8bbda8dd289d64eec",
+     "units": 75
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-225-66",
+   "short": "225 ILCS 66",
+   "title": "Kidney Disease Treatment Delegation Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200225/Act%200066/",
+   "versions": [
+    {
+     "from": "2026-07-31",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200225/Act%200066/",
+     "sha256": "9abcb5fbed28b8fcfbe104b08a75921aa06d108276aa45c44de2f2c21ce34bcd",
+     "units": 8
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-225-140",
+   "short": "225 ILCS 140",
+   "title": "Uniform Emergency Volunteer Health Practitioners Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200225/Act%200140/",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200225/Act%200140/",
+     "sha256": "47edc976c6ecf31d2ce1106e20f238e418410e4a3842be49b4353d4df6432065",
+     "units": 13
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-225-210",
+   "short": "225 ILCS 210",
+   "title": "Illinois Explosives Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200225/Act%200210/",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200225/Act%200210/",
+     "sha256": "69e130d14f837281abf272b854f24effad3740b06deb5b55094e372baf0d4205",
+     "units": 46
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-225-217",
+   "short": "225 ILCS 217",
+   "title": "Fire Equipment Distributor and Employee Regulation Act of 2011",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200225/Act%200217/",
+   "versions": [
+    {
+     "from": "2022-04-29",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200225/Act%200217/",
+     "sha256": "8ce27f9bb1dc7b40156e803c62a047deb88ccabf9321252d2de1118d101d2cc7",
+     "units": 32
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-225-407",
+   "short": "225 ILCS 407",
+   "title": "Auction License Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200225/Act%200407/",
+   "versions": [
+    {
+     "from": "2026-08-21",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200225/Act%200407/",
+     "sha256": "0b99c89a115e188300cd154aeb84578659e311cb0009e8ceeb5a4255b2a07a0b",
+     "units": 77
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-225-655",
+   "short": "225 ILCS 655",
+   "title": "Slaughter Livestock Buyers Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200225/Act%200655/",
+   "versions": [
+    {
+     "from": "2018-01-01",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200225/Act%200655/",
+     "sha256": "d36ff531a65c2cd2e1618ea9595dd995f2f31997238d151b0c884ef69ee75c3f",
+     "units": 28
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-225-705",
+   "short": "225 ILCS 705",
+   "title": "Coal Mining Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200225/Act%200705/",
+   "versions": [
+    {
+     "from": "2025-01-01",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200225/Act%200705/",
+     "sha256": "3ca12e1b652ed2c0906548a73920a219436259c4f95763a9f1a32bdec0445627",
+     "units": 514
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-225-710",
+   "short": "225 ILCS 710",
+   "title": "Fluorspar Mines Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200225/Act%200710/",
+   "versions": [
+    {
+     "from": "2021-08-20",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200225/Act%200710/",
+     "sha256": "0200132b211c4825e8dbeeb282b05d4d3e71a5e3b76446a9a21ba9f9c4fe047a",
+     "units": 123
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-225-720",
+   "short": "225 ILCS 720",
+   "title": "Surface Coal Mining Land Conservation and Reclamation Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200225/Act%200720/",
+   "versions": [
+    {
+     "from": "2019-07-12",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200225/Act%200720/",
+     "sha256": "47740c540e65c681b3abb6e51313a2c2cfac27b705a1d951e4125fe13d0dac5d",
+     "units": 103
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-225-735",
+   "short": "225 ILCS 735",
+   "title": "Timber Buyers Licensing Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200225/Act%200735/",
+   "versions": [
+    {
+     "from": "2024-07-01",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200225/Act%200735/",
+     "sha256": "d768b9b3c84f1ae0cd10ad82e01ac3beddcdff69db517c0dca7e33d9a69a5d8b",
+     "units": 16
+    }
+   ]
   }
  ]
 }
