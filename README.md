@@ -50,7 +50,7 @@ Current-text preparation uses the latest explicit effective date in the source a
 
 ## Static ILCS compilation additions, 30 October 2026
 
-570 additional complete indexed acts from the [Illinois General Assembly compilation](https://ftp.ilga.gov/ILCS/) are included. The compilation incorporates Public Acts through 104-854. The publisher states that these provisions have NOT been edited for publication and are NOT the official text; this copy should not be cited as official or authoritative. The only official copy is the printed copy maintained by the Secretary of State’s office.
+574 additional complete indexed acts from the [Illinois General Assembly compilation](https://ftp.ilga.gov/ILCS/) are included. The compilation incorporates Public Acts through 104-854. The publisher states that these provisions have NOT been edited for publication and are NOT the official text; this copy should not be cited as official or authoritative. The only official copy is the printed copy maintained by the Secretary of State’s office.
 
 Each addition retains all sections, act-title documents and article headings in the publisher’s Section Sequence. Dates use the latest explicit amendment effective date in the source, otherwise the compilation’s own update date, 2026-10-30. This date fallback does not claim a commencement date the source does not identify. Future-effective text and normative images are held. Existing records retain their historical dates and text; their inclusion above does not establish equality with this static compilation. Public Acts, administrative rules and earlier wording are not added.
 
@@ -626,3 +626,7 @@ Each addition retains all sections, act-title documents and article headings in 
 | [Secure Residential Youth Care Facility Licensing Act (730 ILCS 175)](https://ftp.ilga.gov/ILCS/Ch%200730/Act%200175/) | 34 | 2015-07-29 |
 | [Equitable Access to Education, Employment, and Training for Incarcerated Individuals with Disabilities Act (730 ILCS 230)](https://ftp.ilga.gov/ILCS/Ch%200730/Act%200230/) | 9 | 2026-08-07 |
 | [Choice of Law and Forum Act (735 ILCS 105)](https://ftp.ilga.gov/ILCS/Ch%200735/Act%200105/) | 6 | 1998-01-01 |
+| [Alienation of Affections Abolition Act (740 ILCS 5)](https://ftp.ilga.gov/ILCS/Ch%200740/Act%200005/) | 9 | 2016-01-01 |
+| [Assistance Animal Damages Act (740 ILCS 13)](https://ftp.ilga.gov/ILCS/Ch%200740/Act%200013/) | 3 | 2000-01-01 |
+| [Illinois Civil Rights Act of 2006 (740 ILCS 24)](https://ftp.ilga.gov/ILCS/Ch%200740/Act%200024/) | 4 | 2008-01-01 |
+| [Police Search Cost Recovery Act (740 ILCS 125)](https://ftp.ilga.gov/ILCS/Ch%200740/Act%200125/) | 2 | 2013-01-25 |

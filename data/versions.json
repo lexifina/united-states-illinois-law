@@ -45256,6 +45256,62 @@
      "units": 10
     }
    ]
+  },
+  {
+   "slug": "ilcs-740-5",
+   "short": "740 ILCS 5",
+   "title": "Alienation of Affections Abolition Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200740/Act%200005/",
+   "versions": [
+    {
+     "from": "2016-01-01",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200740/Act%200005/",
+     "sha256": "3f9b582673177aaf71a98d67ca96f796dc93f927a8166391a1a2b82637427df7",
+     "units": 10
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-740-13",
+   "short": "740 ILCS 13",
+   "title": "Assistance Animal Damages Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200740/Act%200013/",
+   "versions": [
+    {
+     "from": "2000-01-01",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200740/Act%200013/",
+     "sha256": "19650a6401fdd4fa660943ee0312afb97be502829c3a81d7a58b60360984873e",
+     "units": 4
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-740-24",
+   "short": "740 ILCS 24",
+   "title": "Illinois Civil Rights Act of 2006",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200740/Act%200024/",
+   "versions": [
+    {
+     "from": "2008-01-01",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200740/Act%200024/",
+     "sha256": "0257879c69626342d1eeccbc22588af76764c12b39e8f09c99b6d6dbcbeb6853",
+     "units": 5
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-740-125",
+   "short": "740 ILCS 125",
+   "title": "Police Search Cost Recovery Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200740/Act%200125/",
+   "versions": [
+    {
+     "from": "2013-01-25",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200740/Act%200125/",
+     "sha256": "5b69651ebc1047494c3933230e6365b6883ec422992e3e2b449a6c837b7ed5de",
+     "units": 3
+    }
+   ]
   }
  ]
 }
