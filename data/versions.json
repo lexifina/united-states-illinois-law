@@ -45312,6 +45312,132 @@
      "units": 3
     }
    ]
+  },
+  {
+   "slug": "ilcs-745-15",
+   "short": "745 ILCS 15",
+   "title": "County Engineer and Highway Superintendent Liability Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200745/Act%200015/",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200745/Act%200015/",
+     "sha256": "f962b432207716ec94f285c88de5e08ccb9b600d0e3646efa6168f1874d84ede",
+     "units": 9
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-745-35",
+   "short": "745 ILCS 35",
+   "title": "Alcoholism and Drug Addiction Intervenor and Reporter Immunity Law",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200745/Act%200035/",
+   "versions": [
+    {
+     "from": "2019-01-01",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200745/Act%200035/",
+     "sha256": "6c22e8931b2a2735e5e7843e9d4d9ddc3e66eebe4395723ff7f7c6bae32a5c7c",
+     "units": 5
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-745-45",
+   "short": "745 ILCS 45",
+   "title": "Communicable Disease Report Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200745/Act%200045/",
+   "versions": [
+    {
+     "from": "2024-01-01",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200745/Act%200045/",
+     "sha256": "f57c2a26fe3672b080f42da10f9f6542ac3eeaf6f2d9f0e9ce43b32c3c357c1f",
+     "units": 3
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-745-51",
+   "short": "745 ILCS 51",
+   "title": "Good Samaritan Medical Equipment Donor Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200745/Act%200051/",
+   "versions": [
+    {
+     "from": "2012-01-01",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200745/Act%200051/",
+     "sha256": "040eb4c933fbdc98d2e67ec3d96c36e9eb5d8578d03cc24565179da96e4f55ab",
+     "units": 3
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-745-55",
+   "short": "745 ILCS 55",
+   "title": "Long-term Care Peer Review and Quality Assessment and Assurance Protection Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200745/Act%200055/",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200745/Act%200055/",
+     "sha256": "2990b7593e6212183cd31196e10d89b25a1332842515ec2e895c128814b32d54",
+     "units": 5
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-745-57",
+   "short": "745 ILCS 57",
+   "title": "Menstrual Products Donor Immunity Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200745/Act%200057/",
+   "versions": [
+    {
+     "from": "2024-07-19",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200745/Act%200057/",
+     "sha256": "ef9e11cbc85c594c0d4e8b2fd7757f04940d4784b68603e896654ab18ed41f3a",
+     "units": 5
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-745-60",
+   "short": "745 ILCS 60",
+   "title": "Real Estate Investment Trust Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200745/Act%200060/",
+   "versions": [
+    {
+     "from": "2017-08-18",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200745/Act%200060/",
+     "sha256": "286f3fe82459f9af7d00ea4fd54d896701fba2610835e6e230ebae9b5b13cd3f",
+     "units": 4
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-745-67",
+   "short": "745 ILCS 67",
+   "title": "State of Illinois Recreational Use of Leased Land Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200745/Act%200067/",
+   "versions": [
+    {
+     "from": "2007-09-11",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200745/Act%200067/",
+     "sha256": "ed9edafab4a55ec0432eb3b9bb76db3a5757e904e7b9bf2dd21d9143449d2f53",
+     "units": 7
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-745-80",
+   "short": "745 ILCS 80",
+   "title": "Sports Volunteer Immunity Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200745/Act%200080/",
+   "versions": [
+    {
+     "from": "2015-07-27",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200745/Act%200080/",
+     "sha256": "c7f5266dcb8d2f3ca443bdc9e685ef79859d6bbda1c59881d116bc06d56e912d",
+     "units": 3
+    }
+   ]
   }
  ]
 }

@@ -50,7 +50,7 @@ Current-text preparation uses the latest explicit effective date in the source a
 
 ## Static ILCS compilation additions, 30 October 2026
 
-574 additional complete indexed acts from the [Illinois General Assembly compilation](https://ftp.ilga.gov/ILCS/) are included. The compilation incorporates Public Acts through 104-854. The publisher states that these provisions have NOT been edited for publication and are NOT the official text; this copy should not be cited as official or authoritative. The only official copy is the printed copy maintained by the Secretary of State’s office.
+583 additional complete indexed acts from the [Illinois General Assembly compilation](https://ftp.ilga.gov/ILCS/) are included. The compilation incorporates Public Acts through 104-854. The publisher states that these provisions have NOT been edited for publication and are NOT the official text; this copy should not be cited as official or authoritative. The only official copy is the printed copy maintained by the Secretary of State’s office.
 
 Each addition retains all sections, act-title documents and article headings in the publisher’s Section Sequence. Dates use the latest explicit amendment effective date in the source, otherwise the compilation’s own update date, 2026-10-30. This date fallback does not claim a commencement date the source does not identify. Future-effective text and normative images are held. Existing records retain their historical dates and text; their inclusion above does not establish equality with this static compilation. Public Acts, administrative rules and earlier wording are not added.
 
@@ -630,3 +630,12 @@ Each addition retains all sections, act-title documents and article headings in 
 | [Assistance Animal Damages Act (740 ILCS 13)](https://ftp.ilga.gov/ILCS/Ch%200740/Act%200013/) | 3 | 2000-01-01 |
 | [Illinois Civil Rights Act of 2006 (740 ILCS 24)](https://ftp.ilga.gov/ILCS/Ch%200740/Act%200024/) | 4 | 2008-01-01 |
 | [Police Search Cost Recovery Act (740 ILCS 125)](https://ftp.ilga.gov/ILCS/Ch%200740/Act%200125/) | 2 | 2013-01-25 |
+| [County Engineer and Highway Superintendent Liability Act (745 ILCS 15)](https://ftp.ilga.gov/ILCS/Ch%200745/Act%200015/) | 8 | 2026-10-30 |
+| [Alcoholism and Drug Addiction Intervenor and Reporter Immunity Law (745 ILCS 35)](https://ftp.ilga.gov/ILCS/Ch%200745/Act%200035/) | 4 | 2019-01-01 |
+| [Communicable Disease Report Act (745 ILCS 45)](https://ftp.ilga.gov/ILCS/Ch%200745/Act%200045/) | 2 | 2024-01-01 |
+| [Good Samaritan Medical Equipment Donor Act (745 ILCS 51)](https://ftp.ilga.gov/ILCS/Ch%200745/Act%200051/) | 2 | 2012-01-01 |
+| [Long-term Care Peer Review and Quality Assessment and Assurance Protection Act (745 ILCS 55)](https://ftp.ilga.gov/ILCS/Ch%200745/Act%200055/) | 4 | 2026-10-30 |
+| [Menstrual Products Donor Immunity Act (745 ILCS 57)](https://ftp.ilga.gov/ILCS/Ch%200745/Act%200057/) | 4 | 2024-07-19 |
+| [Real Estate Investment Trust Act (745 ILCS 60)](https://ftp.ilga.gov/ILCS/Ch%200745/Act%200060/) | 3 | 2017-08-18 |
+| [State of Illinois Recreational Use of Leased Land Act (745 ILCS 67)](https://ftp.ilga.gov/ILCS/Ch%200745/Act%200067/) | 6 | 2007-09-11 |
+| [Sports Volunteer Immunity Act (745 ILCS 80)](https://ftp.ilga.gov/ILCS/Ch%200745/Act%200080/) | 2 | 2015-07-27 |
