@@ -44136,6 +44136,104 @@
      "units": 7
     }
    ]
+  },
+  {
+   "slug": "ilcs-610-45",
+   "short": "610 ILCS 45",
+   "title": "Railroad Lessees Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200610/Act%200045/",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200610/Act%200045/",
+     "sha256": "58dcf8351e6d5dab8f6a6112a92919e994878364ddd8b973d0b3d1f325e9494d",
+     "units": 4
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-610-55",
+   "short": "610 ILCS 55",
+   "title": "Railroad Depot Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200610/Act%200055/",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200610/Act%200055/",
+     "sha256": "f2567b2026a83584f28b609267e8d7801f8cbb82c8347917fa6a0ca9def49f36",
+     "units": 5
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-610-75",
+   "short": "610 ILCS 75",
+   "title": "Railroad Director Residence Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200610/Act%200075/",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200610/Act%200075/",
+     "sha256": "fe1697ae1ae88ef1a9cdb4914757f481c5cc5dc634cbe211d0ea6c1baf3f7105",
+     "units": 4
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-610-80",
+   "short": "610 ILCS 80",
+   "title": "Railroad Police Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200610/Act%200080/",
+   "versions": [
+    {
+     "from": "2026-08-21",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200610/Act%200080/",
+     "sha256": "b7d364c9b31deb8c95cd7828face41e673a2c59b4e64702fce35d1452296e108",
+     "units": 6
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-610-100",
+   "short": "610 ILCS 100",
+   "title": "Railroad Mooring Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200610/Act%200100/",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200610/Act%200100/",
+     "sha256": "bc011fcd8a150a44b2d7bc35a2a14dd3d026f57a3cea7b46048823e7649fa76b",
+     "units": 5
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-610-107",
+   "short": "610 ILCS 107",
+   "title": "Railroad Employees Medical Treatment Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200610/Act%200107/",
+   "versions": [
+    {
+     "from": "2006-01-01",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200610/Act%200107/",
+     "sha256": "53dc70fc67d9d50508424f6e3b307b05084bd2e41387d8df693ba45a693cd0d3",
+     "units": 4
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-610-130",
+   "short": "610 ILCS 130",
+   "title": "Elevated Railroad Approval Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200610/Act%200130/",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200610/Act%200130/",
+     "sha256": "542e1807ead1fbb6587fe5b11b0be3f740284b9f38c89ac31ee47dcdc9e036f8",
+     "units": 4
+    }
+   ]
   }
  ]
 }

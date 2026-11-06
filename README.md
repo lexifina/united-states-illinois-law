@@ -50,7 +50,7 @@ Current-text preparation uses the latest explicit effective date in the source a
 
 ## Static ILCS compilation additions, 30 October 2026
 
-490 additional complete indexed acts from the [Illinois General Assembly compilation](https://ftp.ilga.gov/ILCS/) are included. The compilation incorporates Public Acts through 104-854. The publisher states that these provisions have NOT been edited for publication and are NOT the official text; this copy should not be cited as official or authoritative. The only official copy is the printed copy maintained by the Secretary of State’s office.
+497 additional complete indexed acts from the [Illinois General Assembly compilation](https://ftp.ilga.gov/ILCS/) are included. The compilation incorporates Public Acts through 104-854. The publisher states that these provisions have NOT been edited for publication and are NOT the official text; this copy should not be cited as official or authoritative. The only official copy is the printed copy maintained by the Secretary of State’s office.
 
 Each addition retains all sections, act-title documents and article headings in the publisher’s Section Sequence. Dates use the latest explicit amendment effective date in the source, otherwise the compilation’s own update date, 2026-10-30. This date fallback does not claim a commencement date the source does not identify. Future-effective text and normative images are held. Existing records retain their historical dates and text; their inclusion above does not establish equality with this static compilation. Public Acts, administrative rules and earlier wording are not added.
 
@@ -546,3 +546,10 @@ Each addition retains all sections, act-title documents and article headings in 
 | [Roadside Memorial Act (605 ILCS 125)](https://ftp.ilga.gov/ILCS/Ch%200605/Act%200125/) | 9 | 2026-06-16 |
 | [Heroes Way Designation Program Act (605 ILCS 127)](https://ftp.ilga.gov/ILCS/Ch%200605/Act%200127/) | 4 | 2017-01-01 |
 | [Illinois Dig Once Act (605 ILCS 145)](https://ftp.ilga.gov/ILCS/Ch%200605/Act%200145/) | 6 | 2026-08-21 |
+| [Railroad Lessees Act (610 ILCS 45)](https://ftp.ilga.gov/ILCS/Ch%200610/Act%200045/) | 3 | 2026-10-30 |
+| [Railroad Depot Act (610 ILCS 55)](https://ftp.ilga.gov/ILCS/Ch%200610/Act%200055/) | 4 | 2026-10-30 |
+| [Railroad Director Residence Act (610 ILCS 75)](https://ftp.ilga.gov/ILCS/Ch%200610/Act%200075/) | 3 | 2026-10-30 |
+| [Railroad Police Act (610 ILCS 80)](https://ftp.ilga.gov/ILCS/Ch%200610/Act%200080/) | 5 | 2026-08-21 |
+| [Railroad Mooring Act (610 ILCS 100)](https://ftp.ilga.gov/ILCS/Ch%200610/Act%200100/) | 4 | 2026-10-30 |
+| [Railroad Employees Medical Treatment Act (610 ILCS 107)](https://ftp.ilga.gov/ILCS/Ch%200610/Act%200107/) | 3 | 2006-01-01 |
+| [Elevated Railroad Approval Act (610 ILCS 130)](https://ftp.ilga.gov/ILCS/Ch%200610/Act%200130/) | 3 | 2026-10-30 |
