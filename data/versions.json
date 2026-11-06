@@ -42162,6 +42162,104 @@
      "units": 17
     }
    ]
+  },
+  {
+   "slug": "ilcs-215-93",
+   "short": "215 ILCS 93",
+   "title": "Small Employer Health Insurance Rating Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200215/Act%200093/",
+   "versions": [
+    {
+     "from": "2023-08-04",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200215/Act%200093/",
+     "sha256": "dcdde2c8b06de90a66867d64bf570fc273fc755c956341439f52a6e630369695",
+     "units": 11
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-215-110",
+   "short": "215 ILCS 110",
+   "title": "Dental Service Plan Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200215/Act%200110/",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200215/Act%200110/",
+     "sha256": "0e95e8d2d51305166e08fcec8b1dee72c0a45937e40248c85e32f9bb36fac1ec",
+     "units": 55
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-215-122",
+   "short": "215 ILCS 122",
+   "title": "Illinois Health Benefits Exchange Law",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200215/Act%200122/",
+   "versions": [
+    {
+     "from": "2026-06-16",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200215/Act%200122/",
+     "sha256": "b44c775dc1e04f951107e14b8b97dfde2a799a5112a0d5aad0691e7d0aa19b39",
+     "units": 20
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-215-132",
+   "short": "215 ILCS 132",
+   "title": "Illinois Long-Term Care Partnership Program Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200215/Act%200132/",
+   "versions": [
+    {
+     "from": "2007-08-16",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200215/Act%200132/",
+     "sha256": "86c251e88fb88628c70a797e64e07c34a478f5fd2fd345c6e9df22d6ae4ba87d",
+     "units": 8
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-215-150",
+   "short": "215 ILCS 150",
+   "title": "Religious and Charitable Risk Pooling Trust Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200215/Act%200150/",
+   "versions": [
+    {
+     "from": "2001-07-20",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200215/Act%200150/",
+     "sha256": "0bb3e63cc1b75cffb18a3b5166e105fced58e2b04df40c1b1af0ab1a69cfe27c",
+     "units": 31
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-215-200",
+   "short": "215 ILCS 200",
+   "title": "Prior Authorization Reform Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200215/Act%200200/",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200215/Act%200200/",
+     "sha256": "8ebd24e2585adfb7aff07e12c019711ee8e99fd2529c2e23f4428bef0d35df24",
+     "units": 24
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-215-210",
+   "short": "215 ILCS 210",
+   "title": "Health Insurance Coverage Premium Misalignment Study Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200215/Act%200210/",
+   "versions": [
+    {
+     "from": "2023-01-01",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200215/Act%200210/",
+     "sha256": "305f2b1bfa07a9d2826a75ebf287e8b7befe6ce299773f4a2ebee216af39e4f3",
+     "units": 5
+    }
+   ]
   }
  ]
 }

@@ -50,7 +50,7 @@ Current-text preparation uses the latest explicit effective date in the source a
 
 ## Static ILCS compilation additions, 30 October 2026
 
-349 additional complete indexed acts from the [Illinois General Assembly compilation](https://ftp.ilga.gov/ILCS/) are included. The compilation incorporates Public Acts through 104-854. The publisher states that these provisions have NOT been edited for publication and are NOT the official text; this copy should not be cited as official or authoritative. The only official copy is the printed copy maintained by the Secretary of State’s office.
+356 additional complete indexed acts from the [Illinois General Assembly compilation](https://ftp.ilga.gov/ILCS/) are included. The compilation incorporates Public Acts through 104-854. The publisher states that these provisions have NOT been edited for publication and are NOT the official text; this copy should not be cited as official or authoritative. The only official copy is the printed copy maintained by the Secretary of State’s office.
 
 Each addition retains all sections, act-title documents and article headings in the publisher’s Section Sequence. Dates use the latest explicit amendment effective date in the source, otherwise the compilation’s own update date, 2026-10-30. This date fallback does not claim a commencement date the source does not identify. Future-effective text and normative images are held. Existing records retain their historical dates and text; their inclusion above does not establish equality with this static compilation. Public Acts, administrative rules and earlier wording are not added.
 
@@ -405,3 +405,10 @@ Each addition retains all sections, act-title documents and article headings in 
 | [Swimming Pool Safety Act (210 ILCS 130)](https://ftp.ilga.gov/ILCS/Ch%200210/Act%200130/) | 4 | 2026-10-30 |
 | [Safe Pharmaceutical Disposal Act (210 ILCS 150)](https://ftp.ilga.gov/ILCS/Ch%200210/Act%200150/) | 8 | 2021-08-20 |
 | [Birth Center Licensing Act (210 ILCS 170)](https://ftp.ilga.gov/ILCS/Ch%200210/Act%200170/) | 16 | 2024-07-01 |
+| [Small Employer Health Insurance Rating Act (215 ILCS 93)](https://ftp.ilga.gov/ILCS/Ch%200215/Act%200093/) | 10 | 2023-08-04 |
+| [Dental Service Plan Act (215 ILCS 110)](https://ftp.ilga.gov/ILCS/Ch%200215/Act%200110/) | 54 | 2026-01-01 |
+| [Illinois Health Benefits Exchange Law (215 ILCS 122)](https://ftp.ilga.gov/ILCS/Ch%200215/Act%200122/) | 15 | 2026-06-16 |
+| [Illinois Long-Term Care Partnership Program Act (215 ILCS 132)](https://ftp.ilga.gov/ILCS/Ch%200215/Act%200132/) | 7 | 2007-08-16 |
+| [Religious and Charitable Risk Pooling Trust Act (215 ILCS 150)](https://ftp.ilga.gov/ILCS/Ch%200215/Act%200150/) | 30 | 2001-07-20 |
+| [Prior Authorization Reform Act (215 ILCS 200)](https://ftp.ilga.gov/ILCS/Ch%200215/Act%200200/) | 23 | 2026-01-01 |
+| [Health Insurance Coverage Premium Misalignment Study Act (215 ILCS 210)](https://ftp.ilga.gov/ILCS/Ch%200215/Act%200210/) | 4 | 2023-01-01 |
