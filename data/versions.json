@@ -40972,6 +40972,20 @@
      "units": 54
     }
    ]
+  },
+  {
+   "slug": "ilcs-45-185",
+   "short": "45 ILCS 185",
+   "title": "New Harmony Bridge Authority Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200045/Act%200185/",
+   "versions": [
+    {
+     "from": "2018-08-19",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200045/Act%200185/",
+     "sha256": "aee470a2bbda853b808cde0ed2357cfd8b6773a1ca435d22cb4de166528605a6",
+     "units": 17
+    }
+   ]
   }
  ]
 }

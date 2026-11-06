@@ -25546,5 +25546,97 @@
     "sha256": "d4264312fcee682e713380f7fb4422d31f8b0f8829ba7566bf1b4aee367c7e8f"
    }
   ]
+ },
+ {
+  "slug": "ilcs-45-185",
+  "source_date": "2018-08-19",
+  "date_basis": "Publisher compilation updated 2026-10-30, through Public Act 104-854. In-force basis: latest explicit effective date in source amendment notes.",
+  "files": [
+   {
+    "path": "doc-0001-004501850f.md",
+    "source_url": "https://ftp.ilga.gov/ILCS/Ch%200045/Act%200185/004501850F.html",
+    "sha256": "5d86a9484a7e17c5757da7a8c94a34dacccc906bd58c8796190bcb3bbfa6b7c4"
+   },
+   {
+    "path": "doc-0002-004501850hpt-5.md",
+    "source_url": "https://ftp.ilga.gov/ILCS/Ch%200045/Act%200185/004501850HPt.%205.html",
+    "sha256": "a3edef280f71d478099e60180bdb246a926ce53bd873dbc52a51f3b918303cf7"
+   },
+   {
+    "path": "doc-0003-004501850k5-1.md",
+    "source_url": "https://ftp.ilga.gov/ILCS/Ch%200045/Act%200185/004501850K5-1.html",
+    "sha256": "22d311f9ee1048ac6e46541e2708e7b2841a342ac5851a0e8296932c5059b768"
+   },
+   {
+    "path": "doc-0004-004501850k5-5.md",
+    "source_url": "https://ftp.ilga.gov/ILCS/Ch%200045/Act%200185/004501850K5-5.html",
+    "sha256": "c23c2e15e83d5d03d1fe8c900ba0367d3d11cf8bb389d2fb2122f11fd61d535a"
+   },
+   {
+    "path": "doc-0005-004501850k5-10.md",
+    "source_url": "https://ftp.ilga.gov/ILCS/Ch%200045/Act%200185/004501850K5-10.html",
+    "sha256": "09cb10436829b96107787e2711994368c43be915690413d3153324b9a1bd4d75"
+   },
+   {
+    "path": "doc-0006-004501850k5-15.md",
+    "source_url": "https://ftp.ilga.gov/ILCS/Ch%200045/Act%200185/004501850K5-15.html",
+    "sha256": "ecb288ec8e3b936591c74cc0d3729b2373a741a6df929aecc3c392377aa2307a"
+   },
+   {
+    "path": "doc-0007-004501850k5-20.md",
+    "source_url": "https://ftp.ilga.gov/ILCS/Ch%200045/Act%200185/004501850K5-20.html",
+    "sha256": "c0156bdde92cfef56440637b185b9897a5f5ff8f00596fe59daefa57bb7cb574"
+   },
+   {
+    "path": "doc-0008-004501850k5-25.md",
+    "source_url": "https://ftp.ilga.gov/ILCS/Ch%200045/Act%200185/004501850K5-25.html",
+    "sha256": "fd2d4aac4843c7aa8ea1e593a6b9794a15529b68fa7d2492ce4a3779db08f6e4"
+   },
+   {
+    "path": "doc-0009-004501850k5-30.md",
+    "source_url": "https://ftp.ilga.gov/ILCS/Ch%200045/Act%200185/004501850K5-30.html",
+    "sha256": "df413ee1864d0772b1b7a275fca39c486e5d8facfed0988decf92437eee9f115"
+   },
+   {
+    "path": "doc-0010-004501850k5-35.md",
+    "source_url": "https://ftp.ilga.gov/ILCS/Ch%200045/Act%200185/004501850K5-35.html",
+    "sha256": "119e94b4c3735536206d02d581f63fde199c608a65caa8b2cbce53810e9787c5"
+   },
+   {
+    "path": "doc-0011-004501850k5-40.md",
+    "source_url": "https://ftp.ilga.gov/ILCS/Ch%200045/Act%200185/004501850K5-40.html",
+    "sha256": "11e3157606cb1689c70e0cee5a6e368ddcba4560c1a3ced193b7b7ae0086255b"
+   },
+   {
+    "path": "doc-0012-004501850k5-45.md",
+    "source_url": "https://ftp.ilga.gov/ILCS/Ch%200045/Act%200185/004501850K5-45.html",
+    "sha256": "f61857ae67c9adc8cd3e96c1800ebc9139ec2684c4d7df005122dc469dbb0af1"
+   },
+   {
+    "path": "doc-0013-004501850k5-50.md",
+    "source_url": "https://ftp.ilga.gov/ILCS/Ch%200045/Act%200185/004501850K5-50.html",
+    "sha256": "c407291fccab27792801b84a10337237e55d59c259b71425065f68517be5812a"
+   },
+   {
+    "path": "doc-0014-004501850k5-55.md",
+    "source_url": "https://ftp.ilga.gov/ILCS/Ch%200045/Act%200185/004501850K5-55.html",
+    "sha256": "7ec4135fea51f9030845fcb8a625d2c36b456bb64361112ce042845c1d660402"
+   },
+   {
+    "path": "doc-0015-004501850hpt-10.md",
+    "source_url": "https://ftp.ilga.gov/ILCS/Ch%200045/Act%200185/004501850HPt.%2010.html",
+    "sha256": "cc2531acef86e9ee8d1c0475ba0e9bf6ab56dd8583b15c1957e5847dcd4b2ebe"
+   },
+   {
+    "path": "doc-0016-004501850hpt-99.md",
+    "source_url": "https://ftp.ilga.gov/ILCS/Ch%200045/Act%200185/004501850HPt.%2099.html",
+    "sha256": "38bff7e704732f6c8a13a0b3c47bdf1d3d21b7c911ffdb73cef1a86d090a50be"
+   },
+   {
+    "path": "doc-0017-004501850k99-1.md",
+    "source_url": "https://ftp.ilga.gov/ILCS/Ch%200045/Act%200185/004501850K99-1.html",
+    "sha256": "843874eea50b1e4bff7a5d8d0ce8b2150953f5733b2b7a0718f96ab331bda84f"
+   }
+  ]
  }
 ]
