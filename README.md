@@ -50,7 +50,7 @@ Current-text preparation uses the latest explicit effective date in the source a
 
 ## Static ILCS compilation additions, 30 October 2026
 
-636 additional complete indexed acts from the [Illinois General Assembly compilation](https://ftp.ilga.gov/ILCS/) are included. The compilation incorporates Public Acts through 104-854. The publisher states that these provisions have NOT been edited for publication and are NOT the official text; this copy should not be cited as official or authoritative. The only official copy is the printed copy maintained by the Secretary of State’s office.
+675 additional complete indexed acts from the [Illinois General Assembly compilation](https://ftp.ilga.gov/ILCS/) are included. The compilation incorporates Public Acts through 104-854. The publisher states that these provisions have NOT been edited for publication and are NOT the official text; this copy should not be cited as official or authoritative. The only official copy is the printed copy maintained by the Secretary of State’s office.
 
 Each addition retains all sections, act-title documents and article headings in the publisher’s Section Sequence. Dates use the latest explicit amendment effective date in the source, otherwise the compilation’s own update date, 2026-10-30. This date fallback does not claim a commencement date the source does not identify. Future-effective text and normative images are held. Existing records retain their historical dates and text; their inclusion above does not establish equality with this static compilation. Public Acts, administrative rules and earlier wording are not added.
 
@@ -692,3 +692,42 @@ Each addition retains all sections, act-title documents and article headings in 
 | [Agricultural Co-Operative Act (805 ILCS 315)](https://ftp.ilga.gov/ILCS/Ch%200805/Act%200315/) | 41 | 2003-07-14 |
 | [Limited Worker Cooperative Association Act (805 ILCS 317)](https://ftp.ilga.gov/ILCS/Ch%200805/Act%200317/) | 29 | 2021-08-20 |
 | [Entity Omnibus Act (805 ILCS 415)](https://ftp.ilga.gov/ILCS/Ch%200805/Act%200415/) | 42 | 2021-08-13 |
+| [Buy-Now-Pay-Later Loan Consumer Protection Act (815 ILCS 124)](https://ftp.ilga.gov/ILCS/Ch%200815/Act%200124/) | 44 | 2026-06-25 |
+| [Tax Refund Anticipation Loan Reform Act (815 ILCS 177)](https://ftp.ilga.gov/ILCS/Ch%200815/Act%200177/) | 9 | 2013-01-01 |
+| [Illinois Business Brokers Act of 1995 (815 ILCS 307)](https://ftp.ilga.gov/ILCS/Ch%200815/Act%200307/) | 33 | 2017-08-18 |
+| [Car-Sharing Program Act (815 ILCS 312)](https://ftp.ilga.gov/ILCS/Ch%200815/Act%200312/) | 14 | 2022-01-01 |
+| [Modular Housing Buyer Protection Act (815 ILCS 362)](https://ftp.ilga.gov/ILCS/Ch%200815/Act%200362/) | 4 | 2010-01-01 |
+| [Personal Information Protection Act (815 ILCS 530)](https://ftp.ilga.gov/ILCS/Ch%200815/Act%200530/) | 12 | 2020-01-01 |
+| [Taxpreparer Disclosure of Information Act (815 ILCS 535)](https://ftp.ilga.gov/ILCS/Ch%200815/Act%200535/) | 4 | 2026-10-30 |
+| [Illinois Fertility Fraud Act (815 ILCS 540)](https://ftp.ilga.gov/ILCS/Ch%200815/Act%200540/) | 11 | 2024-01-01 |
+| [Motor Vehicle Dealer Protection Act (815 ILCS 545)](https://ftp.ilga.gov/ILCS/Ch%200815/Act%200545/) | 5 | 2025-01-01 |
+| [Digital Voice and Likeness Protection Act (815 ILCS 550)](https://ftp.ilga.gov/ILCS/Ch%200815/Act%200550/) | 5 | 2026-01-01 |
+| [Complex Rehabilitation Technology Act (815 ILCS 555)](https://ftp.ilga.gov/ILCS/Ch%200815/Act%200555/) | 18 | 2026-01-01 |
+| [Automatic Contract Renewal Act (815 ILCS 601)](https://ftp.ilga.gov/ILCS/Ch%200815/Act%200601/) | 5 | 2025-01-01 |
+| [Business Opportunity Sales Law of 1995 (815 ILCS 602)](https://ftp.ilga.gov/ILCS/Ch%200815/Act%200602/) | 40 | 2017-08-18 |
+| [Contractor Prompt Payment Act (815 ILCS 603)](https://ftp.ilga.gov/ILCS/Ch%200815/Act%200603/) | 6 | 2019-08-20 |
+| [Consumer Contract Reciprocal Attorney's Fees Act (815 ILCS 604)](https://ftp.ilga.gov/ILCS/Ch%200815/Act%200604/) | 5 | 2024-01-01 |
+| [Credit Services Organizations Act (815 ILCS 605)](https://ftp.ilga.gov/ILCS/Ch%200815/Act%200605/) | 16 | 1999-07-29 |
+| [Dance Studio Act (815 ILCS 610)](https://ftp.ilga.gov/ILCS/Ch%200815/Act%200610/) | 12 | 2026-08-21 |
+| [Dating Referral Services Act (815 ILCS 615)](https://ftp.ilga.gov/ILCS/Ch%200815/Act%200615/) | 13 | 2022-01-01 |
+| [Educational Planning Services Consumer Protection Act (815 ILCS 616)](https://ftp.ilga.gov/ILCS/Ch%200815/Act%200616/) | 12 | 2024-01-01 |
+| [Euro Conversion Act (815 ILCS 617)](https://ftp.ilga.gov/ILCS/Ch%200815/Act%200617/) | 8 | 1997-07-30 |
+| [Illinois Fair Invention Development Standards Act (815 ILCS 620)](https://ftp.ilga.gov/ILCS/Ch%200815/Act%200620/) | 28 | 2026-10-30 |
+| [In-Office Membership Care Act (815 ILCS 628)](https://ftp.ilga.gov/ILCS/Ch%200815/Act%200628/) | 12 | 2019-08-02 |
+| [Job Referral and Job Listing Services Consumer Protection Act (815 ILCS 630)](https://ftp.ilga.gov/ILCS/Ch%200815/Act%200630/) | 12 | 2026-08-21 |
+| [Military Personnel Cellular Phone Contract Termination Act (815 ILCS 633)](https://ftp.ilga.gov/ILCS/Ch%200815/Act%200633/) | 14 | 2013-01-01 |
+| [Illinois Membership Campground Act (815 ILCS 635)](https://ftp.ilga.gov/ILCS/Ch%200815/Act%200635/) | 5 | 2026-10-30 |
+| [Motor Vehicle Leasing Act (815 ILCS 636)](https://ftp.ilga.gov/ILCS/Ch%200815/Act%200636/) | 46 | 2013-01-01 |
+| [Music Licensing Fees Act (815 ILCS 637)](https://ftp.ilga.gov/ILCS/Ch%200815/Act%200637/) | 10 | 2013-01-25 |
+| [Personal Injury Representation Agreement Act (815 ILCS 640)](https://ftp.ilga.gov/ILCS/Ch%200815/Act%200640/) | 2 | 2026-10-30 |
+| [Physical Fitness Services Act (815 ILCS 645)](https://ftp.ilga.gov/ILCS/Ch%200815/Act%200645/) | 15 | 2026-08-21 |
+| [Private Seal Abolishment Act (815 ILCS 650)](https://ftp.ilga.gov/ILCS/Ch%200815/Act%200650/) | 2 | 2026-10-30 |
+| [Rental-Purchase Agreement Act (815 ILCS 655)](https://ftp.ilga.gov/ILCS/Ch%200815/Act%200655/) | 6 | 1994-09-09 |
+| [Building and Construction Contract Act (815 ILCS 665)](https://ftp.ilga.gov/ILCS/Ch%200815/Act%200665/) | 6 | 2002-07-16 |
+| [Illinois Residential Building Code Act (815 ILCS 670)](https://ftp.ilga.gov/ILCS/Ch%200815/Act%200670/) | 6 | 2024-01-01 |
+| [Restaurant Reservation Anti-Piracy Act (815 ILCS 672)](https://ftp.ilga.gov/ILCS/Ch%200815/Act%200672/) | 4 | 2026-01-01 |
+| [Snow Removal Service Liability Limitation Act (815 ILCS 675)](https://ftp.ilga.gov/ILCS/Ch%200815/Act%200675/) | 5 | 2016-08-25 |
+| [Franchise Disclosure Act of 1987 (815 ILCS 705)](https://ftp.ilga.gov/ILCS/Ch%200815/Act%200705/) | 44 | 2009-10-01 |
+| [Motor Vehicle Franchise Act (815 ILCS 710)](https://ftp.ilga.gov/ILCS/Ch%200815/Act%200710/) | 35 | 2024-08-09 |
+| [Illinois Equipment Fair Dealership Law (815 ILCS 715)](https://ftp.ilga.gov/ILCS/Ch%200815/Act%200715/) | 14 | 2011-08-12 |
+| [Beer Industry Fair Dealing Act (815 ILCS 720)](https://ftp.ilga.gov/ILCS/Ch%200815/Act%200720/) | 11 | 2019-07-12 |

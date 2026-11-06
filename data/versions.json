@@ -46180,6 +46180,552 @@
      "units": 48
     }
    ]
+  },
+  {
+   "slug": "ilcs-815-124",
+   "short": "815 ILCS 124",
+   "title": "Buy-Now-Pay-Later Loan Consumer Protection Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200815/Act%200124/",
+   "versions": [
+    {
+     "from": "2026-06-25",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200815/Act%200124/",
+     "sha256": "55808fa05901cdc906534ee7edce01f1b59e1ff82f311ad6be347b44f9aeca51",
+     "units": 45
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-815-177",
+   "short": "815 ILCS 177",
+   "title": "Tax Refund Anticipation Loan Reform Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200815/Act%200177/",
+   "versions": [
+    {
+     "from": "2013-01-01",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200815/Act%200177/",
+     "sha256": "83d42034d65ee3f66598b9f1168f4905b7c65fadd07ae37300563f7f6c642c97",
+     "units": 10
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-815-307",
+   "short": "815 ILCS 307",
+   "title": "Illinois Business Brokers Act of 1995",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200815/Act%200307/",
+   "versions": [
+    {
+     "from": "2017-08-18",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200815/Act%200307/",
+     "sha256": "cf398e7b231f60afb881acc77c60a6236ea051660eab0b85342817481c9372f1",
+     "units": 39
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-815-312",
+   "short": "815 ILCS 312",
+   "title": "Car-Sharing Program Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200815/Act%200312/",
+   "versions": [
+    {
+     "from": "2022-01-01",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200815/Act%200312/",
+     "sha256": "05fa144f6cd38605973985192aa56a2c752bd1ab856c4b3233d585f71b9ec79a",
+     "units": 15
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-815-362",
+   "short": "815 ILCS 362",
+   "title": "Modular Housing Buyer Protection Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200815/Act%200362/",
+   "versions": [
+    {
+     "from": "2010-01-01",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200815/Act%200362/",
+     "sha256": "d5d0235df995668fb98ffd9c06cea4927873b35e855d5f7e8c1bfe13178453be",
+     "units": 5
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-815-530",
+   "short": "815 ILCS 530",
+   "title": "Personal Information Protection Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200815/Act%200530/",
+   "versions": [
+    {
+     "from": "2020-01-01",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200815/Act%200530/",
+     "sha256": "947bb1d6d6e91220bed74f29f1106d744770a39f9b5d5a9f3e1931eed946441e",
+     "units": 13
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-815-535",
+   "short": "815 ILCS 535",
+   "title": "Taxpreparer Disclosure of Information Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200815/Act%200535/",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200815/Act%200535/",
+     "sha256": "06875bb84cdba2ec721b53e3f993db573935fd41253d580c8665753480a976ab",
+     "units": 5
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-815-540",
+   "short": "815 ILCS 540",
+   "title": "Illinois Fertility Fraud Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200815/Act%200540/",
+   "versions": [
+    {
+     "from": "2024-01-01",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200815/Act%200540/",
+     "sha256": "9006423a596467b394f838e0a03d8185b01a67cff7388329b90a2238dbcaccef",
+     "units": 12
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-815-545",
+   "short": "815 ILCS 545",
+   "title": "Motor Vehicle Dealer Protection Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200815/Act%200545/",
+   "versions": [
+    {
+     "from": "2025-01-01",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200815/Act%200545/",
+     "sha256": "edbed2e50b07834d6f5e68571aea34ea7e8abf1d8894dfa88679e12aedd03be7",
+     "units": 6
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-815-550",
+   "short": "815 ILCS 550",
+   "title": "Digital Voice and Likeness Protection Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200815/Act%200550/",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200815/Act%200550/",
+     "sha256": "0344c8df97b5aed83ea11d267dd299d9f6e5fb6c2c6b7e99419df7bf8913213d",
+     "units": 6
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-815-555",
+   "short": "815 ILCS 555",
+   "title": "Complex Rehabilitation Technology Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200815/Act%200555/",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200815/Act%200555/",
+     "sha256": "a0e777d6e263abc5c2cc07d0d7baa6ec513f6c2000214d6a7c98fd747c732631",
+     "units": 19
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-815-601",
+   "short": "815 ILCS 601",
+   "title": "Automatic Contract Renewal Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200815/Act%200601/",
+   "versions": [
+    {
+     "from": "2025-01-01",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200815/Act%200601/",
+     "sha256": "35f560b848393455160a4f04876cc06616e779d771b02755db8ac5d82451240a",
+     "units": 6
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-815-602",
+   "short": "815 ILCS 602",
+   "title": "Business Opportunity Sales Law of 1995",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200815/Act%200602/",
+   "versions": [
+    {
+     "from": "2017-08-18",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200815/Act%200602/",
+     "sha256": "43e61faa26a9db99c43eb4040aba749deeb22a49e79d7e29178a3c48c3f94cf4",
+     "units": 46
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-815-603",
+   "short": "815 ILCS 603",
+   "title": "Contractor Prompt Payment Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200815/Act%200603/",
+   "versions": [
+    {
+     "from": "2019-08-20",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200815/Act%200603/",
+     "sha256": "a1177668b8840bef867e46fc370f9201364910b4c7e0df98419926f34b2e02d9",
+     "units": 7
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-815-604",
+   "short": "815 ILCS 604",
+   "title": "Consumer Contract Reciprocal Attorney's Fees Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200815/Act%200604/",
+   "versions": [
+    {
+     "from": "2024-01-01",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200815/Act%200604/",
+     "sha256": "86a5efeefc2109fe6b056ebb23dc04ebe10a77c6eee6fb3810a0fc66d9c9becd",
+     "units": 6
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-815-605",
+   "short": "815 ILCS 605",
+   "title": "Credit Services Organizations Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200815/Act%200605/",
+   "versions": [
+    {
+     "from": "1999-07-29",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200815/Act%200605/",
+     "sha256": "3ebcadb052dc0edbc1b7d3263a2c2abe3b38b1d4925df0063af728a4be65da68",
+     "units": 17
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-815-610",
+   "short": "815 ILCS 610",
+   "title": "Dance Studio Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200815/Act%200610/",
+   "versions": [
+    {
+     "from": "2026-08-21",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200815/Act%200610/",
+     "sha256": "bfc494d027ed4ea45172f97706daf9a015b3ba14c1bce1283b6ff7cb30293d52",
+     "units": 13
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-815-615",
+   "short": "815 ILCS 615",
+   "title": "Dating Referral Services Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200815/Act%200615/",
+   "versions": [
+    {
+     "from": "2022-01-01",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200815/Act%200615/",
+     "sha256": "68774e2d1adcedd08dae8c2ba6184ae5cf39664e96f42f72f8ed4c6f7823040d",
+     "units": 14
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-815-616",
+   "short": "815 ILCS 616",
+   "title": "Educational Planning Services Consumer Protection Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200815/Act%200616/",
+   "versions": [
+    {
+     "from": "2024-01-01",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200815/Act%200616/",
+     "sha256": "43c33ec3bca88a4ec24742d3c2fa0f8e027e6dc06476674353fd3bef344e35fd",
+     "units": 13
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-815-617",
+   "short": "815 ILCS 617",
+   "title": "Euro Conversion Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200815/Act%200617/",
+   "versions": [
+    {
+     "from": "1997-07-30",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200815/Act%200617/",
+     "sha256": "fa07d79dfb7c15b4ac46077c74078fd9fd51d08b93f8989587282b742c402bdd",
+     "units": 9
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-815-620",
+   "short": "815 ILCS 620",
+   "title": "Illinois Fair Invention Development Standards Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200815/Act%200620/",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200815/Act%200620/",
+     "sha256": "dd90ff78904effe9a353ccedc9bd2fd16bd4fef875d67c0f6e00e7dccc591ee4",
+     "units": 36
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-815-628",
+   "short": "815 ILCS 628",
+   "title": "In-Office Membership Care Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200815/Act%200628/",
+   "versions": [
+    {
+     "from": "2019-08-02",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200815/Act%200628/",
+     "sha256": "1e3762c1fa6c937e914ff9fbf67b89185a1261381d4b4996c0bcd236996e8173",
+     "units": 13
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-815-630",
+   "short": "815 ILCS 630",
+   "title": "Job Referral and Job Listing Services Consumer Protection Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200815/Act%200630/",
+   "versions": [
+    {
+     "from": "2026-08-21",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200815/Act%200630/",
+     "sha256": "b3183441cbac37de270a87fcb6c4258b98c07ee031a739b597101e9e730fb57f",
+     "units": 13
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-815-633",
+   "short": "815 ILCS 633",
+   "title": "Military Personnel Cellular Phone Contract Termination Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200815/Act%200633/",
+   "versions": [
+    {
+     "from": "2013-01-01",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200815/Act%200633/",
+     "sha256": "1a003ae952ba7f2d82b3f068f0115d8998764da6f9f9e84a07274de8b504ac6a",
+     "units": 15
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-815-635",
+   "short": "815 ILCS 635",
+   "title": "Illinois Membership Campground Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200815/Act%200635/",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200815/Act%200635/",
+     "sha256": "53cf022d276bb885fde1ad3e935d8423a1fcf9ba8929e79b2935784d00ac5e9c",
+     "units": 6
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-815-636",
+   "short": "815 ILCS 636",
+   "title": "Motor Vehicle Leasing Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200815/Act%200636/",
+   "versions": [
+    {
+     "from": "2013-01-01",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200815/Act%200636/",
+     "sha256": "b0333398419c4b57f75332eba6ee9e9d1771e433404b221e63bc9d691f94e301",
+     "units": 47
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-815-637",
+   "short": "815 ILCS 637",
+   "title": "Music Licensing Fees Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200815/Act%200637/",
+   "versions": [
+    {
+     "from": "2013-01-25",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200815/Act%200637/",
+     "sha256": "53c589f4508f1fe201b3cd86142a50e13634f363462fbad71b71a251d10967ba",
+     "units": 11
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-815-640",
+   "short": "815 ILCS 640",
+   "title": "Personal Injury Representation Agreement Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200815/Act%200640/",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200815/Act%200640/",
+     "sha256": "a1053d8c4b746e9b08f9aae20572dadcac7aebd1d0691816a09e7fdabe5c2b6e",
+     "units": 3
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-815-645",
+   "short": "815 ILCS 645",
+   "title": "Physical Fitness Services Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200815/Act%200645/",
+   "versions": [
+    {
+     "from": "2026-08-21",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200815/Act%200645/",
+     "sha256": "b184bbd3041c7de69101657fc9f8694d0ba6b7ceae4bd117f9b9bb2761e35da7",
+     "units": 16
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-815-650",
+   "short": "815 ILCS 650",
+   "title": "Private Seal Abolishment Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200815/Act%200650/",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200815/Act%200650/",
+     "sha256": "fe6d09f2c496982ef36ea033680a345e2063cfce052b3353cd3213bd2fadcb31",
+     "units": 3
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-815-655",
+   "short": "815 ILCS 655",
+   "title": "Rental-Purchase Agreement Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200815/Act%200655/",
+   "versions": [
+    {
+     "from": "1994-09-09",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200815/Act%200655/",
+     "sha256": "0fd4d2448b43deea46a1f30b075a5c147c7c7f0d4b92c0af5014f1f931a21d55",
+     "units": 7
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-815-665",
+   "short": "815 ILCS 665",
+   "title": "Building and Construction Contract Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200815/Act%200665/",
+   "versions": [
+    {
+     "from": "2002-07-16",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200815/Act%200665/",
+     "sha256": "ab4245d6825943812805855954b3f7c813f4723b5376331926c5fe614fbacedd",
+     "units": 7
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-815-670",
+   "short": "815 ILCS 670",
+   "title": "Illinois Residential Building Code Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200815/Act%200670/",
+   "versions": [
+    {
+     "from": "2024-01-01",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200815/Act%200670/",
+     "sha256": "ac6fd8da4cdbac516183525bcf27f70c77fcaee2589d781ad67b1fea461df256",
+     "units": 7
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-815-672",
+   "short": "815 ILCS 672",
+   "title": "Restaurant Reservation Anti-Piracy Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200815/Act%200672/",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200815/Act%200672/",
+     "sha256": "d45ee56163805f35cdd3005b1eacf4259efd8c91999d54788fa714233bc46f3d",
+     "units": 5
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-815-675",
+   "short": "815 ILCS 675",
+   "title": "Snow Removal Service Liability Limitation Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200815/Act%200675/",
+   "versions": [
+    {
+     "from": "2016-08-25",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200815/Act%200675/",
+     "sha256": "50b6c7fb8d2a49d018c90e5b24f6e7cb4535dc031679521998b73ef8833c2941",
+     "units": 6
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-815-705",
+   "short": "815 ILCS 705",
+   "title": "Franchise Disclosure Act of 1987",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200815/Act%200705/",
+   "versions": [
+    {
+     "from": "2009-10-01",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200815/Act%200705/",
+     "sha256": "2de3cdd5697c32dc658d05a2059c8f79b23d05a90f4d4464aab911a1b2134c47",
+     "units": 45
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-815-710",
+   "short": "815 ILCS 710",
+   "title": "Motor Vehicle Franchise Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200815/Act%200710/",
+   "versions": [
+    {
+     "from": "2024-08-09",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200815/Act%200710/",
+     "sha256": "2a307a5d80f834f477a0e8e0d3b6be84ceb4bfa16d540a46460c752c537d0ffe",
+     "units": 36
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-815-715",
+   "short": "815 ILCS 715",
+   "title": "Illinois Equipment Fair Dealership Law",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200815/Act%200715/",
+   "versions": [
+    {
+     "from": "2011-08-12",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200815/Act%200715/",
+     "sha256": "644a9ad4ae530636c488efe128d92e889441a184bf7237a32caca1f859e91e2c",
+     "units": 15
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-815-720",
+   "short": "815 ILCS 720",
+   "title": "Beer Industry Fair Dealing Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200815/Act%200720/",
+   "versions": [
+    {
+     "from": "2019-07-12",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200815/Act%200720/",
+     "sha256": "5b5c996e014ea0d593ab8aa6ef522442bd1bb71bbdb84f0b0fc968479baa2927",
+     "units": 12
+    }
+   ]
   }
  ]
 }
