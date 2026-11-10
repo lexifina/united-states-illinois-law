@@ -2501,12 +2501,184 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `ilcs-765-1005` | Illinois Compiled Statutes, Joint Tenancy Act (765 ILCS 1005) | 1 | 2026-05-14 to 2026-05-14 |
 | `ilcs-765-1010` | Illinois Compiled Statutes, Electricity and Gas Joint Ownership Act (765 ILCS 1010) | 1 | 2026-04-20 to 2026-04-20 |
 | `ilcs-765-1015` | Illinois Compiled Statutes, Bailment Insurance Act (765 ILCS 1015) | 1 | 2026-02-08 to 2026-02-08 |
+| `ilcs-765-1020` | Illinois Compiled Statutes, Estrays and Lost Property Act (765 ILCS 1020) | 1 | 2026-04-12 to 2026-04-12 |
+| `ilcs-765-1026-article-0015` | Illinois Compiled Statutes, Revised Uniform Unclaimed Property Act (765 ILCS 1026), Article 15 | 1 | 2026-03-14 to 2026-03-14 |
+| `ilcs-765-1026-article-0017` | Illinois Compiled Statutes, Revised Uniform Unclaimed Property Act (765 ILCS 1026), Article 17 | 1 | 2026-03-14 to 2026-03-14 |
+| `ilcs-765-1026-article-0099` | Illinois Compiled Statutes, Revised Uniform Unclaimed Property Act (765 ILCS 1026), Article 99 | 1 | 2026-03-14 to 2026-03-14 |
+| `ilcs-765-1030` | Illinois Compiled Statutes, Law Enforcement Disposition of Property Act (765 ILCS 1030) | 1 | 2026-04-11 to 2026-04-11 |
+| `ilcs-765-1033` | Illinois Compiled Statutes, Museum Disposition of Property Act (765 ILCS 1033) | 1 | 2026-04-22 to 2026-04-22 |
+| `ilcs-765-1036` | Illinois Compiled Statutes, Trademark Registration and Protection Act (765 ILCS 1036) | 1 | 2026-10-09 to 2026-10-09 |
+| `ilcs-765-1040` | Illinois Compiled Statutes, Counterfeit Trademark Act (765 ILCS 1040) | 1 | 2026-04-20 to 2026-04-20 |
+| `ilcs-765-1045` | Illinois Compiled Statutes, Industrial and Linen Supplies Marking Law (765 ILCS 1045) | 1 | 2026-04-16 to 2026-04-16 |
+| `ilcs-765-1053` | Illinois Compiled Statutes, Dies and Molds Ownership Transfer Act of 1997 (765 ILCS 1053) | 1 | 2026-03-05 to 2026-03-05 |
+| `ilcs-765-1055` | Illinois Compiled Statutes, Plastics Dies and Molds Ownership Transfer Act (765 ILCS 1055) | 1 | 2026-02-12 to 2026-02-12 |
+| `ilcs-765-1060` | Illinois Compiled Statutes, Employee Patent Act (765 ILCS 1060) | 1 | 2026-04-21 to 2026-04-21 |
+| `ilcs-765-1070` | Illinois Compiled Statutes, Unsealed Instrument Validation Act (765 ILCS 1070) | 1 | 2026-05-14 to 2026-05-14 |
+| `ilcs-765-1075` | Illinois Compiled Statutes, Right of Publicity Act (765 ILCS 1075) | 1 | 2026-08-12 to 2026-08-12 |
+| `ilcs-765-1085` | Illinois Compiled Statutes, Electric Vehicle Charging Act (765 ILCS 1085) | 1 | 2026-05-20 to 2026-05-20 |
+| `ilcs-765-1090` | Illinois Compiled Statutes, Illinois Receivership Act (765 ILCS 1090) | 1 | 2026-04-17 to 2026-04-17 |
+| `ilcs-770-15` | Illinois Compiled Statutes, Commercial Real Estate Broker Lien Act (770 ILCS 15) | 1 | 2026-07-27 to 2026-07-27 |
+| `ilcs-770-23` | Illinois Compiled Statutes, Health Care Services Lien Act (770 ILCS 23) | 1 | 2026-05-16 to 2026-05-16 |
+| `ilcs-770-30` | Illinois Compiled Statutes, Horseshoers Lien Act (770 ILCS 30) | 1 | 2026-04-26 to 2026-04-26 |
+| `ilcs-770-60` | Illinois Compiled Statutes, Mechanics Lien Act (770 ILCS 60) | 1 | 2026-10-09 to 2026-10-09 |
+| `ilcs-770-65` | Illinois Compiled Statutes, Miners Lien Act (770 ILCS 65) | 1 | 2026-05-10 to 2026-05-10 |
+| `ilcs-770-100` | Illinois Compiled Statutes, Stallion and Jack Service Lien Act (770 ILCS 100) | 1 | 2026-05-13 to 2026-05-13 |
+| `ilcs-770-110` | Illinois Compiled Statutes, Uniform Federal Lien Registration Act (770 ILCS 110) | 1 | 2026-05-09 to 2026-05-09 |
+| `ilcs-775-5-article-0001` | Illinois Compiled Statutes, Illinois Human Rights Act (775 ILCS 5), Article 1 | 1 | 2026-08-19 to 2026-08-19 |
+| `ilcs-775-5-article-0002` | Illinois Compiled Statutes, Illinois Human Rights Act (775 ILCS 5), Article 2 | 1 | 2026-08-19 to 2026-08-19 |
+| `ilcs-775-5-article-0003` | Illinois Compiled Statutes, Illinois Human Rights Act (775 ILCS 5), Article 3 | 1 | 2026-08-19 to 2026-08-19 |
+| `ilcs-775-5-article-0004` | Illinois Compiled Statutes, Illinois Human Rights Act (775 ILCS 5), Article 4 | 1 | 2026-08-19 to 2026-08-19 |
+| `ilcs-775-5-article-0005` | Illinois Compiled Statutes, Illinois Human Rights Act (775 ILCS 5), Article 5 | 1 | 2026-08-19 to 2026-08-19 |
+| `ilcs-775-5-article-0005a` | Illinois Compiled Statutes, Illinois Human Rights Act (775 ILCS 5), Article 5A | 1 | 2026-08-19 to 2026-08-19 |
+| `ilcs-775-5-article-0006` | Illinois Compiled Statutes, Illinois Human Rights Act (775 ILCS 5), Article 6 | 1 | 2026-08-19 to 2026-08-19 |
+| `ilcs-775-5-article-0007` | Illinois Compiled Statutes, Illinois Human Rights Act (775 ILCS 5), Article 7 | 1 | 2026-08-19 to 2026-08-19 |
+| `ilcs-775-5-article-0007a` | Illinois Compiled Statutes, Illinois Human Rights Act (775 ILCS 5), Article 7A | 1 | 2026-08-19 to 2026-08-19 |
+| `ilcs-775-5-article-0007b` | Illinois Compiled Statutes, Illinois Human Rights Act (775 ILCS 5), Article 7B | 1 | 2026-08-19 to 2026-08-19 |
+| `ilcs-775-5-article-0008` | Illinois Compiled Statutes, Illinois Human Rights Act (775 ILCS 5), Article 8 | 1 | 2026-08-19 to 2026-08-19 |
+| `ilcs-775-5-article-0008a` | Illinois Compiled Statutes, Illinois Human Rights Act (775 ILCS 5), Article 8A | 1 | 2026-08-19 to 2026-08-19 |
+| `ilcs-775-5-article-0008b` | Illinois Compiled Statutes, Illinois Human Rights Act (775 ILCS 5), Article 8B | 1 | 2026-08-19 to 2026-08-19 |
+| `ilcs-775-5-article-0009` | Illinois Compiled Statutes, Illinois Human Rights Act (775 ILCS 5), Article 9 | 1 | 2026-08-19 to 2026-08-19 |
+| `ilcs-775-5-article-0010` | Illinois Compiled Statutes, Illinois Human Rights Act (775 ILCS 5), Article 10 | 1 | 2026-08-19 to 2026-08-19 |
+| `ilcs-775-20` | Illinois Compiled Statutes, Defense Contract Employment Discrimination Act (775 ILCS 20) | 1 | 2026-04-22 to 2026-04-22 |
+| `ilcs-775-35` | Illinois Compiled Statutes, Religious Freedom Restoration Act (775 ILCS 35) | 1 | 2026-08-01 to 2026-08-01 |
+| `ilcs-775-40` | Illinois Compiled Statutes, Illinois Torture Inquiry and Relief Commission Act (775 ILCS 40) | 1 | 2026-04-28 to 2026-04-28 |
+| `ilcs-775-45` | Illinois Compiled Statutes, Bill of Rights for the Homeless Act (775 ILCS 45) | 1 | 2026-02-07 to 2026-02-07 |
+| `ilcs-805-5` | Illinois Compiled Statutes, Business Corporation Act of 1983 (805 ILCS 5) | 1 | 2026-03-20 to 2026-03-20 |
+| `ilcs-805-10` | Illinois Compiled Statutes, Professional Service Corporation Act (805 ILCS 10) | 1 | 2026-05-16 to 2026-05-16 |
+| `ilcs-805-35` | Illinois Compiled Statutes, Illinois Development Credit Corporation Act (805 ILCS 35) | 1 | 2026-05-20 to 2026-05-20 |
+| `ilcs-805-105` | Illinois Compiled Statutes, General Not For Profit Corporation Act of 1986 (805 ILCS 105) | 1 | 2026-05-15 to 2026-05-15 |
+| `ilcs-805-125` | Illinois Compiled Statutes, Special Charter Not for Profit Corporations Act (805 ILCS 125) | 1 | 2026-06-29 to 2026-06-29 |
+| `ilcs-805-135` | Illinois Compiled Statutes, Religious Educational or Charitable Corporation Dissolution Act (805 ILCS 135) | 1 | 2026-05-31 to 2026-05-31 |
+| `ilcs-805-150` | Illinois Compiled Statutes, Veterans Corporation Land Act (805 ILCS 150) | 1 | 2026-06-07 to 2026-06-07 |
+| `ilcs-805-180-article-0001` | Illinois Compiled Statutes, Limited Liability Company Act (805 ILCS 180), Article 1 | 1 | 2026-05-21 to 2026-05-21 |
+| `ilcs-805-180-article-0005` | Illinois Compiled Statutes, Limited Liability Company Act (805 ILCS 180), Article 5 | 1 | 2026-05-21 to 2026-05-21 |
+| `ilcs-805-180-article-0010` | Illinois Compiled Statutes, Limited Liability Company Act (805 ILCS 180), Article 10 | 1 | 2026-05-21 to 2026-05-21 |
+| `ilcs-805-180-article-0013` | Illinois Compiled Statutes, Limited Liability Company Act (805 ILCS 180), Article 13 | 1 | 2026-05-21 to 2026-05-21 |
+| `ilcs-805-180-article-0015` | Illinois Compiled Statutes, Limited Liability Company Act (805 ILCS 180), Article 15 | 1 | 2026-05-21 to 2026-05-21 |
+| `ilcs-805-180-article-0020` | Illinois Compiled Statutes, Limited Liability Company Act (805 ILCS 180), Article 20 | 1 | 2026-05-21 to 2026-05-21 |
+| `ilcs-805-180-article-0025` | Illinois Compiled Statutes, Limited Liability Company Act (805 ILCS 180), Article 25 | 1 | 2026-05-21 to 2026-05-21 |
+| `ilcs-805-180-article-0030` | Illinois Compiled Statutes, Limited Liability Company Act (805 ILCS 180), Article 30 | 1 | 2026-05-21 to 2026-05-21 |
+| `ilcs-805-180-article-0035` | Illinois Compiled Statutes, Limited Liability Company Act (805 ILCS 180), Article 35 | 1 | 2026-05-21 to 2026-05-21 |
+| `ilcs-805-180-article-0037` | Illinois Compiled Statutes, Limited Liability Company Act (805 ILCS 180), Article 37 | 1 | 2026-05-21 to 2026-05-21 |
+| `ilcs-805-180-article-0040` | Illinois Compiled Statutes, Limited Liability Company Act (805 ILCS 180), Article 40 | 1 | 2026-05-21 to 2026-05-21 |
+| `ilcs-805-180-article-0045` | Illinois Compiled Statutes, Limited Liability Company Act (805 ILCS 180), Article 45 | 1 | 2026-05-21 to 2026-05-21 |
+| `ilcs-805-180-article-0050` | Illinois Compiled Statutes, Limited Liability Company Act (805 ILCS 180), Article 50 | 1 | 2026-05-21 to 2026-05-21 |
+| `ilcs-805-180-article-0055` | Illinois Compiled Statutes, Limited Liability Company Act (805 ILCS 180), Article 55 | 1 | 2026-05-21 to 2026-05-21 |
+| `ilcs-805-180-article-0060` | Illinois Compiled Statutes, Limited Liability Company Act (805 ILCS 180), Article 60 | 1 | 2026-05-21 to 2026-05-21 |
+| `ilcs-805-185` | Illinois Compiled Statutes, Professional Limited Liability Company Act (805 ILCS 185) | 1 | 2026-06-15 to 2026-06-15 |
+| `ilcs-805-310` | Illinois Compiled Statutes, Co-operative Act (805 ILCS 310) | 1 | 2026-08-15 to 2026-08-15 |
+| `ilcs-805-320` | Illinois Compiled Statutes, Cemetery Association Act (805 ILCS 320) | 1 | 2026-03-26 to 2026-03-26 |
+| `ilcs-805-325` | Illinois Compiled Statutes, National Cemetery Act (805 ILCS 325) | 1 | 2026-05-23 to 2026-05-23 |
+| `ilcs-805-405` | Illinois Compiled Statutes, Assumed Business Name Act (805 ILCS 405) | 1 | 2026-05-15 to 2026-05-15 |
+| `ilcs-805-410` | Illinois Compiled Statutes, Uniform Preservation of Private Business Records Act (805 ILCS 410) | 1 | 2026-07-16 to 2026-07-16 |
+| `ilcs-810-5-article-0001` | Illinois Compiled Statutes, Uniform Commercial Code (810 ILCS 5), Article 1 | 1 | 2026-05-19 to 2026-05-19 |
+| `ilcs-810-5-article-0002` | Illinois Compiled Statutes, Uniform Commercial Code (810 ILCS 5), Article 2 | 1 | 2026-05-19 to 2026-05-19 |
+| `ilcs-810-5-article-0002a` | Illinois Compiled Statutes, Uniform Commercial Code (810 ILCS 5), Article 2A | 1 | 2026-05-19 to 2026-05-19 |
+| `ilcs-810-5-article-0003` | Illinois Compiled Statutes, Uniform Commercial Code (810 ILCS 5), Article 3 | 1 | 2026-05-19 to 2026-05-19 |
+| `ilcs-810-5-article-0004` | Illinois Compiled Statutes, Uniform Commercial Code (810 ILCS 5), Article 4 | 1 | 2026-05-19 to 2026-05-19 |
+| `ilcs-810-5-article-0004a` | Illinois Compiled Statutes, Uniform Commercial Code (810 ILCS 5), Article 4A | 1 | 2026-05-19 to 2026-05-19 |
+| `ilcs-810-5-article-0005` | Illinois Compiled Statutes, Uniform Commercial Code (810 ILCS 5), Article 5 | 1 | 2026-05-19 to 2026-05-19 |
+| `ilcs-810-5-article-0007` | Illinois Compiled Statutes, Uniform Commercial Code (810 ILCS 5), Article 7 | 1 | 2026-05-19 to 2026-05-19 |
+| `ilcs-810-5-article-0008` | Illinois Compiled Statutes, Uniform Commercial Code (810 ILCS 5), Article 8 | 1 | 2026-05-19 to 2026-05-19 |
+| `ilcs-810-5-article-0009` | Illinois Compiled Statutes, Uniform Commercial Code (810 ILCS 5), Article 9 | 1 | 2026-05-19 to 2026-05-19 |
+| `ilcs-810-5-article-0010` | Illinois Compiled Statutes, Uniform Commercial Code (810 ILCS 5), Article 10 | 1 | 2026-05-19 to 2026-05-19 |
+| `ilcs-810-5-article-0011` | Illinois Compiled Statutes, Uniform Commercial Code (810 ILCS 5), Article 11 | 1 | 2026-05-19 to 2026-05-19 |
+| `ilcs-810-5-article-0011a` | Illinois Compiled Statutes, Uniform Commercial Code (810 ILCS 5), Article 11A | 1 | 2026-05-19 to 2026-05-19 |
+| `ilcs-810-5-article-0012` | Illinois Compiled Statutes, Uniform Commercial Code (810 ILCS 5), Article 12 | 1 | 2026-05-19 to 2026-05-19 |
+| `ilcs-810-5-article-0012a` | Illinois Compiled Statutes, Uniform Commercial Code (810 ILCS 5), Article 12A | 1 | 2026-05-19 to 2026-05-19 |
+| `ilcs-810-5-article-0013` | Illinois Compiled Statutes, Uniform Commercial Code (810 ILCS 5), Article 13 | 1 | 2026-05-19 to 2026-05-19 |
+| `ilcs-815-5` | Illinois Compiled Statutes, Illinois Securities Law of 1953 (815 ILCS 5) | 1 | 2026-02-09 to 2026-02-09 |
+| `ilcs-815-10` | Illinois Compiled Statutes, Uniform TOD Security Registration Act (815 ILCS 10) | 1 | 2026-05-08 to 2026-05-08 |
+| `ilcs-815-105` | Illinois Compiled Statutes, Promissory Note and Bank Holiday Act. (Part 1) (815 ILCS 105) | 1 | 2026-03-11 to 2026-03-11 |
+| `ilcs-815-115` | Illinois Compiled Statutes, Actions to Enforce Payment Act (815 ILCS 115) | 1 | 2026-02-17 to 2026-02-17 |
+| `ilcs-815-120` | Illinois Compiled Statutes, Illinois Fairness in Lending Act (815 ILCS 120) | 1 | 2026-04-19 to 2026-04-19 |
+| `ilcs-815-121` | Illinois Compiled Statutes, Consumer Legal Funding Act (815 ILCS 121) | 1 | 2026-05-24 to 2026-05-24 |
+| `ilcs-815-122` | Illinois Compiled Statutes, Payday Loan Reform Act (815 ILCS 122) | 1 | 2026-02-12 to 2026-02-12 |
+| `ilcs-815-123` | Illinois Compiled Statutes, Predatory Loan Prevention Act (815 ILCS 123) | 1 | 2026-05-15 to 2026-05-15 |
+| `ilcs-815-125` | Illinois Compiled Statutes, Foreign Corporation Lending Act (815 ILCS 125) | 1 | 2026-05-14 to 2026-05-14 |
+| `ilcs-815-130` | Illinois Compiled Statutes, Revolving Charge Billing Act (815 ILCS 130) | 1 | 2026-02-18 to 2026-02-18 |
+| `ilcs-815-135` | Illinois Compiled Statutes, Residential Improvement Loan Act (815 ILCS 135) | 1 | 2026-02-12 to 2026-02-12 |
+| `ilcs-815-137` | Illinois Compiled Statutes, High Risk Home Loan Act (815 ILCS 137) | 1 | 2026-08-18 to 2026-08-18 |
+| `ilcs-815-140` | Illinois Compiled Statutes, Credit Card Issuance Act (815 ILCS 140) | 1 | 2026-06-02 to 2026-06-02 |
+| `ilcs-815-145` | Illinois Compiled Statutes, Credit Card Liability Act (815 ILCS 145) | 1 | 2026-03-14 to 2026-03-14 |
+| `ilcs-815-150` | Illinois Compiled Statutes, Unsolicited Credit Card Act of 1977 (815 ILCS 150) | 1 | 2026-02-08 to 2026-02-08 |
+| `ilcs-815-151` | Illinois Compiled Statutes, Interchange Fee Prohibition Act (815 ILCS 151) | 1 | 2026-10-20 to 2026-10-20 |
+| `ilcs-815-155` | Illinois Compiled Statutes, Student Loans to Minors Act (815 ILCS 155) | 1 | 2026-03-09 to 2026-03-09 |
+| `ilcs-815-160` | Illinois Compiled Statutes, Credit Agreements Act (815 ILCS 160) | 1 | 2026-02-12 to 2026-02-12 |
+| `ilcs-815-165` | Illinois Compiled Statutes, Consumer Deposit Security Act of 1987 (815 ILCS 165) | 1 | 2026-03-15 to 2026-03-15 |
+| `ilcs-815-170` | Illinois Compiled Statutes, Tender Act (815 ILCS 170) | 1 | 2026-02-13 to 2026-02-13 |
+| `ilcs-815-175-article-0015` | Illinois Compiled Statutes, Illinois Loan Brokers Act of 1995 (815 ILCS 175), Article 15 | 1 | 2026-03-07 to 2026-03-07 |
+| `ilcs-815-175-article-0099` | Illinois Compiled Statutes, Illinois Loan Brokers Act of 1995 (815 ILCS 175), Article 99 | 1 | 2026-03-07 to 2026-03-07 |
+| `ilcs-815-180` | Illinois Compiled Statutes, Collateral Protection Act (815 ILCS 180) | 1 | 2026-02-18 to 2026-02-18 |
+| `ilcs-815-185` | Illinois Compiled Statutes, Loan Advertising to Bankrupts Act (815 ILCS 185) | 1 | 2026-07-03 to 2026-07-03 |
+| `ilcs-815-205` | Illinois Compiled Statutes, Interest Act (815 ILCS 205) | 1 | 2026-05-05 to 2026-05-05 |
+| `ilcs-815-301` | Illinois Compiled Statutes, Assistive Technology Warranty Act (815 ILCS 301) | 1 | 2026-02-13 to 2026-02-13 |
+| `ilcs-815-302` | Illinois Compiled Statutes, Appliance Tag Act (815 ILCS 302) | 1 | 2026-04-30 to 2026-04-30 |
+| `ilcs-815-303` | Illinois Compiled Statutes, Auction Sales Sign Act (815 ILCS 303) | 1 | 2026-02-08 to 2026-02-08 |
+| `ilcs-815-305` | Illinois Compiled Statutes, Automatic Telephone Dialers Act (815 ILCS 305) | 1 | 2026-02-07 to 2026-02-07 |
+| `ilcs-815-306` | Illinois Compiled Statutes, Automotive Repair Act (815 ILCS 306) | 1 | 2026-02-07 to 2026-02-07 |
+| `ilcs-815-308` | Illinois Compiled Statutes, Automotive Collision Repair Act (815 ILCS 308) | 1 | 2026-05-24 to 2026-05-24 |
+| `ilcs-815-309` | Illinois Compiled Statutes, Bedbug Inspection Act (815 ILCS 309) | 1 | 2026-03-07 to 2026-03-07 |
+| `ilcs-815-310` | Illinois Compiled Statutes, Bottled Water Act (815 ILCS 310) | 1 | 2026-02-08 to 2026-02-08 |
+| `ilcs-815-315` | Illinois Compiled Statutes, Check Cashing Act (815 ILCS 315) | 1 | 2026-06-07 to 2026-06-07 |
+| `ilcs-815-318` | Illinois Compiled Statutes, Companion Animal Cremation Act (815 ILCS 318) | 1 | 2026-04-17 to 2026-04-17 |
+| `ilcs-815-320` | Illinois Compiled Statutes, Consignment of Art Act (815 ILCS 320) | 1 | 2026-02-07 to 2026-02-07 |
+| `ilcs-815-325` | Illinois Compiled Statutes, Recyclable Metal Purchase Registration Law (815 ILCS 325) | 1 | 2026-04-21 to 2026-04-21 |
+| `ilcs-815-330` | Illinois Compiled Statutes, Cotton Duck or Canvas Act (815 ILCS 330) | 1 | 2026-02-09 to 2026-02-09 |
+| `ilcs-815-333` | Illinois Compiled Statutes, Uniform Electronic Transactions Act (815 ILCS 333) | 1 | 2026-05-17 to 2026-05-17 |
+| `ilcs-815-338` | Illinois Compiled Statutes, Fair Food and Retail Delivery Act (815 ILCS 338) | 1 | 2026-05-08 to 2026-05-08 |
+| `ilcs-815-340` | Illinois Compiled Statutes, Farm Implement Buyer Protection Act (815 ILCS 340) | 1 | 2026-02-07 to 2026-02-07 |
+| `ilcs-815-345` | Illinois Compiled Statutes, Fine Prints Disclosure Act (815 ILCS 345) | 1 | 2026-05-16 to 2026-05-16 |
+| `ilcs-815-350` | Illinois Compiled Statutes, Fraudulent Sales Act (815 ILCS 350) | 1 | 2026-02-09 to 2026-02-09 |
+| `ilcs-815-355` | Illinois Compiled Statutes, Hot Water Heater Efficiency Act (815 ILCS 355) | 1 | 2026-05-07 to 2026-05-07 |
+| `ilcs-815-356` | Illinois Compiled Statutes, Illinois Integrity, Notification, and Fairness in Online Retail Marketplaces for Consumers (INFORM Consumers) Act (815 ILCS 356) | 1 | 2026-02-19 to 2026-02-19 |
+| `ilcs-815-357` | Illinois Compiled Statutes, Animal Parts and Products Ban Act (815 ILCS 357) | 1 | 2026-05-22 to 2026-05-22 |
+| `ilcs-815-360` | Illinois Compiled Statutes, Lay Away Plan Act (815 ILCS 360) | 1 | 2026-02-14 to 2026-02-14 |
+| `ilcs-815-361` | Illinois Compiled Statutes, Micromobility Fire Safety Act (815 ILCS 361) | 1 | 2026-02-19 to 2026-02-19 |
+| `ilcs-815-365` | Illinois Compiled Statutes, Motor Fuel Sales Act (815 ILCS 365) | 1 | 2026-04-10 to 2026-04-10 |
+| `ilcs-815-370` | Illinois Compiled Statutes, Motor Fuel and Petroleum Standards Act (815 ILCS 370) | 1 | 2026-02-09 to 2026-02-09 |
+| `ilcs-815-375` | Illinois Compiled Statutes, Motor Vehicle Retail Installment Sales Act (815 ILCS 375) | 1 | 2026-02-11 to 2026-02-11 |
+| `ilcs-815-380` | Illinois Compiled Statutes, New Vehicle Buyer Protection Act (815 ILCS 380) | 1 | 2026-05-17 to 2026-05-17 |
+| `ilcs-815-385` | Illinois Compiled Statutes, Ophthalmic Advertising Act (815 ILCS 385) | 1 | 2026-05-14 to 2026-05-14 |
+| `ilcs-815-390` | Illinois Compiled Statutes, Illinois Pre-Need Cemetery Sales Act (815 ILCS 390) | 1 | 2026-02-12 to 2026-02-12 |
+| `ilcs-815-393` | Illinois Compiled Statutes, Plastic Bulk Merchandise Container Act (815 ILCS 393) | 1 | 2026-02-10 to 2026-02-10 |
+| `ilcs-815-395` | Illinois Compiled Statutes, Platinum Sales Act (815 ILCS 395) | 1 | 2026-02-15 to 2026-02-15 |
+| `ilcs-815-398` | Illinois Compiled Statutes, Resale Dealers Act (815 ILCS 398) | 1 | 2026-04-28 to 2026-04-28 |
+| `ilcs-815-400` | Illinois Compiled Statutes, Resident Course Act (815 ILCS 400) | 1 | 2026-04-13 to 2026-04-13 |
+| `ilcs-815-405` | Illinois Compiled Statutes, Retail Installment Sales Act (815 ILCS 405) | 1 | 2026-05-11 to 2026-05-11 |
+| `ilcs-815-406` | Illinois Compiled Statutes, Retail Sale and Distribution of Novelty Lighters Prohibition Act (815 ILCS 406) | 1 | 2026-05-01 to 2026-05-01 |
+| `ilcs-815-407` | Illinois Compiled Statutes, Sale or Pledge of Goods by Minors Act (815 ILCS 407) | 1 | 2026-09-01 to 2026-09-01 |
+| `ilcs-815-408` | Illinois Compiled Statutes, Sale Price Ad Act (815 ILCS 408) | 1 | 2026-02-10 to 2026-02-10 |
+| `ilcs-815-410` | Illinois Compiled Statutes, Second-hand Watch Act (815 ILCS 410) | 1 | 2026-03-16 to 2026-03-16 |
+| `ilcs-815-411` | Illinois Compiled Statutes, Self-Administered Sexual Assault Evidence Collection Kit Ban Act (815 ILCS 411) | 1 | 2026-02-19 to 2026-02-19 |
+| `ilcs-815-412` | Illinois Compiled Statutes, Strengthening Community Media Act (815 ILCS 412) | 1 | 2026-04-03 to 2026-04-03 |
+| `ilcs-815-413` | Illinois Compiled Statutes, Telephone Solicitations Act (815 ILCS 413) | 1 | 2026-02-08 to 2026-02-08 |
+| `ilcs-815-414` | Illinois Compiled Statutes, Ticket Sale and Resale Act (815 ILCS 414) | 1 | 2026-02-14 to 2026-02-14 |
+| `ilcs-815-415` | Illinois Compiled Statutes, Transportation Ticket Fraud Act (815 ILCS 415) | 1 | 2026-02-09 to 2026-02-09 |
+| `ilcs-815-417` | Illinois Compiled Statutes, Title Page Act (815 ILCS 417) | 1 | 2026-02-14 to 2026-02-14 |
+| `ilcs-815-420` | Illinois Compiled Statutes, Travel Promotion Consumer Protection Act (815 ILCS 420) | 1 | 2026-04-14 to 2026-04-14 |
+| `ilcs-815-423` | Illinois Compiled Statutes, Uneconomic Practices Act (815 ILCS 423) | 1 | 2026-08-24 to 2026-08-24 |
+| `ilcs-815-425` | Illinois Compiled Statutes, Illinois Union Label Act (815 ILCS 425) | 1 | 2026-07-11 to 2026-07-11 |
+| `ilcs-815-430` | Illinois Compiled Statutes, Unsolicited Merchandise Act (815 ILCS 430) | 1 | 2026-02-08 to 2026-02-08 |
+| `ilcs-815-435` | Illinois Compiled Statutes, Used Lubricant Act (815 ILCS 435) | 1 | 2026-02-07 to 2026-02-07 |
+| `ilcs-815-440` | Illinois Compiled Statutes, Waste Oil Recovery Act (815 ILCS 440) | 1 | 2026-05-09 to 2026-05-09 |
+| `ilcs-815-445-article-0005` | Illinois Compiled Statutes, Yo-Yo Waterball Sales Prohibition Act (815 ILCS 445), Article 5 | 1 | 2026-03-11 to 2026-03-11 |
+| `ilcs-815-445-article-0010` | Illinois Compiled Statutes, Yo-Yo Waterball Sales Prohibition Act (815 ILCS 445), Article 10 | 1 | 2026-03-11 to 2026-03-11 |
+| `ilcs-815-505` | Illinois Compiled Statutes, Consumer Fraud and Deceptive Business Practices Act (815 ILCS 505) | 1 | 2026-05-20 to 2026-05-20 |
+| `ilcs-815-510` | Illinois Compiled Statutes, Uniform Deceptive Trade Practices Act (815 ILCS 510) | 1 | 2026-02-07 to 2026-02-07 |
+| `ilcs-815-511` | Illinois Compiled Statutes, Electronic Mail Act (815 ILCS 511) | 1 | 2026-03-07 to 2026-03-07 |
+| `ilcs-815-513` | Illinois Compiled Statutes, Home Repair and Remodeling Act (815 ILCS 513) | 1 | 2026-10-08 to 2026-10-08 |
+| `ilcs-815-515` | Illinois Compiled Statutes, Home Repair Fraud Act (815 ILCS 515) | 1 | 2026-02-12 to 2026-02-12 |
+| `ilcs-815-517` | Illinois Compiled Statutes, Internet Caller Identification Act (815 ILCS 517) | 1 | 2026-04-20 to 2026-04-20 |
+| `ilcs-815-518` | Illinois Compiled Statutes, Internet Dating, Internet Child Care, Internet Senior Care, and Internet Home Care Safety Act (815 ILCS 518) | 1 | 2026-08-14 to 2026-08-14 |
+| `ilcs-815-520` | Illinois Compiled Statutes, Pay-Per-Call Services Consumer Protection Act (815 ILCS 520) | 1 | 2026-02-08 to 2026-02-08 |
+| `ilcs-815-525` | Illinois Compiled Statutes, Prizes and Gifts Act (815 ILCS 525) | 1 | 2026-07-16 to 2026-07-16 |
 
-The build made 2492 commits:
+The build made 2664 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 2486 | first version of an act |
+| 2658 | first version of an act |
 | 0 | one law on its in-force day |
 | 6 | changes no amendment note explains, credited to the publisher |
 
@@ -2514,7 +2686,7 @@ Other counts:
 - 0 commits on the branch `future`: laws not yet in force on 2026-11-10.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
 - 0 laws in the record.
-- 2492 tags.
+- 2664 tags.
 
 ## Dates
 
@@ -2526,7 +2698,7 @@ When a law gives no date of its own, the default rule applies: No dated history 
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `0883ce10388f51eaa8b9c5e8b887d9281d190f2c7a2ab327c29ca0d47a678c33` (58633047 bytes).
+- Corpus: sha256 `ccf8c66bf42fda62b6c32f50f4ad9733f274860584ffeb5a22fa6f51b12dfaf1` (61473316 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `3024ff164c261807dfc4d5b7b1b4a2cde4357da1`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.12.10; git version 2.46.0.windows.1.
 
