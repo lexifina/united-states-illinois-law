@@ -32152,6 +32152,2694 @@
      "sha256": "f47a0634bbf2e6fd3a11821ddcf475f0c7e6d57d35c31728ac2f59290ad71768"
     }
    ]
+  },
+  {
+   "slug": "ilcs-745-25",
+   "short": "745 ILCS 25",
+   "title": "Illinois Compiled Statutes, Tort Liability of Schools Act (745 ILCS 25)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2067",
+   "versions": [
+    {
+     "from": "2026-02-09",
+     "units": 13,
+     "source_url": "https://web.archive.org/web/20260209025841/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2067&&ChapterID=58",
+     "sha256": "62aab54dac04ed6151a9d58d53a737b8a0caf1b3461911d31edc6a74b4abb239"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-745-38",
+   "short": "745 ILCS 38",
+   "title": "Illinois Compiled Statutes, Baseball Facility Liability Act (745 ILCS 38)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2070",
+   "versions": [
+    {
+     "from": "2026-05-18",
+     "units": 4,
+     "source_url": "https://web.archive.org/web/20260518134120/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2070&ChapterID=58",
+     "sha256": "6153b25afa34612296262f4fe03dda235bd3fda4509521bceb0e8c5f3996fbf4"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-745-40",
+   "short": "745 ILCS 40",
+   "title": "Illinois Compiled Statutes, Blood and Organ Transaction Liability Act (745 ILCS 40)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2071",
+   "versions": [
+    {
+     "from": "2026-05-01",
+     "units": 4,
+     "source_url": "https://web.archive.org/web/20260501041948/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2071&ChapterID=58",
+     "sha256": "6862acd9b9f0117e970066eb2676d61de0d0b1c477cb48d9f6ed6852317b0369"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-745-41",
+   "short": "745 ILCS 41",
+   "title": "Illinois Compiled Statutes, Bowling Center Act (745 ILCS 41)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3149",
+   "versions": [
+    {
+     "from": "2026-08-23",
+     "units": 5,
+     "source_url": "https://web.archive.org/web/20260823105138/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3149&ChapterID=58",
+     "sha256": "ecc093ce45828415b2e422277ba1e4a6fc22781cd64183108d4cbea076dc67b8"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-745-43",
+   "short": "745 ILCS 43",
+   "title": "Illinois Compiled Statutes, Illinois Commonsense Consumption Act (745 ILCS 43)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2603",
+   "versions": [
+    {
+     "from": "2026-04-17",
+     "units": 5,
+     "source_url": "https://web.archive.org/web/20260417115236/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2603&ChapterID=58",
+     "sha256": "85c3fb8ae4e0e8ccdf1456597b35cb89f47c7c9f48877b421706705ca2122225"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-745-46",
+   "short": "745 ILCS 46",
+   "title": "Illinois Compiled Statutes, Employment Record Disclosure Act (745 ILCS 46)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2073",
+   "versions": [
+    {
+     "from": "2026-07-06",
+     "units": 6,
+     "source_url": "https://web.archive.org/web/20260706202918/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2073&ChapterID=58",
+     "sha256": "489b4fd8dea55c5af0c9056821e0036ac291b1d93c83a118042f49fbca69835e"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-745-47",
+   "short": "745 ILCS 47",
+   "title": "Illinois Compiled Statutes, Equine Activity Liability Act (745 ILCS 47)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2074",
+   "versions": [
+    {
+     "from": "2026-03-26",
+     "units": 8,
+     "source_url": "https://web.archive.org/web/20260326000059/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2074&ChapterID=58",
+     "sha256": "fd2a24351d9e9aef12fd939e574096e10b9aaa689d56c9009c09f46fcd82140e"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-745-48",
+   "short": "745 ILCS 48",
+   "title": "Illinois Compiled Statutes, Illinois Financial Institutions Year 2000 Safety and Soundness Act (745 ILCS 48)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2075",
+   "versions": [
+    {
+     "from": "2026-04-12",
+     "units": 10,
+     "source_url": "https://web.archive.org/web/20260412035448/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2075&ChapterID=58",
+     "sha256": "b73890f8027322c52bd339d2611284533d7c0ba25140d4e5badbdea7e40df78d"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-745-49",
+   "short": "745 ILCS 49",
+   "title": "Illinois Compiled Statutes, Good Samaritan Act (745 ILCS 49)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2076",
+   "versions": [
+    {
+     "from": "2026-03-26",
+     "units": 40,
+     "source_url": "https://web.archive.org/web/20260326090625/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2076&ChapAct=745%26nbsp%3BILCS%26nbsp%3B49%2F&ChapterID=58&ChapterName=CIVIL+IMMU",
+     "sha256": "1a212abc2146d17caff832f109c2940272aa963e34ee25c2ec4784520676a69a"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-745-50",
+   "short": "745 ILCS 50",
+   "title": "Illinois Compiled Statutes, Good Samaritan Food Donor Act (745 ILCS 50)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2077",
+   "versions": [
+    {
+     "from": "2026-05-23",
+     "units": 18,
+     "source_url": "https://web.archive.org/web/20260523175515/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2077&ChapterID=58",
+     "sha256": "67de7b9bf2a1d279d868762c69a74454917be1b9258ff55b00512aa8a754716b"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-745-52",
+   "short": "745 ILCS 52",
+   "title": "Illinois Compiled Statutes, Hockey Facility Liability Act (745 ILCS 52)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2078",
+   "versions": [
+    {
+     "from": "2026-07-14",
+     "units": 4,
+     "source_url": "https://web.archive.org/web/20260714204545/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2078&ChapterID=58",
+     "sha256": "4028debadcb4c752cc37908ef26943f60df25ae7db89d5f278daa646f570a7b7"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-745-54",
+   "short": "745 ILCS 54",
+   "title": "Illinois Compiled Statutes, Interscholastic Association Defamation Act (745 ILCS 54)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3150",
+   "versions": [
+    {
+     "from": "2026-04-28",
+     "units": 5,
+     "source_url": "https://web.archive.org/web/20260428210153/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3150&ChapterID=58",
+     "sha256": "ada2f238831c275087fde0cac529ed10a15a33870ea5c8d154bb121c0c5bd1d2"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-745-65",
+   "short": "745 ILCS 65",
+   "title": "Illinois Compiled Statutes, Recreational Use of Land and Water Areas Act (745 ILCS 65)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2081",
+   "versions": [
+    {
+     "from": "2026-05-15",
+     "units": 7,
+     "source_url": "https://web.archive.org/web/20260515011803/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2081&ChapterID=58",
+     "sha256": "09d3825d08e70c7667033e58b42183cf79edbcf43839b763bdd09fa83ec46e42"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-745-70",
+   "short": "745 ILCS 70",
+   "title": "Illinois Compiled Statutes, Health Care Right of Conscience Act (745 ILCS 70)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2082",
+   "versions": [
+    {
+     "from": "2026-10-02",
+     "units": 20,
+     "source_url": "https://web.archive.org/web/20261002221611/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2082&ChapterID=58",
+     "sha256": "882edb31dabcbd98530ddf22019b6c835297cc5339b15fb204e9027286f435b3"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-745-72",
+   "short": "745 ILCS 72",
+   "title": "Illinois Compiled Statutes, Roller Skating Rink Safety Act (745 ILCS 72)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2083",
+   "versions": [
+    {
+     "from": "2026-05-12",
+     "units": 7,
+     "source_url": "https://web.archive.org/web/20260512155724/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2083&ChapterID=58",
+     "sha256": "70b009c1f953307936f8c5bfc32f0df1ff59a9c5f8fdaf6e4f8a97b97f301424"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-745-75",
+   "short": "745 ILCS 75",
+   "title": "Illinois Compiled Statutes, Snow and Ice Removal Act (745 ILCS 75)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2084",
+   "versions": [
+    {
+     "from": "2026-05-16",
+     "units": 3,
+     "source_url": "https://web.archive.org/web/20260516205556/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2084&ChapterID=58",
+     "sha256": "2f3f82614287a153d6f9ea7f62826de68b2fa7e5a51ece14d2e47389dd05bba8"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-750-5",
+   "short": "750 ILCS 5",
+   "title": "Illinois Compiled Statutes, Illinois Marriage and Dissolution of Marriage Act (750 ILCS 5)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2086",
+   "versions": [
+    {
+     "from": "2026-06-09",
+     "units": 135,
+     "source_url": "https://web.archive.org/web/20260609213011/https://www.ilga.gov/legislation/ILCS/details?MajorTopic=RIGHTS+AND+REMEDIES&&Chapter=FAMILIES&&ActName=Illinois+Marriage+and+Dissolution+of+Marriage+Act.&&ActID=2086&&ChapterID=59&&SeqStart&&&&ChapAct=FullText",
+     "sha256": "18b1ca539a0ac29ed71b6255342df5dff7728b98221ac8c71064220778c70d63"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-750-10",
+   "short": "750 ILCS 10",
+   "title": "Illinois Compiled Statutes, Illinois Uniform Premarital Agreement Act (750 ILCS 10)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2087",
+   "versions": [
+    {
+     "from": "2026-05-05",
+     "units": 11,
+     "source_url": "https://web.archive.org/web/20260505151543/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2087&ChapterID=57",
+     "sha256": "8bba9a1014ba4c71953c9f68629d2ff0b1791a2c37f52fdd86187b5ba199602d"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-750-16",
+   "short": "750 ILCS 16",
+   "title": "Illinois Compiled Statutes, Non-Support Punishment Act (750 ILCS 16)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2089",
+   "versions": [
+    {
+     "from": "2026-02-16",
+     "units": 39,
+     "source_url": "https://web.archive.org/web/20260216174024/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2089&ChapterID=59",
+     "sha256": "b6f7a8957ae62ccfc805b7e0ac381b265e29f8a6b7ee68faa3ba8ba0e16b4fba"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-750-22",
+   "short": "750 ILCS 22",
+   "title": "Illinois Compiled Statutes, Uniform Interstate Family Support Act (750 ILCS 22)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2091",
+   "versions": [
+    {
+     "from": "2026-05-15",
+     "units": 90,
+     "source_url": "https://web.archive.org/web/20260515011024/https://ilga.gov/legislation/ILCS/details?MajorTopic=RIGHTS%20AND%20REMEDIES&Chapter=FAMILIES&ActName=Uniform%20Interstate%20Family%20Support%20Act.&ActID=2091&ChapterID=59&SeqStart=&&ChapAct=FullText",
+     "sha256": "e781b0b3b7d39c838e508d4835dede00138a7e15a5361e63542579a27024cc52"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-750-25",
+   "short": "750 ILCS 25",
+   "title": "Illinois Compiled Statutes, Expedited Child Support Act of 1990 (750 ILCS 25)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2092",
+   "versions": [
+    {
+     "from": "2026-05-20",
+     "units": 11,
+     "source_url": "https://web.archive.org/web/20260520071253/https://ilga.gov/Legislation/ILCS/Articles?ActID=2092&ChapterID=59&Chapter=FAMILIES&MajorTopic=RIGHTS%20AND%20REMEDIES",
+     "sha256": "12df2a3c25167ab67edbe219ec924261028aa07418faa34c783df95b8bdcad0c"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-750-27",
+   "short": "750 ILCS 27",
+   "title": "Illinois Compiled Statutes, Child Support Payment Act (750 ILCS 27)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2706",
+   "versions": [
+    {
+     "from": "2026-05-03",
+     "units": 4,
+     "source_url": "https://web.archive.org/web/20260503025610/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2706&ChapterID=59",
+     "sha256": "aab4ff8a9035ad058a2d7f70f7b3a50e3e884d2e244a2903e6ace06ec951277f"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-750-28",
+   "short": "750 ILCS 28",
+   "title": "Illinois Compiled Statutes, Income Withholding for Support Act (750 ILCS 28)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2093",
+   "versions": [
+    {
+     "from": "2026-09-15",
+     "units": 22,
+     "source_url": "https://web.archive.org/web/20260915214016/https://www.ilga.gov/Legislation/ILCS/Articles?ChapterID=59&ActID=2093",
+     "sha256": "cec994c1e3e8e37ef72398e1832332af40c9502666e2c0ba4d3c33b56eb1fc00"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-750-30",
+   "short": "750 ILCS 30",
+   "title": "Illinois Compiled Statutes, Emancipation of Minors Act (750 ILCS 30)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2094",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 18,
+     "source_url": "https://web.archive.org/web/20261013062557/https://www.ilga.gov/Legislation/ILCS/Articles?actid=2094&chapterid=59",
+     "sha256": "54d85d423fe42cdc3985992ea22c4d4b5043bfe4462349fcb2879dee352ca96d"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-750-36",
+   "short": "750 ILCS 36",
+   "title": "Illinois Compiled Statutes, Uniform Child-Custody Jurisdiction and Enforcement Act (750 ILCS 36)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2497",
+   "versions": [
+    {
+     "from": "2026-04-19",
+     "units": 50,
+     "source_url": "https://web.archive.org/web/20260419213717/https://www.ilga.gov/legislation/ILCS/details?MajorTopic=&Chapter=&ActName=Uniform%20Child-Custody%20Jurisdiction%20and%20Enforcement%20Act.&ActID=2497&ChapterID=59&SeqStart=&&ChapAct=FullText",
+     "sha256": "03d8d0097e223f15a6dcb7761462e1baa09cc978b108b7c25cf139862cb4a50b"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-750-46",
+   "short": "750 ILCS 46",
+   "title": "Illinois Compiled Statutes, Illinois Parentage Act of 2015 (750 ILCS 46)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3638",
+   "versions": [
+    {
+     "from": "2026-05-14",
+     "units": 121,
+     "source_url": "https://web.archive.org/web/20260514045939/https://www.ilga.gov/legislation/ILCS/details?MajorTopic=RIGHTS%20AND%20REMEDIES&Chapter=FAMILIES&ActName=Illinois%20Parentage%20Act%20of%202015.&ActID=3638&ChapterID=59&SeqStart=&&ChapAct=FullText",
+     "sha256": "e5f371f242f36d7a6c86968c84cd268c7761be4aa7e618adba23c86833ea3472"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-750-47",
+   "short": "750 ILCS 47",
+   "title": "Illinois Compiled Statutes, Gestational Surrogacy Act (750 ILCS 47)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2613",
+   "versions": [
+    {
+     "from": "2026-05-18",
+     "units": 22,
+     "source_url": "https://web.archive.org/web/20260518004924/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2613&&ChapterID=59",
+     "sha256": "4f6a8d0aca4c3bb0a0b64e649fb668d68582d774210b7a84b8d31af943c1e782"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-750-50",
+   "short": "750 ILCS 50",
+   "title": "Illinois Compiled Statutes, Adoption Act (750 ILCS 50)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2098",
+   "versions": [
+    {
+     "from": "2026-05-21",
+     "units": 59,
+     "source_url": "https://web.archive.org/web/20260521114206/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2098&ChapterID=59",
+     "sha256": "ef51e4a95db47010c0716f950eb6dff4bcad82a4561c97a8839b9e4b1783fc20"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-750-55",
+   "short": "750 ILCS 55",
+   "title": "Illinois Compiled Statutes, Contest of Adoptions Act (750 ILCS 55)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2099",
+   "versions": [
+    {
+     "from": "2026-04-20",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20260420100212/https://www.ilga.gov/Legislation/ILCS/Articles?actid=2099&chapact=750%26nbsp%3Bilcs%26nbsp%3B55/&chapterid=59&chaptername=families&actname=contest%2Bof%2Badoptions%2Bact.",
+     "sha256": "c74f9c75c1de9d961ebef1053ea14212491a69244b7ea8bfa07de0e5b62da9ec"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-750-60",
+   "short": "750 ILCS 60",
+   "title": "Illinois Compiled Statutes, Illinois Domestic Violence Act of 1986 (750 ILCS 60)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2100",
+   "versions": [
+    {
+     "from": "2026-03-14",
+     "units": 49,
+     "source_url": "https://web.archive.org/web/20260314143245/https://www.ilga.gov/legislation/ILCS/details?MajorTopic=&Chapter=&ActName=Illinois%20Domestic%20Violence%20Act%20of%201986.&ActID=2100&ChapterID=59&SeqStart=&&ChapAct=FullText",
+     "sha256": "231df5dbf97b2c86196f652c74f5867e1bea4d02af57f4058d9a33c787adce3d"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-750-61",
+   "short": "750 ILCS 61",
+   "title": "Illinois Compiled Statutes, Address Confidentiality for Victims of Domestic Violence, Sexual Assault, Human Trafficking, or Stalking Act (750 ILCS 61)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2101",
+   "versions": [
+    {
+     "from": "2026-03-12",
+     "units": 12,
+     "source_url": "https://web.archive.org/web/20260312080450/https://ilga.gov/Legislation/ILCS/Articles?ActID=2101&ChapterID=59&Chapter=FAMILIES&MajorTopic=RIGHTS%20AND%20REMEDIES",
+     "sha256": "3edbb59eb52f77e51c98b382d00dcac0069c6353f06b2ad601e3efee3a0245f2"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-750-65",
+   "short": "750 ILCS 65",
+   "title": "Illinois Compiled Statutes, Rights of Married Persons Act (750 ILCS 65)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2102",
+   "versions": [
+    {
+     "from": "2026-06-02",
+     "units": 22,
+     "source_url": "https://web.archive.org/web/20260602012647/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2102&ChapterID=59",
+     "sha256": "43961823bb05fcc177eb3fefd7f59ebdeeabc088bf2a1231a7e0e9427a18f97d"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-750-75",
+   "short": "750 ILCS 75",
+   "title": "Illinois Compiled Statutes, Illinois Religious Freedom Protection and Civil Union Act (750 ILCS 75)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3294",
+   "versions": [
+    {
+     "from": "2026-04-20",
+     "units": 15,
+     "source_url": "https://web.archive.org/web/20260420214108/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3294&ChapterID=59",
+     "sha256": "56da6b9a059f8fe88adaa3e5cd1f83090e30265b4b6a080765d1123ffec22cb0"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-750-80",
+   "short": "750 ILCS 80",
+   "title": "Illinois Compiled Statutes, Religious Freedom and Marriage Fairness Act (750 ILCS 80)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3525",
+   "versions": [
+    {
+     "from": "2026-05-21",
+     "units": 10,
+     "source_url": "https://web.archive.org/web/20260521195554/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3525&ChapterID=59",
+     "sha256": "c3e248421e4cc11bba26b0e45dd00abd7ccb0aa1f43095fc864a55e8c46bcca7"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-750-85",
+   "short": "750 ILCS 85",
+   "title": "Illinois Compiled Statutes, Parental Rights for the Blind Act (750 ILCS 85)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3796",
+   "versions": [
+    {
+     "from": "2026-04-26",
+     "units": 5,
+     "source_url": "https://web.archive.org/web/20260426064507/https://ilga.gov/Legislation/ILCS/Articles?ActID=3796&ChapterID=59",
+     "sha256": "f90bdead5f5e16cd76bbe9317eb8f8879594a2da7ffc4d38ca1c8041f66c428f"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-750-90",
+   "short": "750 ILCS 90",
+   "title": "Illinois Compiled Statutes, Collaborative Process Act (750 ILCS 90)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3804",
+   "versions": [
+    {
+     "from": "2026-06-07",
+     "units": 15,
+     "source_url": "https://web.archive.org/web/20260607181316/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3804&ChapterID=59&utm_source=chatgpt.com",
+     "sha256": "0e48a1f5268248dd26ed2ccf8b4e2fb12aa93b9bef639ec6f18a84d602201b4b"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-750-95",
+   "short": "750 ILCS 95",
+   "title": "Illinois Compiled Statutes, Frail Elderly Individual Family Visitation Protection Act (750 ILCS 95)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3886",
+   "versions": [
+    {
+     "from": "2026-04-16",
+     "units": 6,
+     "source_url": "https://web.archive.org/web/20260416022536/https://ilga.gov/Legislation/ILCS/Articles?ActID=3886&ChapterID=59&Chapter=FAMILIES&MajorTopic=RIGHTS%20AND%20REMEDIES",
+     "sha256": "139c6b7235b1180332782c214ac65c327b458ebff7cd9b49158ba6aeb9bab1b7"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-755-5-article-0001",
+   "short": "755 ILCS 5 art. 1",
+   "title": "Illinois Compiled Statutes, Probate Act of 1975 (755 ILCS 5), Article 1",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2104",
+   "versions": [
+    {
+     "from": "2026-10-16",
+     "units": 37,
+     "source_url": "https://web.archive.org/web/20261016183113/https://www.ilga.gov/Legislation/ILCS/details?ActID=2104&ChapterID=60&SeqStart=&ChapAct=FullText",
+     "sha256": "976caa3f2f4564f95d19ca79b874e72b4870eb00e70365767d1c7c11728b1332"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-755-5-article-0002",
+   "short": "755 ILCS 5 art. 2",
+   "title": "Illinois Compiled Statutes, Probate Act of 1975 (755 ILCS 5), Article 2",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2104",
+   "versions": [
+    {
+     "from": "2026-10-16",
+     "units": 12,
+     "source_url": "https://web.archive.org/web/20261016183113/https://www.ilga.gov/Legislation/ILCS/details?ActID=2104&ChapterID=60&SeqStart=&ChapAct=FullText",
+     "sha256": "976caa3f2f4564f95d19ca79b874e72b4870eb00e70365767d1c7c11728b1332"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-755-5-article-0003",
+   "short": "755 ILCS 5 art. 3",
+   "title": "Illinois Compiled Statutes, Probate Act of 1975 (755 ILCS 5), Article 3",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2104",
+   "versions": [
+    {
+     "from": "2026-10-16",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20261016183113/https://www.ilga.gov/Legislation/ILCS/details?ActID=2104&ChapterID=60&SeqStart=&ChapAct=FullText",
+     "sha256": "976caa3f2f4564f95d19ca79b874e72b4870eb00e70365767d1c7c11728b1332"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-755-5-article-0004",
+   "short": "755 ILCS 5 art. 4",
+   "title": "Illinois Compiled Statutes, Probate Act of 1975 (755 ILCS 5), Article 4",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2104",
+   "versions": [
+    {
+     "from": "2026-10-16",
+     "units": 14,
+     "source_url": "https://web.archive.org/web/20261016183113/https://www.ilga.gov/Legislation/ILCS/details?ActID=2104&ChapterID=60&SeqStart=&ChapAct=FullText",
+     "sha256": "976caa3f2f4564f95d19ca79b874e72b4870eb00e70365767d1c7c11728b1332"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-755-5-article-0004a",
+   "short": "755 ILCS 5 art. 4a",
+   "title": "Illinois Compiled Statutes, Probate Act of 1975 (755 ILCS 5), Article 4a",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2104",
+   "versions": [
+    {
+     "from": "2026-10-16",
+     "units": 7,
+     "source_url": "https://web.archive.org/web/20261016183113/https://www.ilga.gov/Legislation/ILCS/details?ActID=2104&ChapterID=60&SeqStart=&ChapAct=FullText",
+     "sha256": "976caa3f2f4564f95d19ca79b874e72b4870eb00e70365767d1c7c11728b1332"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-755-5-article-0005",
+   "short": "755 ILCS 5 art. 5",
+   "title": "Illinois Compiled Statutes, Probate Act of 1975 (755 ILCS 5), Article 5",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2104",
+   "versions": [
+    {
+     "from": "2026-10-16",
+     "units": 3,
+     "source_url": "https://web.archive.org/web/20261016183113/https://www.ilga.gov/Legislation/ILCS/details?ActID=2104&ChapterID=60&SeqStart=&ChapAct=FullText",
+     "sha256": "976caa3f2f4564f95d19ca79b874e72b4870eb00e70365767d1c7c11728b1332"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-755-5-article-0006",
+   "short": "755 ILCS 5 art. 6",
+   "title": "Illinois Compiled Statutes, Probate Act of 1975 (755 ILCS 5), Article 6",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2104",
+   "versions": [
+    {
+     "from": "2026-10-16",
+     "units": 21,
+     "source_url": "https://web.archive.org/web/20261016183113/https://www.ilga.gov/Legislation/ILCS/details?ActID=2104&ChapterID=60&SeqStart=&ChapAct=FullText",
+     "sha256": "976caa3f2f4564f95d19ca79b874e72b4870eb00e70365767d1c7c11728b1332"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-755-5-article-0007",
+   "short": "755 ILCS 5 art. 7",
+   "title": "Illinois Compiled Statutes, Probate Act of 1975 (755 ILCS 5), Article 7",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2104",
+   "versions": [
+    {
+     "from": "2026-10-16",
+     "units": 6,
+     "source_url": "https://web.archive.org/web/20261016183113/https://www.ilga.gov/Legislation/ILCS/details?ActID=2104&ChapterID=60&SeqStart=&ChapAct=FullText",
+     "sha256": "976caa3f2f4564f95d19ca79b874e72b4870eb00e70365767d1c7c11728b1332"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-755-5-article-0008",
+   "short": "755 ILCS 5 art. 8",
+   "title": "Illinois Compiled Statutes, Probate Act of 1975 (755 ILCS 5), Article 8",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2104",
+   "versions": [
+    {
+     "from": "2026-10-16",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20261016183113/https://www.ilga.gov/Legislation/ILCS/details?ActID=2104&ChapterID=60&SeqStart=&ChapAct=FullText",
+     "sha256": "976caa3f2f4564f95d19ca79b874e72b4870eb00e70365767d1c7c11728b1332"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-755-5-article-0009",
+   "short": "755 ILCS 5 art. 9",
+   "title": "Illinois Compiled Statutes, Probate Act of 1975 (755 ILCS 5), Article 9",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2104",
+   "versions": [
+    {
+     "from": "2026-10-16",
+     "units": 10,
+     "source_url": "https://web.archive.org/web/20261016183113/https://www.ilga.gov/Legislation/ILCS/details?ActID=2104&ChapterID=60&SeqStart=&ChapAct=FullText",
+     "sha256": "976caa3f2f4564f95d19ca79b874e72b4870eb00e70365767d1c7c11728b1332"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-755-5-article-0010",
+   "short": "755 ILCS 5 art. 10",
+   "title": "Illinois Compiled Statutes, Probate Act of 1975 (755 ILCS 5), Article 10",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2104",
+   "versions": [
+    {
+     "from": "2026-10-16",
+     "units": 5,
+     "source_url": "https://web.archive.org/web/20261016183113/https://www.ilga.gov/Legislation/ILCS/details?ActID=2104&ChapterID=60&SeqStart=&ChapAct=FullText",
+     "sha256": "976caa3f2f4564f95d19ca79b874e72b4870eb00e70365767d1c7c11728b1332"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-755-5-article-0011",
+   "short": "755 ILCS 5 art. 11",
+   "title": "Illinois Compiled Statutes, Probate Act of 1975 (755 ILCS 5), Article 11",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2104",
+   "versions": [
+    {
+     "from": "2026-10-16",
+     "units": 22,
+     "source_url": "https://web.archive.org/web/20261016183113/https://www.ilga.gov/Legislation/ILCS/details?ActID=2104&ChapterID=60&SeqStart=&ChapAct=FullText",
+     "sha256": "976caa3f2f4564f95d19ca79b874e72b4870eb00e70365767d1c7c11728b1332"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-755-5-article-0011a",
+   "short": "755 ILCS 5 art. 11a",
+   "title": "Illinois Compiled Statutes, Probate Act of 1975 (755 ILCS 5), Article 11a",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2104",
+   "versions": [
+    {
+     "from": "2026-10-16",
+     "units": 39,
+     "source_url": "https://web.archive.org/web/20261016183113/https://www.ilga.gov/Legislation/ILCS/details?ActID=2104&ChapterID=60&SeqStart=&ChapAct=FullText",
+     "sha256": "976caa3f2f4564f95d19ca79b874e72b4870eb00e70365767d1c7c11728b1332"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-755-5-article-0012",
+   "short": "755 ILCS 5 art. 12",
+   "title": "Illinois Compiled Statutes, Probate Act of 1975 (755 ILCS 5), Article 12",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2104",
+   "versions": [
+    {
+     "from": "2026-10-16",
+     "units": 15,
+     "source_url": "https://web.archive.org/web/20261016183113/https://www.ilga.gov/Legislation/ILCS/details?ActID=2104&ChapterID=60&SeqStart=&ChapAct=FullText",
+     "sha256": "976caa3f2f4564f95d19ca79b874e72b4870eb00e70365767d1c7c11728b1332"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-755-5-article-0013",
+   "short": "755 ILCS 5 art. 13",
+   "title": "Illinois Compiled Statutes, Probate Act of 1975 (755 ILCS 5), Article 13",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2104",
+   "versions": [
+    {
+     "from": "2026-10-16",
+     "units": 8,
+     "source_url": "https://web.archive.org/web/20261016183113/https://www.ilga.gov/Legislation/ILCS/details?ActID=2104&ChapterID=60&SeqStart=&ChapAct=FullText",
+     "sha256": "976caa3f2f4564f95d19ca79b874e72b4870eb00e70365767d1c7c11728b1332"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-755-5-article-0014",
+   "short": "755 ILCS 5 art. 14",
+   "title": "Illinois Compiled Statutes, Probate Act of 1975 (755 ILCS 5), Article 14",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2104",
+   "versions": [
+    {
+     "from": "2026-10-16",
+     "units": 3,
+     "source_url": "https://web.archive.org/web/20261016183113/https://www.ilga.gov/Legislation/ILCS/details?ActID=2104&ChapterID=60&SeqStart=&ChapAct=FullText",
+     "sha256": "976caa3f2f4564f95d19ca79b874e72b4870eb00e70365767d1c7c11728b1332"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-755-5-article-0015",
+   "short": "755 ILCS 5 art. 15",
+   "title": "Illinois Compiled Statutes, Probate Act of 1975 (755 ILCS 5), Article 15",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2104",
+   "versions": [
+    {
+     "from": "2026-10-16",
+     "units": 4,
+     "source_url": "https://web.archive.org/web/20261016183113/https://www.ilga.gov/Legislation/ILCS/details?ActID=2104&ChapterID=60&SeqStart=&ChapAct=FullText",
+     "sha256": "976caa3f2f4564f95d19ca79b874e72b4870eb00e70365767d1c7c11728b1332"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-755-5-article-0016",
+   "short": "755 ILCS 5 art. 16",
+   "title": "Illinois Compiled Statutes, Probate Act of 1975 (755 ILCS 5), Article 16",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2104",
+   "versions": [
+    {
+     "from": "2026-10-16",
+     "units": 3,
+     "source_url": "https://web.archive.org/web/20261016183113/https://www.ilga.gov/Legislation/ILCS/details?ActID=2104&ChapterID=60&SeqStart=&ChapAct=FullText",
+     "sha256": "976caa3f2f4564f95d19ca79b874e72b4870eb00e70365767d1c7c11728b1332"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-755-5-article-0018",
+   "short": "755 ILCS 5 art. 18",
+   "title": "Illinois Compiled Statutes, Probate Act of 1975 (755 ILCS 5), Article 18",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2104",
+   "versions": [
+    {
+     "from": "2026-10-16",
+     "units": 16,
+     "source_url": "https://web.archive.org/web/20261016183113/https://www.ilga.gov/Legislation/ILCS/details?ActID=2104&ChapterID=60&SeqStart=&ChapAct=FullText",
+     "sha256": "976caa3f2f4564f95d19ca79b874e72b4870eb00e70365767d1c7c11728b1332"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-755-5-article-0019",
+   "short": "755 ILCS 5 art. 19",
+   "title": "Illinois Compiled Statutes, Probate Act of 1975 (755 ILCS 5), Article 19",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2104",
+   "versions": [
+    {
+     "from": "2026-10-16",
+     "units": 14,
+     "source_url": "https://web.archive.org/web/20261016183113/https://www.ilga.gov/Legislation/ILCS/details?ActID=2104&ChapterID=60&SeqStart=&ChapAct=FullText",
+     "sha256": "976caa3f2f4564f95d19ca79b874e72b4870eb00e70365767d1c7c11728b1332"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-755-5-article-0020",
+   "short": "755 ILCS 5 art. 20",
+   "title": "Illinois Compiled Statutes, Probate Act of 1975 (755 ILCS 5), Article 20",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2104",
+   "versions": [
+    {
+     "from": "2026-10-16",
+     "units": 24,
+     "source_url": "https://web.archive.org/web/20261016183113/https://www.ilga.gov/Legislation/ILCS/details?ActID=2104&ChapterID=60&SeqStart=&ChapAct=FullText",
+     "sha256": "976caa3f2f4564f95d19ca79b874e72b4870eb00e70365767d1c7c11728b1332"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-755-5-article-0021",
+   "short": "755 ILCS 5 art. 21",
+   "title": "Illinois Compiled Statutes, Probate Act of 1975 (755 ILCS 5), Article 21",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2104",
+   "versions": [
+    {
+     "from": "2026-10-16",
+     "units": 27,
+     "source_url": "https://web.archive.org/web/20261016183113/https://www.ilga.gov/Legislation/ILCS/details?ActID=2104&ChapterID=60&SeqStart=&ChapAct=FullText",
+     "sha256": "976caa3f2f4564f95d19ca79b874e72b4870eb00e70365767d1c7c11728b1332"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-755-5-article-0022",
+   "short": "755 ILCS 5 art. 22",
+   "title": "Illinois Compiled Statutes, Probate Act of 1975 (755 ILCS 5), Article 22",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2104",
+   "versions": [
+    {
+     "from": "2026-10-16",
+     "units": 6,
+     "source_url": "https://web.archive.org/web/20261016183113/https://www.ilga.gov/Legislation/ILCS/details?ActID=2104&ChapterID=60&SeqStart=&ChapAct=FullText",
+     "sha256": "976caa3f2f4564f95d19ca79b874e72b4870eb00e70365767d1c7c11728b1332"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-755-5-article-0023",
+   "short": "755 ILCS 5 art. 23",
+   "title": "Illinois Compiled Statutes, Probate Act of 1975 (755 ILCS 5), Article 23",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2104",
+   "versions": [
+    {
+     "from": "2026-10-16",
+     "units": 7,
+     "source_url": "https://web.archive.org/web/20261016183113/https://www.ilga.gov/Legislation/ILCS/details?ActID=2104&ChapterID=60&SeqStart=&ChapAct=FullText",
+     "sha256": "976caa3f2f4564f95d19ca79b874e72b4870eb00e70365767d1c7c11728b1332"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-755-5-article-0024",
+   "short": "755 ILCS 5 art. 24",
+   "title": "Illinois Compiled Statutes, Probate Act of 1975 (755 ILCS 5), Article 24",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2104",
+   "versions": [
+    {
+     "from": "2026-10-16",
+     "units": 22,
+     "source_url": "https://web.archive.org/web/20261016183113/https://www.ilga.gov/Legislation/ILCS/details?ActID=2104&ChapterID=60&SeqStart=&ChapAct=FullText",
+     "sha256": "976caa3f2f4564f95d19ca79b874e72b4870eb00e70365767d1c7c11728b1332"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-755-5-article-0025",
+   "short": "755 ILCS 5 art. 25",
+   "title": "Illinois Compiled Statutes, Probate Act of 1975 (755 ILCS 5), Article 25",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2104",
+   "versions": [
+    {
+     "from": "2026-10-16",
+     "units": 4,
+     "source_url": "https://web.archive.org/web/20261016183113/https://www.ilga.gov/Legislation/ILCS/details?ActID=2104&ChapterID=60&SeqStart=&ChapAct=FullText",
+     "sha256": "976caa3f2f4564f95d19ca79b874e72b4870eb00e70365767d1c7c11728b1332"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-755-5-article-0026",
+   "short": "755 ILCS 5 art. 26",
+   "title": "Illinois Compiled Statutes, Probate Act of 1975 (755 ILCS 5), Article 26",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2104",
+   "versions": [
+    {
+     "from": "2026-10-16",
+     "units": 3,
+     "source_url": "https://web.archive.org/web/20261016183113/https://www.ilga.gov/Legislation/ILCS/details?ActID=2104&ChapterID=60&SeqStart=&ChapAct=FullText",
+     "sha256": "976caa3f2f4564f95d19ca79b874e72b4870eb00e70365767d1c7c11728b1332"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-755-5-article-0027",
+   "short": "755 ILCS 5 art. 27",
+   "title": "Illinois Compiled Statutes, Probate Act of 1975 (755 ILCS 5), Article 27",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2104",
+   "versions": [
+    {
+     "from": "2026-10-16",
+     "units": 9,
+     "source_url": "https://web.archive.org/web/20261016183113/https://www.ilga.gov/Legislation/ILCS/details?ActID=2104&ChapterID=60&SeqStart=&ChapAct=FullText",
+     "sha256": "976caa3f2f4564f95d19ca79b874e72b4870eb00e70365767d1c7c11728b1332"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-755-5-article-0028",
+   "short": "755 ILCS 5 art. 28",
+   "title": "Illinois Compiled Statutes, Probate Act of 1975 (755 ILCS 5), Article 28",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2104",
+   "versions": [
+    {
+     "from": "2026-10-16",
+     "units": 12,
+     "source_url": "https://web.archive.org/web/20261016183113/https://www.ilga.gov/Legislation/ILCS/details?ActID=2104&ChapterID=60&SeqStart=&ChapAct=FullText",
+     "sha256": "976caa3f2f4564f95d19ca79b874e72b4870eb00e70365767d1c7c11728b1332"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-755-5-article-0030",
+   "short": "755 ILCS 5 art. 30",
+   "title": "Illinois Compiled Statutes, Probate Act of 1975 (755 ILCS 5), Article 30",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2104",
+   "versions": [
+    {
+     "from": "2026-10-16",
+     "units": 3,
+     "source_url": "https://web.archive.org/web/20261016183113/https://www.ilga.gov/Legislation/ILCS/details?ActID=2104&ChapterID=60&SeqStart=&ChapAct=FullText",
+     "sha256": "976caa3f2f4564f95d19ca79b874e72b4870eb00e70365767d1c7c11728b1332"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-755-6-article-0001",
+   "short": "755 ILCS 6 art. 1",
+   "title": "Illinois Compiled Statutes, Electronic Wills, Electronic Estate Planning Documents, and Remote Witnesses Act (755 ILCS 6), Article 1",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=4176",
+   "versions": [
+    {
+     "from": "2026-05-13",
+     "units": 5,
+     "source_url": "https://web.archive.org/web/20260513223153/https://www.ilga.gov/legislation/ILCS/details?MajorTopic=&Chapter=&ActName=Electronic%20Wills,%20Electronic%20Estate%20Planning%20Documents,%20and%20Remote%20Witnesses%20Act.&ActID=4176&ChapterID=60&SeqStart=&&ChapAct=FullText",
+     "sha256": "3854d550afeb76b32b66fd7c2952219f29ad67050af65dac7bd33303e7fb3596"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-755-6-article-0005",
+   "short": "755 ILCS 6 art. 5",
+   "title": "Illinois Compiled Statutes, Electronic Wills, Electronic Estate Planning Documents, and Remote Witnesses Act (755 ILCS 6), Article 5",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=4176",
+   "versions": [
+    {
+     "from": "2026-05-13",
+     "units": 3,
+     "source_url": "https://web.archive.org/web/20260513223153/https://www.ilga.gov/legislation/ILCS/details?MajorTopic=&Chapter=&ActName=Electronic%20Wills,%20Electronic%20Estate%20Planning%20Documents,%20and%20Remote%20Witnesses%20Act.&ActID=4176&ChapterID=60&SeqStart=&&ChapAct=FullText",
+     "sha256": "3854d550afeb76b32b66fd7c2952219f29ad67050af65dac7bd33303e7fb3596"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-755-6-article-0010",
+   "short": "755 ILCS 6 art. 10",
+   "title": "Illinois Compiled Statutes, Electronic Wills, Electronic Estate Planning Documents, and Remote Witnesses Act (755 ILCS 6), Article 10",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=4176",
+   "versions": [
+    {
+     "from": "2026-05-13",
+     "units": 3,
+     "source_url": "https://web.archive.org/web/20260513223153/https://www.ilga.gov/legislation/ILCS/details?MajorTopic=&Chapter=&ActName=Electronic%20Wills,%20Electronic%20Estate%20Planning%20Documents,%20and%20Remote%20Witnesses%20Act.&ActID=4176&ChapterID=60&SeqStart=&&ChapAct=FullText",
+     "sha256": "3854d550afeb76b32b66fd7c2952219f29ad67050af65dac7bd33303e7fb3596"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-755-6-article-0011",
+   "short": "755 ILCS 6 art. 11",
+   "title": "Illinois Compiled Statutes, Electronic Wills, Electronic Estate Planning Documents, and Remote Witnesses Act (755 ILCS 6), Article 11",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=4176",
+   "versions": [
+    {
+     "from": "2026-05-13",
+     "units": 14,
+     "source_url": "https://web.archive.org/web/20260513223153/https://www.ilga.gov/legislation/ILCS/details?MajorTopic=&Chapter=&ActName=Electronic%20Wills,%20Electronic%20Estate%20Planning%20Documents,%20and%20Remote%20Witnesses%20Act.&ActID=4176&ChapterID=60&SeqStart=&&ChapAct=FullText",
+     "sha256": "3854d550afeb76b32b66fd7c2952219f29ad67050af65dac7bd33303e7fb3596"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-755-6-article-0015",
+   "short": "755 ILCS 6 art. 15",
+   "title": "Illinois Compiled Statutes, Electronic Wills, Electronic Estate Planning Documents, and Remote Witnesses Act (755 ILCS 6), Article 15",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=4176",
+   "versions": [
+    {
+     "from": "2026-05-13",
+     "units": 4,
+     "source_url": "https://web.archive.org/web/20260513223153/https://www.ilga.gov/legislation/ILCS/details?MajorTopic=&Chapter=&ActName=Electronic%20Wills,%20Electronic%20Estate%20Planning%20Documents,%20and%20Remote%20Witnesses%20Act.&ActID=4176&ChapterID=60&SeqStart=&&ChapAct=FullText",
+     "sha256": "3854d550afeb76b32b66fd7c2952219f29ad67050af65dac7bd33303e7fb3596"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-755-6-article-0020",
+   "short": "755 ILCS 6 art. 20",
+   "title": "Illinois Compiled Statutes, Electronic Wills, Electronic Estate Planning Documents, and Remote Witnesses Act (755 ILCS 6), Article 20",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=4176",
+   "versions": [
+    {
+     "from": "2026-05-13",
+     "units": 9,
+     "source_url": "https://web.archive.org/web/20260513223153/https://www.ilga.gov/legislation/ILCS/details?MajorTopic=&Chapter=&ActName=Electronic%20Wills,%20Electronic%20Estate%20Planning%20Documents,%20and%20Remote%20Witnesses%20Act.&ActID=4176&ChapterID=60&SeqStart=&&ChapAct=FullText",
+     "sha256": "3854d550afeb76b32b66fd7c2952219f29ad67050af65dac7bd33303e7fb3596"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-755-6-article-0095",
+   "short": "755 ILCS 6 art. 95",
+   "title": "Illinois Compiled Statutes, Electronic Wills, Electronic Estate Planning Documents, and Remote Witnesses Act (755 ILCS 6), Article 95",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=4176",
+   "versions": [
+    {
+     "from": "2026-05-13",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20260513223153/https://www.ilga.gov/legislation/ILCS/details?MajorTopic=&Chapter=&ActName=Electronic%20Wills,%20Electronic%20Estate%20Planning%20Documents,%20and%20Remote%20Witnesses%20Act.&ActID=4176&ChapterID=60&SeqStart=&&ChapAct=FullText",
+     "sha256": "3854d550afeb76b32b66fd7c2952219f29ad67050af65dac7bd33303e7fb3596"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-755-6-article-0099",
+   "short": "755 ILCS 6 art. 99",
+   "title": "Illinois Compiled Statutes, Electronic Wills, Electronic Estate Planning Documents, and Remote Witnesses Act (755 ILCS 6), Article 99",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=4176",
+   "versions": [
+    {
+     "from": "2026-05-13",
+     "units": 1,
+     "source_url": "https://web.archive.org/web/20260513223153/https://www.ilga.gov/legislation/ILCS/details?MajorTopic=&Chapter=&ActName=Electronic%20Wills,%20Electronic%20Estate%20Planning%20Documents,%20and%20Remote%20Witnesses%20Act.&ActID=4176&ChapterID=60&SeqStart=&&ChapAct=FullText",
+     "sha256": "3854d550afeb76b32b66fd7c2952219f29ad67050af65dac7bd33303e7fb3596"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-755-8",
+   "short": "755 ILCS 8",
+   "title": "Illinois Compiled Statutes, Uniform Adult Guardianship and Protective Proceedings Jurisdiction Act (755 ILCS 8)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3119",
+   "versions": [
+    {
+     "from": "2026-03-07",
+     "units": 25,
+     "source_url": "https://web.archive.org/web/20260307160309/https://ilga.gov/legislation/ILCS/details?MajorTopic=RIGHTS%20AND%20REMEDIES&Chapter=ESTATES&ActName=Uniform%20Adult%20Guardianship%20and%20Protective%20Proceedings%20Jurisdiction%20Act.&ActID=3119&ChapterID=60&SeqStart=&&ChapAct=FullText",
+     "sha256": "528d8a83fb8bcb6f8c3e63a64d603a8145b41bcc7680f200249c0fc275a56907"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-755-9",
+   "short": "755 ILCS 9",
+   "title": "Illinois Compiled Statutes, Supported Decision-Making Agreement Act (755 ILCS 9)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=4215",
+   "versions": [
+    {
+     "from": "2026-03-05",
+     "units": 16,
+     "source_url": "https://web.archive.org/web/20260305171200/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=4215&ChapterID=60&Chapter=ESTATES&MajorTopic=RIGHTS%20AND%20REMEDIES",
+     "sha256": "17a3665ebb6fd9a1c28bf1291add1614c44c5937512795ba5087e74ad1ed4491"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-755-10",
+   "short": "755 ILCS 10",
+   "title": "Illinois Compiled Statutes, Uniform International Wills Act (755 ILCS 10)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2105",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 11,
+     "source_url": "https://web.archive.org/web/20260415202158/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2105&ChapterID=60&Chapter=ESTATES&MajorTopic=RIGHTS%20AND%20REMEDIES",
+     "sha256": "e2912c58e938f97c2afc44a5864db2df7cad93c082530ba4bab488fed088a69c"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-755-15",
+   "short": "755 ILCS 15",
+   "title": "Illinois Compiled Statutes, Safety Deposit Box Opening Act (755 ILCS 15)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2106",
+   "versions": [
+    {
+     "from": "2026-07-15",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20260715001209/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2106&ChapterID=60",
+     "sha256": "8b01ba39b8511f9930bdfa78a39b4b3d3e022f26aec898ca496186761c2238ed"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-755-20",
+   "short": "755 ILCS 20",
+   "title": "Illinois Compiled Statutes, Escheats Act (755 ILCS 20)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2107",
+   "versions": [
+    {
+     "from": "2026-04-12",
+     "units": 8,
+     "source_url": "https://web.archive.org/web/20260412131047/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2107&ChapterID=60&Chapter=ESTATES&MajorTopic=RIGHTS%20AND%20REMEDIES",
+     "sha256": "78af48568583f0dfb8056f3f2d0458387c056b032d874d9cb696d8139ff6c30c"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-755-25",
+   "short": "755 ILCS 25",
+   "title": "Illinois Compiled Statutes, Lifetime Transfer of Property Act (755 ILCS 25)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2108",
+   "versions": [
+    {
+     "from": "2026-04-12",
+     "units": 3,
+     "source_url": "https://web.archive.org/web/20260412193415/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2108&ChapterID=60&Chapter=ESTATES&MajorTopic=RIGHTS%20AND%20REMEDIES",
+     "sha256": "f5526c1994cd2d1d0181b32f4a2358db0cf28def7a4a5b9dfc4b3a72b97a169f"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-755-27",
+   "short": "755 ILCS 27",
+   "title": "Illinois Compiled Statutes, Real Property Transfer on Death Instrument Act (755 ILCS 27)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3382",
+   "versions": [
+    {
+     "from": "2026-05-16",
+     "units": 23,
+     "source_url": "https://web.archive.org/web/20260516043718/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3382&ChapterID=60",
+     "sha256": "eacf461340a7b17a06c2954e20763cbe29455e1fc73a11425a3bff9ccd4849e5"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-755-30",
+   "short": "755 ILCS 30",
+   "title": "Illinois Compiled Statutes, Third Party Beneficiary Contract Act (755 ILCS 30)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2109",
+   "versions": [
+    {
+     "from": "2026-06-28",
+     "units": 3,
+     "source_url": "https://web.archive.org/web/20260628173919/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2109&ChapterID=60",
+     "sha256": "5ebeb2faaf5587fd8330a5e219ade8a7049dca8d2656277d83eefb342568b666"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-755-35",
+   "short": "755 ILCS 35",
+   "title": "Illinois Compiled Statutes, Illinois Living Will Act (755 ILCS 35)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2110",
+   "versions": [
+    {
+     "from": "2026-10-09",
+     "units": 12,
+     "source_url": "https://web.archive.org/web/20261009205134/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2110&ChapterID=60",
+     "sha256": "a35524db889d12dc614eff04e3e82a6fcb9b0f02a8cbc6914b3600f715ea0b33"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-755-40",
+   "short": "755 ILCS 40",
+   "title": "Illinois Compiled Statutes, Health Care Surrogate Act (755 ILCS 40)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2111",
+   "versions": [
+    {
+     "from": "2026-05-15",
+     "units": 15,
+     "source_url": "https://web.archive.org/web/20260515083756/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2111&ChapterID=60",
+     "sha256": "edff6c62883ee1f04657589e168c936dc797403c7671ce66d1fb5d67bd234e6a"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-755-43",
+   "short": "755 ILCS 43",
+   "title": "Illinois Compiled Statutes, Mental Health Treatment Preference Declaration Act (755 ILCS 43)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2112",
+   "versions": [
+    {
+     "from": "2026-05-11",
+     "units": 24,
+     "source_url": "https://web.archive.org/web/20260511061003/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2112&ChapterID=60",
+     "sha256": "581211e280794907f270e6c18143a75efd977da7ec588f5030db7278acf5a838"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-755-45-article-0001",
+   "short": "755 ILCS 45 art. 1",
+   "title": "Illinois Compiled Statutes, Illinois Power of Attorney Act (755 ILCS 45), Article 1",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2113",
+   "versions": [
+    {
+     "from": "2026-03-15",
+     "units": 1,
+     "source_url": "https://web.archive.org/web/20260315054531/https://ilga.gov/legislation/ILCS/details?MajorTopic=RIGHTS%20AND%20REMEDIES&Chapter=ESTATES&ActName=Illinois%20Power%20of%20Attorney%20Act.&ActID=2113&ChapterID=60&SeqStart=&&ChapAct=FullText",
+     "sha256": "62ef692a7cdd1157eef26d7f5526548096b683c75727ef399fe51cd9482cd894"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-755-45-article-0002",
+   "short": "755 ILCS 45 art. 2",
+   "title": "Illinois Compiled Statutes, Illinois Power of Attorney Act (755 ILCS 45), Article 2",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2113",
+   "versions": [
+    {
+     "from": "2026-03-15",
+     "units": 15,
+     "source_url": "https://web.archive.org/web/20260315054531/https://ilga.gov/legislation/ILCS/details?MajorTopic=RIGHTS%20AND%20REMEDIES&Chapter=ESTATES&ActName=Illinois%20Power%20of%20Attorney%20Act.&ActID=2113&ChapterID=60&SeqStart=&&ChapAct=FullText",
+     "sha256": "62ef692a7cdd1157eef26d7f5526548096b683c75727ef399fe51cd9482cd894"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-755-45-article-0003",
+   "short": "755 ILCS 45 art. 3",
+   "title": "Illinois Compiled Statutes, Illinois Power of Attorney Act (755 ILCS 45), Article 3",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2113",
+   "versions": [
+    {
+     "from": "2026-03-15",
+     "units": 6,
+     "source_url": "https://web.archive.org/web/20260315054531/https://ilga.gov/legislation/ILCS/details?MajorTopic=RIGHTS%20AND%20REMEDIES&Chapter=ESTATES&ActName=Illinois%20Power%20of%20Attorney%20Act.&ActID=2113&ChapterID=60&SeqStart=&&ChapAct=FullText",
+     "sha256": "62ef692a7cdd1157eef26d7f5526548096b683c75727ef399fe51cd9482cd894"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-755-45-article-0004",
+   "short": "755 ILCS 45 art. 4",
+   "title": "Illinois Compiled Statutes, Illinois Power of Attorney Act (755 ILCS 45), Article 4",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2113",
+   "versions": [
+    {
+     "from": "2026-03-15",
+     "units": 14,
+     "source_url": "https://web.archive.org/web/20260315054531/https://ilga.gov/legislation/ILCS/details?MajorTopic=RIGHTS%20AND%20REMEDIES&Chapter=ESTATES&ActName=Illinois%20Power%20of%20Attorney%20Act.&ActID=2113&ChapterID=60&SeqStart=&&ChapAct=FullText",
+     "sha256": "62ef692a7cdd1157eef26d7f5526548096b683c75727ef399fe51cd9482cd894"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-755-50",
+   "short": "755 ILCS 50",
+   "title": "Illinois Compiled Statutes, Illinois Anatomical Gift Act (755 ILCS 50)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2114",
+   "versions": [
+    {
+     "from": "2026-10-09",
+     "units": 22,
+     "source_url": "https://web.archive.org/web/20261009154619/https://ilga.gov/legislation/ILCS/details?MajorTopic=&Chapter=&ActName=Illinois%20Anatomical%20Gift%20Act.&ActID=2114&ChapterID=60&SeqStart=&&ChapAct=FullText",
+     "sha256": "3c58ef15cdeb5cdfde34d36f8b8e83858a8e341d8b646f2410ca3c660ceaa38c"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-755-65",
+   "short": "755 ILCS 65",
+   "title": "Illinois Compiled Statutes, Disposition of Remains Act (755 ILCS 65)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2737",
+   "versions": [
+    {
+     "from": "2026-04-22",
+     "units": 12,
+     "source_url": "https://web.archive.org/web/20260422013906/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2737&ChapterID=60&Chapter=ESTATES&MajorTopic=RIGHTS%20AND%20REMEDIES",
+     "sha256": "2f5ebe66fe435c008109950a6ddd6ed15b002629b8055524ab3dc2a68be18bd2"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-755-66",
+   "short": "755 ILCS 66",
+   "title": "Illinois Compiled Statutes, Disposition of Remains of the Indigent Act (755 ILCS 66)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3827",
+   "versions": [
+    {
+     "from": "2026-04-17",
+     "units": 11,
+     "source_url": "https://web.archive.org/web/20260417122020/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3827&ChapterID=60&Chapter=ESTATES&MajorTopic=RIGHTS%20AND%20REMEDIES",
+     "sha256": "85161bdd33fbf13cfcdcb304f263c2a880b3410657740b798a772bac7f057b49"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-755-70",
+   "short": "755 ILCS 70",
+   "title": "Illinois Compiled Statutes, Revised Uniform Fiduciary Access to Digital Assets Act (2015) (755 ILCS 70)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3728",
+   "versions": [
+    {
+     "from": "2026-04-17",
+     "units": 21,
+     "source_url": "https://web.archive.org/web/20260417152539/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3728&ChapterID=60&Chapter=ESTATES&MajorTopic=RIGHTS%20AND%20REMEDIES",
+     "sha256": "662b91f9de3cb7fbf515b98b9d39f40c765bf84b7bec644edfe3bad514b76881"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-755-75",
+   "short": "755 ILCS 75",
+   "title": "Illinois Compiled Statutes, Uniform Partition of Heirs Property Act (755 ILCS 75)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=4032",
+   "versions": [
+    {
+     "from": "2026-04-10",
+     "units": 14,
+     "source_url": "https://web.archive.org/web/20260410154641/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=4032&ChapterID=60&Chapter=ESTATES&MajorTopic=RIGHTS%20AND%20REMEDIES",
+     "sha256": "8c89d45492862df800d39f3c0a59d1de1706e655ee1be7f6ea3d2a82b7c26b27"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-760-3",
+   "short": "760 ILCS 3",
+   "title": "Illinois Compiled Statutes, Illinois Trust Code (760 ILCS 3)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=4001",
+   "versions": [
+    {
+     "from": "2026-02-17",
+     "units": 212,
+     "source_url": "https://web.archive.org/web/20260217092829/https://www.ilga.gov/legislation/ILCS/details?MajorTopic=RIGHTS%20AND%20REMEDIES&Chapter=TRUSTS%20AND%20FIDUCIARIES&ActName=Illinois%20Trust%20Code.&ActID=4001&ChapterID=61&SeqStart=&&ChapAct=FullText",
+     "sha256": "13245cce4801c611f3e0d6925abc4b06707f5e7a09501fecc238560e7878f414"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-760-15",
+   "short": "760 ILCS 15",
+   "title": "Illinois Compiled Statutes, Principal and Income Act (760 ILCS 15)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2119",
+   "versions": [
+    {
+     "from": "2026-02-13",
+     "units": 18,
+     "source_url": "https://web.archive.org/web/20260213182117/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2119&ChapterID=61",
+     "sha256": "47d110f1ee356b8fa40d5f04bd423a1d04bc2b6a27c155c3d23804541a087494"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-760-20",
+   "short": "760 ILCS 20",
+   "title": "Illinois Compiled Statutes, Illinois Uniform Transfers to Minors Act (760 ILCS 20)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2120",
+   "versions": [
+    {
+     "from": "2026-05-19",
+     "units": 24,
+     "source_url": "https://web.archive.org/web/20260519105606/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2120&ChapterID=61",
+     "sha256": "0391e1919dcbfb81e7e107ba17b438302ad176bcb7dce3f70e20f58e2f781cda"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-760-40",
+   "short": "760 ILCS 40",
+   "title": "Illinois Compiled Statutes, Trusts for Employees Act (760 ILCS 40)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2124",
+   "versions": [
+    {
+     "from": "2026-07-24",
+     "units": 5,
+     "source_url": "https://web.archive.org/web/20260724153633/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2124&ChapterID=61",
+     "sha256": "a8243570723f194b24ee7b956a45fe5eb1a98915b43822c6903d2ea91ee5f0ab"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-760-45",
+   "short": "760 ILCS 45",
+   "title": "Illinois Compiled Statutes, Common Trust Fund Act (760 ILCS 45)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2125",
+   "versions": [
+    {
+     "from": "2026-04-23",
+     "units": 9,
+     "source_url": "https://web.archive.org/web/20260423170612/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2125&ChapterID=61",
+     "sha256": "63d18b905543f662593faf54c01033b097b4f935e1f38b641798fef9169a4d86"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-760-55",
+   "short": "760 ILCS 55",
+   "title": "Illinois Compiled Statutes, Charitable Trust Act (760 ILCS 55)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2127",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 23,
+     "source_url": "https://web.archive.org/web/20261013171259/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2127&ChapterID=61&Chapter=TRUSTS%20AND%20FIDUCIARIES&MajorTopic=RIGHTS%20AND%20REMEDIES",
+     "sha256": "3c2a200d36a431144903615d529401b089cbb144f54ce1be2d76565d9bda4291"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-760-65",
+   "short": "760 ILCS 65",
+   "title": "Illinois Compiled Statutes, Fiduciary Obligations Act (760 ILCS 65)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2129",
+   "versions": [
+    {
+     "from": "2026-05-02",
+     "units": 12,
+     "source_url": "https://web.archive.org/web/20260502234041/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2129&ChapterID=61",
+     "sha256": "f695a1ace84a4e3de822e8ec25f2d53d4bc07f7c8e0bbf1ca844916baa35ce4a"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-760-90",
+   "short": "760 ILCS 90",
+   "title": "Illinois Compiled Statutes, Burial Lot Perpetual Trust Act (760 ILCS 90)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2134",
+   "versions": [
+    {
+     "from": "2026-04-23",
+     "units": 3,
+     "source_url": "https://web.archive.org/web/20260423054242/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2134&ChapterID=61",
+     "sha256": "44ee80fe205aa9a0bb191027f30883beb567ee912e6a3e0c7b3315cb31269ac4"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-760-100",
+   "short": "760 ILCS 100",
+   "title": "Illinois Compiled Statutes, Cemetery Care Act (760 ILCS 100)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2136",
+   "versions": [
+    {
+     "from": "2026-04-20",
+     "units": 36,
+     "source_url": "https://web.archive.org/web/20260420025317/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2136&ChapterID=61",
+     "sha256": "e1ca954c72c9746f105be60ffd9f7467a22dc05ad54561a6dd422268eaa9803f"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-765-5",
+   "short": "765 ILCS 5",
+   "title": "Illinois Compiled Statutes, Conveyances Act (765 ILCS 5)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2137",
+   "versions": [
+    {
+     "from": "2026-04-28",
+     "units": 47,
+     "source_url": "https://web.archive.org/web/20260428163510/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2137&ChapterID=62",
+     "sha256": "9ad7cd8157041919c03941f88fdd17b3943900a385a5e449ebaf0072202137cd"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-765-20",
+   "short": "765 ILCS 20",
+   "title": "Illinois Compiled Statutes, Covenants of Warranty Act (765 ILCS 20)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2140",
+   "versions": [
+    {
+     "from": "2026-07-10",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20260710042556/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2140&ChapterID=62",
+     "sha256": "1cf0ff02f2e17f275124354ba91078e195702dff59b1fec3c7384625dff726a8"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-765-25",
+   "short": "765 ILCS 25",
+   "title": "Illinois Compiled Statutes, Acknowledgment Validation Act (765 ILCS 25)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2141",
+   "versions": [
+    {
+     "from": "2026-05-14",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20260514155010/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2141&ChapterID=62&Chapter=PROPERTY&MajorTopic=RIGHTS%20AND%20REMEDIES",
+     "sha256": "4829f81c7ccdd521948aa5fd9949c317259270adb2982834d4d51f22520fb6d7"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-765-30",
+   "short": "765 ILCS 30",
+   "title": "Illinois Compiled Statutes, Uniform Recognition of Acknowledgments Act (765 ILCS 30)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2142",
+   "versions": [
+    {
+     "from": "2026-09-08",
+     "units": 10,
+     "source_url": "https://web.archive.org/web/20260908062012/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2142&ChapterID=62",
+     "sha256": "9e335c339f60b726780d0b3e3ebd115199d117c0fa2d67da5b445f219a484730"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-765-33",
+   "short": "765 ILCS 33",
+   "title": "Illinois Compiled Statutes, Uniform Real Property Electronic Recording Act (765 ILCS 33)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2933",
+   "versions": [
+    {
+     "from": "2026-05-15",
+     "units": 9,
+     "source_url": "https://web.archive.org/web/20260515121529/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2933&ChapterID=62",
+     "sha256": "377bda9f0fc9282733189a0b0986ba1331c89dbd971f30caf7ee8788dabf6183"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-765-40",
+   "short": "765 ILCS 40",
+   "title": "Illinois Compiled Statutes, Torrens Repeal Law (765 ILCS 40)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2144",
+   "versions": [
+    {
+     "from": "2026-03-11",
+     "units": 9,
+     "source_url": "https://web.archive.org/web/20260311135331/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2144&ChapterID=62&Chapter=PROPERTY&MajorTopic=RIGHTS%20AND%20REMEDIES",
+     "sha256": "d54cb6291670599ce357b2e7f59d6be1220ea25755d41b05e79918132acc4c6a"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-765-45",
+   "short": "765 ILCS 45",
+   "title": "Illinois Compiled Statutes, Destroyed Public Records Act (765 ILCS 45)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2145",
+   "versions": [
+    {
+     "from": "2026-04-22",
+     "units": 24,
+     "source_url": "https://web.archive.org/web/20260422181433/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2145&ChapterID=62&Chapter=PROPERTY&MajorTopic=RIGHTS%20AND%20REMEDIES",
+     "sha256": "2092e810d8e167612442f540fc4a7da7975578c145b1f6d55f36a12ed74a9b0e"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-765-50",
+   "short": "765 ILCS 50",
+   "title": "Illinois Compiled Statutes, Agricultural Foreign Investment Disclosure Act (765 ILCS 50)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2146",
+   "versions": [
+    {
+     "from": "2026-04-28",
+     "units": 8,
+     "source_url": "https://web.archive.org/web/20260428021834/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2146&ChapterID=62",
+     "sha256": "db54c6e9a65927136b6e15e8d349fef227c60ec79e32fadce3e6df20850be441"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-765-60",
+   "short": "765 ILCS 60",
+   "title": "Illinois Compiled Statutes, Property Owned By Noncitizens Act (765 ILCS 60)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2148",
+   "versions": [
+    {
+     "from": "2026-04-19",
+     "units": 3,
+     "source_url": "https://web.archive.org/web/20260419201839/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2148&ChapterID=62&Chapter=PROPERTY&MajorTopic=RIGHTS%20AND%20REMEDIES",
+     "sha256": "bb249d38b08934c07645434cb5e3256d3d311150a7cc0be888bdecb83db59e4a"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-765-65",
+   "short": "765 ILCS 65",
+   "title": "Illinois Compiled Statutes, Uniform Vendor and Purchaser Risk Act (765 ILCS 65)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2149",
+   "versions": [
+    {
+     "from": "2026-03-15",
+     "units": 3,
+     "source_url": "https://web.archive.org/web/20260315080616/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2149&ChapterID=62&Chapter=PROPERTY&MajorTopic=RIGHTS%20AND%20REMEDIES",
+     "sha256": "5684e3f2a56be2a469a237ca475d9a04b5b7f09bb4b957a93abdeab761fd275b"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-765-67",
+   "short": "765 ILCS 67",
+   "title": "Illinois Compiled Statutes, Installment Sales Contract Act (765 ILCS 67)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3813",
+   "versions": [
+    {
+     "from": "2026-08-06",
+     "units": 23,
+     "source_url": "https://web.archive.org/web/20260806143952/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3813&ChapterID=62",
+     "sha256": "cf2183860d9cb0e811016961e658b181f8349187f5449c036fc70aaee6b12afb"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-765-70",
+   "short": "765 ILCS 70",
+   "title": "Illinois Compiled Statutes, Dwelling Structure Contract Act (765 ILCS 70)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2150",
+   "versions": [
+    {
+     "from": "2026-05-21",
+     "units": 4,
+     "source_url": "https://web.archive.org/web/20260521013045/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2150&ChapterID=62",
+     "sha256": "c40eb9fa94bd5e3455fe471bd18530c18646d3bc97cdeb8e5d16a570bb04c314"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-765-75",
+   "short": "765 ILCS 75",
+   "title": "Illinois Compiled Statutes, Dwelling Unit Installment Contract Act (765 ILCS 75)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2151",
+   "versions": [
+    {
+     "from": "2026-04-20",
+     "units": 3,
+     "source_url": "https://web.archive.org/web/20260420181648/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2151&ChapterID=62&Chapter=PROPERTY&MajorTopic=RIGHTS%20AND%20REMEDIES",
+     "sha256": "b1973223ba6ee384ab4f3a91249d3e779169960986a7fd96b0455db5cd9bc556"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-765-80",
+   "short": "765 ILCS 80",
+   "title": "Illinois Compiled Statutes, Real Estate Sale Validation Act (765 ILCS 80)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2153",
+   "versions": [
+    {
+     "from": "2026-07-11",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20260711203628/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2153&ChapterID=62",
+     "sha256": "03b53bd793cfc4a4b06d53ddec1eb7434fb1203f1d3fbbd69d9e8da58c6d7e0e"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-765-95",
+   "short": "765 ILCS 95",
+   "title": "Illinois Compiled Statutes, Mine Subsidence Disclosure Act (765 ILCS 95)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2157",
+   "versions": [
+    {
+     "from": "2026-04-22",
+     "units": 4,
+     "source_url": "https://web.archive.org/web/20260422025410/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2157&ChapterID=62&Chapter=PROPERTY&MajorTopic=RIGHTS%20AND%20REMEDIES",
+     "sha256": "2942490b29619820f997cd43e73d1b877a87b2eb1ad6c822a4009912920ef4f8"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-765-105",
+   "short": "765 ILCS 105",
+   "title": "Illinois Compiled Statutes, Building and Loan Mortgage Release Act (765 ILCS 105)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2160",
+   "versions": [
+    {
+     "from": "2026-04-16",
+     "units": 3,
+     "source_url": "https://web.archive.org/web/20260416182844/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2160&ChapterID=62&Chapter=PROPERTY&MajorTopic=RIGHTS%20AND%20REMEDIES",
+     "sha256": "b5a7f961ba26b3db2ea304fde0886cadc694c9910338b823698fcaf4e374d6ef"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-765-110",
+   "short": "765 ILCS 110",
+   "title": "Illinois Compiled Statutes, Building and Loan Deed Validation Act (765 ILCS 110)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2161",
+   "versions": [
+    {
+     "from": "2026-07-03",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20260703230832/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2161&ChapterID=62",
+     "sha256": "ec301aead0fd11731bb57d35daaaa6e6190ba24d17c92a81a5698c7eaf249b3b"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-765-115",
+   "short": "765 ILCS 115",
+   "title": "Illinois Compiled Statutes, Property of Unincorporated Associations Act (765 ILCS 115)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2162",
+   "versions": [
+    {
+     "from": "2026-04-17",
+     "units": 4,
+     "source_url": "https://web.archive.org/web/20260417115614/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2162&ChapterID=62&Chapter=PROPERTY&MajorTopic=RIGHTS%20AND%20REMEDIES",
+     "sha256": "847f9a5aefd2a7f3c2e2b4081ad6ea9edb14be9dbc900908c5d1c1dba7bed05d"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-765-120",
+   "short": "765 ILCS 120",
+   "title": "Illinois Compiled Statutes, Real Property Conservation Rights Act (765 ILCS 120)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2163",
+   "versions": [
+    {
+     "from": "2026-04-17",
+     "units": 7,
+     "source_url": "https://web.archive.org/web/20260417151749/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2163&ChapterID=62&Chapter=PROPERTY&MajorTopic=RIGHTS%20AND%20REMEDIES",
+     "sha256": "c1018ca93a8da0d008e3c24a464b36215239b2f24b296f74d2d67d91e89e2255"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-765-122",
+   "short": "765 ILCS 122",
+   "title": "Illinois Compiled Statutes, Uniform Environmental Covenants Act (765 ILCS 122)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2995",
+   "versions": [
+    {
+     "from": "2026-05-12",
+     "units": 15,
+     "source_url": "https://web.archive.org/web/20260512002321/https://ilga.gov/Legislation/ILCS/Articles?ActID=2995&ChapterID=62&Chapter=PROPERTY&MajorTopic=RIGHTS%20AND%20REMEDIES",
+     "sha256": "b6d39ac0599156abecc060492e5b7bbfee176d9133015124544e53364b101d98"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-765-125",
+   "short": "765 ILCS 125",
+   "title": "Illinois Compiled Statutes, Entry on Adjoining Land to Accomplish Repairs Act (765 ILCS 125)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2164",
+   "versions": [
+    {
+     "from": "2026-04-23",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20260423181300/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2164&ChapterID=62",
+     "sha256": "3eb56231d951cf28ea494bedd3b1605c28d329bb3b37847e3a06fca8f4341666"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-765-130",
+   "short": "765 ILCS 130",
+   "title": "Illinois Compiled Statutes, Fence Act (765 ILCS 130)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2165",
+   "versions": [
+    {
+     "from": "2026-03-17",
+     "units": 23,
+     "source_url": "https://web.archive.org/web/20260317154716/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2165&ChapterID=62&Chapter=PROPERTY&MajorTopic=RIGHTS%20AND%20REMEDIES",
+     "sha256": "9d1e5b2d78916c9b5290837ea137e1e1d47f099e07083c7c808b49b2f07df2a3"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-765-135",
+   "short": "765 ILCS 135",
+   "title": "Illinois Compiled Statutes, Water Dam Use Act (765 ILCS 135)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2166",
+   "versions": [
+    {
+     "from": "2026-05-19",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20260519215241/https://ilga.gov/Legislation/ILCS/Articles?ActID=2166&ChapterID=62&Chapter=PROPERTY&MajorTopic=RIGHTS%20AND%20REMEDIES",
+     "sha256": "7c0f71c5d165a646e2320dfde8825dc59234aaa75a8e5136d483b02f85632ace"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-765-140",
+   "short": "765 ILCS 140",
+   "title": "Illinois Compiled Statutes, Adjacent Landowner Excavation Protection Act (765 ILCS 140)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2167",
+   "versions": [
+    {
+     "from": "2026-04-21",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20260421083021/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2167&ChapterID=62&Chapter=PROPERTY&MajorTopic=RIGHTS%20AND%20REMEDIES",
+     "sha256": "16d290d6af14d2c9323134113668c880e6374da79d08a076e6d7cad5db4266d8"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-765-145",
+   "short": "765 ILCS 145",
+   "title": "Illinois Compiled Statutes, Transmission Line Prescriptive Right Prohibition Act (765 ILCS 145)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2168",
+   "versions": [
+    {
+     "from": "2026-04-22",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20260422013353/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2168&ChapterID=62&Chapter=PROPERTY&MajorTopic=RIGHTS%20AND%20REMEDIES",
+     "sha256": "fffb2908de3810860c08b6c607e878e318c061e37375e742af23de09c4c5d5dc"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-765-150",
+   "short": "765 ILCS 150",
+   "title": "Illinois Compiled Statutes, Industrialized Residential Structure Deed Restriction Act (765 ILCS 150)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3151",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 5,
+     "source_url": "https://web.archive.org/web/20260415093052/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3151&ChapterID=62&Chapter=PROPERTY&MajorTopic=RIGHTS%20AND%20REMEDIES",
+     "sha256": "5b8aba83cdf4b7aa91e0d52bdffe003e2b22b0dc14524d88523d8c41f29fc8f9"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-765-155",
+   "short": "765 ILCS 155",
+   "title": "Illinois Compiled Statutes, Transfer Fee Covenant Act (765 ILCS 155)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3266",
+   "versions": [
+    {
+     "from": "2026-04-22",
+     "units": 4,
+     "source_url": "https://web.archive.org/web/20260422012537/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3266&ChapterID=62&Chapter=PROPERTY&MajorTopic=RIGHTS%20AND%20REMEDIES",
+     "sha256": "ed316e20e93a847e51c220580e1d72816748b16600ae6c233297821ab19eda27"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-765-165",
+   "short": "765 ILCS 165",
+   "title": "Illinois Compiled Statutes, Homeowners' Energy Policy Statement Act (765 ILCS 165)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3278",
+   "versions": [
+    {
+     "from": "2026-04-12",
+     "units": 10,
+     "source_url": "https://web.archive.org/web/20260412132211/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3278&ChapterID=62&Chapter=PROPERTY&MajorTopic=RIGHTS%20AND%20REMEDIES",
+     "sha256": "b9543b47c215496ab6df99259df154a48b0c2f8f66d47f748b9fd115e6668025"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-765-167",
+   "short": "765 ILCS 167",
+   "title": "Illinois Compiled Statutes, Homeowners' Native Landscaping Act (765 ILCS 167)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=4523",
+   "versions": [
+    {
+     "from": "2026-05-09",
+     "units": 4,
+     "source_url": "https://web.archive.org/web/20260509145310/https://ilga.gov/Legislation/ILCS/Articles?ActID=4523&ChapterID=62&Chapter=PROPERTY&MajorTopic=RIGHTS%20AND%20REMEDIES",
+     "sha256": "0997ddadf894a95e4fc605dfd6228181d84d695dac3db7febb76f6db36874289"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-765-175",
+   "short": "765 ILCS 175",
+   "title": "Illinois Compiled Statutes, Prohibition of Unfair Service Agreements Act (765 ILCS 175)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=4550",
+   "versions": [
+    {
+     "from": "2026-03-16",
+     "units": 9,
+     "source_url": "https://web.archive.org/web/20260316090238/https://ilga.gov/Legislation/ILCS/Articles?ActID=4550&ChapterID=62&Chapter=PROPERTY&MajorTopic=RIGHTS%20AND%20REMEDIES",
+     "sha256": "e2bae76ecc5726b0e39c4c7a9ad5c7e44d355ccea48453cd36c6a3c64ddf06e1"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-765-205",
+   "short": "765 ILCS 205",
+   "title": "Illinois Compiled Statutes, Plat Act (765 ILCS 205)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2169",
+   "versions": [
+    {
+     "from": "2026-06-12",
+     "units": 18,
+     "source_url": "https://web.archive.org/web/20260612222125/https://ilga.gov/Legislation/ILCS/Articles?ActID=2169&ChapterID=62",
+     "sha256": "14125282e78ee710cea1e408c68bf99553302e48043613b5c42613fc461bd4c6"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-765-210",
+   "short": "765 ILCS 210",
+   "title": "Illinois Compiled Statutes, Judicial Plat Act (765 ILCS 210)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2170",
+   "versions": [
+    {
+     "from": "2026-06-25",
+     "units": 5,
+     "source_url": "https://web.archive.org/web/20260625062942/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2170&ChapterID=59",
+     "sha256": "fb5b7a4360d8825077c67987f426c19cfc335fd873e95f69d289bb682a1cd6be"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-765-215",
+   "short": "765 ILCS 215",
+   "title": "Illinois Compiled Statutes, Permanent Survey Act (765 ILCS 215)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2171",
+   "versions": [
+    {
+     "from": "2026-04-16",
+     "units": 5,
+     "source_url": "https://web.archive.org/web/20260416103911/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2171&ChapterID=62&Chapter=PROPERTY&MajorTopic=RIGHTS%20AND%20REMEDIES",
+     "sha256": "09e2c64d141d4aa8821986b59188e847dce760aae91941f22535dd11d9910c7f"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-765-220",
+   "short": "765 ILCS 220",
+   "title": "Illinois Compiled Statutes, Land Survey Monuments Act (765 ILCS 220)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2172",
+   "versions": [
+    {
+     "from": "2026-06-20",
+     "units": 18,
+     "source_url": "https://web.archive.org/web/20260620073150/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2172&ChapterID=62",
+     "sha256": "882b1f09dfb8132bd557bfe0942136017cd03629ac74f7dfe4992b5954645559"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-765-226",
+   "short": "765 ILCS 226",
+   "title": "Illinois Compiled Statutes, Illinois Coordinate System Act of 2024 (765 ILCS 226)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=4534",
+   "versions": [
+    {
+     "from": "2026-05-12",
+     "units": 5,
+     "source_url": "https://web.archive.org/web/20260512104844/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=4534&ChapterID=62",
+     "sha256": "444a68a99bbe98390c1206b53af52e0705f1d1569916d934a0c899f712b6ddfe"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-765-230",
+   "short": "765 ILCS 230",
+   "title": "Illinois Compiled Statutes, Coast and Geodetic Survey Act (765 ILCS 230)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2174",
+   "versions": [
+    {
+     "from": "2026-03-08",
+     "units": 5,
+     "source_url": "https://web.archive.org/web/20260308110208/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2174&ChapterID=62&Chapter=PROPERTY&MajorTopic=RIGHTS%20AND%20REMEDIES",
+     "sha256": "d75b92cc0f11daab0138837713f8b6d6d927ed873fdd5a29bbdc4fdceab9726c"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-765-330",
+   "short": "765 ILCS 330",
+   "title": "Illinois Compiled Statutes, Rights of Entry or Re-entry Act (765 ILCS 330)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2180",
+   "versions": [
+    {
+     "from": "2026-05-14",
+     "units": 10,
+     "source_url": "https://web.archive.org/web/20260514102354/https://ilga.gov/Legislation/ILCS/Articles?ActID=2180&ChapterID=62&Chapter=PROPERTY&MajorTopic=RIGHTS%20AND%20REMEDIES",
+     "sha256": "b523fd7bd47889617d697267c0ff8b17ccc34e7d524d5915c4e8649186be6f30"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-765-335",
+   "short": "765 ILCS 335",
+   "title": "Illinois Compiled Statutes, Surrender or Merger of Reversion Act (765 ILCS 335)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2181",
+   "versions": [
+    {
+     "from": "2026-03-12",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20260312053452/https://ilga.gov/Legislation/ILCS/Articles?ActID=2181&ChapterID=62&Chapter=PROPERTY&MajorTopic=RIGHTS%20AND%20REMEDIES",
+     "sha256": "dd671803851c5e3cbb910fb76d972da3d422cf40325a131dca960590bc82ef41"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-765-340",
+   "short": "765 ILCS 340",
+   "title": "Illinois Compiled Statutes, Contingent Remainder Act (765 ILCS 340)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2182",
+   "versions": [
+    {
+     "from": "2026-04-17",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20260417145956/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2182&ChapterID=62&Chapter=PROPERTY&MajorTopic=RIGHTS%20AND%20REMEDIES",
+     "sha256": "b90dd00b1cb2f804bf7202970b67420442f567d45cb10c4ba30a76a1bacb714e"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-765-345",
+   "short": "765 ILCS 345",
+   "title": "Illinois Compiled Statutes, Rule in Shelley's Case Abolishment Act (765 ILCS 345)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2183",
+   "versions": [
+    {
+     "from": "2026-04-20",
+     "units": 3,
+     "source_url": "https://web.archive.org/web/20260420154600/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2183&ChapterID=62&Chapter=PROPERTY&MajorTopic=RIGHTS%20AND%20REMEDIES",
+     "sha256": "640f49b174963953a00f2f23440a678cf537efbd44cd84ef69e3053a3f44b2ab"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-765-350",
+   "short": "765 ILCS 350",
+   "title": "Illinois Compiled Statutes, Doctrine of Worthier Title Abolishment Act (765 ILCS 350)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2184",
+   "versions": [
+    {
+     "from": "2026-07-24",
+     "units": 3,
+     "source_url": "https://web.archive.org/web/20260724033716/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2184&ChapterID=62",
+     "sha256": "7cbd2fa52b1e798ca9057eb504a2de66344aa3dd2c0b0f992e4282bf5deb5a62"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-765-405",
+   "short": "765 ILCS 405",
+   "title": "Illinois Compiled Statutes, Land Trust Beneficial Interest Disclosure Act (765 ILCS 405)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2185",
+   "versions": [
+    {
+     "from": "2026-04-09",
+     "units": 5,
+     "source_url": "https://web.archive.org/web/20260409032155/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2185&ChapterID=62",
+     "sha256": "4acd6b3ca3bcdd914fb79f58bdd9ff80012af7e997959b2ea72126e7592ab69b"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-765-407",
+   "short": "765 ILCS 407",
+   "title": "Illinois Compiled Statutes, Land Trust Beneficiary Rights Act (765 ILCS 407)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3715",
+   "versions": [
+    {
+     "from": "2026-04-20",
+     "units": 3,
+     "source_url": "https://web.archive.org/web/20260420192717/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3715&ChapterID=62&Chapter=PROPERTY&MajorTopic=RIGHTS%20AND%20REMEDIES",
+     "sha256": "0cf21a2848741679eb489fc9bdea6a61aca61223277224a6e9dd08715f5acef7"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-765-410",
+   "short": "765 ILCS 410",
+   "title": "Illinois Compiled Statutes, Land Trust Successor Trustee Act (765 ILCS 410)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2186",
+   "versions": [
+    {
+     "from": "2026-04-20",
+     "units": 3,
+     "source_url": "https://web.archive.org/web/20260420194020/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2186&ChapterID=62&Chapter=PROPERTY&MajorTopic=RIGHTS%20AND%20REMEDIES",
+     "sha256": "5ff744e6c66c1fb8eeb036152403baff5912d3373c5702c507465adfaed68890"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-765-420",
+   "short": "765 ILCS 420",
+   "title": "Illinois Compiled Statutes, Land Trust Recordation and Transfer Tax Act (765 ILCS 420)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2188",
+   "versions": [
+    {
+     "from": "2026-07-21",
+     "units": 4,
+     "source_url": "https://web.archive.org/web/20260721183347/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2188&ChapterID=62",
+     "sha256": "4d01a701d6b27e83ed752ce2bb90a8d3452ff9b8f444176f2f518be86bbd5a44"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-765-425",
+   "short": "765 ILCS 425",
+   "title": "Illinois Compiled Statutes, Building Law Violation Ownership Disclosure Act (765 ILCS 425)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2189",
+   "versions": [
+    {
+     "from": "2026-07-23",
+     "units": 4,
+     "source_url": "https://web.archive.org/web/20260723002026/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2189&ChapterID=62",
+     "sha256": "c9a60d0aaad964df23bdc3b722b3c15f9a52496088dc3b73c3051fed052db89e"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-765-430",
+   "short": "765 ILCS 430",
+   "title": "Illinois Compiled Statutes, Sale of Residential Property Subject to Land Trust Act (765 ILCS 430)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2190",
+   "versions": [
+    {
+     "from": "2026-08-09",
+     "units": 3,
+     "source_url": "https://web.archive.org/web/20260809071654/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2190&ChapterID=62",
+     "sha256": "61647d8be5311481a8e218d7440f06a9631cca50811ee7cc213b5a45e39186a9"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-765-435",
+   "short": "765 ILCS 435",
+   "title": "Illinois Compiled Statutes, Land Trust Fiduciary Duties Act (765 ILCS 435)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2191",
+   "versions": [
+    {
+     "from": "2026-05-13",
+     "units": 6,
+     "source_url": "https://web.archive.org/web/20260513200055/https://ilga.gov/Legislation/ILCS/Articles?ActID=2191&ChapterID=62&Chapter=PROPERTY&MajorTopic=RIGHTS%20AND%20REMEDIES",
+     "sha256": "dd822a60ca443f1ac090b3a1ae9e7e685127f79cfd927efddba583404b0cc3a3"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-765-510",
+   "short": "765 ILCS 510",
+   "title": "Illinois Compiled Statutes, Mineral Lease Release of Record Act (765 ILCS 510)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2193",
+   "versions": [
+    {
+     "from": "2026-03-14",
+     "units": 3,
+     "source_url": "https://web.archive.org/web/20260314123845/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2193&ChapterID=62&Chapter=PROPERTY&MajorTopic=RIGHTS%20AND%20REMEDIES",
+     "sha256": "0724f3637ae51af6500ed598cb4dd0c5f73d0a7bfe457f44c664ac433209edee"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-765-515",
+   "short": "765 ILCS 515",
+   "title": "Illinois Compiled Statutes, Severed Mineral Interest Act (765 ILCS 515)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2194",
+   "versions": [
+    {
+     "from": "2026-04-12",
+     "units": 15,
+     "source_url": "https://web.archive.org/web/20260412195607/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2194&ChapterID=62&Chapter=PROPERTY&MajorTopic=RIGHTS%20AND%20REMEDIES",
+     "sha256": "ab61d73a1cc8be471f535e5dcf698e0a6ac464abf796045371789f5d0e7c4d4e"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-765-520",
+   "short": "765 ILCS 520",
+   "title": "Illinois Compiled Statutes, Oil and Gas Rights Act (765 ILCS 520)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2195",
+   "versions": [
+    {
+     "from": "2026-05-12",
+     "units": 11,
+     "source_url": "https://web.archive.org/web/20260512120925/https://ilga.gov/Legislation/ILCS/Articles?ActID=2195&ChapterID=62&Chapter=PROPERTY&MajorTopic=RIGHTS%20AND%20REMEDIES",
+     "sha256": "2fcfbf77efe77feb475dbbc572ea00e7e5a34fb7823f0242b1656f29657e5b95"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-765-525",
+   "short": "765 ILCS 525",
+   "title": "Illinois Compiled Statutes, Oil and Gas Recovery Act (765 ILCS 525)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2196",
+   "versions": [
+    {
+     "from": "2026-05-12",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20260512142526/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2196&ChapterID=62",
+     "sha256": "cae389a214b7defa4e3cc8fbcef7cfc044b763e293224cf008278d1de266ef8f"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-765-530",
+   "short": "765 ILCS 530",
+   "title": "Illinois Compiled Statutes, Drilling Operations Act (765 ILCS 530)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2197",
+   "versions": [
+    {
+     "from": "2026-04-20",
+     "units": 7,
+     "source_url": "https://web.archive.org/web/20260420200211/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2197&ChapterID=62&Chapter=PROPERTY&MajorTopic=RIGHTS%20AND%20REMEDIES",
+     "sha256": "792bba1bc062b0eac1fe9330ac42e8f2820cc079aa1a3675e016838b69b62246"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-765-540",
+   "short": "765 ILCS 540",
+   "title": "Illinois Compiled Statutes, Coal Rights Act (765 ILCS 540)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2199",
+   "versions": [
+    {
+     "from": "2026-04-07",
+     "units": 14,
+     "source_url": "https://web.archive.org/web/20260407131054/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2199&ChapterID=62",
+     "sha256": "66a696e86310ba94b599c031677b7b358d208dddab5924b6695242039c3576df"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-765-605",
+   "short": "765 ILCS 605",
+   "title": "Illinois Compiled Statutes, Condominium Property Act (765 ILCS 605)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2200",
+   "versions": [
+    {
+     "from": "2026-04-27",
+     "units": 61,
+     "source_url": "https://web.archive.org/web/20260427035316/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2200&ChapAct=765%26nbsp;ILCS%26nbsp;605/&ChapterID=62&ChapterName=PROPERTY&ActName=Condominium+Property+Act.",
+     "sha256": "190b2f3a7c1dc2145f7908d9599e69528633a22765b32f682f09a3965a62bfb4"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-765-610",
+   "short": "765 ILCS 610",
+   "title": "Illinois Compiled Statutes, Condominium Advisory Council Act (765 ILCS 610)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2907",
+   "versions": [
+    {
+     "from": "2026-04-16",
+     "units": 6,
+     "source_url": "https://web.archive.org/web/20260416105757/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2907&ChapterID=62&Chapter=PROPERTY&MajorTopic=RIGHTS%20AND%20REMEDIES",
+     "sha256": "6ba496123894072e416b62ac513276fefdac0c55235b454f0c7fd0139eb46b42"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-765-615",
+   "short": "765 ILCS 615",
+   "title": "Illinois Compiled Statutes, Condominium and Common Interest Community Ombudsperson Act (765 ILCS 615)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3587",
+   "versions": [
+    {
+     "from": "2026-04-22",
+     "units": 18,
+     "source_url": "https://web.archive.org/web/20260422181936/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3587&ChapterID=62&Chapter=PROPERTY&MajorTopic=RIGHTS%20AND%20REMEDIES",
+     "sha256": "186c199323ca345591fe3c91da0e86e33300583517b202d641c09135dfd9b5e6"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-765-705",
+   "short": "765 ILCS 705",
+   "title": "Illinois Compiled Statutes, Landlord and Tenant Act (765 ILCS 705)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2201",
+   "versions": [
+    {
+     "from": "2026-06-07",
+     "units": 12,
+     "source_url": "https://web.archive.org/web/20260607164049/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2201&ChapterID=62",
+     "sha256": "6d11eb9c6ac7b6ad70dbeab74788b4e8508f3863d59e998e90e33079a0fe2851"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-765-710",
+   "short": "765 ILCS 710",
+   "title": "Illinois Compiled Statutes, Security Deposit Return Act (765 ILCS 710)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2202",
+   "versions": [
+    {
+     "from": "2026-03-25",
+     "units": 5,
+     "source_url": "https://web.archive.org/web/20260325004521/https://ilga.gov/Legislation/ILCS/Articles?ActID=2202&ChapterID=62&Chapter=PROPERTY&MajorTopic=RIGHTS%20AND%20REMEDIES",
+     "sha256": "03d055883407cdb7f5844cfc42f6f5fb9420b7045c2822a61d20ab7179e6e0e3"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-765-715",
+   "short": "765 ILCS 715",
+   "title": "Illinois Compiled Statutes, Security Deposit Interest Act (765 ILCS 715)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2203",
+   "versions": [
+    {
+     "from": "2026-04-20",
+     "units": 4,
+     "source_url": "https://web.archive.org/web/20260420190650/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2203&ChapterID=62&Chapter=PROPERTY&MajorTopic=RIGHTS%20AND%20REMEDIES",
+     "sha256": "7d48495393062f9d29b284bb4c2386e6258dea6d36074fcd5c75a88e80071c2b"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-765-721",
+   "short": "765 ILCS 721",
+   "title": "Illinois Compiled Statutes, Landlord Retaliation Act (765 ILCS 721)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=4532",
+   "versions": [
+    {
+     "from": "2026-05-13",
+     "units": 6,
+     "source_url": "https://web.archive.org/web/20260513133229/https://ilga.gov/Legislation/ILCS/Articles?ActID=4532&ChapterID=62&Chapter=PROPERTY&MajorTopic=RIGHTS%20AND%20REMEDIES",
+     "sha256": "99caa7e0edfb23a504f6bdb3c64471da15e6aede628d562f7a9504ce52014f8c"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-765-725",
+   "short": "765 ILCS 725",
+   "title": "Illinois Compiled Statutes, Property Taxes of Noncitizen Landlords Act (765 ILCS 725)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2205",
+   "versions": [
+    {
+     "from": "2026-05-07",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20260507095332/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2205&ChapterID=62",
+     "sha256": "34ee02cc5a4af59fa70c1c260e824338cedb76b5237fbf94d55353ad879d1328"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-765-730",
+   "short": "765 ILCS 730",
+   "title": "Illinois Compiled Statutes, Rent Concession Act (765 ILCS 730)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2206",
+   "versions": [
+    {
+     "from": "2026-08-12",
+     "units": 8,
+     "source_url": "https://web.archive.org/web/20260812001837/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2206&ChapterID=62",
+     "sha256": "671c1aee175ccf655faa87e6a47191b2c92df23b882140b04d35c61fb1d5d69d"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-765-735",
+   "short": "765 ILCS 735",
+   "title": "Illinois Compiled Statutes, Rental Property Utility Service Act (765 ILCS 735)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2207",
+   "versions": [
+    {
+     "from": "2026-09-04",
+     "units": 12,
+     "source_url": "https://web.archive.org/web/20260904211053/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2207&ChapterID=62",
+     "sha256": "fbcaa2cd1aef5dec1cdebea8c275a09271218ebb4eb22cc32727550ee5213bc4"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-765-740",
+   "short": "765 ILCS 740",
+   "title": "Illinois Compiled Statutes, Tenant Utility Payment Disclosure Act (765 ILCS 740)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2208",
+   "versions": [
+    {
+     "from": "2026-07-19",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20260719131839/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2208&ChapterID=62",
+     "sha256": "1ee78738516be6a8e6b44c252edd34a8a93d7e0b0338a3146530142f9960ddfb"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-765-742",
+   "short": "765 ILCS 742",
+   "title": "Illinois Compiled Statutes, Residential Tenants' Right to Repair Act (765 ILCS 742)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2605",
+   "versions": [
+    {
+     "from": "2026-10-10",
+     "units": 7,
+     "source_url": "https://web.archive.org/web/20261010032412/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2605&ChapterID=62",
+     "sha256": "24b2e9598b43d453edff9854fa2985a55025ef7d7be114c113be29ae47b138ee"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-765-745",
+   "short": "765 ILCS 745",
+   "title": "Illinois Compiled Statutes, Mobile Home Landlord and Tenant Rights Act (765 ILCS 745)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2209",
+   "versions": [
+    {
+     "from": "2026-03-14",
+     "units": 47,
+     "source_url": "https://web.archive.org/web/20260314134827/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2209&ChapterID=62",
+     "sha256": "2dda7cf82b24c05f9257b7db35884c1d04b13c8a1d549283445600e1f26033dc"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-765-750",
+   "short": "765 ILCS 750",
+   "title": "Illinois Compiled Statutes, Safe Homes Act (765 ILCS 750)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2817",
+   "versions": [
+    {
+     "from": "2026-05-18",
+     "units": 10,
+     "source_url": "https://web.archive.org/web/20260518034525/https://ilga.gov/Legislation/ILCS/Articles?ActID=2817&ChapterID=62&Chapter=PROPERTY&MajorTopic=RIGHTS%20AND%20REMEDIES",
+     "sha256": "84c4cf4b426cd69edc69601f902f0233fb07031d2a56569d704cd47dc1568b83"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-765-752",
+   "short": "765 ILCS 752",
+   "title": "Illinois Compiled Statutes, Summary of Rights for Safer Homes Act (765 ILCS 752)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=4533",
+   "versions": [
+    {
+     "from": "2026-05-20",
+     "units": 8,
+     "source_url": "https://web.archive.org/web/20260520015811/https://ilga.gov/Legislation/ILCS/Articles?ActID=4533&ChapterID=62&Chapter=PROPERTY&MajorTopic=RIGHTS%20AND%20REMEDIES",
+     "sha256": "ec5d625361be1c3289ce33879a126ec870dc548dd180b3f30f101a35604f6e86"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-765-755",
+   "short": "765 ILCS 755",
+   "title": "Illinois Compiled Statutes, Immigrant Tenant Protection Act (765 ILCS 755)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=4024",
+   "versions": [
+    {
+     "from": "2026-04-19",
+     "units": 8,
+     "source_url": "https://web.archive.org/web/20260419210744/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=4024&ChapterID=62&Chapter=PROPERTY&MajorTopic=RIGHTS%20AND%20REMEDIES",
+     "sha256": "7a8f43bc3d447c4b434daffc92144e987a9dfa9ac37d3e1cc0dd3c01686cbdde"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-765-805",
+   "short": "765 ILCS 805",
+   "title": "Illinois Compiled Statutes, Conveyance of Burial Places to County Act (765 ILCS 805)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2210",
+   "versions": [
+    {
+     "from": "2026-05-12",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20260512093251/https://ilga.gov/Legislation/ILCS/Articles?ActID=2210&ChapterID=62&Chapter=PROPERTY&MajorTopic=RIGHTS%20AND%20REMEDIES",
+     "sha256": "5edc07a068dc9dd25b47ec7e123f817d6e9dc6c642411229fd6e4f6e06ba5fb2"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-765-815",
+   "short": "765 ILCS 815",
+   "title": "Illinois Compiled Statutes, Cemetery Association Land Not Used for Burial Act (765 ILCS 815)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2212",
+   "versions": [
+    {
+     "from": "2026-05-10",
+     "units": 6,
+     "source_url": "https://web.archive.org/web/20260510115327/https://ilga.gov/Legislation/ILCS/Articles?ActID=2212&ChapterID=62&Chapter=PROPERTY&MajorTopic=RIGHTS%20AND%20REMEDIES",
+     "sha256": "4b366f604f3d0008133283f3c896b752f152f9a1399d66e18d278934536d30e8"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-765-820",
+   "short": "765 ILCS 820",
+   "title": "Illinois Compiled Statutes, Cemetery Land Ownership and Transfer Act (765 ILCS 820)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2213",
+   "versions": [
+    {
+     "from": "2026-05-18",
+     "units": 3,
+     "source_url": "https://web.archive.org/web/20260518195758/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2213&ChapterID=62",
+     "sha256": "f421b9f792b698d8d85c17bf59e81abee0db20ced376e8ddebce92990724876f"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-765-825",
+   "short": "765 ILCS 825",
+   "title": "Illinois Compiled Statutes, City Sale or Lease of Land for Cemeteries Act (765 ILCS 825)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2214",
+   "versions": [
+    {
+     "from": "2026-04-22",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20260422181459/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2214&ChapterID=62&Chapter=PROPERTY&MajorTopic=RIGHTS%20AND%20REMEDIES",
+     "sha256": "007d97da7ad1cbb3f2a5ee65fc2c2e9c9c68d5b4aed75b6d017e0c859cabdaf4"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-765-830",
+   "short": "765 ILCS 830",
+   "title": "Illinois Compiled Statutes, Cemetery Removal Act (765 ILCS 830)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2215",
+   "versions": [
+    {
+     "from": "2026-04-19",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20260419023942/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2215&ChapterID=62&Chapter=PROPERTY&MajorTopic=RIGHTS%20AND%20REMEDIES",
+     "sha256": "4e5c801f73e18e9ab99b6341e8c00c48e89c2ee6c05957afc491fafbbd0b8d85"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-765-835",
+   "short": "765 ILCS 835",
+   "title": "Illinois Compiled Statutes, Cemetery Protection Act (765 ILCS 835)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2216",
+   "versions": [
+    {
+     "from": "2026-04-22",
+     "units": 21,
+     "source_url": "https://web.archive.org/web/20260422025349/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2216&ChapterID=62&Chapter=PROPERTY&MajorTopic=RIGHTS%20AND%20REMEDIES",
+     "sha256": "1b46aec85a6eeb010408961049cae34756aa32eb7fb83c362fdd2a5986518ec0"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-765-905",
+   "short": "765 ILCS 905",
+   "title": "Illinois Compiled Statutes, Mortgage Act (765 ILCS 905)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2217",
+   "versions": [
+    {
+     "from": "2026-03-15",
+     "units": 12,
+     "source_url": "https://web.archive.org/web/20260315043737/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2217&ChapterID=62&Chapter=PROPERTY&MajorTopic=RIGHTS%20AND%20REMEDIES",
+     "sha256": "5f8800084bc8a3499291ffe3d654b5e455a21c343b95fcdb5e5b530210e030ab"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-765-910",
+   "short": "765 ILCS 910",
+   "title": "Illinois Compiled Statutes, Mortgage Escrow Account Act (765 ILCS 910)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2218",
+   "versions": [
+    {
+     "from": "2026-08-24",
+     "units": 14,
+     "source_url": "https://web.archive.org/web/20260824003931/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2218&ChapterID=62",
+     "sha256": "3d41b473bf143c205b24c50082104b87952d90e7d692681b7eebed7975f6a07d"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-765-915",
+   "short": "765 ILCS 915",
+   "title": "Illinois Compiled Statutes, Mortgage Tax Escrow Act (765 ILCS 915)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2219",
+   "versions": [
+    {
+     "from": "2026-02-12",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20260212190503/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2219&ChapterID=62&Chapter=PROPERTY&MajorTopic=RIGHTS%20AND%20REMEDIES",
+     "sha256": "2cadfaa6d3e9e146b01eff8ad92ceeed70b24e1b7a6c9c1423e15071faa907ec"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-765-920",
+   "short": "765 ILCS 920",
+   "title": "Illinois Compiled Statutes, Mortgage Payment Statement Act (765 ILCS 920)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2220",
+   "versions": [
+    {
+     "from": "2026-05-09",
+     "units": 3,
+     "source_url": "https://web.archive.org/web/20260509172940/https://ilga.gov/Legislation/ILCS/Articles?ActID=2220&ChapterID=62&Chapter=PROPERTY&MajorTopic=RIGHTS%20AND%20REMEDIES",
+     "sha256": "f84428f6813f7f967f45218d8a2218c07f80ccd4cd0c8f9670c9744301a900b5"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-765-925",
+   "short": "765 ILCS 925",
+   "title": "Illinois Compiled Statutes, Notice of Prepayment of Federally Subsidized Mortgage Act (765 ILCS 925)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2221",
+   "versions": [
+    {
+     "from": "2026-05-21",
+     "units": 8,
+     "source_url": "https://web.archive.org/web/20260521212214/https://ilga.gov/Legislation/ILCS/Articles?ActID=2221&ChapterID=62&Chapter=PROPERTY&MajorTopic=RIGHTS%20AND%20REMEDIES",
+     "sha256": "b4e9d7163ddcbeed635927dbb3fe4a60c7f98654fd73de7e6d4a8b95595eccbb"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-765-930",
+   "short": "765 ILCS 930",
+   "title": "Illinois Compiled Statutes, Mortgage Insurance Limitation and Notification Act (765 ILCS 930)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2222",
+   "versions": [
+    {
+     "from": "2026-03-06",
+     "units": 9,
+     "source_url": "https://web.archive.org/web/20260306150126/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2222&ChapterID=62&Chapter=PROPERTY&MajorTopic=RIGHTS%20AND%20REMEDIES",
+     "sha256": "e8fd0bf976df8813fcecc46b4efa3bc7a845b9c0250ad8f06c7559b9170c2789"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-765-935",
+   "short": "765 ILCS 935",
+   "title": "Illinois Compiled Statutes, Mortgage Certificate of Release Act (765 ILCS 935)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2223",
+   "versions": [
+    {
+     "from": "2026-08-08",
+     "units": 19,
+     "source_url": "https://web.archive.org/web/20260808222411/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2223&ChapterID=62",
+     "sha256": "ea656745d268fd9dd1dd6e613f206ec5787cac8678f939ae5bea5c798309305f"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-765-940",
+   "short": "765 ILCS 940",
+   "title": "Illinois Compiled Statutes, Mortgage Rescue Fraud Act (765 ILCS 940)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2795",
+   "versions": [
+    {
+     "from": "2026-03-11",
+     "units": 18,
+     "source_url": "https://web.archive.org/web/20260311225859/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2795&ChapterID=62&Chapter=PROPERTY&MajorTopic=RIGHTS%20AND%20REMEDIES",
+     "sha256": "f8f2b3953a3ab141ba80cb7f23313dfb7e3e01af6b42626a148c5716e06952ae"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-765-945",
+   "short": "765 ILCS 945",
+   "title": "Illinois Compiled Statutes, Reverse Mortgage Act (765 ILCS 945)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3656",
+   "versions": [
+    {
+     "from": "2026-08-08",
+     "units": 17,
+     "source_url": "https://web.archive.org/web/20260808011241/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3656&ChapterID=62",
+     "sha256": "585864ced30f641d9aaeec71810648b6a6c1fffa8c5362eaa1947c3ebd1562df"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-765-1005",
+   "short": "765 ILCS 1005",
+   "title": "Illinois Compiled Statutes, Joint Tenancy Act (765 ILCS 1005)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2224",
+   "versions": [
+    {
+     "from": "2026-05-14",
+     "units": 11,
+     "source_url": "https://web.archive.org/web/20260514111929/https://ilga.gov/Legislation/ILCS/Articles?ActID=2224&ChapterID=62&Chapter=PROPERTY&MajorTopic=RIGHTS%20AND%20REMEDIES",
+     "sha256": "2af2eddf8f43f413064c735792f4969a3cc94ff571c08f145b95b962eb8d073b"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-765-1010",
+   "short": "765 ILCS 1010",
+   "title": "Illinois Compiled Statutes, Electricity and Gas Joint Ownership Act (765 ILCS 1010)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2225",
+   "versions": [
+    {
+     "from": "2026-04-20",
+     "units": 4,
+     "source_url": "https://web.archive.org/web/20260420193838/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2225&ChapterID=62&Chapter=PROPERTY&MajorTopic=RIGHTS%20AND%20REMEDIES",
+     "sha256": "a1abb3ac7a5f202d8226d0fb13baf0787e590046c871c6951ffd260c773824a3"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-765-1015",
+   "short": "765 ILCS 1015",
+   "title": "Illinois Compiled Statutes, Bailment Insurance Act (765 ILCS 1015)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2226",
+   "versions": [
+    {
+     "from": "2026-02-08",
+     "units": 5,
+     "source_url": "https://web.archive.org/web/20260208122158/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2226&ChapterID=62",
+     "sha256": "b70bc3f25aeb10987ef91a03ca598530dd600f2930f00ea56a79d74ffe9e3c36"
+    }
+   ]
   }
  ]
 }

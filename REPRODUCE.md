@@ -2309,12 +2309,204 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `ilcs-745-10-article-0009` | Illinois Compiled Statutes, Local Governmental and Governmental Employees Tort Immunity Act (745 ILCS 10), Article 9 | 1 | 2026-03-14 to 2026-03-14 |
 | `ilcs-745-10-article-0010` | Illinois Compiled Statutes, Local Governmental and Governmental Employees Tort Immunity Act (745 ILCS 10), Article 10 | 1 | 2026-03-14 to 2026-03-14 |
 | `ilcs-745-22` | Illinois Compiled Statutes, Federal Law Enforcement Officer Immunity Act (745 ILCS 22) | 1 | 2026-08-30 to 2026-08-30 |
+| `ilcs-745-25` | Illinois Compiled Statutes, Tort Liability of Schools Act (745 ILCS 25) | 1 | 2026-02-09 to 2026-02-09 |
+| `ilcs-745-38` | Illinois Compiled Statutes, Baseball Facility Liability Act (745 ILCS 38) | 1 | 2026-05-18 to 2026-05-18 |
+| `ilcs-745-40` | Illinois Compiled Statutes, Blood and Organ Transaction Liability Act (745 ILCS 40) | 1 | 2026-05-01 to 2026-05-01 |
+| `ilcs-745-41` | Illinois Compiled Statutes, Bowling Center Act (745 ILCS 41) | 1 | 2026-08-23 to 2026-08-23 |
+| `ilcs-745-43` | Illinois Compiled Statutes, Illinois Commonsense Consumption Act (745 ILCS 43) | 1 | 2026-04-17 to 2026-04-17 |
+| `ilcs-745-46` | Illinois Compiled Statutes, Employment Record Disclosure Act (745 ILCS 46) | 1 | 2026-07-06 to 2026-07-06 |
+| `ilcs-745-47` | Illinois Compiled Statutes, Equine Activity Liability Act (745 ILCS 47) | 1 | 2026-03-26 to 2026-03-26 |
+| `ilcs-745-48` | Illinois Compiled Statutes, Illinois Financial Institutions Year 2000 Safety and Soundness Act (745 ILCS 48) | 1 | 2026-04-12 to 2026-04-12 |
+| `ilcs-745-49` | Illinois Compiled Statutes, Good Samaritan Act (745 ILCS 49) | 1 | 2026-03-26 to 2026-03-26 |
+| `ilcs-745-50` | Illinois Compiled Statutes, Good Samaritan Food Donor Act (745 ILCS 50) | 1 | 2026-05-23 to 2026-05-23 |
+| `ilcs-745-52` | Illinois Compiled Statutes, Hockey Facility Liability Act (745 ILCS 52) | 1 | 2026-07-14 to 2026-07-14 |
+| `ilcs-745-54` | Illinois Compiled Statutes, Interscholastic Association Defamation Act (745 ILCS 54) | 1 | 2026-04-28 to 2026-04-28 |
+| `ilcs-745-65` | Illinois Compiled Statutes, Recreational Use of Land and Water Areas Act (745 ILCS 65) | 1 | 2026-05-15 to 2026-05-15 |
+| `ilcs-745-70` | Illinois Compiled Statutes, Health Care Right of Conscience Act (745 ILCS 70) | 1 | 2026-10-02 to 2026-10-02 |
+| `ilcs-745-72` | Illinois Compiled Statutes, Roller Skating Rink Safety Act (745 ILCS 72) | 1 | 2026-05-12 to 2026-05-12 |
+| `ilcs-745-75` | Illinois Compiled Statutes, Snow and Ice Removal Act (745 ILCS 75) | 1 | 2026-05-16 to 2026-05-16 |
+| `ilcs-750-5` | Illinois Compiled Statutes, Illinois Marriage and Dissolution of Marriage Act (750 ILCS 5) | 1 | 2026-06-09 to 2026-06-09 |
+| `ilcs-750-10` | Illinois Compiled Statutes, Illinois Uniform Premarital Agreement Act (750 ILCS 10) | 1 | 2026-05-05 to 2026-05-05 |
+| `ilcs-750-16` | Illinois Compiled Statutes, Non-Support Punishment Act (750 ILCS 16) | 1 | 2026-02-16 to 2026-02-16 |
+| `ilcs-750-22` | Illinois Compiled Statutes, Uniform Interstate Family Support Act (750 ILCS 22) | 1 | 2026-05-15 to 2026-05-15 |
+| `ilcs-750-25` | Illinois Compiled Statutes, Expedited Child Support Act of 1990 (750 ILCS 25) | 1 | 2026-05-20 to 2026-05-20 |
+| `ilcs-750-27` | Illinois Compiled Statutes, Child Support Payment Act (750 ILCS 27) | 1 | 2026-05-03 to 2026-05-03 |
+| `ilcs-750-28` | Illinois Compiled Statutes, Income Withholding for Support Act (750 ILCS 28) | 1 | 2026-09-15 to 2026-09-15 |
+| `ilcs-750-30` | Illinois Compiled Statutes, Emancipation of Minors Act (750 ILCS 30) | 1 | 2026-10-13 to 2026-10-13 |
+| `ilcs-750-36` | Illinois Compiled Statutes, Uniform Child-Custody Jurisdiction and Enforcement Act (750 ILCS 36) | 1 | 2026-04-19 to 2026-04-19 |
+| `ilcs-750-46` | Illinois Compiled Statutes, Illinois Parentage Act of 2015 (750 ILCS 46) | 1 | 2026-05-14 to 2026-05-14 |
+| `ilcs-750-47` | Illinois Compiled Statutes, Gestational Surrogacy Act (750 ILCS 47) | 1 | 2026-05-18 to 2026-05-18 |
+| `ilcs-750-50` | Illinois Compiled Statutes, Adoption Act (750 ILCS 50) | 1 | 2026-05-21 to 2026-05-21 |
+| `ilcs-750-55` | Illinois Compiled Statutes, Contest of Adoptions Act (750 ILCS 55) | 1 | 2026-04-20 to 2026-04-20 |
+| `ilcs-750-60` | Illinois Compiled Statutes, Illinois Domestic Violence Act of 1986 (750 ILCS 60) | 1 | 2026-03-14 to 2026-03-14 |
+| `ilcs-750-61` | Illinois Compiled Statutes, Address Confidentiality for Victims of Domestic Violence, Sexual Assault, Human Trafficking, or Stalking Act (750 ILCS 61) | 1 | 2026-03-12 to 2026-03-12 |
+| `ilcs-750-65` | Illinois Compiled Statutes, Rights of Married Persons Act (750 ILCS 65) | 1 | 2026-06-02 to 2026-06-02 |
+| `ilcs-750-75` | Illinois Compiled Statutes, Illinois Religious Freedom Protection and Civil Union Act (750 ILCS 75) | 1 | 2026-04-20 to 2026-04-20 |
+| `ilcs-750-80` | Illinois Compiled Statutes, Religious Freedom and Marriage Fairness Act (750 ILCS 80) | 1 | 2026-05-21 to 2026-05-21 |
+| `ilcs-750-85` | Illinois Compiled Statutes, Parental Rights for the Blind Act (750 ILCS 85) | 1 | 2026-04-26 to 2026-04-26 |
+| `ilcs-750-90` | Illinois Compiled Statutes, Collaborative Process Act (750 ILCS 90) | 1 | 2026-06-07 to 2026-06-07 |
+| `ilcs-750-95` | Illinois Compiled Statutes, Frail Elderly Individual Family Visitation Protection Act (750 ILCS 95) | 1 | 2026-04-16 to 2026-04-16 |
+| `ilcs-755-5-article-0001` | Illinois Compiled Statutes, Probate Act of 1975 (755 ILCS 5), Article 1 | 1 | 2026-10-16 to 2026-10-16 |
+| `ilcs-755-5-article-0002` | Illinois Compiled Statutes, Probate Act of 1975 (755 ILCS 5), Article 2 | 1 | 2026-10-16 to 2026-10-16 |
+| `ilcs-755-5-article-0003` | Illinois Compiled Statutes, Probate Act of 1975 (755 ILCS 5), Article 3 | 1 | 2026-10-16 to 2026-10-16 |
+| `ilcs-755-5-article-0004` | Illinois Compiled Statutes, Probate Act of 1975 (755 ILCS 5), Article 4 | 1 | 2026-10-16 to 2026-10-16 |
+| `ilcs-755-5-article-0004a` | Illinois Compiled Statutes, Probate Act of 1975 (755 ILCS 5), Article 4a | 1 | 2026-10-16 to 2026-10-16 |
+| `ilcs-755-5-article-0005` | Illinois Compiled Statutes, Probate Act of 1975 (755 ILCS 5), Article 5 | 1 | 2026-10-16 to 2026-10-16 |
+| `ilcs-755-5-article-0006` | Illinois Compiled Statutes, Probate Act of 1975 (755 ILCS 5), Article 6 | 1 | 2026-10-16 to 2026-10-16 |
+| `ilcs-755-5-article-0007` | Illinois Compiled Statutes, Probate Act of 1975 (755 ILCS 5), Article 7 | 1 | 2026-10-16 to 2026-10-16 |
+| `ilcs-755-5-article-0008` | Illinois Compiled Statutes, Probate Act of 1975 (755 ILCS 5), Article 8 | 1 | 2026-10-16 to 2026-10-16 |
+| `ilcs-755-5-article-0009` | Illinois Compiled Statutes, Probate Act of 1975 (755 ILCS 5), Article 9 | 1 | 2026-10-16 to 2026-10-16 |
+| `ilcs-755-5-article-0010` | Illinois Compiled Statutes, Probate Act of 1975 (755 ILCS 5), Article 10 | 1 | 2026-10-16 to 2026-10-16 |
+| `ilcs-755-5-article-0011` | Illinois Compiled Statutes, Probate Act of 1975 (755 ILCS 5), Article 11 | 1 | 2026-10-16 to 2026-10-16 |
+| `ilcs-755-5-article-0011a` | Illinois Compiled Statutes, Probate Act of 1975 (755 ILCS 5), Article 11a | 1 | 2026-10-16 to 2026-10-16 |
+| `ilcs-755-5-article-0012` | Illinois Compiled Statutes, Probate Act of 1975 (755 ILCS 5), Article 12 | 1 | 2026-10-16 to 2026-10-16 |
+| `ilcs-755-5-article-0013` | Illinois Compiled Statutes, Probate Act of 1975 (755 ILCS 5), Article 13 | 1 | 2026-10-16 to 2026-10-16 |
+| `ilcs-755-5-article-0014` | Illinois Compiled Statutes, Probate Act of 1975 (755 ILCS 5), Article 14 | 1 | 2026-10-16 to 2026-10-16 |
+| `ilcs-755-5-article-0015` | Illinois Compiled Statutes, Probate Act of 1975 (755 ILCS 5), Article 15 | 1 | 2026-10-16 to 2026-10-16 |
+| `ilcs-755-5-article-0016` | Illinois Compiled Statutes, Probate Act of 1975 (755 ILCS 5), Article 16 | 1 | 2026-10-16 to 2026-10-16 |
+| `ilcs-755-5-article-0018` | Illinois Compiled Statutes, Probate Act of 1975 (755 ILCS 5), Article 18 | 1 | 2026-10-16 to 2026-10-16 |
+| `ilcs-755-5-article-0019` | Illinois Compiled Statutes, Probate Act of 1975 (755 ILCS 5), Article 19 | 1 | 2026-10-16 to 2026-10-16 |
+| `ilcs-755-5-article-0020` | Illinois Compiled Statutes, Probate Act of 1975 (755 ILCS 5), Article 20 | 1 | 2026-10-16 to 2026-10-16 |
+| `ilcs-755-5-article-0021` | Illinois Compiled Statutes, Probate Act of 1975 (755 ILCS 5), Article 21 | 1 | 2026-10-16 to 2026-10-16 |
+| `ilcs-755-5-article-0022` | Illinois Compiled Statutes, Probate Act of 1975 (755 ILCS 5), Article 22 | 1 | 2026-10-16 to 2026-10-16 |
+| `ilcs-755-5-article-0023` | Illinois Compiled Statutes, Probate Act of 1975 (755 ILCS 5), Article 23 | 1 | 2026-10-16 to 2026-10-16 |
+| `ilcs-755-5-article-0024` | Illinois Compiled Statutes, Probate Act of 1975 (755 ILCS 5), Article 24 | 1 | 2026-10-16 to 2026-10-16 |
+| `ilcs-755-5-article-0025` | Illinois Compiled Statutes, Probate Act of 1975 (755 ILCS 5), Article 25 | 1 | 2026-10-16 to 2026-10-16 |
+| `ilcs-755-5-article-0026` | Illinois Compiled Statutes, Probate Act of 1975 (755 ILCS 5), Article 26 | 1 | 2026-10-16 to 2026-10-16 |
+| `ilcs-755-5-article-0027` | Illinois Compiled Statutes, Probate Act of 1975 (755 ILCS 5), Article 27 | 1 | 2026-10-16 to 2026-10-16 |
+| `ilcs-755-5-article-0028` | Illinois Compiled Statutes, Probate Act of 1975 (755 ILCS 5), Article 28 | 1 | 2026-10-16 to 2026-10-16 |
+| `ilcs-755-5-article-0030` | Illinois Compiled Statutes, Probate Act of 1975 (755 ILCS 5), Article 30 | 1 | 2026-10-16 to 2026-10-16 |
+| `ilcs-755-6-article-0001` | Illinois Compiled Statutes, Electronic Wills, Electronic Estate Planning Documents, and Remote Witnesses Act (755 ILCS 6), Article 1 | 1 | 2026-05-13 to 2026-05-13 |
+| `ilcs-755-6-article-0005` | Illinois Compiled Statutes, Electronic Wills, Electronic Estate Planning Documents, and Remote Witnesses Act (755 ILCS 6), Article 5 | 1 | 2026-05-13 to 2026-05-13 |
+| `ilcs-755-6-article-0010` | Illinois Compiled Statutes, Electronic Wills, Electronic Estate Planning Documents, and Remote Witnesses Act (755 ILCS 6), Article 10 | 1 | 2026-05-13 to 2026-05-13 |
+| `ilcs-755-6-article-0011` | Illinois Compiled Statutes, Electronic Wills, Electronic Estate Planning Documents, and Remote Witnesses Act (755 ILCS 6), Article 11 | 1 | 2026-05-13 to 2026-05-13 |
+| `ilcs-755-6-article-0015` | Illinois Compiled Statutes, Electronic Wills, Electronic Estate Planning Documents, and Remote Witnesses Act (755 ILCS 6), Article 15 | 1 | 2026-05-13 to 2026-05-13 |
+| `ilcs-755-6-article-0020` | Illinois Compiled Statutes, Electronic Wills, Electronic Estate Planning Documents, and Remote Witnesses Act (755 ILCS 6), Article 20 | 1 | 2026-05-13 to 2026-05-13 |
+| `ilcs-755-6-article-0095` | Illinois Compiled Statutes, Electronic Wills, Electronic Estate Planning Documents, and Remote Witnesses Act (755 ILCS 6), Article 95 | 1 | 2026-05-13 to 2026-05-13 |
+| `ilcs-755-6-article-0099` | Illinois Compiled Statutes, Electronic Wills, Electronic Estate Planning Documents, and Remote Witnesses Act (755 ILCS 6), Article 99 | 1 | 2026-05-13 to 2026-05-13 |
+| `ilcs-755-8` | Illinois Compiled Statutes, Uniform Adult Guardianship and Protective Proceedings Jurisdiction Act (755 ILCS 8) | 1 | 2026-03-07 to 2026-03-07 |
+| `ilcs-755-9` | Illinois Compiled Statutes, Supported Decision-Making Agreement Act (755 ILCS 9) | 1 | 2026-03-05 to 2026-03-05 |
+| `ilcs-755-10` | Illinois Compiled Statutes, Uniform International Wills Act (755 ILCS 10) | 1 | 2026-04-15 to 2026-04-15 |
+| `ilcs-755-15` | Illinois Compiled Statutes, Safety Deposit Box Opening Act (755 ILCS 15) | 1 | 2026-07-15 to 2026-07-15 |
+| `ilcs-755-20` | Illinois Compiled Statutes, Escheats Act (755 ILCS 20) | 1 | 2026-04-12 to 2026-04-12 |
+| `ilcs-755-25` | Illinois Compiled Statutes, Lifetime Transfer of Property Act (755 ILCS 25) | 1 | 2026-04-12 to 2026-04-12 |
+| `ilcs-755-27` | Illinois Compiled Statutes, Real Property Transfer on Death Instrument Act (755 ILCS 27) | 1 | 2026-05-16 to 2026-05-16 |
+| `ilcs-755-30` | Illinois Compiled Statutes, Third Party Beneficiary Contract Act (755 ILCS 30) | 1 | 2026-06-28 to 2026-06-28 |
+| `ilcs-755-35` | Illinois Compiled Statutes, Illinois Living Will Act (755 ILCS 35) | 1 | 2026-10-09 to 2026-10-09 |
+| `ilcs-755-40` | Illinois Compiled Statutes, Health Care Surrogate Act (755 ILCS 40) | 1 | 2026-05-15 to 2026-05-15 |
+| `ilcs-755-43` | Illinois Compiled Statutes, Mental Health Treatment Preference Declaration Act (755 ILCS 43) | 1 | 2026-05-11 to 2026-05-11 |
+| `ilcs-755-45-article-0001` | Illinois Compiled Statutes, Illinois Power of Attorney Act (755 ILCS 45), Article 1 | 1 | 2026-03-15 to 2026-03-15 |
+| `ilcs-755-45-article-0002` | Illinois Compiled Statutes, Illinois Power of Attorney Act (755 ILCS 45), Article 2 | 1 | 2026-03-15 to 2026-03-15 |
+| `ilcs-755-45-article-0003` | Illinois Compiled Statutes, Illinois Power of Attorney Act (755 ILCS 45), Article 3 | 1 | 2026-03-15 to 2026-03-15 |
+| `ilcs-755-45-article-0004` | Illinois Compiled Statutes, Illinois Power of Attorney Act (755 ILCS 45), Article 4 | 1 | 2026-03-15 to 2026-03-15 |
+| `ilcs-755-50` | Illinois Compiled Statutes, Illinois Anatomical Gift Act (755 ILCS 50) | 1 | 2026-10-09 to 2026-10-09 |
+| `ilcs-755-65` | Illinois Compiled Statutes, Disposition of Remains Act (755 ILCS 65) | 1 | 2026-04-22 to 2026-04-22 |
+| `ilcs-755-66` | Illinois Compiled Statutes, Disposition of Remains of the Indigent Act (755 ILCS 66) | 1 | 2026-04-17 to 2026-04-17 |
+| `ilcs-755-70` | Illinois Compiled Statutes, Revised Uniform Fiduciary Access to Digital Assets Act (2015) (755 ILCS 70) | 1 | 2026-04-17 to 2026-04-17 |
+| `ilcs-755-75` | Illinois Compiled Statutes, Uniform Partition of Heirs Property Act (755 ILCS 75) | 1 | 2026-04-10 to 2026-04-10 |
+| `ilcs-760-3` | Illinois Compiled Statutes, Illinois Trust Code (760 ILCS 3) | 1 | 2026-02-17 to 2026-02-17 |
+| `ilcs-760-15` | Illinois Compiled Statutes, Principal and Income Act (760 ILCS 15) | 1 | 2026-02-13 to 2026-02-13 |
+| `ilcs-760-20` | Illinois Compiled Statutes, Illinois Uniform Transfers to Minors Act (760 ILCS 20) | 1 | 2026-05-19 to 2026-05-19 |
+| `ilcs-760-40` | Illinois Compiled Statutes, Trusts for Employees Act (760 ILCS 40) | 1 | 2026-07-24 to 2026-07-24 |
+| `ilcs-760-45` | Illinois Compiled Statutes, Common Trust Fund Act (760 ILCS 45) | 1 | 2026-04-23 to 2026-04-23 |
+| `ilcs-760-55` | Illinois Compiled Statutes, Charitable Trust Act (760 ILCS 55) | 1 | 2026-10-13 to 2026-10-13 |
+| `ilcs-760-65` | Illinois Compiled Statutes, Fiduciary Obligations Act (760 ILCS 65) | 1 | 2026-05-02 to 2026-05-02 |
+| `ilcs-760-90` | Illinois Compiled Statutes, Burial Lot Perpetual Trust Act (760 ILCS 90) | 1 | 2026-04-23 to 2026-04-23 |
+| `ilcs-760-100` | Illinois Compiled Statutes, Cemetery Care Act (760 ILCS 100) | 1 | 2026-04-20 to 2026-04-20 |
+| `ilcs-765-5` | Illinois Compiled Statutes, Conveyances Act (765 ILCS 5) | 1 | 2026-04-28 to 2026-04-28 |
+| `ilcs-765-20` | Illinois Compiled Statutes, Covenants of Warranty Act (765 ILCS 20) | 1 | 2026-07-10 to 2026-07-10 |
+| `ilcs-765-25` | Illinois Compiled Statutes, Acknowledgment Validation Act (765 ILCS 25) | 1 | 2026-05-14 to 2026-05-14 |
+| `ilcs-765-30` | Illinois Compiled Statutes, Uniform Recognition of Acknowledgments Act (765 ILCS 30) | 1 | 2026-09-08 to 2026-09-08 |
+| `ilcs-765-33` | Illinois Compiled Statutes, Uniform Real Property Electronic Recording Act (765 ILCS 33) | 1 | 2026-05-15 to 2026-05-15 |
+| `ilcs-765-40` | Illinois Compiled Statutes, Torrens Repeal Law (765 ILCS 40) | 1 | 2026-03-11 to 2026-03-11 |
+| `ilcs-765-45` | Illinois Compiled Statutes, Destroyed Public Records Act (765 ILCS 45) | 1 | 2026-04-22 to 2026-04-22 |
+| `ilcs-765-50` | Illinois Compiled Statutes, Agricultural Foreign Investment Disclosure Act (765 ILCS 50) | 1 | 2026-04-28 to 2026-04-28 |
+| `ilcs-765-60` | Illinois Compiled Statutes, Property Owned By Noncitizens Act (765 ILCS 60) | 1 | 2026-04-19 to 2026-04-19 |
+| `ilcs-765-65` | Illinois Compiled Statutes, Uniform Vendor and Purchaser Risk Act (765 ILCS 65) | 1 | 2026-03-15 to 2026-03-15 |
+| `ilcs-765-67` | Illinois Compiled Statutes, Installment Sales Contract Act (765 ILCS 67) | 1 | 2026-08-06 to 2026-08-06 |
+| `ilcs-765-70` | Illinois Compiled Statutes, Dwelling Structure Contract Act (765 ILCS 70) | 1 | 2026-05-21 to 2026-05-21 |
+| `ilcs-765-75` | Illinois Compiled Statutes, Dwelling Unit Installment Contract Act (765 ILCS 75) | 1 | 2026-04-20 to 2026-04-20 |
+| `ilcs-765-80` | Illinois Compiled Statutes, Real Estate Sale Validation Act (765 ILCS 80) | 1 | 2026-07-11 to 2026-07-11 |
+| `ilcs-765-95` | Illinois Compiled Statutes, Mine Subsidence Disclosure Act (765 ILCS 95) | 1 | 2026-04-22 to 2026-04-22 |
+| `ilcs-765-105` | Illinois Compiled Statutes, Building and Loan Mortgage Release Act (765 ILCS 105) | 1 | 2026-04-16 to 2026-04-16 |
+| `ilcs-765-110` | Illinois Compiled Statutes, Building and Loan Deed Validation Act (765 ILCS 110) | 1 | 2026-07-03 to 2026-07-03 |
+| `ilcs-765-115` | Illinois Compiled Statutes, Property of Unincorporated Associations Act (765 ILCS 115) | 1 | 2026-04-17 to 2026-04-17 |
+| `ilcs-765-120` | Illinois Compiled Statutes, Real Property Conservation Rights Act (765 ILCS 120) | 1 | 2026-04-17 to 2026-04-17 |
+| `ilcs-765-122` | Illinois Compiled Statutes, Uniform Environmental Covenants Act (765 ILCS 122) | 1 | 2026-05-12 to 2026-05-12 |
+| `ilcs-765-125` | Illinois Compiled Statutes, Entry on Adjoining Land to Accomplish Repairs Act (765 ILCS 125) | 1 | 2026-04-23 to 2026-04-23 |
+| `ilcs-765-130` | Illinois Compiled Statutes, Fence Act (765 ILCS 130) | 1 | 2026-03-17 to 2026-03-17 |
+| `ilcs-765-135` | Illinois Compiled Statutes, Water Dam Use Act (765 ILCS 135) | 1 | 2026-05-19 to 2026-05-19 |
+| `ilcs-765-140` | Illinois Compiled Statutes, Adjacent Landowner Excavation Protection Act (765 ILCS 140) | 1 | 2026-04-21 to 2026-04-21 |
+| `ilcs-765-145` | Illinois Compiled Statutes, Transmission Line Prescriptive Right Prohibition Act (765 ILCS 145) | 1 | 2026-04-22 to 2026-04-22 |
+| `ilcs-765-150` | Illinois Compiled Statutes, Industrialized Residential Structure Deed Restriction Act (765 ILCS 150) | 1 | 2026-04-15 to 2026-04-15 |
+| `ilcs-765-155` | Illinois Compiled Statutes, Transfer Fee Covenant Act (765 ILCS 155) | 1 | 2026-04-22 to 2026-04-22 |
+| `ilcs-765-165` | Illinois Compiled Statutes, Homeowners' Energy Policy Statement Act (765 ILCS 165) | 1 | 2026-04-12 to 2026-04-12 |
+| `ilcs-765-167` | Illinois Compiled Statutes, Homeowners' Native Landscaping Act (765 ILCS 167) | 1 | 2026-05-09 to 2026-05-09 |
+| `ilcs-765-175` | Illinois Compiled Statutes, Prohibition of Unfair Service Agreements Act (765 ILCS 175) | 1 | 2026-03-16 to 2026-03-16 |
+| `ilcs-765-205` | Illinois Compiled Statutes, Plat Act (765 ILCS 205) | 1 | 2026-06-12 to 2026-06-12 |
+| `ilcs-765-210` | Illinois Compiled Statutes, Judicial Plat Act (765 ILCS 210) | 1 | 2026-06-25 to 2026-06-25 |
+| `ilcs-765-215` | Illinois Compiled Statutes, Permanent Survey Act (765 ILCS 215) | 1 | 2026-04-16 to 2026-04-16 |
+| `ilcs-765-220` | Illinois Compiled Statutes, Land Survey Monuments Act (765 ILCS 220) | 1 | 2026-06-20 to 2026-06-20 |
+| `ilcs-765-226` | Illinois Compiled Statutes, Illinois Coordinate System Act of 2024 (765 ILCS 226) | 1 | 2026-05-12 to 2026-05-12 |
+| `ilcs-765-230` | Illinois Compiled Statutes, Coast and Geodetic Survey Act (765 ILCS 230) | 1 | 2026-03-08 to 2026-03-08 |
+| `ilcs-765-330` | Illinois Compiled Statutes, Rights of Entry or Re-entry Act (765 ILCS 330) | 1 | 2026-05-14 to 2026-05-14 |
+| `ilcs-765-335` | Illinois Compiled Statutes, Surrender or Merger of Reversion Act (765 ILCS 335) | 1 | 2026-03-12 to 2026-03-12 |
+| `ilcs-765-340` | Illinois Compiled Statutes, Contingent Remainder Act (765 ILCS 340) | 1 | 2026-04-17 to 2026-04-17 |
+| `ilcs-765-345` | Illinois Compiled Statutes, Rule in Shelley's Case Abolishment Act (765 ILCS 345) | 1 | 2026-04-20 to 2026-04-20 |
+| `ilcs-765-350` | Illinois Compiled Statutes, Doctrine of Worthier Title Abolishment Act (765 ILCS 350) | 1 | 2026-07-24 to 2026-07-24 |
+| `ilcs-765-405` | Illinois Compiled Statutes, Land Trust Beneficial Interest Disclosure Act (765 ILCS 405) | 1 | 2026-04-09 to 2026-04-09 |
+| `ilcs-765-407` | Illinois Compiled Statutes, Land Trust Beneficiary Rights Act (765 ILCS 407) | 1 | 2026-04-20 to 2026-04-20 |
+| `ilcs-765-410` | Illinois Compiled Statutes, Land Trust Successor Trustee Act (765 ILCS 410) | 1 | 2026-04-20 to 2026-04-20 |
+| `ilcs-765-420` | Illinois Compiled Statutes, Land Trust Recordation and Transfer Tax Act (765 ILCS 420) | 1 | 2026-07-21 to 2026-07-21 |
+| `ilcs-765-425` | Illinois Compiled Statutes, Building Law Violation Ownership Disclosure Act (765 ILCS 425) | 1 | 2026-07-23 to 2026-07-23 |
+| `ilcs-765-430` | Illinois Compiled Statutes, Sale of Residential Property Subject to Land Trust Act (765 ILCS 430) | 1 | 2026-08-09 to 2026-08-09 |
+| `ilcs-765-435` | Illinois Compiled Statutes, Land Trust Fiduciary Duties Act (765 ILCS 435) | 1 | 2026-05-13 to 2026-05-13 |
+| `ilcs-765-510` | Illinois Compiled Statutes, Mineral Lease Release of Record Act (765 ILCS 510) | 1 | 2026-03-14 to 2026-03-14 |
+| `ilcs-765-515` | Illinois Compiled Statutes, Severed Mineral Interest Act (765 ILCS 515) | 1 | 2026-04-12 to 2026-04-12 |
+| `ilcs-765-520` | Illinois Compiled Statutes, Oil and Gas Rights Act (765 ILCS 520) | 1 | 2026-05-12 to 2026-05-12 |
+| `ilcs-765-525` | Illinois Compiled Statutes, Oil and Gas Recovery Act (765 ILCS 525) | 1 | 2026-05-12 to 2026-05-12 |
+| `ilcs-765-530` | Illinois Compiled Statutes, Drilling Operations Act (765 ILCS 530) | 1 | 2026-04-20 to 2026-04-20 |
+| `ilcs-765-540` | Illinois Compiled Statutes, Coal Rights Act (765 ILCS 540) | 1 | 2026-04-07 to 2026-04-07 |
+| `ilcs-765-605` | Illinois Compiled Statutes, Condominium Property Act (765 ILCS 605) | 1 | 2026-04-27 to 2026-04-27 |
+| `ilcs-765-610` | Illinois Compiled Statutes, Condominium Advisory Council Act (765 ILCS 610) | 1 | 2026-04-16 to 2026-04-16 |
+| `ilcs-765-615` | Illinois Compiled Statutes, Condominium and Common Interest Community Ombudsperson Act (765 ILCS 615) | 1 | 2026-04-22 to 2026-04-22 |
+| `ilcs-765-705` | Illinois Compiled Statutes, Landlord and Tenant Act (765 ILCS 705) | 1 | 2026-06-07 to 2026-06-07 |
+| `ilcs-765-710` | Illinois Compiled Statutes, Security Deposit Return Act (765 ILCS 710) | 1 | 2026-03-25 to 2026-03-25 |
+| `ilcs-765-715` | Illinois Compiled Statutes, Security Deposit Interest Act (765 ILCS 715) | 1 | 2026-04-20 to 2026-04-20 |
+| `ilcs-765-721` | Illinois Compiled Statutes, Landlord Retaliation Act (765 ILCS 721) | 1 | 2026-05-13 to 2026-05-13 |
+| `ilcs-765-725` | Illinois Compiled Statutes, Property Taxes of Noncitizen Landlords Act (765 ILCS 725) | 1 | 2026-05-07 to 2026-05-07 |
+| `ilcs-765-730` | Illinois Compiled Statutes, Rent Concession Act (765 ILCS 730) | 1 | 2026-08-12 to 2026-08-12 |
+| `ilcs-765-735` | Illinois Compiled Statutes, Rental Property Utility Service Act (765 ILCS 735) | 1 | 2026-09-04 to 2026-09-04 |
+| `ilcs-765-740` | Illinois Compiled Statutes, Tenant Utility Payment Disclosure Act (765 ILCS 740) | 1 | 2026-07-19 to 2026-07-19 |
+| `ilcs-765-742` | Illinois Compiled Statutes, Residential Tenants' Right to Repair Act (765 ILCS 742) | 1 | 2026-10-10 to 2026-10-10 |
+| `ilcs-765-745` | Illinois Compiled Statutes, Mobile Home Landlord and Tenant Rights Act (765 ILCS 745) | 1 | 2026-03-14 to 2026-03-14 |
+| `ilcs-765-750` | Illinois Compiled Statutes, Safe Homes Act (765 ILCS 750) | 1 | 2026-05-18 to 2026-05-18 |
+| `ilcs-765-752` | Illinois Compiled Statutes, Summary of Rights for Safer Homes Act (765 ILCS 752) | 1 | 2026-05-20 to 2026-05-20 |
+| `ilcs-765-755` | Illinois Compiled Statutes, Immigrant Tenant Protection Act (765 ILCS 755) | 1 | 2026-04-19 to 2026-04-19 |
+| `ilcs-765-805` | Illinois Compiled Statutes, Conveyance of Burial Places to County Act (765 ILCS 805) | 1 | 2026-05-12 to 2026-05-12 |
+| `ilcs-765-815` | Illinois Compiled Statutes, Cemetery Association Land Not Used for Burial Act (765 ILCS 815) | 1 | 2026-05-10 to 2026-05-10 |
+| `ilcs-765-820` | Illinois Compiled Statutes, Cemetery Land Ownership and Transfer Act (765 ILCS 820) | 1 | 2026-05-18 to 2026-05-18 |
+| `ilcs-765-825` | Illinois Compiled Statutes, City Sale or Lease of Land for Cemeteries Act (765 ILCS 825) | 1 | 2026-04-22 to 2026-04-22 |
+| `ilcs-765-830` | Illinois Compiled Statutes, Cemetery Removal Act (765 ILCS 830) | 1 | 2026-04-19 to 2026-04-19 |
+| `ilcs-765-835` | Illinois Compiled Statutes, Cemetery Protection Act (765 ILCS 835) | 1 | 2026-04-22 to 2026-04-22 |
+| `ilcs-765-905` | Illinois Compiled Statutes, Mortgage Act (765 ILCS 905) | 1 | 2026-03-15 to 2026-03-15 |
+| `ilcs-765-910` | Illinois Compiled Statutes, Mortgage Escrow Account Act (765 ILCS 910) | 1 | 2026-08-24 to 2026-08-24 |
+| `ilcs-765-915` | Illinois Compiled Statutes, Mortgage Tax Escrow Act (765 ILCS 915) | 1 | 2026-02-12 to 2026-02-12 |
+| `ilcs-765-920` | Illinois Compiled Statutes, Mortgage Payment Statement Act (765 ILCS 920) | 1 | 2026-05-09 to 2026-05-09 |
+| `ilcs-765-925` | Illinois Compiled Statutes, Notice of Prepayment of Federally Subsidized Mortgage Act (765 ILCS 925) | 1 | 2026-05-21 to 2026-05-21 |
+| `ilcs-765-930` | Illinois Compiled Statutes, Mortgage Insurance Limitation and Notification Act (765 ILCS 930) | 1 | 2026-03-06 to 2026-03-06 |
+| `ilcs-765-935` | Illinois Compiled Statutes, Mortgage Certificate of Release Act (765 ILCS 935) | 1 | 2026-08-08 to 2026-08-08 |
+| `ilcs-765-940` | Illinois Compiled Statutes, Mortgage Rescue Fraud Act (765 ILCS 940) | 1 | 2026-03-11 to 2026-03-11 |
+| `ilcs-765-945` | Illinois Compiled Statutes, Reverse Mortgage Act (765 ILCS 945) | 1 | 2026-08-08 to 2026-08-08 |
+| `ilcs-765-1005` | Illinois Compiled Statutes, Joint Tenancy Act (765 ILCS 1005) | 1 | 2026-05-14 to 2026-05-14 |
+| `ilcs-765-1010` | Illinois Compiled Statutes, Electricity and Gas Joint Ownership Act (765 ILCS 1010) | 1 | 2026-04-20 to 2026-04-20 |
+| `ilcs-765-1015` | Illinois Compiled Statutes, Bailment Insurance Act (765 ILCS 1015) | 1 | 2026-02-08 to 2026-02-08 |
 
-The build made 2300 commits:
+The build made 2492 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 2294 | first version of an act |
+| 2486 | first version of an act |
 | 0 | one law on its in-force day |
 | 6 | changes no amendment note explains, credited to the publisher |
 
@@ -2322,7 +2514,7 @@ Other counts:
 - 0 commits on the branch `future`: laws not yet in force on 2026-11-10.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
 - 0 laws in the record.
-- 2300 tags.
+- 2492 tags.
 
 ## Dates
 
@@ -2334,7 +2526,7 @@ When a law gives no date of its own, the default rule applies: No dated history 
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `23beeddb78271c794210925f72e08aa8ef063c5c388b78fb5859ef3082238f6a` (55948717 bytes).
+- Corpus: sha256 `0883ce10388f51eaa8b9c5e8b887d9281d190f2c7a2ab327c29ca0d47a678c33` (58633047 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `3024ff164c261807dfc4d5b7b1b4a2cde4357da1`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.12.10; git version 2.46.0.windows.1.
 

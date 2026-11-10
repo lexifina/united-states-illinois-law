@@ -1,0 +1,10 @@
+# Illinois Compiled Statutes, Mine Subsidence Disclosure Act (765 ILCS 95)
+
+765 ILCS 95 · 1 versions, from 2026-04-22 (latest in force: 2026-04-22) · <https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2157>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| 765 ILCS 95/1 | [sec-0001.md](sec-0001.md) | 0 |  |
+| 765 ILCS 95/2 | [sec-0002.md](sec-0002.md) | 0 |  |
+| 765 ILCS 95/3 | [sec-0003.md](sec-0003.md) | 0 |  |
+| 765 ILCS 95/4 | [sec-0004.md](sec-0004.md) | 0 |  |
