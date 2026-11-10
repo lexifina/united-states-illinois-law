@@ -1,0 +1,53 @@
+# Illinois Compiled Statutes, Vital Records Act (410 ILCS 535)
+
+410 ILCS 535 · 1 versions, from 2026-05-15 (latest in force: 2026-05-15) · <https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1573>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| 410 ILCS 535/1 | [sec-0001.md](sec-0001.md) | 0 |  |
+| 410 ILCS 535/2 | [sec-0002.md](sec-0002.md) | 0 |  |
+| 410 ILCS 535/3 | [sec-0003.md](sec-0003.md) | 0 |  |
+| 410 ILCS 535/3.1 | [sec-0003-0001.md](sec-0003-0001.md) | 0 |  |
+| 410 ILCS 535/4 | [sec-0004.md](sec-0004.md) | 0 |  |
+| 410 ILCS 535/5 | [sec-0005.md](sec-0005.md) | 0 |  |
+| 410 ILCS 535/6 | [sec-0006.md](sec-0006.md) | 0 |  |
+| 410 ILCS 535/7 | [sec-0007.md](sec-0007.md) | 0 |  |
+| 410 ILCS 535/8 | [sec-0008.md](sec-0008.md) | 0 |  |
+| 410 ILCS 535/9 | [sec-0009.md](sec-0009.md) | 0 |  |
+| 410 ILCS 535/10 | [sec-0010.md](sec-0010.md) | 0 |  |
+| 410 ILCS 535/11 | [sec-0011.md](sec-0011.md) | 0 |  |
+| 410 ILCS 535/12 | [sec-0012.md](sec-0012.md) | 0 |  |
+| 410 ILCS 535/13 | [sec-0013.md](sec-0013.md) | 0 |  |
+| 410 ILCS 535/14 | [sec-0014.md](sec-0014.md) | 0 |  |
+| 410 ILCS 535/15 | [sec-0015.md](sec-0015.md) | 0 |  |
+| 410 ILCS 535/15.1 | [sec-0015-0001.md](sec-0015-0001.md) | 0 |  |
+| 410 ILCS 535/16 | [sec-0016.md](sec-0016.md) | 0 |  |
+| 410 ILCS 535/16.1 | [sec-0016-0001.md](sec-0016-0001.md) | 0 |  |
+| 410 ILCS 535/17 | [sec-0017.md](sec-0017.md) | 0 |  |
+| 410 ILCS 535/17.5 | [sec-0017-0005.md](sec-0017-0005.md) | 0 |  |
+| 410 ILCS 535/18 | [sec-0018.md](sec-0018.md) | 0 |  |
+| 410 ILCS 535/18.5 | [sec-0018-0005.md](sec-0018-0005.md) | 0 |  |
+| 410 ILCS 535/19 | [sec-0019.md](sec-0019.md) | 0 |  |
+| 410 ILCS 535/20 | [sec-0020.md](sec-0020.md) | 0 |  |
+| 410 ILCS 535/20.5 | [sec-0020-0005.md](sec-0020-0005.md) | 0 |  |
+| 410 ILCS 535/21 | [sec-0021.md](sec-0021.md) | 0 |  |
+| 410 ILCS 535/21.5 | [sec-0021-0005.md](sec-0021-0005.md) | 0 |  |
+| 410 ILCS 535/21.7 | [sec-0021-0007.md](sec-0021-0007.md) | 0 |  |
+| 410 ILCS 535/22 | [sec-0022.md](sec-0022.md) | 0 |  |
+| 410 ILCS 535/23 | [sec-0023.md](sec-0023.md) | 0 |  |
+| 410 ILCS 535/24 | [sec-0024.md](sec-0024.md) | 0 |  |
+| 410 ILCS 535/24.1 | [sec-0024-0001.md](sec-0024-0001.md) | 0 |  |
+| 410 ILCS 535/24.5 | [sec-0024-0005.md](sec-0024-0005.md) | 0 |  |
+| 410 ILCS 535/24.6 | [sec-0024-0006.md](sec-0024-0006.md) | 0 |  |
+| 410 ILCS 535/25 | [sec-0025.md](sec-0025.md) | 0 |  |
+| 410 ILCS 535/25.1 | [sec-0025-0001.md](sec-0025-0001.md) | 0 |  |
+| 410 ILCS 535/25.2 | [sec-0025-0002.md](sec-0025-0002.md) | 0 |  |
+| 410 ILCS 535/25.3 | [sec-0025-0003.md](sec-0025-0003.md) | 0 |  |
+| 410 ILCS 535/25.4 | [sec-0025-0004.md](sec-0025-0004.md) | 0 |  |
+| 410 ILCS 535/25.5 | [sec-0025-0005.md](sec-0025-0005.md) | 0 |  |
+| 410 ILCS 535/25.6 | [sec-0025-0006.md](sec-0025-0006.md) | 0 |  |
+| 410 ILCS 535/25.7 | [sec-0025-0007.md](sec-0025-0007.md) | 0 |  |
+| 410 ILCS 535/26 | [sec-0026.md](sec-0026.md) | 0 |  |
+| 410 ILCS 535/27 | [sec-0027.md](sec-0027.md) | 0 |  |
+| 410 ILCS 535/28 | [sec-0028.md](sec-0028.md) | 0 |  |
+| 410 ILCS 535/29 | [sec-0029.md](sec-0029.md) | 0 |  |

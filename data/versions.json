@@ -23282,6 +23282,2918 @@
      "sha256": "04e11f24b172f3383c872659b2e920c7f34023940c6b00251e11f4bfa0a2c12c"
     }
    ]
+  },
+  {
+   "slug": "ilcs-410-37",
+   "short": "410 ILCS 37",
+   "title": "Illinois Compiled Statutes, Construction Site Temporary Restroom Facility Act (410 ILCS 37)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2704",
+   "versions": [
+    {
+     "from": "2026-02-07",
+     "units": 6,
+     "source_url": "https://web.archive.org/web/20260207205840/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2704&ChapterID=35&Chapter=PUBLIC%20HEALTH&MajorTopic=HEALTH%20AND%20SAFETY",
+     "sha256": "ac8e4182c674df526e52541cf48103bccdaf473d7d3a8c3d29aa8c731dd9fe68"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-410-39",
+   "short": "410 ILCS 39",
+   "title": "Illinois Compiled Statutes, Restroom Access Act (410 ILCS 39)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2726",
+   "versions": [
+    {
+     "from": "2026-05-20",
+     "units": 6,
+     "source_url": "https://web.archive.org/web/20260520065201/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2726&ChapterID=35&Chapter=PUBLIC%20HEALTH&MajorTopic=HEALTH%20AND%20SAFETY",
+     "sha256": "9edf0e7c2fe4657cce631c90cc7aed83e879d1f56a51e616138ef53974f18f32"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-410-43",
+   "short": "410 ILCS 43",
+   "title": "Illinois Compiled Statutes, Comprehensive Lead Education, Reduction, and Window Replacement Program Act (410 ILCS 43)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2936",
+   "versions": [
+    {
+     "from": "2026-05-13",
+     "units": 8,
+     "source_url": "https://web.archive.org/web/20260513012919/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2936&ChapterID=35&Chapter=PUBLIC%20HEALTH&MajorTopic=HEALTH%20AND%20SAFETY",
+     "sha256": "bc24d894fcded3973d3b2fec5fcdafd85bdd0fe6261f6feed4e67bff63892e76"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-410-45",
+   "short": "410 ILCS 45",
+   "title": "Illinois Compiled Statutes, Lead Poisoning Prevention Act (410 ILCS 45)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1523",
+   "versions": [
+    {
+     "from": "2026-07-02",
+     "units": 37,
+     "source_url": "https://web.archive.org/web/20260702005442/https://www.ilga.gov/legislation/ilcs/Articles?ChapterID=35&ChapterName=PUBLIC+HEALTH&ActName=Lead+Poisoning+Prevention+Act.&ActID=1523&ChapAct=410%C2%A0ILCS%C2%A045%2F",
+     "sha256": "601cdf723128cf802c8337685fac58f29d7215f17d2bd4a60f74c2fd796d6365"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-410-46",
+   "short": "410 ILCS 46",
+   "title": "Illinois Compiled Statutes, Mercury-added Product Prohibition Act (410 ILCS 46)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2482",
+   "versions": [
+    {
+     "from": "2026-05-21",
+     "units": 12,
+     "source_url": "https://web.archive.org/web/20260521195050/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2482&ChapterID=35&Chapter=PUBLIC%20HEALTH&MajorTopic=HEALTH%20AND%20SAFETY",
+     "sha256": "bef320831bea56b3bc1037253ea6fbdcfbc7d0f02b12c38ae9f1c2471de34c36"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-410-47",
+   "short": "410 ILCS 47",
+   "title": "Illinois Compiled Statutes, Poison Control System Act (410 ILCS 47)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1524",
+   "versions": [
+    {
+     "from": "2026-05-10",
+     "units": 5,
+     "source_url": "https://web.archive.org/web/20260510021121/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1524&ChapterID=35&Chapter=PUBLIC%20HEALTH&MajorTopic=HEALTH%20AND%20SAFETY",
+     "sha256": "c834ebf769d536be23e5e3b26675ae1b23ed1693e36b9ce5db8c6aec8b1ce4ea"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-410-48",
+   "short": "410 ILCS 48",
+   "title": "Illinois Compiled Statutes, Brominated Fire Retardant Prevention Act (410 ILCS 48)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2707",
+   "versions": [
+    {
+     "from": "2026-02-16",
+     "units": 9,
+     "source_url": "https://web.archive.org/web/20260216054804/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2707&ChapterID=35&Chapter=PUBLIC%20HEALTH&MajorTopic=HEALTH%20AND%20SAFETY",
+     "sha256": "46abcd3d1d413b4707a7eab775acb819dc5f8ffb50e682b175e138cdf80c4131"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-410-50",
+   "short": "410 ILCS 50",
+   "title": "Illinois Compiled Statutes, Medical Patient Rights Act (410 ILCS 50)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1525",
+   "versions": [
+    {
+     "from": "2026-04-22",
+     "units": 20,
+     "source_url": "https://web.archive.org/web/20260422120429/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1525&ChapterID=35",
+     "sha256": "1050afcda81feb2cbb54a80d6c45c1b15f99bbf0030ce7fda8a07c3cba6e9084"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-410-51",
+   "short": "410 ILCS 51",
+   "title": "Illinois Compiled Statutes, Mercury-Free Vaccine Act (410 ILCS 51)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2739",
+   "versions": [
+    {
+     "from": "2026-05-15",
+     "units": 4,
+     "source_url": "https://web.archive.org/web/20260515114410/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2739&ChapterID=35&Chapter=PUBLIC%20HEALTH&MajorTopic=HEALTH%20AND%20SAFETY",
+     "sha256": "0b39aaa7cfe833df0c283db8155f489022e326d2c8984086b757c6728c186212"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-410-53",
+   "short": "410 ILCS 53",
+   "title": "Illinois Compiled Statutes, Suicide Prevention, Education, and Treatment Act (410 ILCS 53)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2611",
+   "versions": [
+    {
+     "from": "2026-05-16",
+     "units": 9,
+     "source_url": "https://web.archive.org/web/20260516174247/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2611&ChapterID=35",
+     "sha256": "53ebdcc11c67610cdd4a177f0edfd895c6872ccfa6b6d15d99afbe03665a33e4"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-410-54",
+   "short": "410 ILCS 54",
+   "title": "Illinois Compiled Statutes, Tattoo and Body Piercing Establishment Registration Act (410 ILCS 54)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2818",
+   "versions": [
+    {
+     "from": "2026-04-20",
+     "units": 22,
+     "source_url": "https://web.archive.org/web/20260420070824/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2818&ChapterID=35&Chapter=PUBLIC%20HEALTH&MajorTopic=HEALTH%20AND%20SAFETY",
+     "sha256": "3306ab61f79e41a4696b4523548d4bba6806cc241037de2fcba02bd4b0666b6f"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-410-55",
+   "short": "410 ILCS 55",
+   "title": "Illinois Compiled Statutes, Telecommunication Devices for the Deaf Act (410 ILCS 55)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1526",
+   "versions": [
+    {
+     "from": "2026-05-12",
+     "units": 6,
+     "source_url": "https://web.archive.org/web/20260512192201/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1526&ChapterID=35&Chapter=PUBLIC%20HEALTH&MajorTopic=HEALTH%20AND%20SAFETY",
+     "sha256": "1cb9620d6a1f40df392aff5443c58fbf9399a9cff932c223ef66f0531fd36403"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-410-60",
+   "short": "410 ILCS 60",
+   "title": "Illinois Compiled Statutes, Toxicological Laboratory Service Act (410 ILCS 60)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1527",
+   "versions": [
+    {
+     "from": "2026-02-13",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20260213232850/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1527&ChapterID=35&Chapter=PUBLIC%20HEALTH&MajorTopic=HEALTH%20AND%20SAFETY",
+     "sha256": "fa95f467df089584d53eb8594911f52a4daa596c55b2b9e065cbd5b674bbcf66"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-410-65",
+   "short": "410 ILCS 65",
+   "title": "Illinois Compiled Statutes, Illinois Rural/Downstate Health Act (410 ILCS 65)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1528",
+   "versions": [
+    {
+     "from": "2026-03-14",
+     "units": 9,
+     "source_url": "https://web.archive.org/web/20260314191939/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1528&ChapterID=35&Chapter=PUBLIC%20HEALTH&MajorTopic=HEALTH%20AND%20SAFETY",
+     "sha256": "41208b53c954bba1daf95ffe9509dfb511a2f9d894c8a475de44424d419274ad"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-410-66",
+   "short": "410 ILCS 66",
+   "title": "Illinois Compiled Statutes, Community Health Center Expansion Act (410 ILCS 66)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1529",
+   "versions": [
+    {
+     "from": "2026-03-10",
+     "units": 9,
+     "source_url": "https://web.archive.org/web/20260310213201/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1529&ChapterID=35&Chapter=PUBLIC%20HEALTH&MajorTopic=HEALTH%20AND%20SAFETY",
+     "sha256": "67f0cdbd1ec049c964b7cd126742ec1ddf3f1a6054afabf1dfab6320054ead54"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-410-68",
+   "short": "410 ILCS 68",
+   "title": "Illinois Compiled Statutes, Safe and Hygienic Bed Act (410 ILCS 68)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1530",
+   "versions": [
+    {
+     "from": "2026-05-09",
+     "units": 12,
+     "source_url": "https://web.archive.org/web/20260509204207/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1530&ChapterID=35&Chapter=PUBLIC%20HEALTH&MajorTopic=HEALTH%20AND%20SAFETY",
+     "sha256": "ffdd7c8c12e9fe4f4b8abd312ed58a9433570f58eaf3c22c586df9e7ff6451c2"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-410-70",
+   "short": "410 ILCS 70",
+   "title": "Illinois Compiled Statutes, Sexual Assault Survivors Emergency Treatment Act (410 ILCS 70)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1531",
+   "versions": [
+    {
+     "from": "2026-05-15",
+     "units": 51,
+     "source_url": "https://web.archive.org/web/20260515222504/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1531&ChapterID=35&Chapter=PUBLIC%20HEALTH&MajorTopic=HEALTH%20AND%20SAFETY",
+     "sha256": "387a9339b8c0ce05555fbad4b45db19ebb74ebb023671409eee1b8f3e6e49deb"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-410-75",
+   "short": "410 ILCS 75",
+   "title": "Illinois Compiled Statutes, Smokeless Tobacco Outdoor Advertising Act (410 ILCS 75)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1532",
+   "versions": [
+    {
+     "from": "2026-04-23",
+     "units": 3,
+     "source_url": "https://web.archive.org/web/20260423023902/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1532&ChapterID=35&Chapter=PUBLIC%20HEALTH&MajorTopic=HEALTH%20AND%20SAFETY",
+     "sha256": "b3e0bbe8d9e81f5b38a3cbab48c62717e26ae8367aedf36e3bdf06234b5caa8e"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-410-76",
+   "short": "410 ILCS 76",
+   "title": "Illinois Compiled Statutes, Tobacco Products Compliance Act (410 ILCS 76)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=4036",
+   "versions": [
+    {
+     "from": "2026-05-13",
+     "units": 6,
+     "source_url": "https://web.archive.org/web/20260513131003/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=4036&ChapterID=35&Chapter=PUBLIC%20HEALTH&MajorTopic=HEALTH%20AND%20SAFETY",
+     "sha256": "682594a64e5845a33cabc5f73cbedaa2db59ba354aba7ac96240ecce880984bb"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-410-82",
+   "short": "410 ILCS 82",
+   "title": "Illinois Compiled Statutes, Smoke Free Illinois Act (410 ILCS 82)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2893",
+   "versions": [
+    {
+     "from": "2026-09-22",
+     "units": 18,
+     "source_url": "https://web.archive.org/web/20260922171259/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2893&ChapterID=35",
+     "sha256": "d1bf07b583f2263f08de84922114b6cf790e50c6cad2e755820e6237e5af1888"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-410-83",
+   "short": "410 ILCS 83",
+   "title": "Illinois Compiled Statutes, Illinois Clean Public Elevator Air Act (410 ILCS 83)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3453",
+   "versions": [
+    {
+     "from": "2026-03-14",
+     "units": 4,
+     "source_url": "https://web.archive.org/web/20260314141955/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3453&ChapterID=35&Chapter=PUBLIC%20HEALTH&MajorTopic=HEALTH%20AND%20SAFETY",
+     "sha256": "9b69c0d660cdce01e5de19b107385974ae455029fd6e880816152117b2a2cdd5"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-410-85",
+   "short": "410 ILCS 85",
+   "title": "Illinois Compiled Statutes, Cigarette Health Warning Act (410 ILCS 85)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1534",
+   "versions": [
+    {
+     "from": "2026-04-16",
+     "units": 6,
+     "source_url": "https://web.archive.org/web/20260416143128/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1534&ChapterID=35&Chapter=PUBLIC%20HEALTH&MajorTopic=HEALTH%20AND%20SAFETY",
+     "sha256": "5f234a451f2217a6a1a5b1bf96a567105c66d2cccb535c69cb6441017fb706bd"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-410-86",
+   "short": "410 ILCS 86",
+   "title": "Illinois Compiled Statutes, Preventing Youth Vaping Act (410 ILCS 86)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=4209",
+   "versions": [
+    {
+     "from": "2026-04-20",
+     "units": 11,
+     "source_url": "https://web.archive.org/web/20260420054040/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=4209&ChapterID=35&Chapter=PUBLIC%20HEALTH&MajorTopic=HEALTH%20AND%20SAFETY",
+     "sha256": "62434ccabd8b58501bf362a00a01b9edd21628208887d7f5f9040f77b51c44cc"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-410-87",
+   "short": "410 ILCS 87",
+   "title": "Illinois Compiled Statutes, Indoor Air Quality Act (410 ILCS 87)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1535",
+   "versions": [
+    {
+     "from": "2026-05-15",
+     "units": 4,
+     "source_url": "https://web.archive.org/web/20260515171503/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1535&ChapterID=35&Chapter=PUBLIC%20HEALTH&MajorTopic=HEALTH%20AND%20SAFETY",
+     "sha256": "e928cc4816561183e84ca84bb594bd87a377414e8ff2bdecd35bc515df3145a6"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-410-90",
+   "short": "410 ILCS 90",
+   "title": "Illinois Compiled Statutes, Pest and Predatory Animal Control Act (410 ILCS 90)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1536",
+   "versions": [
+    {
+     "from": "2026-05-21",
+     "units": 5,
+     "source_url": "https://web.archive.org/web/20260521210749/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1536&ChapterID=35&Chapter=PUBLIC%20HEALTH&MajorTopic=HEALTH%20AND%20SAFETY",
+     "sha256": "57fef6b9d20752188f8e586263e553e7e27617c429d0f324e8a580d19f4e8e30"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-410-95",
+   "short": "410 ILCS 95",
+   "title": "Illinois Compiled Statutes, Vector Control Act (410 ILCS 95)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1537",
+   "versions": [
+    {
+     "from": "2026-05-12",
+     "units": 11,
+     "source_url": "https://web.archive.org/web/20260512041225/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1537&ChapterID=35&Chapter=PUBLIC%20HEALTH&MajorTopic=HEALTH%20AND%20SAFETY",
+     "sha256": "4615e7814d994c2d524c0178b1be1b643092444c992e49d5a3993906dd5f290a"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-410-100",
+   "short": "410 ILCS 100",
+   "title": "Illinois Compiled Statutes, Reduction of Racial and Ethnic Health Disparities Act (410 ILCS 100)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2725",
+   "versions": [
+    {
+     "from": "2026-04-11",
+     "units": 8,
+     "source_url": "https://web.archive.org/web/20260411140104/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2725&ChapterID=35&Chapter=PUBLIC%20HEALTH&MajorTopic=HEALTH%20AND%20SAFETY",
+     "sha256": "306519c4024066be94b1438f6a529fe3695bda2bda15545127801f6898bde90c"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-410-105",
+   "short": "410 ILCS 105",
+   "title": "Illinois Compiled Statutes, Mold Remediation Registration Act (410 ILCS 105)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2931",
+   "versions": [
+    {
+     "from": "2026-05-09",
+     "units": 8,
+     "source_url": "https://web.archive.org/web/20260509203203/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2931&ChapterID=35&Chapter=PUBLIC%20HEALTH&MajorTopic=HEALTH%20AND%20SAFETY",
+     "sha256": "ec43b83659bac47525e7385058fc4277749d969bace8061859961005e2b30ae7"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-410-110",
+   "short": "410 ILCS 110",
+   "title": "Illinois Compiled Statutes, Stem Cell Research and Human Cloning Prohibition Act (410 ILCS 110)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2938",
+   "versions": [
+    {
+     "from": "2026-05-20",
+     "units": 11,
+     "source_url": "https://web.archive.org/web/20260520014749/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2938&ChapterID=35&Chapter=PUBLIC%20HEALTH&MajorTopic=HEALTH%20AND%20SAFETY",
+     "sha256": "c109f54ac9e939de9972b429cbf2dbb8b7d7f04220e8188d2c67003122850d7e"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-410-120",
+   "short": "410 ILCS 120",
+   "title": "Illinois Compiled Statutes, MRSA Prevention, Control, and Reporting Act (410 ILCS 120)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3133",
+   "versions": [
+    {
+     "from": "2026-04-12",
+     "units": 4,
+     "source_url": "https://web.archive.org/web/20260412033452/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3133&ChapterID=35&Chapter=PUBLIC%20HEALTH&MajorTopic=HEALTH%20AND%20SAFETY",
+     "sha256": "08b78fee936451152d5db338f191e971b82c2ecce7f360bc0cc434194c70395c"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-410-125",
+   "short": "410 ILCS 125",
+   "title": "Illinois Compiled Statutes, Public Health Standing Orders Act (410 ILCS 125)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3385",
+   "versions": [
+    {
+     "from": "2026-04-19",
+     "units": 7,
+     "source_url": "https://web.archive.org/web/20260419060317/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3385&ChapterID=35&Chapter=PUBLIC%20HEALTH&MajorTopic=HEALTH%20AND%20SAFETY",
+     "sha256": "e6093393d37a6e83376820c9cf931dd9003df204ed8f8e628a580d540d960ad5"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-410-130",
+   "short": "410 ILCS 130",
+   "title": "Illinois Compiled Statutes, Compassionate Use of Medical Cannabis Program Act (410 ILCS 130)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3503",
+   "versions": [
+    {
+     "from": "2026-10-03",
+     "units": 63,
+     "source_url": "https://web.archive.org/web/20261003222702/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3503&ChapterID=35",
+     "sha256": "2a8be37e916158710d7545ccca3cb6549e0e7dff22ea0394875ade0834dfc9a8"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-410-135",
+   "short": "410 ILCS 135",
+   "title": "Illinois Compiled Statutes, Public Self-Care of Diabetes Act (410 ILCS 135)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3571",
+   "versions": [
+    {
+     "from": "2026-05-12",
+     "units": 5,
+     "source_url": "https://web.archive.org/web/20260512183521/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3571&ChapterID=35&Chapter=PUBLIC%20HEALTH&MajorTopic=HEALTH%20AND%20SAFETY",
+     "sha256": "3effe4d5b69b1e4b8799749d4d5145f633808da8b3227f2b8327065fe954e0c0"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-410-140",
+   "short": "410 ILCS 140",
+   "title": "Illinois Compiled Statutes, Lactation Accommodation in Airports Act (410 ILCS 140)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3650",
+   "versions": [
+    {
+     "from": "2026-05-12",
+     "units": 3,
+     "source_url": "https://web.archive.org/web/20260512002307/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3650&ChapterID=35&Chapter=PUBLIC%20HEALTH&MajorTopic=HEALTH%20AND%20SAFETY",
+     "sha256": "aeb0c868bcab2f89131c72bf49bc110843312188ef4d2fa1cd1db5fffd6017f0"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-410-145",
+   "short": "410 ILCS 145",
+   "title": "Illinois Compiled Statutes, Youth Sports Concussion Safety Act (410 ILCS 145)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3652",
+   "versions": [
+    {
+     "from": "2026-03-08",
+     "units": 8,
+     "source_url": "https://web.archive.org/web/20260308110727/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3652&ChapterID=35&Chapter=PUBLIC%20HEALTH&MajorTopic=HEALTH%20AND%20SAFETY",
+     "sha256": "080aba87ed71ac08735caec0d59037b3dbbaf6fe9a14a38c7884fba6dc61f207"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-410-150",
+   "short": "410 ILCS 150",
+   "title": "Illinois Compiled Statutes, Autism and Co-Occurring Medical Conditions Awareness Act (410 ILCS 150)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3729",
+   "versions": [
+    {
+     "from": "2026-05-16",
+     "units": 10,
+     "source_url": "https://web.archive.org/web/20260516145119/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3729&ChapterID=35&Chapter=PUBLIC%20HEALTH&MajorTopic=HEALTH%20AND%20SAFETY",
+     "sha256": "74a087447715b590f809703e3effc8f8e653072d50f7bfd2e049050d5d7e9eb4"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-410-155",
+   "short": "410 ILCS 155",
+   "title": "Illinois Compiled Statutes, Health in All Policies Act (410 ILCS 155)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=4012",
+   "versions": [
+    {
+     "from": "2026-05-21",
+     "units": 4,
+     "source_url": "https://web.archive.org/web/20260521195247/https://ilga.gov/Legislation/ILCS/Articles?ActID=4012&ChapterID=35&Chapter=PUBLIC%20HEALTH&MajorTopic=HEALTH%20AND%20SAFETY",
+     "sha256": "b7984ec06e4c505b4749e1bef24eb2e3964ecfd4a800f9426d09bf3054d29cf2"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-410-160",
+   "short": "410 ILCS 160",
+   "title": "Illinois Compiled Statutes, Dense Breast Tissue Act (410 ILCS 160)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=4034",
+   "versions": [
+    {
+     "from": "2026-05-10",
+     "units": 4,
+     "source_url": "https://web.archive.org/web/20260510025651/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=4034&ChapterID=35&Chapter=PUBLIC%20HEALTH&MajorTopic=HEALTH%20AND%20SAFETY",
+     "sha256": "b650a0d42a981c4948d6cb4f9ef946287fc44194f82017b1b77c1cae19503b9b"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-410-165-article-0072",
+   "short": "410 ILCS 165 art. 72",
+   "title": "Illinois Compiled Statutes, Underlying Causes of Crime and Violence Study Act (410 ILCS 165), Article 72",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=4091",
+   "versions": [
+    {
+     "from": "2026-06-06",
+     "units": 4,
+     "source_url": "https://web.archive.org/web/20260606174123/https://www.ilga.gov/legislation/ILCS/details?MajorTopic=HEALTH%20AND%20SAFETY&Chapter=PUBLIC%20HEALTH&ActName=Underlying%20Causes%20of%20Crime%20and%20Violence%20Study%20Act.&ActID=4091&ChapterID=35&SeqStart=&&ChapAct=FullText",
+     "sha256": "934d22760e6706e30371cd8460c4934d4e21c21b4518216ea4124e37716310a3"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-410-165-article-0999",
+   "short": "410 ILCS 165 art. 999",
+   "title": "Illinois Compiled Statutes, Underlying Causes of Crime and Violence Study Act (410 ILCS 165), Article 999",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=4091",
+   "versions": [
+    {
+     "from": "2026-06-06",
+     "units": 1,
+     "source_url": "https://web.archive.org/web/20260606174123/https://www.ilga.gov/legislation/ILCS/details?MajorTopic=HEALTH%20AND%20SAFETY&Chapter=PUBLIC%20HEALTH&ActName=Underlying%20Causes%20of%20Crime%20and%20Violence%20Study%20Act.&ActID=4091&ChapterID=35&SeqStart=&&ChapAct=FullText",
+     "sha256": "934d22760e6706e30371cd8460c4934d4e21c21b4518216ea4124e37716310a3"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-410-170",
+   "short": "410 ILCS 170",
+   "title": "Illinois Compiled Statutes, Coal Tar Sealant Disclosure Act (410 ILCS 170)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=4181",
+   "versions": [
+    {
+     "from": "2026-05-11",
+     "units": 6,
+     "source_url": "https://web.archive.org/web/20260511122729/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=4181&ChapterID=35&Chapter=PUBLIC%20HEALTH&MajorTopic=HEALTH%20AND%20SAFETY",
+     "sha256": "f999f0a2ecd0fe139df4c7c5b053c11f32fc8d05b9d6d09494b1e561ddf4f8e6"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-410-185",
+   "short": "410 ILCS 185",
+   "title": "Illinois Compiled Statutes, Abortion Care Clinical Training Program Act (410 ILCS 185)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=4341",
+   "versions": [
+    {
+     "from": "2026-05-15",
+     "units": 11,
+     "source_url": "https://web.archive.org/web/20260515115959/https://ilga.gov/Legislation/ILCS/Articles?ActID=4341&ChapterID=35&Chapter=PUBLIC%20HEALTH&MajorTopic=HEALTH%20AND%20SAFETY",
+     "sha256": "6513533c3162f3a21069b4914e5f48c086fdef5c952b8c56baba2661bc50ab51"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-410-190",
+   "short": "410 ILCS 190",
+   "title": "Illinois Compiled Statutes, One Health Commission Act (410 ILCS 190)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=4610",
+   "versions": [
+    {
+     "from": "2026-05-17",
+     "units": 4,
+     "source_url": "https://web.archive.org/web/20260517100202/https://ilga.gov/Legislation/ILCS/Articles?ActID=4610&ChapterID=35&Chapter=PUBLIC%20HEALTH&MajorTopic=HEALTH%20AND%20SAFETY",
+     "sha256": "e0158b0e6edc7a0c42219ba2cb591c1b9b8a69b04475332ef3dcb7303c72f9f6"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-410-201",
+   "short": "410 ILCS 201",
+   "title": "Illinois Compiled Statutes, Autism Spectrum Disorders Reporting Act (410 ILCS 201)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2742",
+   "versions": [
+    {
+     "from": "2026-03-12",
+     "units": 11,
+     "source_url": "https://web.archive.org/web/20260312105114/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2742&ChapterID=35&Chapter=PUBLIC%20HEALTH&MajorTopic=HEALTH%20AND%20SAFETY",
+     "sha256": "a941bab39b0fca4d7dc6717e7edc8a82437b3c2294603e8efe444fed1b891c7a"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-410-205",
+   "short": "410 ILCS 205",
+   "title": "Illinois Compiled Statutes, Child Vision and Hearing Test Act (410 ILCS 205)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1538",
+   "versions": [
+    {
+     "from": "2026-04-22",
+     "units": 7,
+     "source_url": "https://web.archive.org/web/20260422080507/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1538&ChapAct=410%C2%A0ILCS%C2%A0205/&ChapterID=35&ChapterName=PUBLIC%20HEALTH&ActName=Child%20Vision%20and%20Hearing%20Test%20Act.",
+     "sha256": "86b7f75408d9a87685859f759272fa2abe0c0386f23e79c765942373e115bb8e"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-410-210",
+   "short": "410 ILCS 210",
+   "title": "Illinois Compiled Statutes, Consent by Minors to Health Care Services Act (410 ILCS 210)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1539",
+   "versions": [
+    {
+     "from": "2026-05-10",
+     "units": 7,
+     "source_url": "https://web.archive.org/web/20260510014950/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1539&ChapterID=35&Chapter=PUBLIC%20HEALTH&MajorTopic=HEALTH%20AND%20SAFETY",
+     "sha256": "f87726f66924c01e87107955738504d026f04f8d0a59e57a0a40c8d18debe76e"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-410-212",
+   "short": "410 ILCS 212",
+   "title": "Illinois Compiled Statutes, Illinois Family Case Management Act (410 ILCS 212)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2724",
+   "versions": [
+    {
+     "from": "2026-03-05",
+     "units": 9,
+     "source_url": "https://web.archive.org/web/20260305114628/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2724&ChapterID=35&Chapter=PUBLIC%20HEALTH&MajorTopic=HEALTH%20AND%20SAFETY",
+     "sha256": "d7fc505f65ffd43a20771dd7718126b2daa23e31fc0199101daab000e35592b4"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-410-213",
+   "short": "410 ILCS 213",
+   "title": "Illinois Compiled Statutes, Early Hearing Detection and Intervention Act (410 ILCS 213)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1540",
+   "versions": [
+    {
+     "from": "2026-05-09",
+     "units": 10,
+     "source_url": "https://web.archive.org/web/20260509204228/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1540&ChapterID=35&Chapter=PUBLIC%20HEALTH&MajorTopic=HEALTH%20AND%20SAFETY",
+     "sha256": "fa8a170fddf1e53863eaae0ffa2a4c28137de6d18bfbaa150a31686c90737d0d"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-410-215",
+   "short": "410 ILCS 215",
+   "title": "Illinois Compiled Statutes, Infant Eye Disease Act (410 ILCS 215)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1541",
+   "versions": [
+    {
+     "from": "2026-04-13",
+     "units": 9,
+     "source_url": "https://web.archive.org/web/20260413012134/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1541&ChapterID=35&Chapter=PUBLIC%20HEALTH&MajorTopic=HEALTH%20AND%20SAFETY",
+     "sha256": "4a407fcf38c35c8ecfe9077c0c5769adf33230ccc9fd46276dec42b8404ae356"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-410-221",
+   "short": "410 ILCS 221",
+   "title": "Illinois Compiled Statutes, Advisory Board for the Maternal and Child Health Block Grant Programs Act (410 ILCS 221)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3744",
+   "versions": [
+    {
+     "from": "2026-04-20",
+     "units": 9,
+     "source_url": "https://web.archive.org/web/20260420150147/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3744&ChapterID=35&Chapter=PUBLIC%20HEALTH&MajorTopic=HEALTH%20AND%20SAFETY",
+     "sha256": "67d937706102a4593e500228ec3f1a6d4050f88774fc8bfbf44c0aebdb5910a6"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-410-223",
+   "short": "410 ILCS 223",
+   "title": "Illinois Compiled Statutes, Newborn Eye Pathology Act (410 ILCS 223)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2741",
+   "versions": [
+    {
+     "from": "2026-05-13",
+     "units": 6,
+     "source_url": "https://web.archive.org/web/20260513133719/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2741&ChapterID=35&Chapter=PUBLIC%20HEALTH&MajorTopic=HEALTH%20AND%20SAFETY",
+     "sha256": "2082fa0f16b56f416d4cbaa34abf32476b3e58af651817a6258f0d915149ac9c"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-410-225",
+   "short": "410 ILCS 225",
+   "title": "Illinois Compiled Statutes, Prenatal and Newborn Care Act (410 ILCS 225)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1543",
+   "versions": [
+    {
+     "from": "2026-04-11",
+     "units": 9,
+     "source_url": "https://web.archive.org/web/20260411080503/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1543&ChapterID=35&Chapter=PUBLIC%20HEALTH&MajorTopic=HEALTH%20AND%20SAFETY",
+     "sha256": "9ba1e6edb1f9a4f17ebcbfdf8e357b2182ef45715398f585db142f5155935a55"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-410-235",
+   "short": "410 ILCS 235",
+   "title": "Illinois Compiled Statutes, Pertussis Vaccine Act (410 ILCS 235)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1545",
+   "versions": [
+    {
+     "from": "2026-05-20",
+     "units": 9,
+     "source_url": "https://web.archive.org/web/20260520142924/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1545&ChapterID=35&Chapter=PUBLIC%20HEALTH&MajorTopic=HEALTH%20AND%20SAFETY",
+     "sha256": "14a0a5d4c4e0af7bec748cb3786796d23247d63c8bffc227fa021522c8b32351"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-410-240",
+   "short": "410 ILCS 240",
+   "title": "Illinois Compiled Statutes, Newborn Metabolic Screening Act (410 ILCS 240)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1546",
+   "versions": [
+    {
+     "from": "2026-05-14",
+     "units": 13,
+     "source_url": "https://web.archive.org/web/20260514140237/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1546&ChapterID=35&Chapter=PUBLIC%20HEALTH&MajorTopic=HEALTH%20AND%20SAFETY",
+     "sha256": "bce4f98182c1646efdf5a0cc96e365aca36a130c9008a75c9dace72ea10cb912"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-410-250",
+   "short": "410 ILCS 250",
+   "title": "Illinois Compiled Statutes, Developmental Disability Prevention Act (410 ILCS 250)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1548",
+   "versions": [
+    {
+     "from": "2026-04-10",
+     "units": 15,
+     "source_url": "https://web.archive.org/web/20260410084057/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1548&ChapterID=35&Chapter=PUBLIC%20HEALTH&MajorTopic=HEALTH%20AND%20SAFETY",
+     "sha256": "08523dc27bdacabdf7636eb9f4c9d90e13e8bc548196f0b20b73d6fda9d8785b"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-410-255",
+   "short": "410 ILCS 255",
+   "title": "Illinois Compiled Statutes, WIC Vendor Management Act (410 ILCS 255)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1549",
+   "versions": [
+    {
+     "from": "2026-05-12",
+     "units": 10,
+     "source_url": "https://web.archive.org/web/20260512025936/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1549&ChapterID=35&Chapter=PUBLIC%20HEALTH&MajorTopic=HEALTH%20AND%20SAFETY",
+     "sha256": "a3f8037eab4c3bfeb6bf96eca468e6e5ab9904c3f65fa7295e88dbde7161a2c8"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-410-260",
+   "short": "410 ILCS 260",
+   "title": "Illinois Compiled Statutes, Shaken Baby Prevention Act (410 ILCS 260)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2713",
+   "versions": [
+    {
+     "from": "2026-05-08",
+     "units": 8,
+     "source_url": "https://web.archive.org/web/20260508122023/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2713&ChapterID=35&Chapter=PUBLIC%20HEALTH&MajorTopic=HEALTH%20AND%20SAFETY",
+     "sha256": "f46e7f03975c92aff8aaa5b80ffdac32fbd8a23d3e86adc59312f6c0ee7ff869"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-410-265",
+   "short": "410 ILCS 265",
+   "title": "Illinois Compiled Statutes, Genetic and Metabolic Diseases Advisory Committee Act (410 ILCS 265)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2956",
+   "versions": [
+    {
+     "from": "2026-04-10",
+     "units": 5,
+     "source_url": "https://web.archive.org/web/20260410100047/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2956&ChapterID=35&Chapter=PUBLIC%20HEALTH&MajorTopic=HEALTH%20AND%20SAFETY",
+     "sha256": "ca3360720c1eab311caa544689fa9486f04e6664f0ab50c5f736c4b6abeded2a"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-410-270",
+   "short": "410 ILCS 270",
+   "title": "Illinois Compiled Statutes, Reducing the Risk of Skin Cancer and Excessive UV Exposure in Children Act (410 ILCS 270)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3931",
+   "versions": [
+    {
+     "from": "2026-04-14",
+     "units": 6,
+     "source_url": "https://web.archive.org/web/20260414221917/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3931&ChapterID=35&Chapter=PUBLIC%20HEALTH&MajorTopic=HEALTH%20AND%20SAFETY",
+     "sha256": "40c119d845ae31c9911abfea2e8c934ad5c2a10c82a7424cfc1fa09737878fb3"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-410-303",
+   "short": "410 ILCS 303",
+   "title": "Illinois Compiled Statutes, African-American HIV/AIDS Response Act (410 ILCS 303)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2738",
+   "versions": [
+    {
+     "from": "2026-05-18",
+     "units": 14,
+     "source_url": "https://web.archive.org/web/20260518032009/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2738&ChapterID=35&Chapter=PUBLIC%20HEALTH&MajorTopic=HEALTH%20AND%20SAFETY",
+     "sha256": "c23bd0dbc9038e20ad6c9fc8e1e65543ed4b28ffcd9569b310a7f915688333f5"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-410-305",
+   "short": "410 ILCS 305",
+   "title": "Illinois Compiled Statutes, AIDS Confidentiality Act (410 ILCS 305)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1550",
+   "versions": [
+    {
+     "from": "2026-05-08",
+     "units": 29,
+     "source_url": "https://web.archive.org/web/20260508092346/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1550&ChapterID=35&Chapter=PUBLIC%20HEALTH&MajorTopic=HEALTH%20AND%20SAFETY",
+     "sha256": "94352ecc24c7ebccbf3a222ed1acb92179d5e6095da83ee00f4438419f957724"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-410-310",
+   "short": "410 ILCS 310",
+   "title": "Illinois Compiled Statutes, HIV/AIDS Registry Act (410 ILCS 310)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1551",
+   "versions": [
+    {
+     "from": "2026-05-13",
+     "units": 8,
+     "source_url": "https://web.archive.org/web/20260513074007/https://ilga.gov/Legislation/ILCS/Articles?ActID=1551&ChapterID=35&Chapter=PUBLIC%20HEALTH&MajorTopic=HEALTH%20AND%20SAFETY",
+     "sha256": "bcb145dbd6ae978638168c442c2f901b91e2ebf204729cd5e1a3db9e555017af"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-410-312",
+   "short": "410 ILCS 312",
+   "title": "Illinois Compiled Statutes, Infectious Disease Testing Act (410 ILCS 312)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3805",
+   "versions": [
+    {
+     "from": "2026-02-11",
+     "units": 4,
+     "source_url": "https://web.archive.org/web/20260211213243/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3805&ChapterID=35&Chapter=PUBLIC%20HEALTH&MajorTopic=HEALTH%20AND%20SAFETY",
+     "sha256": "bbc4591d8c23a824e66067a8c388403686303a075a82ac91cd754631cd6ebdcb"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-410-315",
+   "short": "410 ILCS 315",
+   "title": "Illinois Compiled Statutes, Communicable Disease Prevention Act (410 ILCS 315)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1552",
+   "versions": [
+    {
+     "from": "2026-03-10",
+     "units": 14,
+     "source_url": "https://web.archive.org/web/20260310153804/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1552&ChapterID=35&Chapter=PUBLIC%20HEALTH&MajorTopic=HEALTH%20AND%20SAFETY",
+     "sha256": "e9331ca61586fe6b52a90b8d198ba2632a9ee593103d748929e1b344b69d0e90"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-410-316",
+   "short": "410 ILCS 316",
+   "title": "Illinois Compiled Statutes, Ryan White Fund Validation Act (410 ILCS 316)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2804",
+   "versions": [
+    {
+     "from": "2026-05-21",
+     "units": 3,
+     "source_url": "https://web.archive.org/web/20260521010928/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2804&ChapterID=35&Chapter=PUBLIC%20HEALTH&MajorTopic=HEALTH%20AND%20SAFETY",
+     "sha256": "7e996fcdc122ea0eaf1bd8fa521b7be792f9b8d2a54f6dacbc087f23294b65de"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-410-320",
+   "short": "410 ILCS 320",
+   "title": "Illinois Compiled Statutes, Prenatal Syphilis Act (410 ILCS 320)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1553",
+   "versions": [
+    {
+     "from": "2026-05-20",
+     "units": 4,
+     "source_url": "https://web.archive.org/web/20260520070836/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1553&ChapterID=35&Chapter=PUBLIC%20HEALTH&MajorTopic=HEALTH%20AND%20SAFETY",
+     "sha256": "aa8d27e2432a6c37f8d422fc770758c794b76139fcbd6b4d3987f070d3ebfd5a"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-410-325",
+   "short": "410 ILCS 325",
+   "title": "Illinois Compiled Statutes, Illinois Sexually Transmitted Infection Control Act (410 ILCS 325)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1554",
+   "versions": [
+    {
+     "from": "2026-05-15",
+     "units": 11,
+     "source_url": "https://web.archive.org/web/20260515203646/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1554&ChapterID=35",
+     "sha256": "8cc6482537c322f97cc25702eaedb2b60776c12a62c59e19bc93e3a45aed1ea7"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-410-330",
+   "short": "410 ILCS 330",
+   "title": "Illinois Compiled Statutes, Polio Vaccine Act (410 ILCS 330)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1555",
+   "versions": [
+    {
+     "from": "2026-05-20",
+     "units": 3,
+     "source_url": "https://web.archive.org/web/20260520073951/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1555&ChapterID=35&Chapter=PUBLIC%20HEALTH&MajorTopic=HEALTH%20AND%20SAFETY",
+     "sha256": "bc29dbc869fae47f3cbca6c8213e6a1d01c1c8e9743b7fe396f988903a1dc5b2"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-410-335",
+   "short": "410 ILCS 335",
+   "title": "Illinois Compiled Statutes, Perinatal HIV Prevention Act (410 ILCS 335)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2483",
+   "versions": [
+    {
+     "from": "2026-03-15",
+     "units": 9,
+     "source_url": "https://web.archive.org/web/20260315174447/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2483&ChapterID=35",
+     "sha256": "6ec20cd30aeec92803b9b45613d8e04a346618a7e4225a6ab2b9a647cb9170e1"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-410-406",
+   "short": "410 ILCS 406",
+   "title": "Illinois Compiled Statutes, Alzheimer's Disease and Related Dementias Services Act (410 ILCS 406)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3734",
+   "versions": [
+    {
+     "from": "2026-05-13",
+     "units": 12,
+     "source_url": "https://web.archive.org/web/20260513171357/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3734&ChapterID=35&Chapter=PUBLIC%20HEALTH&MajorTopic=HEALTH%20AND%20SAFETY",
+     "sha256": "712347652dc4524a7f386fd4f29d790de4ad5f16eb7b0acee84dd49863bfbc4f"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-410-410",
+   "short": "410 ILCS 410",
+   "title": "Illinois Compiled Statutes, Alzheimer's Disease Research, Care, and Support Fund Act (410 ILCS 410)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1557",
+   "versions": [
+    {
+     "from": "2026-03-13",
+     "units": 7,
+     "source_url": "https://web.archive.org/web/20260313054708/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1557&ChapterID=35&Chapter=PUBLIC%20HEALTH&MajorTopic=HEALTH%20AND%20SAFETY",
+     "sha256": "8ee88a04c89dec365759fef4dfe77b50c4ffec741a8838776c7a1b52edc04b32"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-410-413",
+   "short": "410 ILCS 413",
+   "title": "Illinois Compiled Statutes, Epilepsy Disease Assistance Act (410 ILCS 413)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2705",
+   "versions": [
+    {
+     "from": "2026-04-23",
+     "units": 9,
+     "source_url": "https://web.archive.org/web/20260423022201/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2705&ChapterID=35&Chapter=PUBLIC%20HEALTH&MajorTopic=HEALTH%20AND%20SAFETY",
+     "sha256": "4a96b558378478bf44bab0f59d3a40b219c052f2a04d0157f5cc1528e2646eb3"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-410-415",
+   "short": "410 ILCS 415",
+   "title": "Illinois Compiled Statutes, Experimental Cancer Treatment Act (410 ILCS 415)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1558",
+   "versions": [
+    {
+     "from": "2026-04-22",
+     "units": 5,
+     "source_url": "https://web.archive.org/web/20260422140720/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1558&ChapterID=35&Chapter=PUBLIC%20HEALTH&MajorTopic=HEALTH%20AND%20SAFETY",
+     "sha256": "31f6b9a3cecefbdf02142a0759a531110c9ba0eca07b5db78c8e0f7c6487dd0c"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-410-416",
+   "short": "410 ILCS 416",
+   "title": "Illinois Compiled Statutes, Clinical Trial Participation Program Act (410 ILCS 416)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=4047",
+   "versions": [
+    {
+     "from": "2026-05-20",
+     "units": 9,
+     "source_url": "https://web.archive.org/web/20260520071731/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=4047&ChapterID=35&Chapter=PUBLIC%20HEALTH&MajorTopic=HEALTH%20AND%20SAFETY",
+     "sha256": "f380c6b7bac0eac5d43a04669ff93a7ed6c22213c31126838ec65f5b68c4c9c6"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-410-417",
+   "short": "410 ILCS 417",
+   "title": "Illinois Compiled Statutes, Reducing Cervical Cancer and Saving Lives Act (410 ILCS 417)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=4314",
+   "versions": [
+    {
+     "from": "2026-05-18",
+     "units": 6,
+     "source_url": "https://web.archive.org/web/20260518010838/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=4314&ChapterID=35&Chapter=PUBLIC%20HEALTH&MajorTopic=HEALTH%20AND%20SAFETY",
+     "sha256": "83674534e625c425432f50e9be3d5cf3bf1d319dc7733b0779cb1f3503454daa"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-410-420",
+   "short": "410 ILCS 420",
+   "title": "Illinois Compiled Statutes, Hemophilia Care Act (410 ILCS 420)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1559",
+   "versions": [
+    {
+     "from": "2026-04-20",
+     "units": 9,
+     "source_url": "https://web.archive.org/web/20260420124229/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1559&ChapterID=35&Chapter=PUBLIC%20HEALTH&MajorTopic=HEALTH%20AND%20SAFETY",
+     "sha256": "c1d38c5b7166b7b7b4fc3eb1143d4763965c19bba594ac045e935f35b5b35079"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-410-430",
+   "short": "410 ILCS 430",
+   "title": "Illinois Compiled Statutes, Renal Disease Treatment Act (410 ILCS 430)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1561",
+   "versions": [
+    {
+     "from": "2026-05-19",
+     "units": 5,
+     "source_url": "https://web.archive.org/web/20260519213125/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1561&ChapterID=35&Chapter=PUBLIC%20HEALTH&MajorTopic=HEALTH%20AND%20SAFETY",
+     "sha256": "cbff9e417b56c557c03d877feee45566d1be3ccb6d8e49ea3ea0b15ef166c9fb"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-410-440",
+   "short": "410 ILCS 440",
+   "title": "Illinois Compiled Statutes, Rheumatic Fever and Heart Disease Medicine Act (410 ILCS 440)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1563",
+   "versions": [
+    {
+     "from": "2026-05-21",
+     "units": 3,
+     "source_url": "https://web.archive.org/web/20260521021843/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1563&ChapterID=35&Chapter=PUBLIC%20HEALTH&MajorTopic=HEALTH%20AND%20SAFETY",
+     "sha256": "396ea7532b3a82656710ae1dbb7caf956cf9e1617b275b715df64ecf67f8191a"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-410-445",
+   "short": "410 ILCS 445",
+   "title": "Illinois Compiled Statutes, Rare Disease Commission Act (410 ILCS 445)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3727",
+   "versions": [
+    {
+     "from": "2026-05-08",
+     "units": 7,
+     "source_url": "https://web.archive.org/web/20260508152120/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3727&ChapterID=35&Chapter=PUBLIC%20HEALTH&MajorTopic=HEALTH%20AND%20SAFETY",
+     "sha256": "9b447af3e0d48f7ef37e1c43b3921ee59be622d32e27c9580c71cea1476265d7"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-410-450",
+   "short": "410 ILCS 450",
+   "title": "Illinois Compiled Statutes, Lyme Disease Prevention and Protection Act (410 ILCS 450)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3919",
+   "versions": [
+    {
+     "from": "2026-04-10",
+     "units": 6,
+     "source_url": "https://web.archive.org/web/20260410114535/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3919&ChapterID=35&Chapter=PUBLIC%20HEALTH&MajorTopic=HEALTH%20AND%20SAFETY",
+     "sha256": "3cc105babeaff3dc0cfdc33deade49d60370f6529ee095b558dca24a147e3efa"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-410-455",
+   "short": "410 ILCS 455",
+   "title": "Illinois Compiled Statutes, Parkinson's Disease Public Awareness and Education Act (410 ILCS 455)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=4005",
+   "versions": [
+    {
+     "from": "2026-02-13",
+     "units": 6,
+     "source_url": "https://web.archive.org/web/20260213215433/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=4005&ChapterID=35&Chapter=PUBLIC%20HEALTH&MajorTopic=HEALTH%20AND%20SAFETY",
+     "sha256": "5f46c8cfb291c51f9c2b344b47f5dbf39ae3b794e47568e2c54a61dc9de02041"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-410-501",
+   "short": "410 ILCS 501",
+   "title": "Illinois Compiled Statutes, Access to Public Health Data Act (410 ILCS 501)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=4442",
+   "versions": [
+    {
+     "from": "2026-04-21",
+     "units": 10,
+     "source_url": "https://web.archive.org/web/20260421043418/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=4442&ChapterID=35&Chapter=PUBLIC%20HEALTH&MajorTopic=HEALTH%20AND%20SAFETY",
+     "sha256": "c1a023e8c16e8d043fe8520a4509e7c05ee6ea865a6aa57baf62092c9d2fad1f"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-410-503",
+   "short": "410 ILCS 503",
+   "title": "Illinois Compiled Statutes, Arthritis Quality of Life Initiative Act (410 ILCS 503)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1564",
+   "versions": [
+    {
+     "from": "2026-05-16",
+     "units": 5,
+     "source_url": "https://web.archive.org/web/20260516052724/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1564&ChapterID=35&Chapter=PUBLIC%20HEALTH&MajorTopic=HEALTH%20AND%20SAFETY",
+     "sha256": "e81ffdb69f8d5b617647d733adcbc3c6a5f20c191359dc7b0087c936c34d235d"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-410-505",
+   "short": "410 ILCS 505",
+   "title": "Illinois Compiled Statutes, Autopsy Act (410 ILCS 505)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1565",
+   "versions": [
+    {
+     "from": "2026-03-15",
+     "units": 6,
+     "source_url": "https://web.archive.org/web/20260315143750/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1565&ChapterID=35&Chapter=PUBLIC%20HEALTH&MajorTopic=HEALTH%20AND%20SAFETY",
+     "sha256": "78f75a5cf600f4d49828a25acc8c90a518691363f0fb46af4c56b7ce2259c11f"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-410-510",
+   "short": "410 ILCS 510",
+   "title": "Illinois Compiled Statutes, Cadaver Act (410 ILCS 510)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1566",
+   "versions": [
+    {
+     "from": "2026-04-13",
+     "units": 5,
+     "source_url": "https://web.archive.org/web/20260413120839/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1566&ChapterID=35&Chapter=PUBLIC%20HEALTH&MajorTopic=HEALTH%20AND%20SAFETY",
+     "sha256": "a2c7903fcf37e14739a1ff4099ae9b6328e7144d1631611442419f5c8b5a6ed3"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-410-511",
+   "short": "410 ILCS 511",
+   "title": "Illinois Compiled Statutes, Down Syndrome Information and Awareness Act (410 ILCS 511)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3643",
+   "versions": [
+    {
+     "from": "2026-03-11",
+     "units": 4,
+     "source_url": "https://web.archive.org/web/20260311230557/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3643&ChapterID=35&Chapter=PUBLIC%20HEALTH&MajorTopic=HEALTH%20AND%20SAFETY",
+     "sha256": "96c9af8d9e73040e9a9ad414b1f9b9e7011ccfc14117538229ded586883eaa20"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-410-513",
+   "short": "410 ILCS 513",
+   "title": "Illinois Compiled Statutes, Genetic Information Privacy Act (410 ILCS 513)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1567",
+   "versions": [
+    {
+     "from": "2026-03-16",
+     "units": 27,
+     "source_url": "https://web.archive.org/web/20260316082155/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1567&ChapterID=35",
+     "sha256": "f05a2ca1b595c5a79c779b2d4e3d9c5f5315c53acee697c43d3518b491d4b0b2"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-410-515",
+   "short": "410 ILCS 515",
+   "title": "Illinois Compiled Statutes, Head and Spinal Cord Injury Act (410 ILCS 515)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1568",
+   "versions": [
+    {
+     "from": "2026-04-11",
+     "units": 7,
+     "source_url": "https://web.archive.org/web/20260411171402/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1568&ChapterID=35&Chapter=PUBLIC%20HEALTH&MajorTopic=HEALTH%20AND%20SAFETY",
+     "sha256": "c3039240d6fa46aaf5500f7e52fe6b5e8afad0a838b459d860cf59bb795a5bc7"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-410-517",
+   "short": "410 ILCS 517",
+   "title": "Illinois Compiled Statutes, Health Care Professional Credentials Data Collection Act (410 ILCS 517)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1569",
+   "versions": [
+    {
+     "from": "2026-04-20",
+     "units": 13,
+     "source_url": "https://web.archive.org/web/20260420065520/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1569&ChapterID=35",
+     "sha256": "8e43d3cd25367df544b656c062788ece3635560608dcf765c3847e176448c391"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-410-522-article-0010",
+   "short": "410 ILCS 522 art. 10",
+   "title": "Illinois Compiled Statutes, Illinois Adverse Health Care Events Reporting Law of 2005 (410 ILCS 522), Article 10",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2715",
+   "versions": [
+    {
+     "from": "2026-05-06",
+     "units": 11,
+     "source_url": "https://web.archive.org/web/20260506092753/https://www.ilga.gov/legislation/ILCS/details?MajorTopic=&Chapter=&ActName=Illinois%20Adverse%20Health%20Care%20Events%20Reporting%20Law%20of%202005.&ActID=2715&ChapterID=35&SeqStart=&&ChapAct=FullText",
+     "sha256": "50873602915cab08285b3a7a5e11295de085aa93ed6db0db186c76b1df2b9b33"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-410-522-article-0090",
+   "short": "410 ILCS 522 art. 90",
+   "title": "Illinois Compiled Statutes, Illinois Adverse Health Care Events Reporting Law of 2005 (410 ILCS 522), Article 90",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2715",
+   "versions": [
+    {
+     "from": "2026-05-06",
+     "units": 5,
+     "source_url": "https://web.archive.org/web/20260506092753/https://www.ilga.gov/legislation/ILCS/details?MajorTopic=&Chapter=&ActName=Illinois%20Adverse%20Health%20Care%20Events%20Reporting%20Law%20of%202005.&ActID=2715&ChapterID=35&SeqStart=&&ChapAct=FullText",
+     "sha256": "50873602915cab08285b3a7a5e11295de085aa93ed6db0db186c76b1df2b9b33"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-410-525",
+   "short": "410 ILCS 525",
+   "title": "Illinois Compiled Statutes, Illinois Health and Hazardous Substances Registry Act (410 ILCS 525)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1571",
+   "versions": [
+    {
+     "from": "2026-05-20",
+     "units": 15,
+     "source_url": "https://web.archive.org/web/20260520063325/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1571&ChapterID=35&Chapter=PUBLIC%20HEALTH&MajorTopic=HEALTH%20AND%20SAFETY",
+     "sha256": "883778741bc68a232c6fb525dce0df1cc2b3e7e69c1062aea96fb3717859a7ec"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-410-527",
+   "short": "410 ILCS 527",
+   "title": "Illinois Compiled Statutes, Immunization Data Registry Act (410 ILCS 527)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3349",
+   "versions": [
+    {
+     "from": "2026-05-12",
+     "units": 8,
+     "source_url": "https://web.archive.org/web/20260512181753/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3349&ChapterID=35&Chapter=PUBLIC%20HEALTH&MajorTopic=HEALTH%20AND%20SAFETY",
+     "sha256": "3626124f0482bad33a26d53f2f121d422618f5580735eb0a12f4899ab683b27b"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-410-528",
+   "short": "410 ILCS 528",
+   "title": "Illinois Compiled Statutes, Lupus Education and Awareness Act (410 ILCS 528)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3249",
+   "versions": [
+    {
+     "from": "2026-02-17",
+     "units": 6,
+     "source_url": "https://web.archive.org/web/20260217194030/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3249&ChapterID=35&Chapter=PUBLIC%20HEALTH&MajorTopic=HEALTH%20AND%20SAFETY",
+     "sha256": "a8837add58bccf69b626d6557d140a8e83b3b0f1914bce9ffb84d9bc45c17d84"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-410-530",
+   "short": "410 ILCS 530",
+   "title": "Illinois Compiled Statutes, Marriage, Dissolution, and Invalidity Records Act (410 ILCS 530)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1572",
+   "versions": [
+    {
+     "from": "2026-04-12",
+     "units": 5,
+     "source_url": "https://web.archive.org/web/20260412224325/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1572&ChapterID=35&Chapter=PUBLIC%20HEALTH&MajorTopic=HEALTH%20AND%20SAFETY",
+     "sha256": "9759777054bb8f99561e425f78a620c20f64d72cd60c4c4b281df680b7be0186"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-410-535",
+   "short": "410 ILCS 535",
+   "title": "Illinois Compiled Statutes, Vital Records Act (410 ILCS 535)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1573",
+   "versions": [
+    {
+     "from": "2026-05-15",
+     "units": 47,
+     "source_url": "https://web.archive.org/web/20260515202755/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1573&ChapAct=410%20ILCS%20535/&ChapterID=35&ChapterName=PUBLIC%20HEALTH&ActName=Vital%20Records%20Act.",
+     "sha256": "bc4e17a75e218f16878677407be711c59a26df52cf66404c86574a3eb36dcf67"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-410-540",
+   "short": "410 ILCS 540",
+   "title": "Illinois Compiled Statutes, Reflex Sympathetic Dystrophy Syndrome Education Act (410 ILCS 540)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3144",
+   "versions": [
+    {
+     "from": "2026-04-18",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20260418002458/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3144&ChapterID=35&Chapter=PUBLIC%20HEALTH&MajorTopic=HEALTH%20AND%20SAFETY",
+     "sha256": "f98ee7b8498d0d82ba5c4fd0caa7596390d11da937d717eb1105fee77a1491c1"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-410-605",
+   "short": "410 ILCS 605",
+   "title": "Illinois Compiled Statutes, Animals Intended for Food Act (410 ILCS 605)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1574",
+   "versions": [
+    {
+     "from": "2026-05-21",
+     "units": 6,
+     "source_url": "https://web.archive.org/web/20260521081338/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1574&ChapterID=35",
+     "sha256": "23145669da1ca0eeaeb6124a0307b73db5baea844fe6afb6e2134a227d62ec0c"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-410-607",
+   "short": "410 ILCS 607",
+   "title": "Illinois Compiled Statutes, Emergency Asthma Inhalers and Allergy Treatment for Children Act (410 ILCS 607)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2749",
+   "versions": [
+    {
+     "from": "2026-05-12",
+     "units": 4,
+     "source_url": "https://web.archive.org/web/20260512034400/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2749&ChapterID=35&Chapter=PUBLIC%20HEALTH&MajorTopic=HEALTH%20AND%20SAFETY",
+     "sha256": "47738b06004a2198d6a48e7526efecb292158e6a8efc8c98e6c5069b7c78ae53"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-410-610",
+   "short": "410 ILCS 610",
+   "title": "Illinois Compiled Statutes, Butter and Cheese Factories Act (410 ILCS 610)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1575",
+   "versions": [
+    {
+     "from": "2026-02-09",
+     "units": 5,
+     "source_url": "https://web.archive.org/web/20260209094651/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1575&ChapterID=35&Chapter=PUBLIC%20HEALTH&MajorTopic=HEALTH%20AND%20SAFETY",
+     "sha256": "6a39fbbb388a074bcf4be2473995d89fa03c954080fbf383d6e9b9d55e9e4029"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-410-615",
+   "short": "410 ILCS 615",
+   "title": "Illinois Compiled Statutes, Illinois Egg and Egg Products Act (410 ILCS 615)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1576",
+   "versions": [
+    {
+     "from": "2026-05-13",
+     "units": 71,
+     "source_url": "https://web.archive.org/web/20260513102724/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1576&ChapterID=35&",
+     "sha256": "27d64f0423ee536ff8dba801c39de7ac38971297288eca07cdf3e1fa6bb72a13"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-410-620",
+   "short": "410 ILCS 620",
+   "title": "Illinois Compiled Statutes, Illinois Food, Drug and Cosmetic Act (410 ILCS 620)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1577",
+   "versions": [
+    {
+     "from": "2026-10-05",
+     "units": 105,
+     "source_url": "https://web.archive.org/web/20261005091911/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1577&ChapterID=35",
+     "sha256": "2d677c2ea257cd84c7a78f22ab2ef45e34c6db794178a6df8bf06e855376ddab"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-410-625",
+   "short": "410 ILCS 625",
+   "title": "Illinois Compiled Statutes, Food Handling Regulation Enforcement Act (410 ILCS 625)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1578",
+   "versions": [
+    {
+     "from": "2026-05-16",
+     "units": 17,
+     "source_url": "https://web.archive.org/web/20260516114945/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1578&ChapterID=35",
+     "sha256": "f382f4b581cf00bcc412e1801d1be22c5c434f5bb4ce3c4fec7cd7e4f04e01c6"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-410-630",
+   "short": "410 ILCS 630",
+   "title": "Illinois Compiled Statutes, Food Safety Transportation Act (410 ILCS 630)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1579",
+   "versions": [
+    {
+     "from": "2026-05-12",
+     "units": 5,
+     "source_url": "https://web.archive.org/web/20260512030003/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1579&ChapterID=35&Chapter=PUBLIC%20HEALTH&MajorTopic=HEALTH%20AND%20SAFETY",
+     "sha256": "e31c1f6bd3b2fb5571f9da5f6386fccec243497bbe73b30fba202fbfa72792ba"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-410-635",
+   "short": "410 ILCS 635",
+   "title": "Illinois Compiled Statutes, Grade A Pasteurized Milk and Milk Products Act (410 ILCS 635)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1580",
+   "versions": [
+    {
+     "from": "2026-07-14",
+     "units": 21,
+     "source_url": "https://web.archive.org/web/20260714125547/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1580&ChapterID=35",
+     "sha256": "e3ad17e39ef165bb964cc6b77b30706c782ff0f57a7b9a805285a9f0b694b1b4"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-410-637",
+   "short": "410 ILCS 637",
+   "title": "Illinois Compiled Statutes, Halal Food Act (410 ILCS 637)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1581",
+   "versions": [
+    {
+     "from": "2026-05-14",
+     "units": 7,
+     "source_url": "https://web.archive.org/web/20260514125008/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1581&ChapterID=35&Chapter=PUBLIC%20HEALTH&MajorTopic=HEALTH%20AND%20SAFETY",
+     "sha256": "9a2546d4692fdbff355bdd0d38bd05a0e05cb3790e86589de942bef25cb73c05"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-410-638",
+   "short": "410 ILCS 638",
+   "title": "Illinois Compiled Statutes, Healthy Food Program Development Act (410 ILCS 638)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=4317",
+   "versions": [
+    {
+     "from": "2026-04-20",
+     "units": 6,
+     "source_url": "https://web.archive.org/web/20260420040414/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=4317&ChapterID=35&Chapter=PUBLIC%20HEALTH&MajorTopic=HEALTH%20AND%20SAFETY",
+     "sha256": "622c0ab3eaf8c801fbe4a9f49c7e33f9472f37b246c726ac7d60b419c7523e63"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-410-640",
+   "short": "410 ILCS 640",
+   "title": "Illinois Compiled Statutes, Hearth Baked Bread Act (410 ILCS 640)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1582",
+   "versions": [
+    {
+     "from": "2026-04-22",
+     "units": 3,
+     "source_url": "https://web.archive.org/web/20260422204732/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1582&ChapterID=35&Chapter=PUBLIC%20HEALTH&MajorTopic=HEALTH%20AND%20SAFETY",
+     "sha256": "9f4ab8fe6b6dbcec90c4b7e168d3d00e80c4bcf93ab4dd36809522a4c446c384"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-410-642",
+   "short": "410 ILCS 642",
+   "title": "Illinois Compiled Statutes, Home Health and Hospice Drug Dispensation and Administration Act (410 ILCS 642)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2745",
+   "versions": [
+    {
+     "from": "2026-05-16",
+     "units": 7,
+     "source_url": "https://web.archive.org/web/20260516104737/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2745&ChapterID=35&Chapter=PUBLIC%20HEALTH&MajorTopic=HEALTH%20AND%20SAFETY",
+     "sha256": "1b4d1bfc90a61afd1f9227c293a8384c0cb7771c1a3e9a18dd1e52353c3350d9"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-410-645",
+   "short": "410 ILCS 645",
+   "title": "Illinois Compiled Statutes, Kosher Food Act (410 ILCS 645)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1583",
+   "versions": [
+    {
+     "from": "2026-05-14",
+     "units": 5,
+     "source_url": "https://web.archive.org/web/20260514162532/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1583&ChapterID=35&Chapter=PUBLIC%20HEALTH&MajorTopic=HEALTH%20AND%20SAFETY",
+     "sha256": "b4a547c011bd271aaf4cd490c8ddce9b55c3f6fffbd2ed6b450699f898cbd4c8"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-410-647",
+   "short": "410 ILCS 647",
+   "title": "Illinois Compiled Statutes, Powdered Caffeine Control and Education Act (410 ILCS 647)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3637",
+   "versions": [
+    {
+     "from": "2026-03-07",
+     "units": 7,
+     "source_url": "https://web.archive.org/web/20260307025234/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3637&ChapterID=35&Chapter=PUBLIC%20HEALTH&MajorTopic=HEALTH%20AND%20SAFETY",
+     "sha256": "86bdd1b9c0f6513dc1fb178cf5d95b383705c56a00622cbdca806e5bdc403351"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-410-650",
+   "short": "410 ILCS 650",
+   "title": "Illinois Compiled Statutes, Sanitary Food Preparation Act (410 ILCS 650)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1584",
+   "versions": [
+    {
+     "from": "2026-05-15",
+     "units": 18,
+     "source_url": "https://web.archive.org/web/20260515231702/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1584&ChapterID=35&Chapter=PUBLIC%20HEALTH&MajorTopic=HEALTH%20AND%20SAFETY",
+     "sha256": "d401c50e775054833f0f0fbb0aaf036ff60a1dc9e888aa24f46d1c8a36c7fb3b"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-410-655",
+   "short": "410 ILCS 655",
+   "title": "Illinois Compiled Statutes, Safe Bottled Water Act (410 ILCS 655)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2612",
+   "versions": [
+    {
+     "from": "2026-03-14",
+     "units": 15,
+     "source_url": "https://web.archive.org/web/20260314142749/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2612&ChapterID=35&Chapter=PUBLIC%20HEALTH&MajorTopic=HEALTH%20AND%20SAFETY",
+     "sha256": "a310f1ec95b874e7aae8cd920f2b79f045ce2636aa89c9ca80e5d1c090939a0a"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-410-705-article-0001",
+   "short": "410 ILCS 705 art. 1",
+   "title": "Illinois Compiled Statutes, Cannabis Regulation and Tax Act (410 ILCS 705), Article 1",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3992",
+   "versions": [
+    {
+     "from": "2026-04-21",
+     "units": 4,
+     "source_url": "https://web.archive.org/web/20260421234339/https://www.ilga.gov/legislation/ILCS/details?MajorTopic=&Chapter=&ActName=Cannabis%20Regulation%20and%20Tax%20Act.&ActID=3992&ChapterID=35&SeqStart=&&ChapAct=FullText",
+     "sha256": "521e5b9bda6d795b6f2f7285aaaf8c06faea183ecf6d3e2c2e592a1f05019255"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-410-705-article-0005",
+   "short": "410 ILCS 705 art. 5",
+   "title": "Illinois Compiled Statutes, Cannabis Regulation and Tax Act (410 ILCS 705), Article 5",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3992",
+   "versions": [
+    {
+     "from": "2026-04-21",
+     "units": 7,
+     "source_url": "https://web.archive.org/web/20260421234339/https://www.ilga.gov/legislation/ILCS/details?MajorTopic=&Chapter=&ActName=Cannabis%20Regulation%20and%20Tax%20Act.&ActID=3992&ChapterID=35&SeqStart=&&ChapAct=FullText",
+     "sha256": "521e5b9bda6d795b6f2f7285aaaf8c06faea183ecf6d3e2c2e592a1f05019255"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-410-705-article-0007",
+   "short": "410 ILCS 705 art. 7",
+   "title": "Illinois Compiled Statutes, Cannabis Regulation and Tax Act (410 ILCS 705), Article 7",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3992",
+   "versions": [
+    {
+     "from": "2026-04-21",
+     "units": 6,
+     "source_url": "https://web.archive.org/web/20260421234339/https://www.ilga.gov/legislation/ILCS/details?MajorTopic=&Chapter=&ActName=Cannabis%20Regulation%20and%20Tax%20Act.&ActID=3992&ChapterID=35&SeqStart=&&ChapAct=FullText",
+     "sha256": "521e5b9bda6d795b6f2f7285aaaf8c06faea183ecf6d3e2c2e592a1f05019255"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-410-705-article-0010",
+   "short": "410 ILCS 705 art. 10",
+   "title": "Illinois Compiled Statutes, Cannabis Regulation and Tax Act (410 ILCS 705), Article 10",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3992",
+   "versions": [
+    {
+     "from": "2026-04-21",
+     "units": 10,
+     "source_url": "https://web.archive.org/web/20260421234339/https://www.ilga.gov/legislation/ILCS/details?MajorTopic=&Chapter=&ActName=Cannabis%20Regulation%20and%20Tax%20Act.&ActID=3992&ChapterID=35&SeqStart=&&ChapAct=FullText",
+     "sha256": "521e5b9bda6d795b6f2f7285aaaf8c06faea183ecf6d3e2c2e592a1f05019255"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-410-705-article-0015",
+   "short": "410 ILCS 705 art. 15",
+   "title": "Illinois Compiled Statutes, Cannabis Regulation and Tax Act (410 ILCS 705), Article 15",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3992",
+   "versions": [
+    {
+     "from": "2026-04-21",
+     "units": 36,
+     "source_url": "https://web.archive.org/web/20260421234339/https://www.ilga.gov/legislation/ILCS/details?MajorTopic=&Chapter=&ActName=Cannabis%20Regulation%20and%20Tax%20Act.&ActID=3992&ChapterID=35&SeqStart=&&ChapAct=FullText",
+     "sha256": "521e5b9bda6d795b6f2f7285aaaf8c06faea183ecf6d3e2c2e592a1f05019255"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-410-705-article-0020",
+   "short": "410 ILCS 705 art. 20",
+   "title": "Illinois Compiled Statutes, Cannabis Regulation and Tax Act (410 ILCS 705), Article 20",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3992",
+   "versions": [
+    {
+     "from": "2026-04-21",
+     "units": 13,
+     "source_url": "https://web.archive.org/web/20260421234339/https://www.ilga.gov/legislation/ILCS/details?MajorTopic=&Chapter=&ActName=Cannabis%20Regulation%20and%20Tax%20Act.&ActID=3992&ChapterID=35&SeqStart=&&ChapAct=FullText",
+     "sha256": "521e5b9bda6d795b6f2f7285aaaf8c06faea183ecf6d3e2c2e592a1f05019255"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-410-705-article-0025",
+   "short": "410 ILCS 705 art. 25",
+   "title": "Illinois Compiled Statutes, Cannabis Regulation and Tax Act (410 ILCS 705), Article 25",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3992",
+   "versions": [
+    {
+     "from": "2026-04-21",
+     "units": 10,
+     "source_url": "https://web.archive.org/web/20260421234339/https://www.ilga.gov/legislation/ILCS/details?MajorTopic=&Chapter=&ActName=Cannabis%20Regulation%20and%20Tax%20Act.&ActID=3992&ChapterID=35&SeqStart=&&ChapAct=FullText",
+     "sha256": "521e5b9bda6d795b6f2f7285aaaf8c06faea183ecf6d3e2c2e592a1f05019255"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-410-705-article-0030",
+   "short": "410 ILCS 705 art. 30",
+   "title": "Illinois Compiled Statutes, Cannabis Regulation and Tax Act (410 ILCS 705), Article 30",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3992",
+   "versions": [
+    {
+     "from": "2026-04-21",
+     "units": 12,
+     "source_url": "https://web.archive.org/web/20260421234339/https://www.ilga.gov/legislation/ILCS/details?MajorTopic=&Chapter=&ActName=Cannabis%20Regulation%20and%20Tax%20Act.&ActID=3992&ChapterID=35&SeqStart=&&ChapAct=FullText",
+     "sha256": "521e5b9bda6d795b6f2f7285aaaf8c06faea183ecf6d3e2c2e592a1f05019255"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-410-705-article-0035",
+   "short": "410 ILCS 705 art. 35",
+   "title": "Illinois Compiled Statutes, Cannabis Regulation and Tax Act (410 ILCS 705), Article 35",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3992",
+   "versions": [
+    {
+     "from": "2026-04-21",
+     "units": 11,
+     "source_url": "https://web.archive.org/web/20260421234339/https://www.ilga.gov/legislation/ILCS/details?MajorTopic=&Chapter=&ActName=Cannabis%20Regulation%20and%20Tax%20Act.&ActID=3992&ChapterID=35&SeqStart=&&ChapAct=FullText",
+     "sha256": "521e5b9bda6d795b6f2f7285aaaf8c06faea183ecf6d3e2c2e592a1f05019255"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-410-705-article-0040",
+   "short": "410 ILCS 705 art. 40",
+   "title": "Illinois Compiled Statutes, Cannabis Regulation and Tax Act (410 ILCS 705), Article 40",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3992",
+   "versions": [
+    {
+     "from": "2026-04-21",
+     "units": 10,
+     "source_url": "https://web.archive.org/web/20260421234339/https://www.ilga.gov/legislation/ILCS/details?MajorTopic=&Chapter=&ActName=Cannabis%20Regulation%20and%20Tax%20Act.&ActID=3992&ChapterID=35&SeqStart=&&ChapAct=FullText",
+     "sha256": "521e5b9bda6d795b6f2f7285aaaf8c06faea183ecf6d3e2c2e592a1f05019255"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-410-705-article-0045",
+   "short": "410 ILCS 705 art. 45",
+   "title": "Illinois Compiled Statutes, Cannabis Regulation and Tax Act (410 ILCS 705), Article 45",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3992",
+   "versions": [
+    {
+     "from": "2026-04-21",
+     "units": 4,
+     "source_url": "https://web.archive.org/web/20260421234339/https://www.ilga.gov/legislation/ILCS/details?MajorTopic=&Chapter=&ActName=Cannabis%20Regulation%20and%20Tax%20Act.&ActID=3992&ChapterID=35&SeqStart=&&ChapAct=FullText",
+     "sha256": "521e5b9bda6d795b6f2f7285aaaf8c06faea183ecf6d3e2c2e592a1f05019255"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-410-705-article-0050",
+   "short": "410 ILCS 705 art. 50",
+   "title": "Illinois Compiled Statutes, Cannabis Regulation and Tax Act (410 ILCS 705), Article 50",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3992",
+   "versions": [
+    {
+     "from": "2026-04-21",
+     "units": 1,
+     "source_url": "https://web.archive.org/web/20260421234339/https://www.ilga.gov/legislation/ILCS/details?MajorTopic=&Chapter=&ActName=Cannabis%20Regulation%20and%20Tax%20Act.&ActID=3992&ChapterID=35&SeqStart=&&ChapAct=FullText",
+     "sha256": "521e5b9bda6d795b6f2f7285aaaf8c06faea183ecf6d3e2c2e592a1f05019255"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-410-705-article-0055",
+   "short": "410 ILCS 705 art. 55",
+   "title": "Illinois Compiled Statutes, Cannabis Regulation and Tax Act (410 ILCS 705), Article 55",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3992",
+   "versions": [
+    {
+     "from": "2026-04-21",
+     "units": 20,
+     "source_url": "https://web.archive.org/web/20260421234339/https://www.ilga.gov/legislation/ILCS/details?MajorTopic=&Chapter=&ActName=Cannabis%20Regulation%20and%20Tax%20Act.&ActID=3992&ChapterID=35&SeqStart=&&ChapAct=FullText",
+     "sha256": "521e5b9bda6d795b6f2f7285aaaf8c06faea183ecf6d3e2c2e592a1f05019255"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-410-705-article-0060",
+   "short": "410 ILCS 705 art. 60",
+   "title": "Illinois Compiled Statutes, Cannabis Regulation and Tax Act (410 ILCS 705), Article 60",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3992",
+   "versions": [
+    {
+     "from": "2026-04-21",
+     "units": 10,
+     "source_url": "https://web.archive.org/web/20260421234339/https://www.ilga.gov/legislation/ILCS/details?MajorTopic=&Chapter=&ActName=Cannabis%20Regulation%20and%20Tax%20Act.&ActID=3992&ChapterID=35&SeqStart=&&ChapAct=FullText",
+     "sha256": "521e5b9bda6d795b6f2f7285aaaf8c06faea183ecf6d3e2c2e592a1f05019255"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-410-705-article-0065",
+   "short": "410 ILCS 705 art. 65",
+   "title": "Illinois Compiled Statutes, Cannabis Regulation and Tax Act (410 ILCS 705), Article 65",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3992",
+   "versions": [
+    {
+     "from": "2026-04-21",
+     "units": 17,
+     "source_url": "https://web.archive.org/web/20260421234339/https://www.ilga.gov/legislation/ILCS/details?MajorTopic=&Chapter=&ActName=Cannabis%20Regulation%20and%20Tax%20Act.&ActID=3992&ChapterID=35&SeqStart=&&ChapAct=FullText",
+     "sha256": "521e5b9bda6d795b6f2f7285aaaf8c06faea183ecf6d3e2c2e592a1f05019255"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-410-705-article-0900",
+   "short": "410 ILCS 705 art. 900",
+   "title": "Illinois Compiled Statutes, Cannabis Regulation and Tax Act (410 ILCS 705), Article 900",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3992",
+   "versions": [
+    {
+     "from": "2026-04-21",
+     "units": 23,
+     "source_url": "https://web.archive.org/web/20260421234339/https://www.ilga.gov/legislation/ILCS/details?MajorTopic=&Chapter=&ActName=Cannabis%20Regulation%20and%20Tax%20Act.&ActID=3992&ChapterID=35&SeqStart=&&ChapAct=FullText",
+     "sha256": "521e5b9bda6d795b6f2f7285aaaf8c06faea183ecf6d3e2c2e592a1f05019255"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-410-705-article-0999",
+   "short": "410 ILCS 705 art. 999",
+   "title": "Illinois Compiled Statutes, Cannabis Regulation and Tax Act (410 ILCS 705), Article 999",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3992",
+   "versions": [
+    {
+     "from": "2026-04-21",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20260421234339/https://www.ilga.gov/legislation/ILCS/details?MajorTopic=&Chapter=&ActName=Cannabis%20Regulation%20and%20Tax%20Act.&ActID=3992&ChapterID=35&SeqStart=&&ChapAct=FullText",
+     "sha256": "521e5b9bda6d795b6f2f7285aaaf8c06faea183ecf6d3e2c2e592a1f05019255"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-410-710",
+   "short": "410 ILCS 710",
+   "title": "Illinois Compiled Statutes, Overdose Prevention and Harm Reduction Act (410 ILCS 710)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=4017",
+   "versions": [
+    {
+     "from": "2026-02-15",
+     "units": 7,
+     "source_url": "https://web.archive.org/web/20260215144645/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=4017&ChapterID=35&Chapter=PUBLIC%20HEALTH&MajorTopic=HEALTH%20AND%20SAFETY",
+     "sha256": "db1a4bbcfd1a70b2bb4be46031a2ec5e82d9520fa227a6096cc804129c4da085"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-410-715",
+   "short": "410 ILCS 715",
+   "title": "Illinois Compiled Statutes, Illinois Drug Reuse Opportunity Program Act (410 ILCS 715)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=4192",
+   "versions": [
+    {
+     "from": "2026-03-10",
+     "units": 21,
+     "source_url": "https://web.archive.org/web/20260310223021/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=4192&ChapterID=35&Chapter=PUBLIC%20HEALTH&MajorTopic=HEALTH%20AND%20SAFETY",
+     "sha256": "1d9a9952fd21359ffb33ca486886705ea954c6afed44d235cee52a38cc1a6502"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-410-725",
+   "short": "410 ILCS 725",
+   "title": "Illinois Compiled Statutes, Pharmaceutical and Health Affordability: Restrictions on Manufacturers' Amoral Behavior through Reasonable Oversight Act (410 ILCS 725)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=4433",
+   "versions": [
+    {
+     "from": "2026-05-12",
+     "units": 5,
+     "source_url": "https://web.archive.org/web/20260512032819/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=4433&ChapterID=35&Chapter=PUBLIC%20HEALTH&MajorTopic=HEALTH%20AND%20SAFETY",
+     "sha256": "79baf5fb1f88af9ba958250935d7e6277a45a805964c0b03e7a4b9a4c5cbca9c"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-415-15",
+   "short": "415 ILCS 15",
+   "title": "Illinois Compiled Statutes, Solid Waste Planning and Recycling Act (415 ILCS 15)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1587",
+   "versions": [
+    {
+     "from": "2026-02-11",
+     "units": 17,
+     "source_url": "https://web.archive.org/web/20260211055458/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1587&ChapterID=36&Chapter=ENVIRONMENTAL%20SAFETY&MajorTopic=HEALTH%20AND%20SAFETY",
+     "sha256": "ebfc12fa46fd223bd333bfae720d6c9118bced86543e62659692b6750472275a"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-415-30",
+   "short": "415 ILCS 30",
+   "title": "Illinois Compiled Statutes, Illinois Water Well Construction Code (415 ILCS 30)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1590",
+   "versions": [
+    {
+     "from": "2026-04-18",
+     "units": 16,
+     "source_url": "https://web.archive.org/web/20260418163316/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1590&ChapAct=415%20ILCS%2030/&ChapterID=36&ChapterName=ENVIRONMENTAL+SAFETY&ActName=Illinois+Water+Well+Construction+Code",
+     "sha256": "44045a8b2d09643cb14d8ff91fbdf80f1c02b5a0bea61234353d99da51cce435"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-415-35",
+   "short": "415 ILCS 35",
+   "title": "Illinois Compiled Statutes, Illinois Water Well Pump Installation Code (415 ILCS 35)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1591",
+   "versions": [
+    {
+     "from": "2026-04-21",
+     "units": 9,
+     "source_url": "https://web.archive.org/web/20260421193224/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1591&ChapterID=36&Chapter=ENVIRONMENTAL%20SAFETY&MajorTopic=HEALTH%20AND%20SAFETY",
+     "sha256": "dadbc46e0d16450c049421dc1ec03ec99f19a8fddcb86515be389bd91be88358"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-415-50",
+   "short": "415 ILCS 50",
+   "title": "Illinois Compiled Statutes, Wastewater Land Treatment Site Regulation Act (415 ILCS 50)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1594",
+   "versions": [
+    {
+     "from": "2026-04-16",
+     "units": 23,
+     "source_url": "https://web.archive.org/web/20260416055744/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1594&ChapterID=36",
+     "sha256": "2fce839a3e9bf2db4991e6a30dbc67b681c2e5a01aea1d0b9250a4c29f2a0394"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-415-55",
+   "short": "415 ILCS 55",
+   "title": "Illinois Compiled Statutes, Illinois Groundwater Protection Act (415 ILCS 55)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1595",
+   "versions": [
+    {
+     "from": "2026-04-18",
+     "units": 12,
+     "source_url": "https://web.archive.org/web/20260418173826/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1595&ChapAct=415%20ILCS%2055/&ChapterID=36&ChapterName=ENVIRONMENTAL+SAFETY&ActName=Illinois+Groundwater+Protection+Act",
+     "sha256": "8afbb5e9c48c3d3642f82f0d49505e07a5971848d77cb82191f1adf25aac9154"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-415-60",
+   "short": "415 ILCS 60",
+   "title": "Illinois Compiled Statutes, Illinois Pesticide Act (415 ILCS 60)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1596",
+   "versions": [
+    {
+     "from": "2026-09-18",
+     "units": 41,
+     "source_url": "https://web.archive.org/web/20260918023630/https://www.ilga.gov/Legislation/ILCS/Articles?ChapterID=36&ActID=1596",
+     "sha256": "88e26d9c48752ab480379c01c8e329dca0c40686a253fae060b4ac89d113119b"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-415-65",
+   "short": "415 ILCS 65",
+   "title": "Illinois Compiled Statutes, Lawn Care Products Application and Notice Act (415 ILCS 65)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1597",
+   "versions": [
+    {
+     "from": "2026-07-22",
+     "units": 10,
+     "source_url": "https://web.archive.org/web/20260722053715/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1597&ChapterID=36",
+     "sha256": "de78c496fb85c27d998235121878839e27d23c81ed47e7e6d19e2d0e21942723"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-415-70",
+   "short": "415 ILCS 70",
+   "title": "Illinois Compiled Statutes, Hazardous Substances Construction Disclosure Act (415 ILCS 70)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1598",
+   "versions": [
+    {
+     "from": "2026-05-27",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20260527010744/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1598&ChapterID=18",
+     "sha256": "3ef899fca032cd1dead5112df829be95ca07addd63376c0e824a57f5cc8379f2"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-415-90",
+   "short": "415 ILCS 90",
+   "title": "Illinois Compiled Statutes, Household Hazardous Waste Collection Program Act (415 ILCS 90)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1602",
+   "versions": [
+    {
+     "from": "2026-04-29",
+     "units": 8,
+     "source_url": "https://web.archive.org/web/20260429015213/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1602&ChapterID=36",
+     "sha256": "754946e59db0847c8469694dc8d06365e80e546e341f6574c5e2c0fbe61a9947"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-415-110",
+   "short": "415 ILCS 110",
+   "title": "Illinois Compiled Statutes, Recycled Newsprint Use Act (415 ILCS 110)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1606",
+   "versions": [
+    {
+     "from": "2026-04-30",
+     "units": 25,
+     "source_url": "https://web.archive.org/web/20260430105858/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1606&ChapterID=36",
+     "sha256": "40b783490f88bb3ed576659ea543cf4cef1b53f990caa8998f1766cc441b0406"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-415-120",
+   "short": "415 ILCS 120",
+   "title": "Illinois Compiled Statutes, Electric Vehicle Rebate Act (415 ILCS 120)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1608",
+   "versions": [
+    {
+     "from": "2026-04-12",
+     "units": 20,
+     "source_url": "https://web.archive.org/web/20260412090223/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1608&ChapterID=36&Chapter=ENVIRONMENTAL%20SAFETY&MajorTopic=HEALTH%20AND%20SAFETY",
+     "sha256": "075fd58e41120fd1031b03c1852e492dc841529f654a5b5e12a0a4ab8a6e1db0"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-415-130",
+   "short": "415 ILCS 130",
+   "title": "Illinois Compiled Statutes, Interstate Ozone Transport Oversight Act (415 ILCS 130)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1611",
+   "versions": [
+    {
+     "from": "2026-04-29",
+     "units": 7,
+     "source_url": "https://web.archive.org/web/20260429164523/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1611&ChapterID=36",
+     "sha256": "f3bed8f695598ea0a9e5995635f0a3405fd5270078bb01448ca6ea4275a4973b"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-415-135",
+   "short": "415 ILCS 135",
+   "title": "Illinois Compiled Statutes, Drycleaner Environmental Response Trust Fund Act (415 ILCS 135)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1612",
+   "versions": [
+    {
+     "from": "2026-02-17",
+     "units": 30,
+     "source_url": "https://web.archive.org/web/20260217210631/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1612&ChapterID=36&Chapter=ENVIRONMENTAL%20SAFETY&MajorTopic=HEALTH%20AND%20SAFETY",
+     "sha256": "94cdd2e7ff1d0ff63bc688a6ab1bec8302b11ae31e45d370e2eb3279ab497b20"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-415-151-article-0001",
+   "short": "415 ILCS 151 art. 1",
+   "title": "Illinois Compiled Statutes, Consumer Electronics Recycling Act (415 ILCS 151), Article 1",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3816",
+   "versions": [
+    {
+     "from": "2026-02-11",
+     "units": 26,
+     "source_url": "https://web.archive.org/web/20260211214839/https://www.ilga.gov/legislation/ILCS/details?MajorTopic=HEALTH%20AND%20SAFETY&Chapter=ENVIRONMENTAL%20SAFETY&ActName=Consumer%20Electronics%20Recycling%20Act.&ActID=3816&ChapterID=36&SeqStart=&&ChapAct=FullText",
+     "sha256": "7c624f4ce84c0f46a3df6b95489f6fbb5d67d939cdeff6e6a5ab03101dfe5f1e"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-415-151-article-0005",
+   "short": "415 ILCS 151 art. 5",
+   "title": "Illinois Compiled Statutes, Consumer Electronics Recycling Act (415 ILCS 151), Article 5",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3816",
+   "versions": [
+    {
+     "from": "2026-02-11",
+     "units": 3,
+     "source_url": "https://web.archive.org/web/20260211214839/https://www.ilga.gov/legislation/ILCS/details?MajorTopic=HEALTH%20AND%20SAFETY&Chapter=ENVIRONMENTAL%20SAFETY&ActName=Consumer%20Electronics%20Recycling%20Act.&ActID=3816&ChapterID=36&SeqStart=&&ChapAct=FullText",
+     "sha256": "7c624f4ce84c0f46a3df6b95489f6fbb5d67d939cdeff6e6a5ab03101dfe5f1e"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-415-151-article-0098",
+   "short": "415 ILCS 151 art. 98",
+   "title": "Illinois Compiled Statutes, Consumer Electronics Recycling Act (415 ILCS 151), Article 98",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3816",
+   "versions": [
+    {
+     "from": "2026-02-11",
+     "units": 1,
+     "source_url": "https://web.archive.org/web/20260211214839/https://www.ilga.gov/legislation/ILCS/details?MajorTopic=HEALTH%20AND%20SAFETY&Chapter=ENVIRONMENTAL%20SAFETY&ActName=Consumer%20Electronics%20Recycling%20Act.&ActID=3816&ChapterID=36&SeqStart=&&ChapAct=FullText",
+     "sha256": "7c624f4ce84c0f46a3df6b95489f6fbb5d67d939cdeff6e6a5ab03101dfe5f1e"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-415-151-article-0099",
+   "short": "415 ILCS 151 art. 99",
+   "title": "Illinois Compiled Statutes, Consumer Electronics Recycling Act (415 ILCS 151), Article 99",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3816",
+   "versions": [
+    {
+     "from": "2026-02-11",
+     "units": 1,
+     "source_url": "https://web.archive.org/web/20260211214839/https://www.ilga.gov/legislation/ILCS/details?MajorTopic=HEALTH%20AND%20SAFETY&Chapter=ENVIRONMENTAL%20SAFETY&ActName=Consumer%20Electronics%20Recycling%20Act.&ActID=3816&ChapterID=36&SeqStart=&&ChapAct=FullText",
+     "sha256": "7c624f4ce84c0f46a3df6b95489f6fbb5d67d939cdeff6e6a5ab03101dfe5f1e"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-415-165",
+   "short": "415 ILCS 165",
+   "title": "Illinois Compiled Statutes, Wipes Labeling Act (415 ILCS 165)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=4186",
+   "versions": [
+    {
+     "from": "2026-04-19",
+     "units": 10,
+     "source_url": "https://web.archive.org/web/20260419054406/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=4186&ChapterID=36&Chapter=ENVIRONMENTAL%20SAFETY&MajorTopic=HEALTH%20AND%20SAFETY",
+     "sha256": "2c8041860ad641752c95fda76f8ac05d5f374ed2401e907a67834a4229ff43a9"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-415-170",
+   "short": "415 ILCS 170",
+   "title": "Illinois Compiled Statutes, PFAS Reduction Act (415 ILCS 170)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=4187",
+   "versions": [
+    {
+     "from": "2026-10-05",
+     "units": 12,
+     "source_url": "https://web.archive.org/web/20261005091709/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=4187&ChapterID=36",
+     "sha256": "6c0f466a7dfdfb3d76dfad76c128ea6d6c4d835afe1bf78323aa17adf56723e3"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-415-175",
+   "short": "415 ILCS 175",
+   "title": "Illinois Compiled Statutes, Paint Stewardship Act (415 ILCS 175)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=4434",
+   "versions": [
+    {
+     "from": "2026-05-14",
+     "units": 18,
+     "source_url": "https://web.archive.org/web/20260514140605/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=4434&ChapterID=36&Chapter=ENVIRONMENTAL%20SAFETY&MajorTopic=HEALTH%20AND%20SAFETY",
+     "sha256": "5bdf763fabea012698321bf81b0b919b20a88c4668fffe296d251cca95300849"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-415-180",
+   "short": "415 ILCS 180",
+   "title": "Illinois Compiled Statutes, Statewide Recycling Needs Assessment Act (415 ILCS 180)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=4437",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 8,
+     "source_url": "https://web.archive.org/web/20260415094200/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=4437&ChapterID=36&Chapter=ENVIRONMENTAL%20SAFETY&MajorTopic=HEALTH%20AND%20SAFETY",
+     "sha256": "dc1681404de850edb62fec8b846d8a226328f47d2a723d96d44bfa506e38ff15"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-415-205",
+   "short": "415 ILCS 205",
+   "title": "Illinois Compiled Statutes, Portable and Medium-Format Battery Stewardship Act (415 ILCS 205)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=4547",
+   "versions": [
+    {
+     "from": "2026-02-05",
+     "units": 22,
+     "source_url": "https://web.archive.org/web/20260205055409/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=4547&ChapterID=36",
+     "sha256": "a02d0ae8b3be1cfcde5833a4aa09c4643aed50b0f8e574f0469518b2a4f4e87f"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-420-5",
+   "short": "420 ILCS 5",
+   "title": "Illinois Compiled Statutes, Illinois Nuclear Safety Preparedness Act (420 ILCS 5)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1614",
+   "versions": [
+    {
+     "from": "2026-06-09",
+     "units": 14,
+     "source_url": "https://web.archive.org/web/20260609053754/https://ilga.gov/Legislation/ILCS/Articles?ActID=1614&ChapterID=37&Chapter=NUCLEAR%20SAFETY&MajorTopic=HEALTH%20AND%20SAFETY",
+     "sha256": "2c8cf62cf213b395b45370d351d74e4c7fce540d3dfbf8d61f0d85ef7a275cd1"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-420-10",
+   "short": "420 ILCS 10",
+   "title": "Illinois Compiled Statutes, Illinois Nuclear Facility Safety Act (420 ILCS 10)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1615",
+   "versions": [
+    {
+     "from": "2026-06-06",
+     "units": 8,
+     "source_url": "https://web.archive.org/web/20260606144542/https://ilga.gov/Legislation/ILCS/Articles?ActID=1615&ChapterID=37&Chapter=NUCLEAR%20SAFETY&MajorTopic=HEALTH%20AND%20SAFETY",
+     "sha256": "b541eac5a8313b8b42613315b6e6bf120bd4bd7962ce73d9cbf307f6d7ed1e7f"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-420-15",
+   "short": "420 ILCS 15",
+   "title": "Illinois Compiled Statutes, Spent Nuclear Fuel Act (420 ILCS 15)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1616",
+   "versions": [
+    {
+     "from": "2026-06-11",
+     "units": 5,
+     "source_url": "https://web.archive.org/web/20260611005305/https://ilga.gov/Legislation/ILCS/Articles?ActID=1616&ChapterID=37&Chapter=NUCLEAR%20SAFETY&MajorTopic=HEALTH%20AND%20SAFETY",
+     "sha256": "91d4ab91833e0c3186bc350ff5539585e91a29a69ed6b193c6ec173d18c1ade1"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-420-20",
+   "short": "420 ILCS 20",
+   "title": "Illinois Compiled Statutes, Illinois Low-Level Radioactive Waste Management Act (420 ILCS 20)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1617",
+   "versions": [
+    {
+     "from": "2026-06-09",
+     "units": 24,
+     "source_url": "https://web.archive.org/web/20260609045750/https://ilga.gov/Legislation/ILCS/Articles?ActID=1617&ChapterID=37&Chapter=NUCLEAR%20SAFETY&MajorTopic=HEALTH%20AND%20SAFETY",
+     "sha256": "f1bc894cbadc5a664fa05ae8cd4dbd9a12602a0a4e82efeec8a7256d8f35cfc4"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-420-35",
+   "short": "420 ILCS 35",
+   "title": "Illinois Compiled Statutes, Radioactive Waste Storage Act (420 ILCS 35)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1620",
+   "versions": [
+    {
+     "from": "2026-06-27",
+     "units": 9,
+     "source_url": "https://web.archive.org/web/20260627111433/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1620&ChapterID=37",
+     "sha256": "47b4fc1f9eb5b52c8f7819352c56444d7a70a76129d5a4985576c22a99602944"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-420-37",
+   "short": "420 ILCS 37",
+   "title": "Illinois Compiled Statutes, Radioactive Waste Tracking and Permitting Act (420 ILCS 37)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1621",
+   "versions": [
+    {
+     "from": "2026-06-09",
+     "units": 11,
+     "source_url": "https://web.archive.org/web/20260609062907/https://ilga.gov/Legislation/ILCS/Articles?ActID=1621&ChapterID=37&Chapter=NUCLEAR%20SAFETY&MajorTopic=HEALTH%20AND%20SAFETY",
+     "sha256": "dde6a6a6141c0d3caa5a1d4444a89eb859a12c59d651d02dea108bed5399a921"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-420-40",
+   "short": "420 ILCS 40",
+   "title": "Illinois Compiled Statutes, Radiation Protection Act of 1990 (420 ILCS 40)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1622",
+   "versions": [
+    {
+     "from": "2026-06-06",
+     "units": 56,
+     "source_url": "https://web.archive.org/web/20260606135833/https://ilga.gov/Legislation/ILCS/Articles?ActID=1622&ChapterID=37&Chapter=NUCLEAR%20SAFETY&MajorTopic=HEALTH%20AND%20SAFETY",
+     "sha256": "939f39b352edf061d11a215175fe90c7b7308355f613da9e9b446916d0c6ff12"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-420-42",
+   "short": "420 ILCS 42",
+   "title": "Illinois Compiled Statutes, Uranium and Thorium Mill Tailings Control Act (420 ILCS 42)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1623",
+   "versions": [
+    {
+     "from": "2026-06-11",
+     "units": 12,
+     "source_url": "https://web.archive.org/web/20260611014719/https://ilga.gov/Legislation/ILCS/Articles?ActID=1623&ChapterID=37&Chapter=NUCLEAR%20SAFETY&MajorTopic=HEALTH%20AND%20SAFETY",
+     "sha256": "723ef1f790f092d2891721d685d2ef4a3d7895586d3c2b4fe10ac78013f8dc75"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-420-44",
+   "short": "420 ILCS 44",
+   "title": "Illinois Compiled Statutes, Radon Industry Licensing Act (420 ILCS 44)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1624",
+   "versions": [
+    {
+     "from": "2026-06-09",
+     "units": 24,
+     "source_url": "https://web.archive.org/web/20260609055805/https://ilga.gov/Legislation/ILCS/Articles?ActID=1624&ChapterID=37&Chapter=NUCLEAR%20SAFETY&MajorTopic=HEALTH%20AND%20SAFETY",
+     "sha256": "6e4327b62633732a730a0c1e04ce3cf2821e96324c8ea3047c402111b278c4e8"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-420-46",
+   "short": "420 ILCS 46",
+   "title": "Illinois Compiled Statutes, Illinois Radon Awareness Act (420 ILCS 46)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2913",
+   "versions": [
+    {
+     "from": "2026-06-06",
+     "units": 10,
+     "source_url": "https://web.archive.org/web/20260606141504/https://ilga.gov/Legislation/ILCS/Articles?ActID=2913&ChapterID=37&Chapter=NUCLEAR%20SAFETY&MajorTopic=HEALTH%20AND%20SAFETY",
+     "sha256": "12141e4a33dd00c4eeab7d69de5ba366d5fa2ebcc88ba685bc3735802d88ad07"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-420-52",
+   "short": "420 ILCS 52",
+   "title": "Illinois Compiled Statutes, Radon Resistant Construction Act (420 ILCS 52)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3422",
+   "versions": [
+    {
+     "from": "2026-06-11",
+     "units": 10,
+     "source_url": "https://web.archive.org/web/20260611013724/https://ilga.gov/Legislation/ILCS/Articles?ActID=3422&ChapterID=37&Chapter=NUCLEAR%20SAFETY&MajorTopic=HEALTH%20AND%20SAFETY",
+     "sha256": "debd0d7f3f434baae701a133a773a0a178a2e78a18bb4bc3806ccc8b5c9b67db"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-420-56",
+   "short": "420 ILCS 56",
+   "title": "Illinois Compiled Statutes, Laser System Act of 1997 (420 ILCS 56)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1628",
+   "versions": [
+    {
+     "from": "2026-06-11",
+     "units": 21,
+     "source_url": "https://web.archive.org/web/20260611013138/https://ilga.gov/Legislation/ILCS/Articles?ActID=1628&ChapterID=37&Chapter=NUCLEAR%20SAFETY&MajorTopic=HEALTH%20AND%20SAFETY",
+     "sha256": "889661cce5bbbb410cf544885880bf7fc1e5b3bca6ff46367fae5d9b3595d437"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-425-5",
+   "short": "425 ILCS 5",
+   "title": "Illinois Compiled Statutes, Apartment Fire Instruction Act (425 ILCS 5)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1629",
+   "versions": [
+    {
+     "from": "2026-06-07",
+     "units": 4,
+     "source_url": "https://web.archive.org/web/20260607060816/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1629&ChapterID=38&Chapter=FIRE%20SAFETY&MajorTopic=HEALTH%20AND%20SAFETY",
+     "sha256": "d01d401afe75e8da7f16c1c3494e8b828e08203b3eb13b5e18e542e91ea36427"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-425-7",
+   "short": "425 ILCS 7",
+   "title": "Illinois Compiled Statutes, Burn Injury Reporting Act (425 ILCS 7)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2796",
+   "versions": [
+    {
+     "from": "2026-02-12",
+     "units": 9,
+     "source_url": "https://web.archive.org/web/20260212131224/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2796&ChapterID=38&Chapter=FIRE%20SAFETY&MajorTopic=HEALTH%20AND%20SAFETY",
+     "sha256": "96b5baad671a8638fb3e29f609b84cb43049d30aecc15622301a43636a20c154"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-425-8",
+   "short": "425 ILCS 8",
+   "title": "Illinois Compiled Statutes, Cigarette Fire Safety Standard Act (425 ILCS 8)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2792",
+   "versions": [
+    {
+     "from": "2026-04-11",
+     "units": 16,
+     "source_url": "https://web.archive.org/web/20260411114107/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2792&ChapterID=38",
+     "sha256": "3f673b1a0ef4ae62ec49b25beaf4e22778ff49cf321c84bcf9051075f965dea0"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-425-10",
+   "short": "425 ILCS 10",
+   "title": "Illinois Compiled Statutes, Facilities Requiring Smoke Detectors Act (425 ILCS 10)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1630",
+   "versions": [
+    {
+     "from": "2026-07-22",
+     "units": 3,
+     "source_url": "https://web.archive.org/web/20260722125542/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1630&ChapterID=38",
+     "sha256": "609f164d2dafd0739fdd309b91c5e1e5265ec7b28b7725daa5e81bcf9d2595e6"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-425-12",
+   "short": "425 ILCS 12",
+   "title": "Illinois Compiled Statutes, Fire and Life Safety Device Act (425 ILCS 12)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2997",
+   "versions": [
+    {
+     "from": "2026-08-12",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20260812201741/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2997&ChapterID=38",
+     "sha256": "3df79e1daf1ed8c6e9a4a7ca367aa0a2ae6a97f69c21044f63b5141883d820a2"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-425-13",
+   "short": "425 ILCS 13",
+   "title": "Illinois Compiled Statutes, Fire and Smoke Damper Inspection Act (425 ILCS 13)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=4193",
+   "versions": [
+    {
+     "from": "2026-06-07",
+     "units": 3,
+     "source_url": "https://web.archive.org/web/20260607175103/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=4193&ChapterID=38&Chapter=FIRE%20SAFETY&MajorTopic=HEALTH%20AND%20SAFETY",
+     "sha256": "23c502b017c6c021b014c3546bbc19d86ee4faa12dd6bc767ab93cff93741236"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-425-20",
+   "short": "425 ILCS 20",
+   "title": "Illinois Compiled Statutes, Fire Hydrant Act (425 ILCS 20)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1632",
+   "versions": [
+    {
+     "from": "2026-05-11",
+     "units": 3,
+     "source_url": "https://web.archive.org/web/20260511160110/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1632&ChapterID=38&Chapter=FIRE%20SAFETY&MajorTopic=HEALTH%20AND%20SAFETY",
+     "sha256": "02d9bd071c746a42268b3651be4f2005a96759a5acf6a43ce0657bc250a8eb39"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-425-30",
+   "short": "425 ILCS 30",
+   "title": "Illinois Compiled Statutes, Fireworks Regulation Act of Illinois (425 ILCS 30)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1634",
+   "versions": [
+    {
+     "from": "2026-05-12",
+     "units": 23,
+     "source_url": "https://web.archive.org/web/20260512144644/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1634&ChapterID=38&Chapter=FIRE%20SAFETY&MajorTopic=HEALTH%20AND%20SAFETY",
+     "sha256": "5d810f0d5a02450b02c3a236813adacdd0bcd397785beac3b433a78fadadbcc9"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-425-35",
+   "short": "425 ILCS 35",
+   "title": "Illinois Compiled Statutes, Pyrotechnic Use Act (425 ILCS 35)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1635",
+   "versions": [
+    {
+     "from": "2026-05-30",
+     "units": 13,
+     "source_url": "https://web.archive.org/web/20260530100931/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1635&ChapterID=38",
+     "sha256": "35201c385bd3d3ed6e1b7d65657c2b7f88feab5c97249cd1c726db7c4e1eda8d"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-425-40",
+   "short": "425 ILCS 40",
+   "title": "Illinois Compiled Statutes, Forest Fire Protection District Act (425 ILCS 40)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1636",
+   "versions": [
+    {
+     "from": "2026-07-12",
+     "units": 12,
+     "source_url": "https://web.archive.org/web/20260712154651/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1636&ChapterID=38",
+     "sha256": "ef2ba0f6b7d9c6af5e2cda4c1150da58aef1b7486bfee8359b4373b338d15db3"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-425-55",
+   "short": "425 ILCS 55",
+   "title": "Illinois Compiled Statutes, Public Building Egress Act (425 ILCS 55)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1639",
+   "versions": [
+    {
+     "from": "2026-04-22",
+     "units": 6,
+     "source_url": "https://web.archive.org/web/20260422214908/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1639&ChapterID=38&Chapter=FIRE%20SAFETY&MajorTopic=HEALTH%20AND%20SAFETY",
+     "sha256": "99319f1eebb7619443b701779eb40b0287b2f0976222c8b0b040780d5a2911ce"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-425-60",
+   "short": "425 ILCS 60",
+   "title": "Illinois Compiled Statutes, Smoke Detector Act (425 ILCS 60)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1640",
+   "versions": [
+    {
+     "from": "2026-06-14",
+     "units": 4,
+     "source_url": "https://web.archive.org/web/20260614233507/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1640&ChapterID=38&Chapter=FIRE%20SAFETY&MajorTopic=HEALTH%20AND%20SAFETY",
+     "sha256": "734b0ac966d10590c3e813d9e06973c256b7d5c64dc47fe39c848ff228f9b863"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-425-65",
+   "short": "425 ILCS 65",
+   "title": "Illinois Compiled Statutes, Space Heating Safety Act (425 ILCS 65)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1641",
+   "versions": [
+    {
+     "from": "2026-04-23",
+     "units": 11,
+     "source_url": "https://web.archive.org/web/20260423001801/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1641&ChapterID=38&Chapter=FIRE%20SAFETY&MajorTopic=HEALTH%20AND%20SAFETY",
+     "sha256": "06fd51f2c0b2aa852418cfae0a736b426f55f9917488c91bffca88c9cdf0bc6d"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-425-68",
+   "short": "425 ILCS 68",
+   "title": "Illinois Compiled Statutes, Truss Construction Fire Safety Act (425 ILCS 68)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1642",
+   "versions": [
+    {
+     "from": "2026-03-17",
+     "units": 6,
+     "source_url": "https://web.archive.org/web/20260317094438/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1642&ChapterID=38&Chapter=FIRE%20SAFETY&MajorTopic=HEALTH%20AND%20SAFETY",
+     "sha256": "f7c2402f5b867ed5874d416823cbd12b1eada2a098d33ebbce51fbdbeb649f5e"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-425-70",
+   "short": "425 ILCS 70",
+   "title": "Illinois Compiled Statutes, Volunteer Fire Protection Association Act (425 ILCS 70)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1643",
+   "versions": [
+    {
+     "from": "2026-04-22",
+     "units": 5,
+     "source_url": "https://web.archive.org/web/20260422211312/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1643&ChapterID=38",
+     "sha256": "638cadc1ea306c33e06aecb6163037e3dc023839e31c611a6fddbbf12b96e637"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-425-75",
+   "short": "425 ILCS 75",
+   "title": "Illinois Compiled Statutes, Sprayed Fire-Resistant Material Applicator Act (425 ILCS 75)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=4435",
+   "versions": [
+    {
+     "from": "2026-05-18",
+     "units": 6,
+     "source_url": "https://web.archive.org/web/20260518072100/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=4435&ChapterID=38",
+     "sha256": "e787bd0676282de6fe514b03c814802a2742a5051ad12f1f2e8ebd1d0ad7103f"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-430-5",
+   "short": "430 ILCS 5",
+   "title": "Illinois Compiled Statutes, Liquefied Petroleum Gas Regulation Act (430 ILCS 5)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1644",
+   "versions": [
+    {
+     "from": "2026-03-08",
+     "units": 6,
+     "source_url": "https://web.archive.org/web/20260308072500/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1644&ChapterID=39&Chapter=PUBLIC%20SAFETY&MajorTopic=HEALTH%20AND%20SAFETY",
+     "sha256": "ecc8f0d8d808264e9ea97a5bca2d0d3cdb108ad8f38a1be85905eda06c420638"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-430-10",
+   "short": "430 ILCS 10",
+   "title": "Illinois Compiled Statutes, Liquefied Petroleum Gas Container Act (430 ILCS 10)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1645",
+   "versions": [
+    {
+     "from": "2026-03-13",
+     "units": 8,
+     "source_url": "https://web.archive.org/web/20260313015505/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1645&ChapterID=39&Chapter=PUBLIC%20SAFETY&MajorTopic=HEALTH%20AND%20SAFETY",
+     "sha256": "87effafcbb5939254561b2dc23bc451048dd38344c41d8d81812b330c5a70f6d"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-430-15",
+   "short": "430 ILCS 15",
+   "title": "Illinois Compiled Statutes, Gasoline Storage Act (430 ILCS 15)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1646",
+   "versions": [
+    {
+     "from": "2026-08-08",
+     "units": 9,
+     "source_url": "https://web.archive.org/web/20260808201621/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1646&ChapterID=39",
+     "sha256": "3a7a6cca9178483868c6e12925417ef783d64613172703d5329b1a6f25dbb9b2"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-430-20",
+   "short": "430 ILCS 20",
+   "title": "Illinois Compiled Statutes, Gasoline Receptacle Labeling Act (430 ILCS 20)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1647",
+   "versions": [
+    {
+     "from": "2026-03-13",
+     "units": 3,
+     "source_url": "https://web.archive.org/web/20260313022056/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1647&ChapterID=39&Chapter=PUBLIC%20SAFETY&MajorTopic=HEALTH%20AND%20SAFETY",
+     "sha256": "321d6d63accf64f264bfd85a01eb64f17199f1054aea7ffa7746e1dc9a219be6"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-430-25",
+   "short": "430 ILCS 25",
+   "title": "Illinois Compiled Statutes, Natural Gas Odor Injection Act (430 ILCS 25)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1648",
+   "versions": [
+    {
+     "from": "2026-03-08",
+     "units": 3,
+     "source_url": "https://web.archive.org/web/20260308081552/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1648&ChapterID=39&Chapter=PUBLIC%20SAFETY&MajorTopic=HEALTH%20AND%20SAFETY",
+     "sha256": "f41b41314ed1786f9ddbfbb078eb6a1baae5197cbb8d1237640f6bf686ab2445"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-430-27",
+   "short": "430 ILCS 27",
+   "title": "Illinois Compiled Statutes, Illinois Propane Education and Research Act of 1997 (430 ILCS 27)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1649",
+   "versions": [
+    {
+     "from": "2026-05-04",
+     "units": 10,
+     "source_url": "https://web.archive.org/web/20260504055046/https://ilga.gov/Legislation/ILCS/Articles?ActID=1649&ChapterID=39",
+     "sha256": "8ae178c9248f11e3231a949b348a94233268f6cb0fa83cb8accd5b2bf5a45943"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-430-30",
+   "short": "430 ILCS 30",
+   "title": "Illinois Compiled Statutes, Illinois Hazardous Materials Transportation Act (430 ILCS 30)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1650",
+   "versions": [
+    {
+     "from": "2026-05-10",
+     "units": 18,
+     "source_url": "https://web.archive.org/web/20260510051647/https://ilga.gov/Legislation/ILCS/Articles?ActID=1650&ChapterID=39&Chapter=PUBLIC%20SAFETY&MajorTopic=HEALTH%20AND%20SAFETY",
+     "sha256": "08af9f9ff45a3fe7a36d7de195ce3534bc52c941e4fa8c1f74f3f22104288415"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-430-32",
+   "short": "430 ILCS 32",
+   "title": "Illinois Compiled Statutes, Nitroglycerin Transportation Act (430 ILCS 32)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3449",
+   "versions": [
+    {
+     "from": "2026-03-08",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20260308081840/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3449&ChapterID=39&Chapter=PUBLIC%20SAFETY&MajorTopic=HEALTH%20AND%20SAFETY",
+     "sha256": "0a6d7f216e94d21c7f6e934e254ac52e56413887265dcfb8d13570d89a81c82a"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-430-35",
+   "short": "430 ILCS 35",
+   "title": "Illinois Compiled Statutes, Uniform Hazardous Substances Act of Illinois (430 ILCS 35)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1651",
+   "versions": [
+    {
+     "from": "2026-07-24",
+     "units": 41,
+     "source_url": "https://web.archive.org/web/20260724081322/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1651&ChapterID=39",
+     "sha256": "577c2d078a637f416d67e4a131ef23ade8f1b1876e165c696f35b75224160038"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-430-40",
+   "short": "430 ILCS 40",
+   "title": "Illinois Compiled Statutes, Illinois Poison Prevention Packaging Act (430 ILCS 40)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1652",
+   "versions": [
+    {
+     "from": "2026-03-13",
+     "units": 14,
+     "source_url": "https://web.archive.org/web/20260313011808/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1652&ChapterID=39&Chapter=PUBLIC%20SAFETY&MajorTopic=HEALTH%20AND%20SAFETY",
+     "sha256": "778f08a7788943ed2202faa56eefa97a092c3b2ca25eaed8d927812f87b14bd1"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-430-45",
+   "short": "430 ILCS 45",
+   "title": "Illinois Compiled Statutes, Illinois Chemical Safety Act (430 ILCS 45)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1653",
+   "versions": [
+    {
+     "from": "2026-08-31",
+     "units": 13,
+     "source_url": "https://web.archive.org/web/20260831184805/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1653&ChapterID=39",
+     "sha256": "a4b52d5f2b1ea04fd046a05f1bd234d17ad5ca278f62e6d246ec7116a3bbaef6"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-430-50",
+   "short": "430 ILCS 50",
+   "title": "Illinois Compiled Statutes, Hazardous Materials Emergency Act (430 ILCS 50)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1654",
+   "versions": [
+    {
+     "from": "2026-03-13",
+     "units": 34,
+     "source_url": "https://web.archive.org/web/20260313014210/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1654&ChapterID=39&Chapter=PUBLIC%20SAFETY&MajorTopic=HEALTH%20AND%20SAFETY",
+     "sha256": "048ee212d4fb559aa254a3cd7714efbb025c8307b44560ecfffd5de914ad2355"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-430-55",
+   "short": "430 ILCS 55",
+   "title": "Illinois Compiled Statutes, Hazardous Material Emergency Response Reimbursement Act (430 ILCS 55)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1655",
+   "versions": [
+    {
+     "from": "2026-04-22",
+     "units": 7,
+     "source_url": "https://web.archive.org/web/20260422121525/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1655&ChapterID=39",
+     "sha256": "2d2d2be16d616d114fec34d0c7c91a5feed1348ed3b72ec262299c34b0fc93df"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-430-60",
+   "short": "430 ILCS 60",
+   "title": "Illinois Compiled Statutes, Safety Glazing Materials Act (430 ILCS 60)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1656",
+   "versions": [
+    {
+     "from": "2026-05-12",
+     "units": 15,
+     "source_url": "https://web.archive.org/web/20260512155617/https://ilga.gov/Legislation/ILCS/Articles?ActID=1656&ChapterID=39&Chapter=PUBLIC%20SAFETY&MajorTopic=HEALTH%20AND%20SAFETY",
+     "sha256": "a9cd4b6cae4e25c1bff660e090e3cf6853ea9d54d4a768cee2b1562c8537f857"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-430-64",
+   "short": "430 ILCS 64",
+   "title": "Illinois Compiled Statutes, Safe Gun Storage Act (430 ILCS 64)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=4604",
+   "versions": [
+    {
+     "from": "2026-03-08",
+     "units": 11,
+     "source_url": "https://web.archive.org/web/20260308075052/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=4604&ChapterID=39&Chapter=PUBLIC%20SAFETY&MajorTopic=HEALTH%20AND%20SAFETY",
+     "sha256": "8633296bd8fa79c10efb3cc4e90bb862e500af69115939894a3f95f4868f7cb9"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-430-65",
+   "short": "430 ILCS 65",
+   "title": "Illinois Compiled Statutes, Firearm Owners Identification Card Act (430 ILCS 65)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1657",
+   "versions": [
+    {
+     "from": "2026-04-23",
+     "units": 43,
+     "source_url": "https://web.archive.org/web/20260423053356/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1657&ChapterID=39",
+     "sha256": "b47e9a4a92ffcc0bf072520fa4847adbbccdcd107897516caf1d3095baa1dd88"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-430-66",
+   "short": "430 ILCS 66",
+   "title": "Illinois Compiled Statutes, Firearm Concealed Carry Act (430 ILCS 66)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3497",
+   "versions": [
+    {
+     "from": "2026-05-30",
+     "units": 45,
+     "source_url": "https://web.archive.org/web/20260530005449/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3497&ChapterID=39",
+     "sha256": "acf75acc25fa7e804c7e8d62891b5923bc2f2b5e0873a30eeafa9418e75243b0"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-430-67",
+   "short": "430 ILCS 67",
+   "title": "Illinois Compiled Statutes, Firearms Restraining Order Act (430 ILCS 67)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3877",
+   "versions": [
+    {
+     "from": "2026-06-12",
+     "units": 20,
+     "source_url": "https://web.archive.org/web/20260612120952/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3877&ChapterID=39",
+     "sha256": "f2d670a514124ebed1001edd21ef69417782e84ce886e3cb1bbd291ea8bfd4cd"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-430-69",
+   "short": "430 ILCS 69",
+   "title": "Illinois Compiled Statutes, Reimagine Public Safety Act (430 ILCS 69)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=4164",
+   "versions": [
+    {
+     "from": "2026-06-12",
+     "units": 44,
+     "source_url": "https://web.archive.org/web/20260612044907/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=4164&ChapterID=39",
+     "sha256": "24d834048982b161e7f2ee58afea6b2238258b2e5a76716bbc6cbe646f82ad30"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-430-70",
+   "short": "430 ILCS 70",
+   "title": "Illinois Compiled Statutes, Illinois Public Demonstrations Law (430 ILCS 70)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1658",
+   "versions": [
+    {
+     "from": "2026-06-07",
+     "units": 9,
+     "source_url": "https://web.archive.org/web/20260607114607/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1658&ChapterID=39",
+     "sha256": "61febfcf6c2d15e7035952a6938d9f61b606f91346c76440af2acd92298e6c4c"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-430-75",
+   "short": "430 ILCS 75",
+   "title": "Illinois Compiled Statutes, Boiler and Pressure Vessel Safety Act (430 ILCS 75)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1659",
+   "versions": [
+    {
+     "from": "2026-03-08",
+     "units": 20,
+     "source_url": "https://web.archive.org/web/20260308065830/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1659&ChapterID=39&Chapter=PUBLIC%20SAFETY&MajorTopic=HEALTH%20AND%20SAFETY",
+     "sha256": "a39ec1ff0cd70f4144562f6c53759ee0883a16eb2c67d3b62732ad121757f0ea"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-430-85",
+   "short": "430 ILCS 85",
+   "title": "Illinois Compiled Statutes, Amusement Ride and Attraction Safety Act (430 ILCS 85)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1661",
+   "versions": [
+    {
+     "from": "2026-06-01",
+     "units": 25,
+     "source_url": "https://web.archive.org/web/20260601155721/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1661&ChapterID=39&Chapter=PUBLIC%20SAFETY&MajorTopic=HEALTH%20AND%20SAFETY",
+     "sha256": "d4346c21a174023fed65ec790486d564cc796167cf5242351afd629544359d40"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-430-95",
+   "short": "430 ILCS 95",
+   "title": "Illinois Compiled Statutes, Release of Genetically Engineered Organisms Act (430 ILCS 95)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1663",
+   "versions": [
+    {
+     "from": "2026-05-17",
+     "units": 12,
+     "source_url": "https://web.archive.org/web/20260517095953/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1663&ChapterID=39",
+     "sha256": "6bd408ca5dfa5d4e52190af4fc242f5f2bd541540aeaeacefd2ec0aed07e0c87"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-430-100",
+   "short": "430 ILCS 100",
+   "title": "Illinois Compiled Statutes, Illinois Emergency Planning and Community Right to Know Act (430 ILCS 100)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1664",
+   "versions": [
+    {
+     "from": "2026-03-08",
+     "units": 19,
+     "source_url": "https://web.archive.org/web/20260308072636/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1664&ChapterID=39&Chapter=PUBLIC%20SAFETY&MajorTopic=HEALTH%20AND%20SAFETY",
+     "sha256": "4d3469b61db2dd9cdb3af168d9fc89901a98c81b6698d98679a823fa4ea9d795"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-430-110",
+   "short": "430 ILCS 110",
+   "title": "Illinois Compiled Statutes, Eyeglass Frame and Lens Act (430 ILCS 110)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1666",
+   "versions": [
+    {
+     "from": "2026-03-08",
+     "units": 12,
+     "source_url": "https://web.archive.org/web/20260308075248/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1666&ChapterID=39&Chapter=PUBLIC%20SAFETY&MajorTopic=HEALTH%20AND%20SAFETY",
+     "sha256": "5051347cfed416777391fcfeed3ca6b40e2de244468de88e0877195da5ab0e73"
+    }
+   ]
   }
  ]
 }

@@ -1678,12 +1678,220 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `ilcs-410-30` | Illinois Compiled Statutes, Elevator Tactile Identification Act (410 ILCS 30) | 1 | 2026-05-15 to 2026-05-15 |
 | `ilcs-410-34` | Illinois Compiled Statutes, Equitable Health Outcomes Act (410 ILCS 34) | 1 | 2026-05-18 to 2026-05-18 |
 | `ilcs-410-35` | Illinois Compiled Statutes, Equitable Restrooms Act (410 ILCS 35) | 1 | 2026-09-09 to 2026-09-09 |
+| `ilcs-410-37` | Illinois Compiled Statutes, Construction Site Temporary Restroom Facility Act (410 ILCS 37) | 1 | 2026-02-07 to 2026-02-07 |
+| `ilcs-410-39` | Illinois Compiled Statutes, Restroom Access Act (410 ILCS 39) | 1 | 2026-05-20 to 2026-05-20 |
+| `ilcs-410-43` | Illinois Compiled Statutes, Comprehensive Lead Education, Reduction, and Window Replacement Program Act (410 ILCS 43) | 1 | 2026-05-13 to 2026-05-13 |
+| `ilcs-410-45` | Illinois Compiled Statutes, Lead Poisoning Prevention Act (410 ILCS 45) | 1 | 2026-07-02 to 2026-07-02 |
+| `ilcs-410-46` | Illinois Compiled Statutes, Mercury-added Product Prohibition Act (410 ILCS 46) | 1 | 2026-05-21 to 2026-05-21 |
+| `ilcs-410-47` | Illinois Compiled Statutes, Poison Control System Act (410 ILCS 47) | 1 | 2026-05-10 to 2026-05-10 |
+| `ilcs-410-48` | Illinois Compiled Statutes, Brominated Fire Retardant Prevention Act (410 ILCS 48) | 1 | 2026-02-16 to 2026-02-16 |
+| `ilcs-410-50` | Illinois Compiled Statutes, Medical Patient Rights Act (410 ILCS 50) | 1 | 2026-04-22 to 2026-04-22 |
+| `ilcs-410-51` | Illinois Compiled Statutes, Mercury-Free Vaccine Act (410 ILCS 51) | 1 | 2026-05-15 to 2026-05-15 |
+| `ilcs-410-53` | Illinois Compiled Statutes, Suicide Prevention, Education, and Treatment Act (410 ILCS 53) | 1 | 2026-05-16 to 2026-05-16 |
+| `ilcs-410-54` | Illinois Compiled Statutes, Tattoo and Body Piercing Establishment Registration Act (410 ILCS 54) | 1 | 2026-04-20 to 2026-04-20 |
+| `ilcs-410-55` | Illinois Compiled Statutes, Telecommunication Devices for the Deaf Act (410 ILCS 55) | 1 | 2026-05-12 to 2026-05-12 |
+| `ilcs-410-60` | Illinois Compiled Statutes, Toxicological Laboratory Service Act (410 ILCS 60) | 1 | 2026-02-13 to 2026-02-13 |
+| `ilcs-410-65` | Illinois Compiled Statutes, Illinois Rural/Downstate Health Act (410 ILCS 65) | 1 | 2026-03-14 to 2026-03-14 |
+| `ilcs-410-66` | Illinois Compiled Statutes, Community Health Center Expansion Act (410 ILCS 66) | 1 | 2026-03-10 to 2026-03-10 |
+| `ilcs-410-68` | Illinois Compiled Statutes, Safe and Hygienic Bed Act (410 ILCS 68) | 1 | 2026-05-09 to 2026-05-09 |
+| `ilcs-410-70` | Illinois Compiled Statutes, Sexual Assault Survivors Emergency Treatment Act (410 ILCS 70) | 1 | 2026-05-15 to 2026-05-15 |
+| `ilcs-410-75` | Illinois Compiled Statutes, Smokeless Tobacco Outdoor Advertising Act (410 ILCS 75) | 1 | 2026-04-23 to 2026-04-23 |
+| `ilcs-410-76` | Illinois Compiled Statutes, Tobacco Products Compliance Act (410 ILCS 76) | 1 | 2026-05-13 to 2026-05-13 |
+| `ilcs-410-82` | Illinois Compiled Statutes, Smoke Free Illinois Act (410 ILCS 82) | 1 | 2026-09-22 to 2026-09-22 |
+| `ilcs-410-83` | Illinois Compiled Statutes, Illinois Clean Public Elevator Air Act (410 ILCS 83) | 1 | 2026-03-14 to 2026-03-14 |
+| `ilcs-410-85` | Illinois Compiled Statutes, Cigarette Health Warning Act (410 ILCS 85) | 1 | 2026-04-16 to 2026-04-16 |
+| `ilcs-410-86` | Illinois Compiled Statutes, Preventing Youth Vaping Act (410 ILCS 86) | 1 | 2026-04-20 to 2026-04-20 |
+| `ilcs-410-87` | Illinois Compiled Statutes, Indoor Air Quality Act (410 ILCS 87) | 1 | 2026-05-15 to 2026-05-15 |
+| `ilcs-410-90` | Illinois Compiled Statutes, Pest and Predatory Animal Control Act (410 ILCS 90) | 1 | 2026-05-21 to 2026-05-21 |
+| `ilcs-410-95` | Illinois Compiled Statutes, Vector Control Act (410 ILCS 95) | 1 | 2026-05-12 to 2026-05-12 |
+| `ilcs-410-100` | Illinois Compiled Statutes, Reduction of Racial and Ethnic Health Disparities Act (410 ILCS 100) | 1 | 2026-04-11 to 2026-04-11 |
+| `ilcs-410-105` | Illinois Compiled Statutes, Mold Remediation Registration Act (410 ILCS 105) | 1 | 2026-05-09 to 2026-05-09 |
+| `ilcs-410-110` | Illinois Compiled Statutes, Stem Cell Research and Human Cloning Prohibition Act (410 ILCS 110) | 1 | 2026-05-20 to 2026-05-20 |
+| `ilcs-410-120` | Illinois Compiled Statutes, MRSA Prevention, Control, and Reporting Act (410 ILCS 120) | 1 | 2026-04-12 to 2026-04-12 |
+| `ilcs-410-125` | Illinois Compiled Statutes, Public Health Standing Orders Act (410 ILCS 125) | 1 | 2026-04-19 to 2026-04-19 |
+| `ilcs-410-130` | Illinois Compiled Statutes, Compassionate Use of Medical Cannabis Program Act (410 ILCS 130) | 1 | 2026-10-03 to 2026-10-03 |
+| `ilcs-410-135` | Illinois Compiled Statutes, Public Self-Care of Diabetes Act (410 ILCS 135) | 1 | 2026-05-12 to 2026-05-12 |
+| `ilcs-410-140` | Illinois Compiled Statutes, Lactation Accommodation in Airports Act (410 ILCS 140) | 1 | 2026-05-12 to 2026-05-12 |
+| `ilcs-410-145` | Illinois Compiled Statutes, Youth Sports Concussion Safety Act (410 ILCS 145) | 1 | 2026-03-08 to 2026-03-08 |
+| `ilcs-410-150` | Illinois Compiled Statutes, Autism and Co-Occurring Medical Conditions Awareness Act (410 ILCS 150) | 1 | 2026-05-16 to 2026-05-16 |
+| `ilcs-410-155` | Illinois Compiled Statutes, Health in All Policies Act (410 ILCS 155) | 1 | 2026-05-21 to 2026-05-21 |
+| `ilcs-410-160` | Illinois Compiled Statutes, Dense Breast Tissue Act (410 ILCS 160) | 1 | 2026-05-10 to 2026-05-10 |
+| `ilcs-410-165-article-0072` | Illinois Compiled Statutes, Underlying Causes of Crime and Violence Study Act (410 ILCS 165), Article 72 | 1 | 2026-06-06 to 2026-06-06 |
+| `ilcs-410-165-article-0999` | Illinois Compiled Statutes, Underlying Causes of Crime and Violence Study Act (410 ILCS 165), Article 999 | 1 | 2026-06-06 to 2026-06-06 |
+| `ilcs-410-170` | Illinois Compiled Statutes, Coal Tar Sealant Disclosure Act (410 ILCS 170) | 1 | 2026-05-11 to 2026-05-11 |
+| `ilcs-410-185` | Illinois Compiled Statutes, Abortion Care Clinical Training Program Act (410 ILCS 185) | 1 | 2026-05-15 to 2026-05-15 |
+| `ilcs-410-190` | Illinois Compiled Statutes, One Health Commission Act (410 ILCS 190) | 1 | 2026-05-17 to 2026-05-17 |
+| `ilcs-410-201` | Illinois Compiled Statutes, Autism Spectrum Disorders Reporting Act (410 ILCS 201) | 1 | 2026-03-12 to 2026-03-12 |
+| `ilcs-410-205` | Illinois Compiled Statutes, Child Vision and Hearing Test Act (410 ILCS 205) | 1 | 2026-04-22 to 2026-04-22 |
+| `ilcs-410-210` | Illinois Compiled Statutes, Consent by Minors to Health Care Services Act (410 ILCS 210) | 1 | 2026-05-10 to 2026-05-10 |
+| `ilcs-410-212` | Illinois Compiled Statutes, Illinois Family Case Management Act (410 ILCS 212) | 1 | 2026-03-05 to 2026-03-05 |
+| `ilcs-410-213` | Illinois Compiled Statutes, Early Hearing Detection and Intervention Act (410 ILCS 213) | 1 | 2026-05-09 to 2026-05-09 |
+| `ilcs-410-215` | Illinois Compiled Statutes, Infant Eye Disease Act (410 ILCS 215) | 1 | 2026-04-13 to 2026-04-13 |
+| `ilcs-410-221` | Illinois Compiled Statutes, Advisory Board for the Maternal and Child Health Block Grant Programs Act (410 ILCS 221) | 1 | 2026-04-20 to 2026-04-20 |
+| `ilcs-410-223` | Illinois Compiled Statutes, Newborn Eye Pathology Act (410 ILCS 223) | 1 | 2026-05-13 to 2026-05-13 |
+| `ilcs-410-225` | Illinois Compiled Statutes, Prenatal and Newborn Care Act (410 ILCS 225) | 1 | 2026-04-11 to 2026-04-11 |
+| `ilcs-410-235` | Illinois Compiled Statutes, Pertussis Vaccine Act (410 ILCS 235) | 1 | 2026-05-20 to 2026-05-20 |
+| `ilcs-410-240` | Illinois Compiled Statutes, Newborn Metabolic Screening Act (410 ILCS 240) | 1 | 2026-05-14 to 2026-05-14 |
+| `ilcs-410-250` | Illinois Compiled Statutes, Developmental Disability Prevention Act (410 ILCS 250) | 1 | 2026-04-10 to 2026-04-10 |
+| `ilcs-410-255` | Illinois Compiled Statutes, WIC Vendor Management Act (410 ILCS 255) | 1 | 2026-05-12 to 2026-05-12 |
+| `ilcs-410-260` | Illinois Compiled Statutes, Shaken Baby Prevention Act (410 ILCS 260) | 1 | 2026-05-08 to 2026-05-08 |
+| `ilcs-410-265` | Illinois Compiled Statutes, Genetic and Metabolic Diseases Advisory Committee Act (410 ILCS 265) | 1 | 2026-04-10 to 2026-04-10 |
+| `ilcs-410-270` | Illinois Compiled Statutes, Reducing the Risk of Skin Cancer and Excessive UV Exposure in Children Act (410 ILCS 270) | 1 | 2026-04-14 to 2026-04-14 |
+| `ilcs-410-303` | Illinois Compiled Statutes, African-American HIV/AIDS Response Act (410 ILCS 303) | 1 | 2026-05-18 to 2026-05-18 |
+| `ilcs-410-305` | Illinois Compiled Statutes, AIDS Confidentiality Act (410 ILCS 305) | 1 | 2026-05-08 to 2026-05-08 |
+| `ilcs-410-310` | Illinois Compiled Statutes, HIV/AIDS Registry Act (410 ILCS 310) | 1 | 2026-05-13 to 2026-05-13 |
+| `ilcs-410-312` | Illinois Compiled Statutes, Infectious Disease Testing Act (410 ILCS 312) | 1 | 2026-02-11 to 2026-02-11 |
+| `ilcs-410-315` | Illinois Compiled Statutes, Communicable Disease Prevention Act (410 ILCS 315) | 1 | 2026-03-10 to 2026-03-10 |
+| `ilcs-410-316` | Illinois Compiled Statutes, Ryan White Fund Validation Act (410 ILCS 316) | 1 | 2026-05-21 to 2026-05-21 |
+| `ilcs-410-320` | Illinois Compiled Statutes, Prenatal Syphilis Act (410 ILCS 320) | 1 | 2026-05-20 to 2026-05-20 |
+| `ilcs-410-325` | Illinois Compiled Statutes, Illinois Sexually Transmitted Infection Control Act (410 ILCS 325) | 1 | 2026-05-15 to 2026-05-15 |
+| `ilcs-410-330` | Illinois Compiled Statutes, Polio Vaccine Act (410 ILCS 330) | 1 | 2026-05-20 to 2026-05-20 |
+| `ilcs-410-335` | Illinois Compiled Statutes, Perinatal HIV Prevention Act (410 ILCS 335) | 1 | 2026-03-15 to 2026-03-15 |
+| `ilcs-410-406` | Illinois Compiled Statutes, Alzheimer's Disease and Related Dementias Services Act (410 ILCS 406) | 1 | 2026-05-13 to 2026-05-13 |
+| `ilcs-410-410` | Illinois Compiled Statutes, Alzheimer's Disease Research, Care, and Support Fund Act (410 ILCS 410) | 1 | 2026-03-13 to 2026-03-13 |
+| `ilcs-410-413` | Illinois Compiled Statutes, Epilepsy Disease Assistance Act (410 ILCS 413) | 1 | 2026-04-23 to 2026-04-23 |
+| `ilcs-410-415` | Illinois Compiled Statutes, Experimental Cancer Treatment Act (410 ILCS 415) | 1 | 2026-04-22 to 2026-04-22 |
+| `ilcs-410-416` | Illinois Compiled Statutes, Clinical Trial Participation Program Act (410 ILCS 416) | 1 | 2026-05-20 to 2026-05-20 |
+| `ilcs-410-417` | Illinois Compiled Statutes, Reducing Cervical Cancer and Saving Lives Act (410 ILCS 417) | 1 | 2026-05-18 to 2026-05-18 |
+| `ilcs-410-420` | Illinois Compiled Statutes, Hemophilia Care Act (410 ILCS 420) | 1 | 2026-04-20 to 2026-04-20 |
+| `ilcs-410-430` | Illinois Compiled Statutes, Renal Disease Treatment Act (410 ILCS 430) | 1 | 2026-05-19 to 2026-05-19 |
+| `ilcs-410-440` | Illinois Compiled Statutes, Rheumatic Fever and Heart Disease Medicine Act (410 ILCS 440) | 1 | 2026-05-21 to 2026-05-21 |
+| `ilcs-410-445` | Illinois Compiled Statutes, Rare Disease Commission Act (410 ILCS 445) | 1 | 2026-05-08 to 2026-05-08 |
+| `ilcs-410-450` | Illinois Compiled Statutes, Lyme Disease Prevention and Protection Act (410 ILCS 450) | 1 | 2026-04-10 to 2026-04-10 |
+| `ilcs-410-455` | Illinois Compiled Statutes, Parkinson's Disease Public Awareness and Education Act (410 ILCS 455) | 1 | 2026-02-13 to 2026-02-13 |
+| `ilcs-410-501` | Illinois Compiled Statutes, Access to Public Health Data Act (410 ILCS 501) | 1 | 2026-04-21 to 2026-04-21 |
+| `ilcs-410-503` | Illinois Compiled Statutes, Arthritis Quality of Life Initiative Act (410 ILCS 503) | 1 | 2026-05-16 to 2026-05-16 |
+| `ilcs-410-505` | Illinois Compiled Statutes, Autopsy Act (410 ILCS 505) | 1 | 2026-03-15 to 2026-03-15 |
+| `ilcs-410-510` | Illinois Compiled Statutes, Cadaver Act (410 ILCS 510) | 1 | 2026-04-13 to 2026-04-13 |
+| `ilcs-410-511` | Illinois Compiled Statutes, Down Syndrome Information and Awareness Act (410 ILCS 511) | 1 | 2026-03-11 to 2026-03-11 |
+| `ilcs-410-513` | Illinois Compiled Statutes, Genetic Information Privacy Act (410 ILCS 513) | 1 | 2026-03-16 to 2026-03-16 |
+| `ilcs-410-515` | Illinois Compiled Statutes, Head and Spinal Cord Injury Act (410 ILCS 515) | 1 | 2026-04-11 to 2026-04-11 |
+| `ilcs-410-517` | Illinois Compiled Statutes, Health Care Professional Credentials Data Collection Act (410 ILCS 517) | 1 | 2026-04-20 to 2026-04-20 |
+| `ilcs-410-522-article-0010` | Illinois Compiled Statutes, Illinois Adverse Health Care Events Reporting Law of 2005 (410 ILCS 522), Article 10 | 1 | 2026-05-06 to 2026-05-06 |
+| `ilcs-410-522-article-0090` | Illinois Compiled Statutes, Illinois Adverse Health Care Events Reporting Law of 2005 (410 ILCS 522), Article 90 | 1 | 2026-05-06 to 2026-05-06 |
+| `ilcs-410-525` | Illinois Compiled Statutes, Illinois Health and Hazardous Substances Registry Act (410 ILCS 525) | 1 | 2026-05-20 to 2026-05-20 |
+| `ilcs-410-527` | Illinois Compiled Statutes, Immunization Data Registry Act (410 ILCS 527) | 1 | 2026-05-12 to 2026-05-12 |
+| `ilcs-410-528` | Illinois Compiled Statutes, Lupus Education and Awareness Act (410 ILCS 528) | 1 | 2026-02-17 to 2026-02-17 |
+| `ilcs-410-530` | Illinois Compiled Statutes, Marriage, Dissolution, and Invalidity Records Act (410 ILCS 530) | 1 | 2026-04-12 to 2026-04-12 |
+| `ilcs-410-535` | Illinois Compiled Statutes, Vital Records Act (410 ILCS 535) | 1 | 2026-05-15 to 2026-05-15 |
+| `ilcs-410-540` | Illinois Compiled Statutes, Reflex Sympathetic Dystrophy Syndrome Education Act (410 ILCS 540) | 1 | 2026-04-18 to 2026-04-18 |
+| `ilcs-410-605` | Illinois Compiled Statutes, Animals Intended for Food Act (410 ILCS 605) | 1 | 2026-05-21 to 2026-05-21 |
+| `ilcs-410-607` | Illinois Compiled Statutes, Emergency Asthma Inhalers and Allergy Treatment for Children Act (410 ILCS 607) | 1 | 2026-05-12 to 2026-05-12 |
+| `ilcs-410-610` | Illinois Compiled Statutes, Butter and Cheese Factories Act (410 ILCS 610) | 1 | 2026-02-09 to 2026-02-09 |
+| `ilcs-410-615` | Illinois Compiled Statutes, Illinois Egg and Egg Products Act (410 ILCS 615) | 1 | 2026-05-13 to 2026-05-13 |
+| `ilcs-410-620` | Illinois Compiled Statutes, Illinois Food, Drug and Cosmetic Act (410 ILCS 620) | 1 | 2026-10-05 to 2026-10-05 |
+| `ilcs-410-625` | Illinois Compiled Statutes, Food Handling Regulation Enforcement Act (410 ILCS 625) | 1 | 2026-05-16 to 2026-05-16 |
+| `ilcs-410-630` | Illinois Compiled Statutes, Food Safety Transportation Act (410 ILCS 630) | 1 | 2026-05-12 to 2026-05-12 |
+| `ilcs-410-635` | Illinois Compiled Statutes, Grade A Pasteurized Milk and Milk Products Act (410 ILCS 635) | 1 | 2026-07-14 to 2026-07-14 |
+| `ilcs-410-637` | Illinois Compiled Statutes, Halal Food Act (410 ILCS 637) | 1 | 2026-05-14 to 2026-05-14 |
+| `ilcs-410-638` | Illinois Compiled Statutes, Healthy Food Program Development Act (410 ILCS 638) | 1 | 2026-04-20 to 2026-04-20 |
+| `ilcs-410-640` | Illinois Compiled Statutes, Hearth Baked Bread Act (410 ILCS 640) | 1 | 2026-04-22 to 2026-04-22 |
+| `ilcs-410-642` | Illinois Compiled Statutes, Home Health and Hospice Drug Dispensation and Administration Act (410 ILCS 642) | 1 | 2026-05-16 to 2026-05-16 |
+| `ilcs-410-645` | Illinois Compiled Statutes, Kosher Food Act (410 ILCS 645) | 1 | 2026-05-14 to 2026-05-14 |
+| `ilcs-410-647` | Illinois Compiled Statutes, Powdered Caffeine Control and Education Act (410 ILCS 647) | 1 | 2026-03-07 to 2026-03-07 |
+| `ilcs-410-650` | Illinois Compiled Statutes, Sanitary Food Preparation Act (410 ILCS 650) | 1 | 2026-05-15 to 2026-05-15 |
+| `ilcs-410-655` | Illinois Compiled Statutes, Safe Bottled Water Act (410 ILCS 655) | 1 | 2026-03-14 to 2026-03-14 |
+| `ilcs-410-705-article-0001` | Illinois Compiled Statutes, Cannabis Regulation and Tax Act (410 ILCS 705), Article 1 | 1 | 2026-04-21 to 2026-04-21 |
+| `ilcs-410-705-article-0005` | Illinois Compiled Statutes, Cannabis Regulation and Tax Act (410 ILCS 705), Article 5 | 1 | 2026-04-21 to 2026-04-21 |
+| `ilcs-410-705-article-0007` | Illinois Compiled Statutes, Cannabis Regulation and Tax Act (410 ILCS 705), Article 7 | 1 | 2026-04-21 to 2026-04-21 |
+| `ilcs-410-705-article-0010` | Illinois Compiled Statutes, Cannabis Regulation and Tax Act (410 ILCS 705), Article 10 | 1 | 2026-04-21 to 2026-04-21 |
+| `ilcs-410-705-article-0015` | Illinois Compiled Statutes, Cannabis Regulation and Tax Act (410 ILCS 705), Article 15 | 1 | 2026-04-21 to 2026-04-21 |
+| `ilcs-410-705-article-0020` | Illinois Compiled Statutes, Cannabis Regulation and Tax Act (410 ILCS 705), Article 20 | 1 | 2026-04-21 to 2026-04-21 |
+| `ilcs-410-705-article-0025` | Illinois Compiled Statutes, Cannabis Regulation and Tax Act (410 ILCS 705), Article 25 | 1 | 2026-04-21 to 2026-04-21 |
+| `ilcs-410-705-article-0030` | Illinois Compiled Statutes, Cannabis Regulation and Tax Act (410 ILCS 705), Article 30 | 1 | 2026-04-21 to 2026-04-21 |
+| `ilcs-410-705-article-0035` | Illinois Compiled Statutes, Cannabis Regulation and Tax Act (410 ILCS 705), Article 35 | 1 | 2026-04-21 to 2026-04-21 |
+| `ilcs-410-705-article-0040` | Illinois Compiled Statutes, Cannabis Regulation and Tax Act (410 ILCS 705), Article 40 | 1 | 2026-04-21 to 2026-04-21 |
+| `ilcs-410-705-article-0045` | Illinois Compiled Statutes, Cannabis Regulation and Tax Act (410 ILCS 705), Article 45 | 1 | 2026-04-21 to 2026-04-21 |
+| `ilcs-410-705-article-0050` | Illinois Compiled Statutes, Cannabis Regulation and Tax Act (410 ILCS 705), Article 50 | 1 | 2026-04-21 to 2026-04-21 |
+| `ilcs-410-705-article-0055` | Illinois Compiled Statutes, Cannabis Regulation and Tax Act (410 ILCS 705), Article 55 | 1 | 2026-04-21 to 2026-04-21 |
+| `ilcs-410-705-article-0060` | Illinois Compiled Statutes, Cannabis Regulation and Tax Act (410 ILCS 705), Article 60 | 1 | 2026-04-21 to 2026-04-21 |
+| `ilcs-410-705-article-0065` | Illinois Compiled Statutes, Cannabis Regulation and Tax Act (410 ILCS 705), Article 65 | 1 | 2026-04-21 to 2026-04-21 |
+| `ilcs-410-705-article-0900` | Illinois Compiled Statutes, Cannabis Regulation and Tax Act (410 ILCS 705), Article 900 | 1 | 2026-04-21 to 2026-04-21 |
+| `ilcs-410-705-article-0999` | Illinois Compiled Statutes, Cannabis Regulation and Tax Act (410 ILCS 705), Article 999 | 1 | 2026-04-21 to 2026-04-21 |
+| `ilcs-410-710` | Illinois Compiled Statutes, Overdose Prevention and Harm Reduction Act (410 ILCS 710) | 1 | 2026-02-15 to 2026-02-15 |
+| `ilcs-410-715` | Illinois Compiled Statutes, Illinois Drug Reuse Opportunity Program Act (410 ILCS 715) | 1 | 2026-03-10 to 2026-03-10 |
+| `ilcs-410-725` | Illinois Compiled Statutes, Pharmaceutical and Health Affordability: Restrictions on Manufacturers' Amoral Behavior through Reasonable Oversight Act (410 ILCS 725) | 1 | 2026-05-12 to 2026-05-12 |
+| `ilcs-415-15` | Illinois Compiled Statutes, Solid Waste Planning and Recycling Act (415 ILCS 15) | 1 | 2026-02-11 to 2026-02-11 |
+| `ilcs-415-30` | Illinois Compiled Statutes, Illinois Water Well Construction Code (415 ILCS 30) | 1 | 2026-04-18 to 2026-04-18 |
+| `ilcs-415-35` | Illinois Compiled Statutes, Illinois Water Well Pump Installation Code (415 ILCS 35) | 1 | 2026-04-21 to 2026-04-21 |
+| `ilcs-415-50` | Illinois Compiled Statutes, Wastewater Land Treatment Site Regulation Act (415 ILCS 50) | 1 | 2026-04-16 to 2026-04-16 |
+| `ilcs-415-55` | Illinois Compiled Statutes, Illinois Groundwater Protection Act (415 ILCS 55) | 1 | 2026-04-18 to 2026-04-18 |
+| `ilcs-415-60` | Illinois Compiled Statutes, Illinois Pesticide Act (415 ILCS 60) | 1 | 2026-09-18 to 2026-09-18 |
+| `ilcs-415-65` | Illinois Compiled Statutes, Lawn Care Products Application and Notice Act (415 ILCS 65) | 1 | 2026-07-22 to 2026-07-22 |
+| `ilcs-415-70` | Illinois Compiled Statutes, Hazardous Substances Construction Disclosure Act (415 ILCS 70) | 1 | 2026-05-27 to 2026-05-27 |
+| `ilcs-415-90` | Illinois Compiled Statutes, Household Hazardous Waste Collection Program Act (415 ILCS 90) | 1 | 2026-04-29 to 2026-04-29 |
+| `ilcs-415-110` | Illinois Compiled Statutes, Recycled Newsprint Use Act (415 ILCS 110) | 1 | 2026-04-30 to 2026-04-30 |
+| `ilcs-415-120` | Illinois Compiled Statutes, Electric Vehicle Rebate Act (415 ILCS 120) | 1 | 2026-04-12 to 2026-04-12 |
+| `ilcs-415-130` | Illinois Compiled Statutes, Interstate Ozone Transport Oversight Act (415 ILCS 130) | 1 | 2026-04-29 to 2026-04-29 |
+| `ilcs-415-135` | Illinois Compiled Statutes, Drycleaner Environmental Response Trust Fund Act (415 ILCS 135) | 1 | 2026-02-17 to 2026-02-17 |
+| `ilcs-415-151-article-0001` | Illinois Compiled Statutes, Consumer Electronics Recycling Act (415 ILCS 151), Article 1 | 1 | 2026-02-11 to 2026-02-11 |
+| `ilcs-415-151-article-0005` | Illinois Compiled Statutes, Consumer Electronics Recycling Act (415 ILCS 151), Article 5 | 1 | 2026-02-11 to 2026-02-11 |
+| `ilcs-415-151-article-0098` | Illinois Compiled Statutes, Consumer Electronics Recycling Act (415 ILCS 151), Article 98 | 1 | 2026-02-11 to 2026-02-11 |
+| `ilcs-415-151-article-0099` | Illinois Compiled Statutes, Consumer Electronics Recycling Act (415 ILCS 151), Article 99 | 1 | 2026-02-11 to 2026-02-11 |
+| `ilcs-415-165` | Illinois Compiled Statutes, Wipes Labeling Act (415 ILCS 165) | 1 | 2026-04-19 to 2026-04-19 |
+| `ilcs-415-170` | Illinois Compiled Statutes, PFAS Reduction Act (415 ILCS 170) | 1 | 2026-10-05 to 2026-10-05 |
+| `ilcs-415-175` | Illinois Compiled Statutes, Paint Stewardship Act (415 ILCS 175) | 1 | 2026-05-14 to 2026-05-14 |
+| `ilcs-415-180` | Illinois Compiled Statutes, Statewide Recycling Needs Assessment Act (415 ILCS 180) | 1 | 2026-04-15 to 2026-04-15 |
+| `ilcs-415-205` | Illinois Compiled Statutes, Portable and Medium-Format Battery Stewardship Act (415 ILCS 205) | 1 | 2026-02-05 to 2026-02-05 |
+| `ilcs-420-5` | Illinois Compiled Statutes, Illinois Nuclear Safety Preparedness Act (420 ILCS 5) | 1 | 2026-06-09 to 2026-06-09 |
+| `ilcs-420-10` | Illinois Compiled Statutes, Illinois Nuclear Facility Safety Act (420 ILCS 10) | 1 | 2026-06-06 to 2026-06-06 |
+| `ilcs-420-15` | Illinois Compiled Statutes, Spent Nuclear Fuel Act (420 ILCS 15) | 1 | 2026-06-11 to 2026-06-11 |
+| `ilcs-420-20` | Illinois Compiled Statutes, Illinois Low-Level Radioactive Waste Management Act (420 ILCS 20) | 1 | 2026-06-09 to 2026-06-09 |
+| `ilcs-420-35` | Illinois Compiled Statutes, Radioactive Waste Storage Act (420 ILCS 35) | 1 | 2026-06-27 to 2026-06-27 |
+| `ilcs-420-37` | Illinois Compiled Statutes, Radioactive Waste Tracking and Permitting Act (420 ILCS 37) | 1 | 2026-06-09 to 2026-06-09 |
+| `ilcs-420-40` | Illinois Compiled Statutes, Radiation Protection Act of 1990 (420 ILCS 40) | 1 | 2026-06-06 to 2026-06-06 |
+| `ilcs-420-42` | Illinois Compiled Statutes, Uranium and Thorium Mill Tailings Control Act (420 ILCS 42) | 1 | 2026-06-11 to 2026-06-11 |
+| `ilcs-420-44` | Illinois Compiled Statutes, Radon Industry Licensing Act (420 ILCS 44) | 1 | 2026-06-09 to 2026-06-09 |
+| `ilcs-420-46` | Illinois Compiled Statutes, Illinois Radon Awareness Act (420 ILCS 46) | 1 | 2026-06-06 to 2026-06-06 |
+| `ilcs-420-52` | Illinois Compiled Statutes, Radon Resistant Construction Act (420 ILCS 52) | 1 | 2026-06-11 to 2026-06-11 |
+| `ilcs-420-56` | Illinois Compiled Statutes, Laser System Act of 1997 (420 ILCS 56) | 1 | 2026-06-11 to 2026-06-11 |
+| `ilcs-425-5` | Illinois Compiled Statutes, Apartment Fire Instruction Act (425 ILCS 5) | 1 | 2026-06-07 to 2026-06-07 |
+| `ilcs-425-7` | Illinois Compiled Statutes, Burn Injury Reporting Act (425 ILCS 7) | 1 | 2026-02-12 to 2026-02-12 |
+| `ilcs-425-8` | Illinois Compiled Statutes, Cigarette Fire Safety Standard Act (425 ILCS 8) | 1 | 2026-04-11 to 2026-04-11 |
+| `ilcs-425-10` | Illinois Compiled Statutes, Facilities Requiring Smoke Detectors Act (425 ILCS 10) | 1 | 2026-07-22 to 2026-07-22 |
+| `ilcs-425-12` | Illinois Compiled Statutes, Fire and Life Safety Device Act (425 ILCS 12) | 1 | 2026-08-12 to 2026-08-12 |
+| `ilcs-425-13` | Illinois Compiled Statutes, Fire and Smoke Damper Inspection Act (425 ILCS 13) | 1 | 2026-06-07 to 2026-06-07 |
+| `ilcs-425-20` | Illinois Compiled Statutes, Fire Hydrant Act (425 ILCS 20) | 1 | 2026-05-11 to 2026-05-11 |
+| `ilcs-425-30` | Illinois Compiled Statutes, Fireworks Regulation Act of Illinois (425 ILCS 30) | 1 | 2026-05-12 to 2026-05-12 |
+| `ilcs-425-35` | Illinois Compiled Statutes, Pyrotechnic Use Act (425 ILCS 35) | 1 | 2026-05-30 to 2026-05-30 |
+| `ilcs-425-40` | Illinois Compiled Statutes, Forest Fire Protection District Act (425 ILCS 40) | 1 | 2026-07-12 to 2026-07-12 |
+| `ilcs-425-55` | Illinois Compiled Statutes, Public Building Egress Act (425 ILCS 55) | 1 | 2026-04-22 to 2026-04-22 |
+| `ilcs-425-60` | Illinois Compiled Statutes, Smoke Detector Act (425 ILCS 60) | 1 | 2026-06-14 to 2026-06-14 |
+| `ilcs-425-65` | Illinois Compiled Statutes, Space Heating Safety Act (425 ILCS 65) | 1 | 2026-04-23 to 2026-04-23 |
+| `ilcs-425-68` | Illinois Compiled Statutes, Truss Construction Fire Safety Act (425 ILCS 68) | 1 | 2026-03-17 to 2026-03-17 |
+| `ilcs-425-70` | Illinois Compiled Statutes, Volunteer Fire Protection Association Act (425 ILCS 70) | 1 | 2026-04-22 to 2026-04-22 |
+| `ilcs-425-75` | Illinois Compiled Statutes, Sprayed Fire-Resistant Material Applicator Act (425 ILCS 75) | 1 | 2026-05-18 to 2026-05-18 |
+| `ilcs-430-5` | Illinois Compiled Statutes, Liquefied Petroleum Gas Regulation Act (430 ILCS 5) | 1 | 2026-03-08 to 2026-03-08 |
+| `ilcs-430-10` | Illinois Compiled Statutes, Liquefied Petroleum Gas Container Act (430 ILCS 10) | 1 | 2026-03-13 to 2026-03-13 |
+| `ilcs-430-15` | Illinois Compiled Statutes, Gasoline Storage Act (430 ILCS 15) | 1 | 2026-08-08 to 2026-08-08 |
+| `ilcs-430-20` | Illinois Compiled Statutes, Gasoline Receptacle Labeling Act (430 ILCS 20) | 1 | 2026-03-13 to 2026-03-13 |
+| `ilcs-430-25` | Illinois Compiled Statutes, Natural Gas Odor Injection Act (430 ILCS 25) | 1 | 2026-03-08 to 2026-03-08 |
+| `ilcs-430-27` | Illinois Compiled Statutes, Illinois Propane Education and Research Act of 1997 (430 ILCS 27) | 1 | 2026-05-04 to 2026-05-04 |
+| `ilcs-430-30` | Illinois Compiled Statutes, Illinois Hazardous Materials Transportation Act (430 ILCS 30) | 1 | 2026-05-10 to 2026-05-10 |
+| `ilcs-430-32` | Illinois Compiled Statutes, Nitroglycerin Transportation Act (430 ILCS 32) | 1 | 2026-03-08 to 2026-03-08 |
+| `ilcs-430-35` | Illinois Compiled Statutes, Uniform Hazardous Substances Act of Illinois (430 ILCS 35) | 1 | 2026-07-24 to 2026-07-24 |
+| `ilcs-430-40` | Illinois Compiled Statutes, Illinois Poison Prevention Packaging Act (430 ILCS 40) | 1 | 2026-03-13 to 2026-03-13 |
+| `ilcs-430-45` | Illinois Compiled Statutes, Illinois Chemical Safety Act (430 ILCS 45) | 1 | 2026-08-31 to 2026-08-31 |
+| `ilcs-430-50` | Illinois Compiled Statutes, Hazardous Materials Emergency Act (430 ILCS 50) | 1 | 2026-03-13 to 2026-03-13 |
+| `ilcs-430-55` | Illinois Compiled Statutes, Hazardous Material Emergency Response Reimbursement Act (430 ILCS 55) | 1 | 2026-04-22 to 2026-04-22 |
+| `ilcs-430-60` | Illinois Compiled Statutes, Safety Glazing Materials Act (430 ILCS 60) | 1 | 2026-05-12 to 2026-05-12 |
+| `ilcs-430-64` | Illinois Compiled Statutes, Safe Gun Storage Act (430 ILCS 64) | 1 | 2026-03-08 to 2026-03-08 |
+| `ilcs-430-65` | Illinois Compiled Statutes, Firearm Owners Identification Card Act (430 ILCS 65) | 1 | 2026-04-23 to 2026-04-23 |
+| `ilcs-430-66` | Illinois Compiled Statutes, Firearm Concealed Carry Act (430 ILCS 66) | 1 | 2026-05-30 to 2026-05-30 |
+| `ilcs-430-67` | Illinois Compiled Statutes, Firearms Restraining Order Act (430 ILCS 67) | 1 | 2026-06-12 to 2026-06-12 |
+| `ilcs-430-69` | Illinois Compiled Statutes, Reimagine Public Safety Act (430 ILCS 69) | 1 | 2026-06-12 to 2026-06-12 |
+| `ilcs-430-70` | Illinois Compiled Statutes, Illinois Public Demonstrations Law (430 ILCS 70) | 1 | 2026-06-07 to 2026-06-07 |
+| `ilcs-430-75` | Illinois Compiled Statutes, Boiler and Pressure Vessel Safety Act (430 ILCS 75) | 1 | 2026-03-08 to 2026-03-08 |
+| `ilcs-430-85` | Illinois Compiled Statutes, Amusement Ride and Attraction Safety Act (430 ILCS 85) | 1 | 2026-06-01 to 2026-06-01 |
+| `ilcs-430-95` | Illinois Compiled Statutes, Release of Genetically Engineered Organisms Act (430 ILCS 95) | 1 | 2026-05-17 to 2026-05-17 |
+| `ilcs-430-100` | Illinois Compiled Statutes, Illinois Emergency Planning and Community Right to Know Act (430 ILCS 100) | 1 | 2026-03-08 to 2026-03-08 |
+| `ilcs-430-110` | Illinois Compiled Statutes, Eyeglass Frame and Lens Act (430 ILCS 110) | 1 | 2026-03-08 to 2026-03-08 |
 
-The build made 1663 commits:
+The build made 1871 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 1663 | first version of an act |
+| 1871 | first version of an act |
 | 0 | one law on its in-force day |
 | 0 | changes no amendment note explains, credited to the publisher |
 
@@ -1691,7 +1899,7 @@ Other counts:
 - 0 commits on the branch `future`: laws not yet in force on 2026-11-10.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
 - 0 laws in the record.
-- 1663 tags.
+- 1871 tags.
 
 ## Dates
 
@@ -1703,7 +1911,7 @@ When a law gives no date of its own, the default rule applies: No dated history 
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `3a9a728a17f1a2e6f0066f51c0bcc6fd602e404752b4a133e1953ae770a43322` (44887748 bytes).
+- Corpus: sha256 `b7b98a7af2cb02a6d0376953bd67bcddcb3ba13a991985036fb5ac0e40acc3ea` (47350525 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `3024ff164c261807dfc4d5b7b1b4a2cde4357da1`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.12.10; git version 2.46.0.windows.1.
 
