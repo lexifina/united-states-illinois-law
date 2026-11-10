@@ -322,6 +322,510 @@
      "sha256": "9002341989874602f882030d5da9d74774803dfd781c4767c20398f5a9ad041c"
     }
    ]
+  },
+  {
+   "slug": "ilcs-5-5",
+   "short": "5 ILCS 5",
+   "title": "Illinois Compiled Statutes, U. S. Constitution Amendment Act (5 ILCS 5)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=74",
+   "versions": [
+    {
+     "from": "2026-02-07",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20260207021134/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=74&ChapterID=2&Chapter=GENERAL%20PROVISIONS&MajorTopic=GOVERNMENT",
+     "sha256": "75153acdd7e8f595ee004a14cfe3e474180693344c85c19961a33c0c2f57111d"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-5-20",
+   "short": "5 ILCS 20",
+   "title": "Illinois Compiled Statutes, Illinois Constitutional Amendment Act (5 ILCS 20)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=75",
+   "versions": [
+    {
+     "from": "2026-06-16",
+     "units": 12,
+     "source_url": "https://web.archive.org/web/20260616155018/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=75&ChapterID=59",
+     "sha256": "b9aee95696ebe5bf25b6c94d90c305efd9985ccb37d9b2c1f7fb17fb93c9095d"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-5-25",
+   "short": "5 ILCS 25",
+   "title": "Illinois Compiled Statutes, Constitutional Convention Act (5 ILCS 25)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=76",
+   "versions": [
+    {
+     "from": "2026-07-10",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20260710070123/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=76&ChapterID=2",
+     "sha256": "1f251e751410b01fa232d351751ef4fb1ffe2ee6b95d8a43a17eb2dc58b9ff98"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-5-50",
+   "short": "5 ILCS 50",
+   "title": "Illinois Compiled Statutes, Common Law Act (5 ILCS 50)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=78",
+   "versions": [
+    {
+     "from": "2026-06-16",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20260616155046/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=78&ChapterID=59",
+     "sha256": "4ad778e12fca103a7a66533acb80264d4c670f8c6e62d72214613d2e3f6cb4cd"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-5-70",
+   "short": "5 ILCS 70",
+   "title": "Illinois Compiled Statutes, Statute on Statutes (5 ILCS 70)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=79",
+   "versions": [
+    {
+     "from": "2026-06-16",
+     "units": 54,
+     "source_url": "https://web.archive.org/web/20260616155056/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=79&ChapterID=59",
+     "sha256": "14d8621b547b37fc3d8bb6599faba569d1de3bc8a7262449901342bb2f9c78c4"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-5-75",
+   "short": "5 ILCS 75",
+   "title": "Illinois Compiled Statutes, Effective Date of Laws Act (5 ILCS 75)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=80",
+   "versions": [
+    {
+     "from": "2026-06-16",
+     "units": 8,
+     "source_url": "https://web.archive.org/web/20260616155106/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=80&ChapterID=59",
+     "sha256": "c1a9007ac551b876a643b1a1f5a8a5b31fd13d748540f776d0f6f7e7128473c9"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-5-80",
+   "short": "5 ILCS 80",
+   "title": "Illinois Compiled Statutes, Regulatory Sunset Act (5 ILCS 80)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=81",
+   "versions": [
+    {
+     "from": "2026-06-16",
+     "units": 61,
+     "source_url": "https://web.archive.org/web/20260616155116/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=81&ChapterID=59",
+     "sha256": "1fee117a0cf35d2998e13b92a983d07ea8706ba6d1dceb343c88be476448d20e"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-5-85",
+   "short": "5 ILCS 85",
+   "title": "Illinois Compiled Statutes, Statutes Savings (1874) Act (5 ILCS 85)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=82",
+   "versions": [
+    {
+     "from": "2026-06-16",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20260616155125/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=82&ChapterID=59",
+     "sha256": "9a23907fe5aee2e874903714e961c505dd96d1dedf372b902353383ff5f8668c"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-5-90",
+   "short": "5 ILCS 90",
+   "title": "Illinois Compiled Statutes, Gender-Neutral Statutes Commission Act (5 ILCS 90)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2435",
+   "versions": [
+    {
+     "from": "2026-02-18",
+     "units": 4,
+     "source_url": "https://web.archive.org/web/20260218222534/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2435&ChapterID=2&Chapter=GENERAL%20PROVISIONS&MajorTopic=GOVERNMENT",
+     "sha256": "40ce8ff75d9d47bc83a9e516eb3ff573aebe54e98863fbcfb538e486e05ba310"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-5-120",
+   "short": "5 ILCS 120",
+   "title": "Illinois Compiled Statutes, Open Meetings Act (5 ILCS 120)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=84",
+   "versions": [
+    {
+     "from": "2026-10-14",
+     "units": 22,
+     "source_url": "https://web.archive.org/web/20261014212528/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=84&ChapterID=2",
+     "sha256": "069d94debdb2900cfe576f743fd43db2b0dbd908bed0defb93df34d11121d677"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-5-140",
+   "short": "5 ILCS 140",
+   "title": "Illinois Compiled Statutes, Freedom of Information Act (5 ILCS 140)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=85",
+   "versions": [
+    {
+     "from": "2026-10-22",
+     "units": 30,
+     "source_url": "https://web.archive.org/web/20261022124441/https://www.ilga.gov/legislation/ILCS/Articles?ActID=85&ChapterID=2",
+     "sha256": "b130ee619aa7bdb29be1fa5022371d2997dd32ca8989449784c535fbf857d979"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-5-160",
+   "short": "5 ILCS 160",
+   "title": "Illinois Compiled Statutes, State Records Act (5 ILCS 160)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=86",
+   "versions": [
+    {
+     "from": "2026-06-11",
+     "units": 34,
+     "source_url": "https://web.archive.org/web/20260611131502/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=86&ChapterID=2",
+     "sha256": "9baa40b0b25fb9f2a4f0bda045561e8975aa0b42c081949471ba753494ec27bd"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-5-165",
+   "short": "5 ILCS 165",
+   "title": "Illinois Compiled Statutes, Filing of Copies Act (5 ILCS 165)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=87",
+   "versions": [
+    {
+     "from": "2026-05-21",
+     "units": 6,
+     "source_url": "https://web.archive.org/web/20260521030821/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=87&ChapterID=2",
+     "sha256": "33d9c34840670dc09a47977de0ff243a95b51304d4d747d65798b1850e3b3e74"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-5-170",
+   "short": "5 ILCS 170",
+   "title": "Illinois Compiled Statutes, Filmed Records Reproduction Act (5 ILCS 170)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=88",
+   "versions": [
+    {
+     "from": "2026-03-18",
+     "units": 5,
+     "source_url": "https://web.archive.org/web/20260318204347/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=88&ChapAct=5%C2%A0ILCS%C2%A0170/&ChapterID=2&ChapterName=GENERAL+PROVISIONS&ActName=Filmed+Records+Reproduction+Act",
+     "sha256": "5b6d9a99e6c5da9c85780a4999b8533410cee6be361f2465e2d4355e8c47544c"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-5-176",
+   "short": "5 ILCS 176",
+   "title": "Illinois Compiled Statutes, Government Advertising Spending Transparency Act (5 ILCS 176)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=4609",
+   "versions": [
+    {
+     "from": "2026-02-18",
+     "units": 3,
+     "source_url": "https://web.archive.org/web/20260218203539/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=4609&ChapterID=2&Chapter=GENERAL%20PROVISIONS&MajorTopic=GOVERNMENT",
+     "sha256": "8ad4c65337ce78563f720323058a998f9e7a7aa4738b9f9ab905732d094dd836"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-5-177",
+   "short": "5 ILCS 177",
+   "title": "Illinois Compiled Statutes, State Agency Web Site Act (5 ILCS 177)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2436",
+   "versions": [
+    {
+     "from": "2026-02-18",
+     "units": 5,
+     "source_url": "https://web.archive.org/web/20260218204816/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2436&ChapterID=2&Chapter=GENERAL%20PROVISIONS&MajorTopic=GOVERNMENT",
+     "sha256": "b4bcb9c103bab0b8a6cff09b806daa5472c227b06bf64de5856a6647ed8cd18d"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-5-179",
+   "short": "5 ILCS 179",
+   "title": "Illinois Compiled Statutes, Identity Protection Act (5 ILCS 179)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3174",
+   "versions": [
+    {
+     "from": "2026-03-08",
+     "units": 14,
+     "source_url": "https://web.archive.org/web/20260308133409/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3174&ChapterID=2&Chapter=GENERAL%20PROVISIONS&MajorTopic=GOVERNMENT",
+     "sha256": "a9b3013492eaf54f78fcd701cae833416bc41740ba3d58f388c13cb28dcd725e"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-5-180",
+   "short": "5 ILCS 180",
+   "title": "Illinois Compiled Statutes, Uniform Electronic Legal Material Act (5 ILCS 180)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3581",
+   "versions": [
+    {
+     "from": "2026-03-24",
+     "units": 11,
+     "source_url": "https://web.archive.org/web/20260324060148/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3581&ChapterID=2",
+     "sha256": "981fc0183d0f6f67a58273080c55b64acf63e75cd0a0a3a21323a2c10b50799d"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-5-185",
+   "short": "5 ILCS 185",
+   "title": "Illinois Compiled Statutes, Anti-Registry Program Act (5 ILCS 185)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3909",
+   "versions": [
+    {
+     "from": "2026-02-16",
+     "units": 4,
+     "source_url": "https://web.archive.org/web/20260216113147/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3909&ChapterID=2&Chapter=GENERAL%20PROVISIONS&MajorTopic=GOVERNMENT",
+     "sha256": "95a919952ca10a57f90b963aa24a5051fe490d62fedabd34bb4e0edcd110c601"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-5-190",
+   "short": "5 ILCS 190",
+   "title": "Illinois Compiled Statutes, Seat of Government Act (5 ILCS 190)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=90",
+   "versions": [
+    {
+     "from": "2026-02-18",
+     "units": 3,
+     "source_url": "https://web.archive.org/web/20260218211750/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=90&ChapterID=2&Chapter=GENERAL%20PROVISIONS&MajorTopic=GOVERNMENT",
+     "sha256": "35c7a9c70357bd9b7acb99db4e27864ba588c87cfa0df71efff0a7ab029d042f"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-5-195",
+   "short": "5 ILCS 195",
+   "title": "Illinois Compiled Statutes, Emergency Seat of Government Act (5 ILCS 195)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=91",
+   "versions": [
+    {
+     "from": "2026-05-05",
+     "units": 4,
+     "source_url": "https://web.archive.org/web/20260505181813/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=91&ChapterID=2",
+     "sha256": "4a28753ceed54f3214bdb1a27d4d73c44ea5189826bd50c7e9e602b0b3abf161"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-5-220",
+   "short": "5 ILCS 220",
+   "title": "Illinois Compiled Statutes, Intergovernmental Cooperation Act (5 ILCS 220)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=92",
+   "versions": [
+    {
+     "from": "2026-06-11",
+     "units": 24,
+     "source_url": "https://web.archive.org/web/20260611142259/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=92&ChapterID=2",
+     "sha256": "57e7a479e66d8863d01992102bb3efaeae44b68a9df3d096e5af346c7172ed50"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-5-225",
+   "short": "5 ILCS 225",
+   "title": "Illinois Compiled Statutes, Transportation Cooperation Act of 1971 (5 ILCS 225)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=93",
+   "versions": [
+    {
+     "from": "2026-02-07",
+     "units": 10,
+     "source_url": "https://web.archive.org/web/20260207021617/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=93&ChapterID=2&Chapter=GENERAL%20PROVISIONS&MajorTopic=GOVERNMENT",
+     "sha256": "7d131e09f46cb98c025ae9460a25018bb744cc01d5909a1b0e024c453618ae83"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-5-230",
+   "short": "5 ILCS 230",
+   "title": "Illinois Compiled Statutes, Consular Identification Document Act (5 ILCS 230)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2723",
+   "versions": [
+    {
+     "from": "2026-02-16",
+     "units": 4,
+     "source_url": "https://web.archive.org/web/20260216105739/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2723&ChapterID=2&Chapter=GENERAL%20PROVISIONS&MajorTopic=GOVERNMENT",
+     "sha256": "010ff59cf9e3f8caeb00bbfd8b7d2d590b3f7ebbc66f579f41e655b7bbf3959a"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-5-235",
+   "short": "5 ILCS 235",
+   "title": "Illinois Compiled Statutes, Interstate Mutual Emergency Aid Act (5 ILCS 235)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3509",
+   "versions": [
+    {
+     "from": "2026-05-01",
+     "units": 9,
+     "source_url": "https://web.archive.org/web/20260501153304/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3509&ChapterID=2",
+     "sha256": "816e9f8753af39b1245233da692ca78f54e0e2e34c9368367407699867a7c1a5"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-5-250",
+   "short": "5 ILCS 250",
+   "title": "Illinois Compiled Statutes, Gubernatorial Appointee Oath Act (5 ILCS 250)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=94",
+   "versions": [
+    {
+     "from": "2026-04-14",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20260414014324/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=94&ChapterID=2",
+     "sha256": "807887439f6e8eb2f7b279e77221821e263417625888006707df469f0b461879"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-5-255",
+   "short": "5 ILCS 255",
+   "title": "Illinois Compiled Statutes, Oaths and Affirmations Act (5 ILCS 255)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=95",
+   "versions": [
+    {
+     "from": "2026-02-18",
+     "units": 8,
+     "source_url": "https://web.archive.org/web/20260218210034/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=95&ChapterID=2&Chapter=GENERAL%20PROVISIONS&MajorTopic=GOVERNMENT",
+     "sha256": "2acbbdc355c35db5933f15f84d8f80e7295a231bd263cd4e1ea88bd6708bc82d"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-5-260",
+   "short": "5 ILCS 260",
+   "title": "Illinois Compiled Statutes, Official Bond Act (5 ILCS 260)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=96",
+   "versions": [
+    {
+     "from": "2026-02-07",
+     "units": 19,
+     "source_url": "https://web.archive.org/web/20260207012342/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=96&ChapterID=2&Chapter=GENERAL%20PROVISIONS&MajorTopic=GOVERNMENT",
+     "sha256": "69dfb0a4ffe1b5fd4b6d31de1ddec13dec3864380e05d6b3df7b74e42d7599d0"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-5-265",
+   "short": "5 ILCS 265",
+   "title": "Illinois Compiled Statutes, Holdover Official Bond Act (5 ILCS 265)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=97",
+   "versions": [
+    {
+     "from": "2026-02-18",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20260218213853/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=97&ChapterID=2&Chapter=GENERAL%20PROVISIONS&MajorTopic=GOVERNMENT",
+     "sha256": "70c31e8a945e3d36535f99f7ec0f0472de957a3a3dc0c2f8628077e6753f1205"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-5-270",
+   "short": "5 ILCS 270",
+   "title": "Illinois Compiled Statutes, Official Bond Payment Act (5 ILCS 270)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=98",
+   "versions": [
+    {
+     "from": "2026-02-18",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20260218215501/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=98&ChapterID=2&Chapter=GENERAL%20PROVISIONS&MajorTopic=GOVERNMENT",
+     "sha256": "8dcf31d62b18b54057d50cf3016e9cb228da4fc111e37bc31de6a6674a842b2a"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-5-275",
+   "short": "5 ILCS 275",
+   "title": "Illinois Compiled Statutes, Emergency Interim Executive Succession Act (5 ILCS 275)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=99",
+   "versions": [
+    {
+     "from": "2026-02-16",
+     "units": 11,
+     "source_url": "https://web.archive.org/web/20260216121531/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=99&ChapterID=2&Chapter=GENERAL%20PROVISIONS&MajorTopic=GOVERNMENT",
+     "sha256": "c5643567e00334c1a5af6dabc238203219521ce355731ffe6ec6581d2f7a6965"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-5-280",
+   "short": "5 ILCS 280",
+   "title": "Illinois Compiled Statutes, Officials Convicted of Infamous Crimes Act (5 ILCS 280)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=100",
+   "versions": [
+    {
+     "from": "2026-08-03",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20260803213345/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=100&ChapterID=2",
+     "sha256": "a71da6329221149526d21af658c3572e19f49790e49d1d384e73166cdab06f2c"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-5-282",
+   "short": "5 ILCS 282",
+   "title": "Illinois Compiled Statutes, Elected Officials Misconduct Forfeiture Act (5 ILCS 282)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3141",
+   "versions": [
+    {
+     "from": "2026-08-24",
+     "units": 7,
+     "source_url": "https://web.archive.org/web/20260824072858/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3141&ChapterID=2",
+     "sha256": "f40bb1ce1cb2b9c013467997bcc10c290352653171868c6bd7ef44099d7fe618"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-5-283",
+   "short": "5 ILCS 283",
+   "title": "Illinois Compiled Statutes, Public Corruption Profit Forfeiture Act (5 ILCS 283)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3243",
+   "versions": [
+    {
+     "from": "2026-02-18",
+     "units": 13,
+     "source_url": "https://web.archive.org/web/20260218213130/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3243&ChapterID=2&Chapter=GENERAL%20PROVISIONS&MajorTopic=GOVERNMENT",
+     "sha256": "2eab105cc04aeec5bc56aff4cfd8fc908ca9c042fed194a1f3ce371399c8da5e"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-5-285",
+   "short": "5 ILCS 285",
+   "title": "Illinois Compiled Statutes, Employee Rights Violation Act (5 ILCS 285)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=101",
+   "versions": [
+    {
+     "from": "2026-06-22",
+     "units": 3,
+     "source_url": "https://web.archive.org/web/20260622040228/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=101&ChapterID=2",
+     "sha256": "487a1c3002edb96418cc2a49db01738b7f7ad01a2974d0fc5811909b4bfc8dc5"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-5-290",
+   "short": "5 ILCS 290",
+   "title": "Illinois Compiled Statutes, Salaries Act (5 ILCS 290)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=102",
+   "versions": [
+    {
+     "from": "2026-02-07",
+     "units": 11,
+     "source_url": "https://web.archive.org/web/20260207004933/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=102&ChapterID=2&Chapter=GENERAL%20PROVISIONS&MajorTopic=GOVERNMENT",
+     "sha256": "10d8fbcddb2b500bd337598449e4c6712764efc47f2530bfab68b70ecc715479"
+    }
+   ]
   }
  ]
 }
