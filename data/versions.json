@@ -12054,6 +12054,3954 @@
      "sha256": "79e54d3d99c5eab18537cd05dfb5bd6ecadf06a2b33579f69fd90488f7bdc49a"
     }
    ]
+  },
+  {
+   "slug": "ilcs-70-825",
+   "short": "70 ILCS 825",
+   "title": "Illinois Compiled Statutes, Forest Preserve District Corporate Powers Affirmation Act (70 ILCS 825)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=879",
+   "versions": [
+    {
+     "from": "2026-03-12",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20260312042846/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=879&ChapterID=15&Chapter=SPECIAL%20DISTRICTS&MajorTopic=GOVERNMENT",
+     "sha256": "e8c6e6ef9c6ce6c1b734350760635ae6c10ef86091f0e99fe0bca2fc4e46f61b"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-70-830",
+   "short": "70 ILCS 830",
+   "title": "Illinois Compiled Statutes, Forest Preserve Botanic Gardens Act (70 ILCS 830)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=880",
+   "versions": [
+    {
+     "from": "2026-04-12",
+     "units": 4,
+     "source_url": "https://web.archive.org/web/20260412000639/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=880&ChapterID=15&Chapter=SPECIAL%20DISTRICTS&MajorTopic=GOVERNMENT",
+     "sha256": "5641995c07141b5f14c1a2bc6afbe9c48a795c68cf35ebfeba173ef2ad29db81"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-70-835",
+   "short": "70 ILCS 835",
+   "title": "Illinois Compiled Statutes, Forest Preserve Zoological Parks Act (70 ILCS 835)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=881",
+   "versions": [
+    {
+     "from": "2026-04-10",
+     "units": 5,
+     "source_url": "https://web.archive.org/web/20260410152120/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=881&ChapterID=15&Chapter=SPECIAL%20DISTRICTS&MajorTopic=GOVERNMENT",
+     "sha256": "b069109babc4194b0fd0fcf6174397c80a69fbd132096daa073dc71d7fd15775"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-70-840",
+   "short": "70 ILCS 840",
+   "title": "Illinois Compiled Statutes, Forest Preserve District Tax Levy Validation (1963) Act (70 ILCS 840)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=882",
+   "versions": [
+    {
+     "from": "2026-03-08",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20260308103709/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=882&ChapterID=15&Chapter=SPECIAL%20DISTRICTS&MajorTopic=GOVERNMENT",
+     "sha256": "a2651e8ef5362fa00413d4aa9ed486b55450978f3a1b0f312f8a1f4c8d8b17dd"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-70-845",
+   "short": "70 ILCS 845",
+   "title": "Illinois Compiled Statutes, Forest Preserve District Tax Levy Validation (1967) Act (70 ILCS 845)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=883",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20260415130040/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=883&ChapterID=15&Chapter=SPECIAL%20DISTRICTS&MajorTopic=GOVERNMENT",
+     "sha256": "2764026581e811830268e31cc2e70bdbbc64d88200b2c5285bb98de6b4b7cb97"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-70-850",
+   "short": "70 ILCS 850",
+   "title": "Illinois Compiled Statutes, Forest Preserve District Tax Levy Validation (1986) Act (70 ILCS 850)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=884",
+   "versions": [
+    {
+     "from": "2026-04-12",
+     "units": 3,
+     "source_url": "https://web.archive.org/web/20260412193553/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=884&ChapterID=15&Chapter=SPECIAL%20DISTRICTS&MajorTopic=GOVERNMENT",
+     "sha256": "93a07e5570aa06f7ce6fe5e8cb3d41776027d0f2e6c3e82851dfa9a22c20dd0f"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-70-855",
+   "short": "70 ILCS 855",
+   "title": "Illinois Compiled Statutes, DuPage County Forest Preserve District Tax Levy Validation (1988) Act (70 ILCS 855)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=885",
+   "versions": [
+    {
+     "from": "2026-03-16",
+     "units": 3,
+     "source_url": "https://web.archive.org/web/20260316024155/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=885&ChapterID=15&Chapter=SPECIAL%20DISTRICTS&MajorTopic=GOVERNMENT",
+     "sha256": "4a86687abf60dba59310f7516f38840b6e944525365ed83d71469e95351cc6b0"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-70-860",
+   "short": "70 ILCS 860",
+   "title": "Illinois Compiled Statutes, Forest Preserve District and Conservation District Design-Build Authorization Act (70 ILCS 860)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=4195",
+   "versions": [
+    {
+     "from": "2026-04-22",
+     "units": 15,
+     "source_url": "https://web.archive.org/web/20260422211136/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=4195&ChapterID=15&Chapter=SPECIAL%20DISTRICTS&MajorTopic=GOVERNMENT",
+     "sha256": "99076053cdef88ce38e61a1bfada0d44e66df0cf2a520bf7b4bdbe22401af49d"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-70-905",
+   "short": "70 ILCS 905",
+   "title": "Illinois Compiled Statutes, Public Health District Act (70 ILCS 905)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=886",
+   "versions": [
+    {
+     "from": "2026-05-14",
+     "units": 29,
+     "source_url": "https://web.archive.org/web/20260514014246/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=886&ChapterID=15&Chapter=SPECIAL%20DISTRICTS&MajorTopic=GOVERNMENT",
+     "sha256": "b7f75bb00228bb460bb1defebf77f93cf3da34c5f1556b33911e12ccdbfd2a68"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-70-910",
+   "short": "70 ILCS 910",
+   "title": "Illinois Compiled Statutes, Hospital District Law (70 ILCS 910)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=887",
+   "versions": [
+    {
+     "from": "2026-03-14",
+     "units": 31,
+     "source_url": "https://web.archive.org/web/20260314194457/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=887&ChapterID=15&Chapter=SPECIAL%20DISTRICTS&MajorTopic=GOVERNMENT",
+     "sha256": "1814f9e82b45e3fba0523ea8d2629687026ae1bd93fc55e1e1c31030f97b3ffd"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-70-915",
+   "short": "70 ILCS 915",
+   "title": "Illinois Compiled Statutes, Illinois Medical District Act (70 ILCS 915)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=888",
+   "versions": [
+    {
+     "from": "2026-08-21",
+     "units": 22,
+     "source_url": "https://web.archive.org/web/20260821134555/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=888&ChapterID=15",
+     "sha256": "1ed5a823df687fe58b37dea00c11e41fcdaf43657af21def2054d617da743adb"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-70-920",
+   "short": "70 ILCS 920",
+   "title": "Illinois Compiled Statutes, Tuberculosis Sanitarium District Act (70 ILCS 920)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=889",
+   "versions": [
+    {
+     "from": "2026-08-17",
+     "units": 24,
+     "source_url": "https://web.archive.org/web/20260817211939/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=889&ChapterID=15",
+     "sha256": "f50ec419491a623cb72ea5a693c7989084d3184357c6f1cfefb540c9be5213e6"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-70-925",
+   "short": "70 ILCS 925",
+   "title": "Illinois Compiled Statutes, Mid-Illinois Medical District Act (70 ILCS 925)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2459",
+   "versions": [
+    {
+     "from": "2026-04-16",
+     "units": 24,
+     "source_url": "https://web.archive.org/web/20260416074613/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2459&ChapterID=15&Chapter=SPECIAL%20DISTRICTS&MajorTopic=GOVERNMENT",
+     "sha256": "81c6a6d522c36052546d3856d097354c307abf3c3c55dfe616c6ec0ef7ceb94c"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-70-930",
+   "short": "70 ILCS 930",
+   "title": "Illinois Compiled Statutes, Mid-America Medical District Act (70 ILCS 930)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2816",
+   "versions": [
+    {
+     "from": "2026-03-08",
+     "units": 21,
+     "source_url": "https://web.archive.org/web/20260308104913/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2816&ChapterID=15&Chapter=SPECIAL%20DISTRICTS&MajorTopic=GOVERNMENT",
+     "sha256": "7cde1e2ddce572a9d7f800dfa3ef2c86b70c849616fae418d0bb338bc5479cfa"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-70-935",
+   "short": "70 ILCS 935",
+   "title": "Illinois Compiled Statutes, Roseland Community Medical District Act (70 ILCS 935)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3358",
+   "versions": [
+    {
+     "from": "2026-07-05",
+     "units": 19,
+     "source_url": "https://web.archive.org/web/20260705214803/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3358&ChapterID=15",
+     "sha256": "6dcbd4c164e04aa02e884b483e5db835e08702e2adbcc1fc692a65b0f172c757"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-70-1005",
+   "short": "70 ILCS 1005",
+   "title": "Illinois Compiled Statutes, Mosquito Abatement District Act (70 ILCS 1005)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=890",
+   "versions": [
+    {
+     "from": "2026-02-17",
+     "units": 24,
+     "source_url": "https://web.archive.org/web/20260217191102/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=890&ChapterID=15&Chapter=SPECIAL%20DISTRICTS&MajorTopic=GOVERNMENT",
+     "sha256": "5f0ae68a582937b98cd3aa209915b7a3de90741186c1e4e898380151eafe7e38"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-70-1105",
+   "short": "70 ILCS 1105",
+   "title": "Illinois Compiled Statutes, Museum District Act (70 ILCS 1105)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=891",
+   "versions": [
+    {
+     "from": "2026-04-12",
+     "units": 29,
+     "source_url": "https://web.archive.org/web/20260412060804/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=891&ChapterID=15&Chapter=SPECIAL%20DISTRICTS&MajorTopic=GOVERNMENT",
+     "sha256": "365403ffbd6bf72304332cefaaef3d0ab53b0272ffddb55d54bb945fa6bc44f1"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-70-1205-article-0001",
+   "short": "70 ILCS 1205 art. 1",
+   "title": "Illinois Compiled Statutes, Park District Code (70 ILCS 1205), Article 1",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=892",
+   "versions": [
+    {
+     "from": "2026-04-12",
+     "units": 5,
+     "source_url": "https://web.archive.org/web/20260412030728/https://www.ilga.gov/legislation/ILCS/details?MajorTopic=&Chapter=&ActName=Park%20District%20Code.&ActID=892&ChapterID=15&SeqStart=&&ChapAct=FullText",
+     "sha256": "0345e053c5ba51ad7d6183dd845dd34a4deba4dd4ad0192aef1e794fd171d8ce"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-70-1205-article-0002",
+   "short": "70 ILCS 1205 art. 2",
+   "title": "Illinois Compiled Statutes, Park District Code (70 ILCS 1205), Article 2",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=892",
+   "versions": [
+    {
+     "from": "2026-04-12",
+     "units": 32,
+     "source_url": "https://web.archive.org/web/20260412030728/https://www.ilga.gov/legislation/ILCS/details?MajorTopic=&Chapter=&ActName=Park%20District%20Code.&ActID=892&ChapterID=15&SeqStart=&&ChapAct=FullText",
+     "sha256": "0345e053c5ba51ad7d6183dd845dd34a4deba4dd4ad0192aef1e794fd171d8ce"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-70-1205-article-0003",
+   "short": "70 ILCS 1205 art. 3",
+   "title": "Illinois Compiled Statutes, Park District Code (70 ILCS 1205), Article 3",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=892",
+   "versions": [
+    {
+     "from": "2026-04-12",
+     "units": 19,
+     "source_url": "https://web.archive.org/web/20260412030728/https://www.ilga.gov/legislation/ILCS/details?MajorTopic=&Chapter=&ActName=Park%20District%20Code.&ActID=892&ChapterID=15&SeqStart=&&ChapAct=FullText",
+     "sha256": "0345e053c5ba51ad7d6183dd845dd34a4deba4dd4ad0192aef1e794fd171d8ce"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-70-1205-article-0004",
+   "short": "70 ILCS 1205 art. 4",
+   "title": "Illinois Compiled Statutes, Park District Code (70 ILCS 1205), Article 4",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=892",
+   "versions": [
+    {
+     "from": "2026-04-12",
+     "units": 12,
+     "source_url": "https://web.archive.org/web/20260412030728/https://www.ilga.gov/legislation/ILCS/details?MajorTopic=&Chapter=&ActName=Park%20District%20Code.&ActID=892&ChapterID=15&SeqStart=&&ChapAct=FullText",
+     "sha256": "0345e053c5ba51ad7d6183dd845dd34a4deba4dd4ad0192aef1e794fd171d8ce"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-70-1205-article-0005",
+   "short": "70 ILCS 1205 art. 5",
+   "title": "Illinois Compiled Statutes, Park District Code (70 ILCS 1205), Article 5",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=892",
+   "versions": [
+    {
+     "from": "2026-04-12",
+     "units": 15,
+     "source_url": "https://web.archive.org/web/20260412030728/https://www.ilga.gov/legislation/ILCS/details?MajorTopic=&Chapter=&ActName=Park%20District%20Code.&ActID=892&ChapterID=15&SeqStart=&&ChapAct=FullText",
+     "sha256": "0345e053c5ba51ad7d6183dd845dd34a4deba4dd4ad0192aef1e794fd171d8ce"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-70-1205-article-0006",
+   "short": "70 ILCS 1205 art. 6",
+   "title": "Illinois Compiled Statutes, Park District Code (70 ILCS 1205), Article 6",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=892",
+   "versions": [
+    {
+     "from": "2026-04-12",
+     "units": 7,
+     "source_url": "https://web.archive.org/web/20260412030728/https://www.ilga.gov/legislation/ILCS/details?MajorTopic=&Chapter=&ActName=Park%20District%20Code.&ActID=892&ChapterID=15&SeqStart=&&ChapAct=FullText",
+     "sha256": "0345e053c5ba51ad7d6183dd845dd34a4deba4dd4ad0192aef1e794fd171d8ce"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-70-1205-article-0007",
+   "short": "70 ILCS 1205 art. 7",
+   "title": "Illinois Compiled Statutes, Park District Code (70 ILCS 1205), Article 7",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=892",
+   "versions": [
+    {
+     "from": "2026-04-12",
+     "units": 5,
+     "source_url": "https://web.archive.org/web/20260412030728/https://www.ilga.gov/legislation/ILCS/details?MajorTopic=&Chapter=&ActName=Park%20District%20Code.&ActID=892&ChapterID=15&SeqStart=&&ChapAct=FullText",
+     "sha256": "0345e053c5ba51ad7d6183dd845dd34a4deba4dd4ad0192aef1e794fd171d8ce"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-70-1205-article-0008",
+   "short": "70 ILCS 1205 art. 8",
+   "title": "Illinois Compiled Statutes, Park District Code (70 ILCS 1205), Article 8",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=892",
+   "versions": [
+    {
+     "from": "2026-04-12",
+     "units": 41,
+     "source_url": "https://web.archive.org/web/20260412030728/https://www.ilga.gov/legislation/ILCS/details?MajorTopic=&Chapter=&ActName=Park%20District%20Code.&ActID=892&ChapterID=15&SeqStart=&&ChapAct=FullText",
+     "sha256": "0345e053c5ba51ad7d6183dd845dd34a4deba4dd4ad0192aef1e794fd171d8ce"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-70-1205-article-0009",
+   "short": "70 ILCS 1205 art. 9",
+   "title": "Illinois Compiled Statutes, Park District Code (70 ILCS 1205), Article 9",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=892",
+   "versions": [
+    {
+     "from": "2026-04-12",
+     "units": 14,
+     "source_url": "https://web.archive.org/web/20260412030728/https://www.ilga.gov/legislation/ILCS/details?MajorTopic=&Chapter=&ActName=Park%20District%20Code.&ActID=892&ChapterID=15&SeqStart=&&ChapAct=FullText",
+     "sha256": "0345e053c5ba51ad7d6183dd845dd34a4deba4dd4ad0192aef1e794fd171d8ce"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-70-1205-article-0009-0001",
+   "short": "70 ILCS 1205 art. 9.1",
+   "title": "Illinois Compiled Statutes, Park District Code (70 ILCS 1205), Article 9.1",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=892",
+   "versions": [
+    {
+     "from": "2026-04-12",
+     "units": 6,
+     "source_url": "https://web.archive.org/web/20260412030728/https://www.ilga.gov/legislation/ILCS/details?MajorTopic=&Chapter=&ActName=Park%20District%20Code.&ActID=892&ChapterID=15&SeqStart=&&ChapAct=FullText",
+     "sha256": "0345e053c5ba51ad7d6183dd845dd34a4deba4dd4ad0192aef1e794fd171d8ce"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-70-1205-article-0009-0002",
+   "short": "70 ILCS 1205 art. 9.2",
+   "title": "Illinois Compiled Statutes, Park District Code (70 ILCS 1205), Article 9.2",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=892",
+   "versions": [
+    {
+     "from": "2026-04-12",
+     "units": 6,
+     "source_url": "https://web.archive.org/web/20260412030728/https://www.ilga.gov/legislation/ILCS/details?MajorTopic=&Chapter=&ActName=Park%20District%20Code.&ActID=892&ChapterID=15&SeqStart=&&ChapAct=FullText",
+     "sha256": "0345e053c5ba51ad7d6183dd845dd34a4deba4dd4ad0192aef1e794fd171d8ce"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-70-1205-article-0009-0003",
+   "short": "70 ILCS 1205 art. 9.3",
+   "title": "Illinois Compiled Statutes, Park District Code (70 ILCS 1205), Article 9.3",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=892",
+   "versions": [
+    {
+     "from": "2026-04-12",
+     "units": 6,
+     "source_url": "https://web.archive.org/web/20260412030728/https://www.ilga.gov/legislation/ILCS/details?MajorTopic=&Chapter=&ActName=Park%20District%20Code.&ActID=892&ChapterID=15&SeqStart=&&ChapAct=FullText",
+     "sha256": "0345e053c5ba51ad7d6183dd845dd34a4deba4dd4ad0192aef1e794fd171d8ce"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-70-1205-article-0010",
+   "short": "70 ILCS 1205 art. 10",
+   "title": "Illinois Compiled Statutes, Park District Code (70 ILCS 1205), Article 10",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=892",
+   "versions": [
+    {
+     "from": "2026-04-12",
+     "units": 8,
+     "source_url": "https://web.archive.org/web/20260412030728/https://www.ilga.gov/legislation/ILCS/details?MajorTopic=&Chapter=&ActName=Park%20District%20Code.&ActID=892&ChapterID=15&SeqStart=&&ChapAct=FullText",
+     "sha256": "0345e053c5ba51ad7d6183dd845dd34a4deba4dd4ad0192aef1e794fd171d8ce"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-70-1205-article-0011",
+   "short": "70 ILCS 1205 art. 11",
+   "title": "Illinois Compiled Statutes, Park District Code (70 ILCS 1205), Article 11",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=892",
+   "versions": [
+    {
+     "from": "2026-04-12",
+     "units": 5,
+     "source_url": "https://web.archive.org/web/20260412030728/https://www.ilga.gov/legislation/ILCS/details?MajorTopic=&Chapter=&ActName=Park%20District%20Code.&ActID=892&ChapterID=15&SeqStart=&&ChapAct=FullText",
+     "sha256": "0345e053c5ba51ad7d6183dd845dd34a4deba4dd4ad0192aef1e794fd171d8ce"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-70-1205-article-0011-0001",
+   "short": "70 ILCS 1205 art. 11.1",
+   "title": "Illinois Compiled Statutes, Park District Code (70 ILCS 1205), Article 11.1",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=892",
+   "versions": [
+    {
+     "from": "2026-04-12",
+     "units": 10,
+     "source_url": "https://web.archive.org/web/20260412030728/https://www.ilga.gov/legislation/ILCS/details?MajorTopic=&Chapter=&ActName=Park%20District%20Code.&ActID=892&ChapterID=15&SeqStart=&&ChapAct=FullText",
+     "sha256": "0345e053c5ba51ad7d6183dd845dd34a4deba4dd4ad0192aef1e794fd171d8ce"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-70-1205-article-0011-0002",
+   "short": "70 ILCS 1205 art. 11.2",
+   "title": "Illinois Compiled Statutes, Park District Code (70 ILCS 1205), Article 11.2",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=892",
+   "versions": [
+    {
+     "from": "2026-04-12",
+     "units": 6,
+     "source_url": "https://web.archive.org/web/20260412030728/https://www.ilga.gov/legislation/ILCS/details?MajorTopic=&Chapter=&ActName=Park%20District%20Code.&ActID=892&ChapterID=15&SeqStart=&&ChapAct=FullText",
+     "sha256": "0345e053c5ba51ad7d6183dd845dd34a4deba4dd4ad0192aef1e794fd171d8ce"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-70-1205-article-0012",
+   "short": "70 ILCS 1205 art. 12",
+   "title": "Illinois Compiled Statutes, Park District Code (70 ILCS 1205), Article 12",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=892",
+   "versions": [
+    {
+     "from": "2026-04-12",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20260412030728/https://www.ilga.gov/legislation/ILCS/details?MajorTopic=&Chapter=&ActName=Park%20District%20Code.&ActID=892&ChapterID=15&SeqStart=&&ChapAct=FullText",
+     "sha256": "0345e053c5ba51ad7d6183dd845dd34a4deba4dd4ad0192aef1e794fd171d8ce"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-70-1205-article-0013",
+   "short": "70 ILCS 1205 art. 13",
+   "title": "Illinois Compiled Statutes, Park District Code (70 ILCS 1205), Article 13",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=892",
+   "versions": [
+    {
+     "from": "2026-04-12",
+     "units": 13,
+     "source_url": "https://web.archive.org/web/20260412030728/https://www.ilga.gov/legislation/ILCS/details?MajorTopic=&Chapter=&ActName=Park%20District%20Code.&ActID=892&ChapterID=15&SeqStart=&&ChapAct=FullText",
+     "sha256": "0345e053c5ba51ad7d6183dd845dd34a4deba4dd4ad0192aef1e794fd171d8ce"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-70-1210",
+   "short": "70 ILCS 1210",
+   "title": "Illinois Compiled Statutes, Park System Civil Service Act (70 ILCS 1210)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=893",
+   "versions": [
+    {
+     "from": "2026-03-13",
+     "units": 42,
+     "source_url": "https://web.archive.org/web/20260313140857/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=893&ChapterID=15&Chapter=SPECIAL%20DISTRICTS&MajorTopic=GOVERNMENT",
+     "sha256": "43341d6de1583e3229d817a551061e6884c934eeed2219e1d754ac0d3af3506f"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-70-1215",
+   "short": "70 ILCS 1215",
+   "title": "Illinois Compiled Statutes, Park Annuity and Benefit Fund Civil Service Act (70 ILCS 1215)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=894",
+   "versions": [
+    {
+     "from": "2026-04-22",
+     "units": 38,
+     "source_url": "https://web.archive.org/web/20260422082158/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=894&ChapterID=15&Chapter=SPECIAL%20DISTRICTS&MajorTopic=GOVERNMENT",
+     "sha256": "f2411c2b089a92276abac8547be84cd36cbf9eed412ec51201e27fd94279297a"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-70-1220",
+   "short": "70 ILCS 1220",
+   "title": "Illinois Compiled Statutes, Park Commissioners Control of Municipal Parks Act (70 ILCS 1220)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=895",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 5,
+     "source_url": "https://web.archive.org/web/20260415132057/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=895&ChapterID=15&Chapter=SPECIAL%20DISTRICTS&MajorTopic=GOVERNMENT",
+     "sha256": "ebf1dec3f6ecaa85a5620d90fe5137dab659df9f59213a686b7140e186390a69"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-70-1225",
+   "short": "70 ILCS 1225",
+   "title": "Illinois Compiled Statutes, Park Commissioners Land Condemnation Act (70 ILCS 1225)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=896",
+   "versions": [
+    {
+     "from": "2026-04-14",
+     "units": 5,
+     "source_url": "https://web.archive.org/web/20260414214213/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=896&ChapterID=15&Chapter=SPECIAL%20DISTRICTS&MajorTopic=GOVERNMENT",
+     "sha256": "81dc3efe0835884761a7f4010a575ff45df76ef9575a71e9c56f97898efc3cad"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-70-1230",
+   "short": "70 ILCS 1230",
+   "title": "Illinois Compiled Statutes, Park Commissioners Water Control Act (70 ILCS 1230)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=897",
+   "versions": [
+    {
+     "from": "2026-04-23",
+     "units": 9,
+     "source_url": "https://web.archive.org/web/20260423000710/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=897&ChapterID=15&Chapter=SPECIAL%20DISTRICTS&MajorTopic=GOVERNMENT",
+     "sha256": "c7a5871c5de098d444beb6224e63a876bc892fe7919ca13592cabd006b837de0"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-70-1235",
+   "short": "70 ILCS 1235",
+   "title": "Illinois Compiled Statutes, Park Commissioners Land Sale Act (70 ILCS 1235)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=898",
+   "versions": [
+    {
+     "from": "2026-05-10",
+     "units": 7,
+     "source_url": "https://web.archive.org/web/20260510055615/https://ilga.gov/Legislation/ILCS/Articles?ActID=898&ChapterID=15&Chapter=SPECIAL%20DISTRICTS&MajorTopic=GOVERNMENT",
+     "sha256": "7ea65f35265c2c551e3d1a96185942ef68821a4ccbc79dd8a576e2657573a1bf"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-70-1240",
+   "short": "70 ILCS 1240",
+   "title": "Illinois Compiled Statutes, Park Commissioners Land Conveyance Act (70 ILCS 1240)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=899",
+   "versions": [
+    {
+     "from": "2026-04-11",
+     "units": 3,
+     "source_url": "https://web.archive.org/web/20260411082739/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=899&ChapterID=15&Chapter=SPECIAL%20DISTRICTS&MajorTopic=GOVERNMENT",
+     "sha256": "2b4f434cc4c24bab0610aa41cc760e71e9c560bcc274b066f3394882ca5cb05b"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-70-1245",
+   "short": "70 ILCS 1245",
+   "title": "Illinois Compiled Statutes, Park Commissioners Street Control (1879) Act (70 ILCS 1245)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=900",
+   "versions": [
+    {
+     "from": "2026-05-26",
+     "units": 6,
+     "source_url": "https://web.archive.org/web/20260526195707/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=900&ChapterID=18&SeqStart=1&SeqEnd=50",
+     "sha256": "4dd53513b3d1871bdf6855d6163395aa65e13dcccc5d93858f5052c00bebc82d"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-70-1250",
+   "short": "70 ILCS 1250",
+   "title": "Illinois Compiled Statutes, Park Commissioners Street Control (1889) Act (70 ILCS 1250)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=901",
+   "versions": [
+    {
+     "from": "2026-04-13",
+     "units": 7,
+     "source_url": "https://web.archive.org/web/20260413105031/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=901&ChapterID=15&Chapter=SPECIAL%20DISTRICTS&MajorTopic=GOVERNMENT",
+     "sha256": "7cfa9b1e51b70bd79bdccbd09925ea262581fb73932231039cd8fa598bc94176"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-70-1255",
+   "short": "70 ILCS 1255",
+   "title": "Illinois Compiled Statutes, Park Commissioners Street Control (1895) Act (70 ILCS 1255)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=902",
+   "versions": [
+    {
+     "from": "2026-06-06",
+     "units": 7,
+     "source_url": "https://web.archive.org/web/20260606072259/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=902&ChapterID=15",
+     "sha256": "254b734591b26ca6ad90be923f1074acac7d790b58bc5087f97031ad647e05c4"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-70-1260",
+   "short": "70 ILCS 1260",
+   "title": "Illinois Compiled Statutes, Park Commissioners Street Control (1907) Act (70 ILCS 1260)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=903",
+   "versions": [
+    {
+     "from": "2026-04-17",
+     "units": 5,
+     "source_url": "https://web.archive.org/web/20260417145440/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=903&ChapterID=15&Chapter=SPECIAL%20DISTRICTS&MajorTopic=GOVERNMENT",
+     "sha256": "baac3635361eb91b1e09ffd504df06d561225dd6dabb7700b7304300ef4543bd"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-70-1265",
+   "short": "70 ILCS 1265",
+   "title": "Illinois Compiled Statutes, Park Commissioners Street Control (1917) Act (70 ILCS 1265)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=904",
+   "versions": [
+    {
+     "from": "2026-04-12",
+     "units": 6,
+     "source_url": "https://web.archive.org/web/20260412191722/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=904&ChapterID=15&Chapter=SPECIAL%20DISTRICTS&MajorTopic=GOVERNMENT",
+     "sha256": "528e2e2266a4633d8b3e5896c3e2299563bd0555bde6b674f53617d5c1288886"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-70-1270",
+   "short": "70 ILCS 1270",
+   "title": "Illinois Compiled Statutes, Park District Refunding Bond Act (70 ILCS 1270)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=905",
+   "versions": [
+    {
+     "from": "2026-04-18",
+     "units": 9,
+     "source_url": "https://web.archive.org/web/20260418004350/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=905&ChapterID=15&Chapter=SPECIAL%20DISTRICTS&MajorTopic=GOVERNMENT",
+     "sha256": "055ea1b825362d9ced0ed6ff31aa0c90d81c0453531f44aaf6e8631a6a5d69bc"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-70-1275",
+   "short": "70 ILCS 1275",
+   "title": "Illinois Compiled Statutes, Living War Memorial Act (70 ILCS 1275)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=906",
+   "versions": [
+    {
+     "from": "2026-05-01",
+     "units": 10,
+     "source_url": "https://web.archive.org/web/20260501031605/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=906&ChapterID=15",
+     "sha256": "8d5b1a77c33d9557ac346d2dfd8f33b98d05b06c0d8cdaebffa532ca4b263333"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-70-1280",
+   "short": "70 ILCS 1280",
+   "title": "Illinois Compiled Statutes, Park District Historical Museum Act (70 ILCS 1280)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=907",
+   "versions": [
+    {
+     "from": "2026-04-20",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20260420152337/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=907&ChapterID=15&Chapter=SPECIAL%20DISTRICTS&MajorTopic=GOVERNMENT",
+     "sha256": "071136271482252c12f64ed8a6eaee92d8aa8c848998dedbf2830c23c6f89984"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-70-1285",
+   "short": "70 ILCS 1285",
+   "title": "Illinois Compiled Statutes, Park Commissioners Federal Government Conveyance Act (70 ILCS 1285)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=908",
+   "versions": [
+    {
+     "from": "2026-04-22",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20260422014004/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=908&ChapterID=15&Chapter=SPECIAL%20DISTRICTS&MajorTopic=GOVERNMENT",
+     "sha256": "e7bd18890bc09d40dab74713300a916294cc871e8612d33774b23f4ccd229bc9"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-70-1290",
+   "short": "70 ILCS 1290",
+   "title": "Illinois Compiled Statutes, Park District Aquarium and Museum Act (70 ILCS 1290)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=909",
+   "versions": [
+    {
+     "from": "2026-04-13",
+     "units": 4,
+     "source_url": "https://web.archive.org/web/20260413043206/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=909&ChapterID=15&Chapter=SPECIAL%20DISTRICTS&MajorTopic=GOVERNMENT",
+     "sha256": "0bde414b2ebac41a3ff5db7e1ac7ffc37cc47e766916389209b648abc9baa183"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-70-1295",
+   "short": "70 ILCS 1295",
+   "title": "Illinois Compiled Statutes, Park District Armory and Airfield Site Act (70 ILCS 1295)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=910",
+   "versions": [
+    {
+     "from": "2026-04-16",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20260416141427/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=910&ChapterID=15&Chapter=SPECIAL%20DISTRICTS&MajorTopic=GOVERNMENT",
+     "sha256": "450054e6b6ab2d5a241d47fd9f9cfc8e757f166bf5e4c5cb050e10c565e01c3d"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-70-1300",
+   "short": "70 ILCS 1300",
+   "title": "Illinois Compiled Statutes, Park District Airport Site Act (70 ILCS 1300)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=911",
+   "versions": [
+    {
+     "from": "2026-04-17",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20260417151204/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=911&ChapterID=15&Chapter=SPECIAL%20DISTRICTS&MajorTopic=GOVERNMENT",
+     "sha256": "def502ca459bafd5b8ebc1628bdb888115871db3d5803f8fee3bc091fdb5cbed"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-70-1305",
+   "short": "70 ILCS 1305",
+   "title": "Illinois Compiled Statutes, Park District Airport Zoning Act (70 ILCS 1305)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=912",
+   "versions": [
+    {
+     "from": "2026-04-11",
+     "units": 4,
+     "source_url": "https://web.archive.org/web/20260411144949/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=912&ChapterID=15&Chapter=SPECIAL%20DISTRICTS&MajorTopic=GOVERNMENT",
+     "sha256": "936d7743f3c4ac99a5b055148db0de8018f4888ad5f47e4970427d7b3e4d0ac0"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-70-1310",
+   "short": "70 ILCS 1310",
+   "title": "Illinois Compiled Statutes, Park District Elevated Highway Act (70 ILCS 1310)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=913",
+   "versions": [
+    {
+     "from": "2026-02-15",
+     "units": 17,
+     "source_url": "https://web.archive.org/web/20260215143305/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=913&ChapterID=15&Chapter=SPECIAL%20DISTRICTS&MajorTopic=GOVERNMENT",
+     "sha256": "f06320474a2fadf28788d9157dfd86afad34615d761608f88f82208bbc6a839e"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-70-1315",
+   "short": "70 ILCS 1315",
+   "title": "Illinois Compiled Statutes, Park Child Welfare Sanitarium Act (70 ILCS 1315)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=914",
+   "versions": [
+    {
+     "from": "2026-04-16",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20260416075619/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=914&ChapterID=15&Chapter=SPECIAL%20DISTRICTS&MajorTopic=GOVERNMENT",
+     "sha256": "1f09aeef5737c3b4f6f6b6304a72bd45d12c5fe6eb916e80614958ebde152044"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-70-1320",
+   "short": "70 ILCS 1320",
+   "title": "Illinois Compiled Statutes, Park Ordinance Violation Incarceration Act (70 ILCS 1320)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=915",
+   "versions": [
+    {
+     "from": "2026-07-10",
+     "units": 4,
+     "source_url": "https://web.archive.org/web/20260710201155/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=915&ChapterID=15",
+     "sha256": "75e64766780a6c76bf94f61895bf77fe84913f5c1e97aa6dd075618259d25992"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-70-1325",
+   "short": "70 ILCS 1325",
+   "title": "Illinois Compiled Statutes, Park District Police Act (70 ILCS 1325)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=916",
+   "versions": [
+    {
+     "from": "2026-04-20",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20260420214824/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=916&ChapterID=15&Chapter=SPECIAL%20DISTRICTS&MajorTopic=GOVERNMENT",
+     "sha256": "fd84be00210b6395628f5ceec7735e3d391f2ba5e3b4827ca90ca1a6bfb37c07"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-70-1505",
+   "short": "70 ILCS 1505",
+   "title": "Illinois Compiled Statutes, Chicago Park District Act (70 ILCS 1505)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=917",
+   "versions": [
+    {
+     "from": "2026-10-11",
+     "units": 85,
+     "source_url": "https://web.archive.org/web/20261011201053/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=917&ChapterID=15",
+     "sha256": "9d886f47f9c9ee6cdcff9d3d90a8be6666540f59f4b43d9a320750c39deec666"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-70-1510",
+   "short": "70 ILCS 1510",
+   "title": "Illinois Compiled Statutes, Chicago Park District Working Cash Fund Act (70 ILCS 1510)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=918",
+   "versions": [
+    {
+     "from": "2026-07-19",
+     "units": 17,
+     "source_url": "https://web.archive.org/web/20260719170638/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=918&ChapterID=15",
+     "sha256": "4ea4d51695f0316932e2a7a30a8c9ff36b655fec18d73775bc7e7909ef5a71e0"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-70-1515",
+   "short": "70 ILCS 1515",
+   "title": "Illinois Compiled Statutes, Chicago Park District Debt Assumption Act (70 ILCS 1515)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=919",
+   "versions": [
+    {
+     "from": "2026-04-10",
+     "units": 10,
+     "source_url": "https://web.archive.org/web/20260410093207/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=919&ChapterID=15&Chapter=SPECIAL%20DISTRICTS&MajorTopic=GOVERNMENT",
+     "sha256": "9cbf72014541a9a13c8a69420e0881aad04d9df55c9e070d9f615599bf2423c7"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-70-1520",
+   "short": "70 ILCS 1520",
+   "title": "Illinois Compiled Statutes, Chicago Park District Bond (1935) Act (70 ILCS 1520)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=920",
+   "versions": [
+    {
+     "from": "2026-04-20",
+     "units": 5,
+     "source_url": "https://web.archive.org/web/20260420065238/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=920&ChapterID=15&Chapter=SPECIAL%20DISTRICTS&MajorTopic=GOVERNMENT",
+     "sha256": "08a12472aa49b34b4a6a141e762377a2e60548c77bc5eeea80287d0027c3a110"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-70-1525",
+   "short": "70 ILCS 1525",
+   "title": "Illinois Compiled Statutes, Chicago Park District Bond (1965) Act (70 ILCS 1525)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=921",
+   "versions": [
+    {
+     "from": "2026-05-14",
+     "units": 4,
+     "source_url": "https://web.archive.org/web/20260514105117/https://ilga.gov/Legislation/ILCS/Articles?ActID=921&ChapterID=15&Chapter=SPECIAL%20DISTRICTS&MajorTopic=GOVERNMENT",
+     "sha256": "54f2f8e0c5b883eb128c1a94dd82a3d05baa6bc555dd77f831725b9a80a752ca"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-70-1530",
+   "short": "70 ILCS 1530",
+   "title": "Illinois Compiled Statutes, Chicago Park District Corporate Note Act (70 ILCS 1530)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=922",
+   "versions": [
+    {
+     "from": "2026-04-12",
+     "units": 3,
+     "source_url": "https://web.archive.org/web/20260412121247/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=922&ChapterID=15&Chapter=SPECIAL%20DISTRICTS&MajorTopic=GOVERNMENT",
+     "sha256": "fe9fa7016493ae7abdf7ee33bc824874ec898fbdb0fe92465d0501ddf23ad5b5"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-70-1535",
+   "short": "70 ILCS 1535",
+   "title": "Illinois Compiled Statutes, Chicago Park District Street Car Line Act (70 ILCS 1535)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=923",
+   "versions": [
+    {
+     "from": "2026-05-09",
+     "units": 3,
+     "source_url": "https://web.archive.org/web/20260509174921/https://ilga.gov/Legislation/ILCS/Articles?ActID=923&ChapterID=15&Chapter=SPECIAL%20DISTRICTS&MajorTopic=GOVERNMENT",
+     "sha256": "f3e51ff362c9805dd73ca3d14ce35b11f9a9f2ae00b38c0b31f12517ce737557"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-70-1540",
+   "short": "70 ILCS 1540",
+   "title": "Illinois Compiled Statutes, Chicago Park District Judgment Indebtedness Bond Act (70 ILCS 1540)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=924",
+   "versions": [
+    {
+     "from": "2026-05-08",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20260508114509/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=924&ChapterID=15&Chapter=SPECIAL%20DISTRICTS&MajorTopic=GOVERNMENT",
+     "sha256": "32bd04c25c928f034a148365210c1a4a86f4658005bfcc762d5c67139253a357"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-70-1545",
+   "short": "70 ILCS 1545",
+   "title": "Illinois Compiled Statutes, Chicago Park and City Exchange of Functions Act (70 ILCS 1545)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=925",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 21,
+     "source_url": "https://web.archive.org/web/20260415131737/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=925&ChapterID=15&Chapter=SPECIAL%20DISTRICTS&MajorTopic=GOVERNMENT",
+     "sha256": "22149708def44787f803dbbb483e2225f17727c4d2fd87e7f509af5579c3b054"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-70-1550",
+   "short": "70 ILCS 1550",
+   "title": "Illinois Compiled Statutes, Chicago Submerged Lands (1903) Act (70 ILCS 1550)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=926",
+   "versions": [
+    {
+     "from": "2026-04-19",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20260419180406/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=926&ChapterID=15&Chapter=SPECIAL%20DISTRICTS&MajorTopic=GOVERNMENT",
+     "sha256": "67b0f6076f20a32267b14469191c8466b6c799ffb7aeb817cb18ef76118ac1d8"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-70-1560",
+   "short": "70 ILCS 1560",
+   "title": "Illinois Compiled Statutes, Park District Exposition Authority Lease Act (70 ILCS 1560)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=928",
+   "versions": [
+    {
+     "from": "2026-04-12",
+     "units": 3,
+     "source_url": "https://web.archive.org/web/20260412195442/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=928&ChapterID=15&Chapter=SPECIAL%20DISTRICTS&MajorTopic=GOVERNMENT",
+     "sha256": "a564917dbf230e8e530b4a6005231cd90adacca2e3ae4b73922c91bfcf2ea5e9"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-70-1565",
+   "short": "70 ILCS 1565",
+   "title": "Illinois Compiled Statutes, Park Waterworks Improvement Lease Act (70 ILCS 1565)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=929",
+   "versions": [
+    {
+     "from": "2026-03-07",
+     "units": 3,
+     "source_url": "https://web.archive.org/web/20260307154326/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=929&ChapterID=15&Chapter=SPECIAL%20DISTRICTS&MajorTopic=GOVERNMENT",
+     "sha256": "2a673500812b2cc5dec954c4c309e2a8533eecb53e8df7e70bdb839ce2750f44"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-70-1570",
+   "short": "70 ILCS 1570",
+   "title": "Illinois Compiled Statutes, Lincoln Park Commissioners Land Condemnation Act (70 ILCS 1570)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=930",
+   "versions": [
+    {
+     "from": "2026-03-10",
+     "units": 10,
+     "source_url": "https://web.archive.org/web/20260310163034/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=930&ChapterID=15&Chapter=SPECIAL%20DISTRICTS&MajorTopic=GOVERNMENT",
+     "sha256": "c7717ade3d9a08105c9400f52dcc7539263a64428f291d8627e74ae8a83afe2e"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-70-1575",
+   "short": "70 ILCS 1575",
+   "title": "Illinois Compiled Statutes, Lincoln Park Submerged Lands Act (70 ILCS 1575)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=931",
+   "versions": [
+    {
+     "from": "2026-03-30",
+     "units": 3,
+     "source_url": "https://web.archive.org/web/20260330072121/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=931&ChapterID=15",
+     "sha256": "5687361b6d21d85b9c67796f79d4ef3ff6e248cadb857c1725965ccaf0c87c6a"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-70-1580",
+   "short": "70 ILCS 1580",
+   "title": "Illinois Compiled Statutes, Grant Park (1899) Act (70 ILCS 1580)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=932",
+   "versions": [
+    {
+     "from": "2026-03-11",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20260311140443/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=932&ChapterID=15&Chapter=SPECIAL%20DISTRICTS&MajorTopic=GOVERNMENT",
+     "sha256": "7420737c3ac2b02be019565368683f0052a269c6aee9d318b9d6cafe03d6f261"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-70-1585",
+   "short": "70 ILCS 1585",
+   "title": "Illinois Compiled Statutes, Grant Park (1905) Act (70 ILCS 1585)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=933",
+   "versions": [
+    {
+     "from": "2026-04-22",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20260422022409/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=933&ChapterID=15&Chapter=SPECIAL%20DISTRICTS&MajorTopic=GOVERNMENT",
+     "sha256": "d777e5c90c377491d0bcd1e269adc4486ccfac2189cbfdab0fc8e6f95d4dc8a7"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-70-1590",
+   "short": "70 ILCS 1590",
+   "title": "Illinois Compiled Statutes, Grant Park Boundary Act (70 ILCS 1590)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=934",
+   "versions": [
+    {
+     "from": "2026-04-16",
+     "units": 3,
+     "source_url": "https://web.archive.org/web/20260416180755/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=934&ChapterID=15&Chapter=SPECIAL%20DISTRICTS&MajorTopic=GOVERNMENT",
+     "sha256": "d81986ecc3ac27adaf16ad5c03528522bcddd3ead302614c9d5748ae7d7cce61"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-70-1600",
+   "short": "70 ILCS 1600",
+   "title": "Illinois Compiled Statutes, Exposition Authority Incorporation Act (70 ILCS 1600)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=935",
+   "versions": [
+    {
+     "from": "2026-04-11",
+     "units": 6,
+     "source_url": "https://web.archive.org/web/20260411061630/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=935&ChapterID=15&Chapter=SPECIAL%20DISTRICTS&MajorTopic=GOVERNMENT",
+     "sha256": "22e758a1a8427c35d60c005b72abe92cef123eee9e5f4d7d8862a1db2c6a4942"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-70-1605",
+   "short": "70 ILCS 1605",
+   "title": "Illinois Compiled Statutes, Metro-East Park and Recreation District Act (70 ILCS 1605)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=936",
+   "versions": [
+    {
+     "from": "2026-05-15",
+     "units": 12,
+     "source_url": "https://web.archive.org/web/20260515232707/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=936&ChapterID=15&Chapter=SPECIAL%20DISTRICTS&MajorTopic=GOVERNMENT",
+     "sha256": "8ad7f66fcf45a6ffc5e6717d39ab6844ac676c8662a45d4bf4f8305318fbacdd"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-70-1610",
+   "short": "70 ILCS 1610",
+   "title": "Illinois Compiled Statutes, Summit Park District Tax Levy Validation (2010) Act (70 ILCS 1610)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3255",
+   "versions": [
+    {
+     "from": "2026-04-28",
+     "units": 4,
+     "source_url": "https://web.archive.org/web/20260428132140/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3255&ChapterID=15",
+     "sha256": "5b61d60f48083293f07fb56cbb9c3bdfb41745c1720d4a42195a9077637697cc"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-70-1707",
+   "short": "70 ILCS 1707",
+   "title": "Illinois Compiled Statutes, Regional Planning Act (70 ILCS 1707)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2731",
+   "versions": [
+    {
+     "from": "2026-07-14",
+     "units": 23,
+     "source_url": "https://web.archive.org/web/20260714230802/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2731&ChapterID=15",
+     "sha256": "1ff19f2cbbee8267658703c3dcf0ebf85f725de4cbfb593979e2171fd2c307b8"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-70-1710",
+   "short": "70 ILCS 1710",
+   "title": "Illinois Compiled Statutes, Southwestern Illinois Metropolitan and Regional Planning Act (70 ILCS 1710)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=938",
+   "versions": [
+    {
+     "from": "2026-09-04",
+     "units": 45,
+     "source_url": "https://web.archive.org/web/20260904162312/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=938&ChapterID=15",
+     "sha256": "94ea6046f787ffeeb493e28c29a2680624d027fd95ea30666774404de46c6d0d"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-70-1801",
+   "short": "70 ILCS 1801",
+   "title": "Illinois Compiled Statutes, Alexander-Cairo Port District Act (70 ILCS 1801)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3242",
+   "versions": [
+    {
+     "from": "2026-03-16",
+     "units": 40,
+     "source_url": "https://web.archive.org/web/20260316033931/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3242&ChapterID=15&Chapter=SPECIAL%20DISTRICTS&MajorTopic=GOVERNMENT",
+     "sha256": "5a519414d85861831137d00d42751aa710eddd8dad87ea0656354ed8971e56b4"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-70-1805",
+   "short": "70 ILCS 1805",
+   "title": "Illinois Compiled Statutes, Havana Regional Port District Act (70 ILCS 1805)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=939",
+   "versions": [
+    {
+     "from": "2026-05-17",
+     "units": 42,
+     "source_url": "https://web.archive.org/web/20260517143843/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=939&ChapterID=15",
+     "sha256": "fb9fac9192c584e7e8fde23ea7f03d11159d5a3c02b46ab2403bc8e795902dc8"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-70-1807",
+   "short": "70 ILCS 1807",
+   "title": "Illinois Compiled Statutes, Heart of Illinois Regional Port District Act (70 ILCS 1807)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2460",
+   "versions": [
+    {
+     "from": "2026-04-25",
+     "units": 39,
+     "source_url": "https://web.archive.org/web/20260425071658/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2460&ChapterID=15",
+     "sha256": "ce541809a550765f7fa60f0926aeb10e18ba82aa242904e242c0dbd581686067"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-70-1810",
+   "short": "70 ILCS 1810",
+   "title": "Illinois Compiled Statutes, Illinois International Port District Act (70 ILCS 1810)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=940",
+   "versions": [
+    {
+     "from": "2026-04-14",
+     "units": 37,
+     "source_url": "https://web.archive.org/web/20260414220642/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=940&ChapterID=15&Chapter=SPECIAL%20DISTRICTS&MajorTopic=GOVERNMENT",
+     "sha256": "768beff8c17406a40d2ad49e7cef808ac1c799c46c6cd285749731c716d907a8"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-70-1815",
+   "short": "70 ILCS 1815",
+   "title": "Illinois Compiled Statutes, Illinois Valley Regional Port District Act (70 ILCS 1815)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=941",
+   "versions": [
+    {
+     "from": "2026-04-20",
+     "units": 74,
+     "source_url": "https://web.archive.org/web/20260420163136/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=941&ChapterID=15&Chapter=SPECIAL%20DISTRICTS&MajorTopic=GOVERNMENT",
+     "sha256": "b7b503311b38c482b5812fdb0a675b4f70f6ef6c4c8c635ff8bdba4ca43f3319"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-70-1816",
+   "short": "70 ILCS 1816",
+   "title": "Illinois Compiled Statutes, Illinois Waterway Ports Commission Act (70 ILCS 1816)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=4417",
+   "versions": [
+    {
+     "from": "2026-04-12",
+     "units": 5,
+     "source_url": "https://web.archive.org/web/20260412113749/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=4417&ChapterID=15&Chapter=SPECIAL%20DISTRICTS&MajorTopic=GOVERNMENT",
+     "sha256": "08000a886aba53c3a6a1dd260ddad67b6569b44dcfff32b6d661374fa16267c9"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-70-1820",
+   "short": "70 ILCS 1820",
+   "title": "Illinois Compiled Statutes, Jackson-Union Counties Regional Port District Act (70 ILCS 1820)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=942",
+   "versions": [
+    {
+     "from": "2026-04-12",
+     "units": 59,
+     "source_url": "https://web.archive.org/web/20260412170806/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=942&ChapterID=15&Chapter=SPECIAL%20DISTRICTS&MajorTopic=GOVERNMENT",
+     "sha256": "4de30c1ef04642c13436d0fc952b782583fc231caa075db4d90f67b1ac1b5d20"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-70-1825",
+   "short": "70 ILCS 1825",
+   "title": "Illinois Compiled Statutes, Joliet Regional Port District Act (70 ILCS 1825)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=943",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 83,
+     "source_url": "https://web.archive.org/web/20260415103721/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=943&ChapterID=15&Chapter=SPECIAL%20DISTRICTS&MajorTopic=GOVERNMENT",
+     "sha256": "748b5b73c51ce32baf3dacc34ae83cedd57fc784548e2a8f4faed64cc2cf87a1"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-70-1830",
+   "short": "70 ILCS 1830",
+   "title": "Illinois Compiled Statutes, Kaskaskia Regional Port District Act (70 ILCS 1830)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=944",
+   "versions": [
+    {
+     "from": "2026-03-08",
+     "units": 54,
+     "source_url": "https://web.archive.org/web/20260308112607/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=944&ChapterID=15&Chapter=SPECIAL%20DISTRICTS&MajorTopic=GOVERNMENT",
+     "sha256": "0fdb6cfcb5d5f0f768a838e5b262f0d75fcfffcbb06e8cc83c285ebaf8e55a71"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-70-1832",
+   "short": "70 ILCS 1832",
+   "title": "Illinois Compiled Statutes, Mid-America Intermodal Authority Port District Act (70 ILCS 1832)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=945",
+   "versions": [
+    {
+     "from": "2026-04-20",
+     "units": 41,
+     "source_url": "https://web.archive.org/web/20260420222820/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=945&ChapterID=15&Chapter=SPECIAL%20DISTRICTS&MajorTopic=GOVERNMENT",
+     "sha256": "6951bd5b2f49ffe30f7afe7867093732edc0ab26376b678c8f491b8b9c340467"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-70-1837",
+   "short": "70 ILCS 1837",
+   "title": "Illinois Compiled Statutes, Ottawa Port District Act (70 ILCS 1837)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3297",
+   "versions": [
+    {
+     "from": "2026-06-16",
+     "units": 39,
+     "source_url": "https://web.archive.org/web/20260616073156/https://ilga.gov/Legislation/ILCS/Articles?ActID=3297&ChapterID=46&SectionID=12",
+     "sha256": "5d6abcd8ae6cc4b0f36253d5bead4937ba72666f118070cc1e4ba89419811b01"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-70-1845",
+   "short": "70 ILCS 1845",
+   "title": "Illinois Compiled Statutes, Seneca Regional Port District Act (70 ILCS 1845)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=948",
+   "versions": [
+    {
+     "from": "2026-05-13",
+     "units": 74,
+     "source_url": "https://web.archive.org/web/20260513215939/https://ilga.gov/Legislation/ILCS/Articles?ActID=948&ChapterID=15&Chapter=SPECIAL%20DISTRICTS&MajorTopic=GOVERNMENT",
+     "sha256": "c0fc59777ab78d41a7a7a26dc37749c7a9e85f504fa35eb23af1bb1d46c602e6"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-70-1850",
+   "short": "70 ILCS 1850",
+   "title": "Illinois Compiled Statutes, Shawneetown Regional Port District Act (70 ILCS 1850)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=949",
+   "versions": [
+    {
+     "from": "2026-05-27",
+     "units": 61,
+     "source_url": "https://web.archive.org/web/20260527074112/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=949&ChapterID=15",
+     "sha256": "345952e63c0e94d5ee9fef34844aa963ba8e6d233564fe0d469f85d80dd01755"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-70-1860",
+   "short": "70 ILCS 1860",
+   "title": "Illinois Compiled Statutes, America's Central Port District Act (70 ILCS 1860)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=951",
+   "versions": [
+    {
+     "from": "2026-04-16",
+     "units": 39,
+     "source_url": "https://web.archive.org/web/20260416090808/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=951&ChapterID=15&Chapter=SPECIAL%20DISTRICTS&MajorTopic=GOVERNMENT",
+     "sha256": "a76825057ca333cdac499e8f16376274901f3ce15edcab9ef9203d21fdc721d6"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-70-1863",
+   "short": "70 ILCS 1863",
+   "title": "Illinois Compiled Statutes, Upper Mississippi River International Port District Act (70 ILCS 1863)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3146",
+   "versions": [
+    {
+     "from": "2026-07-10",
+     "units": 43,
+     "source_url": "https://web.archive.org/web/20260710084127/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3146&ChapterID=15",
+     "sha256": "3eedecebe6c6953e050694ad7279fd6faf4ec6872103cedc07803579073494be"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-70-1865",
+   "short": "70 ILCS 1865",
+   "title": "Illinois Compiled Statutes, Waukegan Port District Act (70 ILCS 1865)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=952",
+   "versions": [
+    {
+     "from": "2026-07-06",
+     "units": 52,
+     "source_url": "https://web.archive.org/web/20260706155605/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=952&ChapterID=15",
+     "sha256": "533653e4d8a344292a4bad8f8f576ba9172817a98cc7444e59ab987d3920c021"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-70-1920",
+   "short": "70 ILCS 1920",
+   "title": "Illinois Compiled Statutes, West Cook Railroad Relocation and Development Authority Act (70 ILCS 1920)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=957",
+   "versions": [
+    {
+     "from": "2026-04-20",
+     "units": 23,
+     "source_url": "https://web.archive.org/web/20260420041026/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=957&ChapterID=15&Chapter=SPECIAL%20DISTRICTS&MajorTopic=GOVERNMENT",
+     "sha256": "3c392558e24f5b173e6ed39abd20d3dd0b6596a39ce06248d92f49fc3501eb0c"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-70-1935",
+   "short": "70 ILCS 1935",
+   "title": "Illinois Compiled Statutes, Elmwood Park Grade Separation Authority Act (70 ILCS 1935)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3519",
+   "versions": [
+    {
+     "from": "2026-09-06",
+     "units": 25,
+     "source_url": "https://web.archive.org/web/20260906230247/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3519&ChapterID=15",
+     "sha256": "3b1445c5cce896d06ff9400d5fa3241de05050a6ef06d9a5c7675bf0b9f5877d"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-70-1950",
+   "short": "70 ILCS 1950",
+   "title": "Illinois Compiled Statutes, Renewable Energy Production District Act (70 ILCS 1950)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3359",
+   "versions": [
+    {
+     "from": "2026-03-08",
+     "units": 8,
+     "source_url": "https://web.archive.org/web/20260308101921/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3359&ChapterID=15&Chapter=SPECIAL%20DISTRICTS&MajorTopic=GOVERNMENT",
+     "sha256": "dd0f3324cdb2661be5a2572839f634b9b2968cb1ed541810fa15bd4cb0f8247d"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-70-2005",
+   "short": "70 ILCS 2005",
+   "title": "Illinois Compiled Statutes, Emergency Services Districts Act (70 ILCS 2005)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=959",
+   "versions": [
+    {
+     "from": "2026-04-14",
+     "units": 20,
+     "source_url": "https://web.archive.org/web/20260414095929/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=959&ChapterID=15&Chapter=SPECIAL%20DISTRICTS&MajorTopic=GOVERNMENT",
+     "sha256": "170cd6857bb5f7e1a69a5c60435de95610ee7dcada4181b3a6633e66022cee35"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-70-2105",
+   "short": "70 ILCS 2105",
+   "title": "Illinois Compiled Statutes, River Conservancy Districts Act (70 ILCS 2105)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=960",
+   "versions": [
+    {
+     "from": "2026-04-10",
+     "units": 42,
+     "source_url": "https://web.archive.org/web/20260410115200/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=960&ChapterID=15&Chapter=SPECIAL%20DISTRICTS&MajorTopic=GOVERNMENT",
+     "sha256": "1c1860b3c7fb00e453e77b31213936ef03833f717db489b9e2756635848a95db"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-70-2110",
+   "short": "70 ILCS 2110",
+   "title": "Illinois Compiled Statutes, River Conservancy District Validation Act (70 ILCS 2110)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=961",
+   "versions": [
+    {
+     "from": "2026-07-08",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20260708052707/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=961&ChapterID=15",
+     "sha256": "8d1594ada650ccd1daf37d40487e83505fcb9c3a64448a1d2dfde10c2f0e2542"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-70-2115",
+   "short": "70 ILCS 2115",
+   "title": "Illinois Compiled Statutes, Rend Lake Dam and Reservoir on the Big Muddy River Act (70 ILCS 2115)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=962",
+   "versions": [
+    {
+     "from": "2026-04-10",
+     "units": 3,
+     "source_url": "https://web.archive.org/web/20260410084519/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=962&ChapterID=15&Chapter=SPECIAL%20DISTRICTS&MajorTopic=GOVERNMENT",
+     "sha256": "446af7a7c66064dc9d7a4fdd73365febbd5e44939f450fe11f4307e7c2604408"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-70-2205",
+   "short": "70 ILCS 2205",
+   "title": "Illinois Compiled Statutes, Sanitary District Act of 1907 (70 ILCS 2205)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=963",
+   "versions": [
+    {
+     "from": "2026-04-21",
+     "units": 48,
+     "source_url": "https://web.archive.org/web/20260421222528/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=963&ChapterID=15&Chapter=SPECIAL%20DISTRICTS&MajorTopic=GOVERNMENT",
+     "sha256": "9a37fa317a9918aa229010092e6b685c3343b35e9f37810351ae08397a3fb0d5"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-70-2305",
+   "short": "70 ILCS 2305",
+   "title": "Illinois Compiled Statutes, North Shore Water Reclamation District Act (70 ILCS 2305)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=964",
+   "versions": [
+    {
+     "from": "2026-07-17",
+     "units": 53,
+     "source_url": "https://web.archive.org/web/20260717021341/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=964&ChapterID=15",
+     "sha256": "ca7dbc48f1e54791b9e85c4f108675e0b5b2973d8dd5164cc4beba50330706b3"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-70-2310",
+   "short": "70 ILCS 2310",
+   "title": "Illinois Compiled Statutes, North Shore Sanitary District Extension (1st) Act (70 ILCS 2310)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=965",
+   "versions": [
+    {
+     "from": "2026-04-13",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20260413170421/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=965&ChapterID=15",
+     "sha256": "812a4ad05b95bbb80fd34d6b10a84c911ea3785e6769dd785142e6abca665921"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-70-2315",
+   "short": "70 ILCS 2315",
+   "title": "Illinois Compiled Statutes, North Shore Sanitary District Extension (2nd) Act (70 ILCS 2315)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=966",
+   "versions": [
+    {
+     "from": "2026-04-12",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20260412130213/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=966&ChapterID=15&Chapter=SPECIAL%20DISTRICTS&MajorTopic=GOVERNMENT",
+     "sha256": "3e6c74d411c3d48af8b40d8ae8d1cf901c9a042749db25f7b11b95df59180f27"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-70-2405",
+   "short": "70 ILCS 2405",
+   "title": "Illinois Compiled Statutes, Sanitary District Act of 1917 (70 ILCS 2405)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=967",
+   "versions": [
+    {
+     "from": "2026-04-10",
+     "units": 134,
+     "source_url": "https://web.archive.org/web/20260410145703/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=967&ChapterID=15&Chapter=SPECIAL%20DISTRICTS&MajorTopic=GOVERNMENT",
+     "sha256": "11313f33a40bafb941fbc50d27cff3c5d21af7cd72fd6cd33f81e2c3c52ee8e9"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-70-2410",
+   "short": "70 ILCS 2410",
+   "title": "Illinois Compiled Statutes, Sanitary Districts (1917 Act) Bond Act (70 ILCS 2410)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=968",
+   "versions": [
+    {
+     "from": "2026-05-14",
+     "units": 3,
+     "source_url": "https://web.archive.org/web/20260514100523/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=968&ChapterID=15&Chapter=SPECIAL%20DISTRICTS&MajorTopic=GOVERNMENT",
+     "sha256": "462d7a5d9419043de2d2e004a8f1c1e91fb4dbddd54346a6c47add96fe8012e2"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-70-2605",
+   "short": "70 ILCS 2605",
+   "title": "Illinois Compiled Statutes, Metropolitan Water Reclamation District Act (70 ILCS 2605)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=969",
+   "versions": [
+    {
+     "from": "2026-02-15",
+     "units": 303,
+     "source_url": "https://web.archive.org/web/20260215135814/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=969&ChapterID=15&Chapter=SPECIAL%20DISTRICTS&MajorTopic=GOVERNMENT",
+     "sha256": "276de9974422d616aa9facb907f944f171b26b4bbba23791eaa821a5d85cd40a"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-70-2805",
+   "short": "70 ILCS 2805",
+   "title": "Illinois Compiled Statutes, Sanitary District Act of 1936 (70 ILCS 2805)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=970",
+   "versions": [
+    {
+     "from": "2026-06-11",
+     "units": 148,
+     "source_url": "https://web.archive.org/web/20260611014746/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=970&ChapterID=15&utm",
+     "sha256": "22955bc9c527bf40f73716939b1c303faa09e5fc8d79186cb0f8907fe81ad64a"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-70-3005",
+   "short": "70 ILCS 3005",
+   "title": "Illinois Compiled Statutes, Sanitary District Refunding Bond Act (70 ILCS 3005)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=972",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 9,
+     "source_url": "https://web.archive.org/web/20260415125311/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=972&ChapterID=15&Chapter=SPECIAL%20DISTRICTS&MajorTopic=GOVERNMENT",
+     "sha256": "a954d50c0f02cfcb60a0f28c43bc452d88ba3f331dc5603e9662b2062d8b6328"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-70-3010",
+   "short": "70 ILCS 3010",
+   "title": "Illinois Compiled Statutes, Sanitary District Revenue Bond Act (70 ILCS 3010)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=973",
+   "versions": [
+    {
+     "from": "2026-04-13",
+     "units": 24,
+     "source_url": "https://web.archive.org/web/20260413044032/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=973&ChapterID=15&Chapter=SPECIAL%20DISTRICTS&MajorTopic=GOVERNMENT",
+     "sha256": "758fe957c4f9204e28b1f202882c0f202864e7cedb3dd78c7e549daa0191e489"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-70-3015",
+   "short": "70 ILCS 3015",
+   "title": "Illinois Compiled Statutes, Sanitary Districts Corporate Notes Act (70 ILCS 3015)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=974",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 3,
+     "source_url": "https://web.archive.org/web/20260415125340/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=974&ChapterID=15&Chapter=SPECIAL%20DISTRICTS&MajorTopic=GOVERNMENT",
+     "sha256": "652a5754e2401d6513dcefd1e4c72178948c21abd2babc7c502e0d54adcfd467"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-70-3020",
+   "short": "70 ILCS 3020",
+   "title": "Illinois Compiled Statutes, Eastern Will Sanitary District Act (70 ILCS 3020)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=975",
+   "versions": [
+    {
+     "from": "2026-06-07",
+     "units": 6,
+     "source_url": "https://web.archive.org/web/20260607070908/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=975&ChapterID=15",
+     "sha256": "0efa05e4b3da91e3745ff1f3056f0bb0e3c18a03a18baf9d9154a692763ccfd2"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-70-3105",
+   "short": "70 ILCS 3105",
+   "title": "Illinois Compiled Statutes, Solid Waste Disposal District Act (70 ILCS 3105)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=976",
+   "versions": [
+    {
+     "from": "2026-04-18",
+     "units": 31,
+     "source_url": "https://web.archive.org/web/20260418011415/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=976&ChapterID=15&Chapter=SPECIAL%20DISTRICTS&MajorTopic=GOVERNMENT",
+     "sha256": "28ef38348ae7cce0d617043db82f7c91366ff2363c15751bb896f3c288b66dec"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-70-3110",
+   "short": "70 ILCS 3110",
+   "title": "Illinois Compiled Statutes, Metro East Solid Waste Disposal and Energy Producing Service Act (70 ILCS 3110)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=977",
+   "versions": [
+    {
+     "from": "2026-04-14",
+     "units": 20,
+     "source_url": "https://web.archive.org/web/20260414084915/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=977&ChapterID=15&Chapter=SPECIAL%20DISTRICTS&MajorTopic=GOVERNMENT",
+     "sha256": "ff9b8027c84b9e0bc06343825007d925a4cb6d0c4b9e3336c640b4730e2d3e5c"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-70-3205",
+   "short": "70 ILCS 3205",
+   "title": "Illinois Compiled Statutes, Illinois Sports Facilities Authority Act (70 ILCS 3205)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=978",
+   "versions": [
+    {
+     "from": "2026-10-12",
+     "units": 25,
+     "source_url": "https://web.archive.org/web/20261012210727/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=978&ChapterID=15",
+     "sha256": "79a83c33ea8338805ddb7c3e425d75964c3570f243cf40197087daff2eb71c7a"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-70-3210",
+   "short": "70 ILCS 3210",
+   "title": "Illinois Compiled Statutes, Downstate Illinois Sports Facilities Authority Act (70 ILCS 3210)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2461",
+   "versions": [
+    {
+     "from": "2026-05-14",
+     "units": 20,
+     "source_url": "https://web.archive.org/web/20260514124404/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2461&ChapterID=15&Chapter=SPECIAL%20DISTRICTS&MajorTopic=GOVERNMENT",
+     "sha256": "b0ccd166466ac4e7ce204b330ce77b3a7a14160b82a7969131f751e115edb6c4"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-70-3305",
+   "short": "70 ILCS 3305",
+   "title": "Illinois Compiled Statutes, Street Light District Act (70 ILCS 3305)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=979",
+   "versions": [
+    {
+     "from": "2026-03-11",
+     "units": 17,
+     "source_url": "https://web.archive.org/web/20260311133528/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=979&ChapterID=15&Chapter=SPECIAL%20DISTRICTS&MajorTopic=GOVERNMENT",
+     "sha256": "7862f7c97e347fb7b53cbde1049313795d227ee78128722d7de30df49adda2ac"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-70-3405",
+   "short": "70 ILCS 3405",
+   "title": "Illinois Compiled Statutes, Surface Water Protection District Act (70 ILCS 3405)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=980",
+   "versions": [
+    {
+     "from": "2026-04-13",
+     "units": 30,
+     "source_url": "https://web.archive.org/web/20260413181217/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=980&ChapterID=15&Chapter=SPECIAL%20DISTRICTS&MajorTopic=GOVERNMENT",
+     "sha256": "db14478b7d085ad2684380b8d31fd5ad12a37c9d012047de4e0216aec48b44e9"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-70-3455",
+   "short": "70 ILCS 3455",
+   "title": "Illinois Compiled Statutes, Tourism Preservation and Sustainability District Act (70 ILCS 3455)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=4350",
+   "versions": [
+    {
+     "from": "2026-05-18",
+     "units": 19,
+     "source_url": "https://web.archive.org/web/20260518181817/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=4350&ChapterID=15",
+     "sha256": "e000f85e07b5f71536a56d8aa6cea9441f2794e62120f657c75a4f82b305e9f3"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-70-3505",
+   "short": "70 ILCS 3505",
+   "title": "Illinois Compiled Statutes, Prairie Trail Authority Act (70 ILCS 3505)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=981",
+   "versions": [
+    {
+     "from": "2026-04-21",
+     "units": 6,
+     "source_url": "https://web.archive.org/web/20260421044208/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=981&ChapterID=15&Chapter=SPECIAL%20DISTRICTS&MajorTopic=GOVERNMENT",
+     "sha256": "612b14c28ce57354970796620d1c74897b77a946570974e2b95adcb2d3eb6b9f"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-70-3605",
+   "short": "70 ILCS 3605",
+   "title": "Illinois Compiled Statutes, Metropolitan Transit Authority Act (70 ILCS 3605)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=982",
+   "versions": [
+    {
+     "from": "2026-05-16",
+     "units": 73,
+     "source_url": "https://web.archive.org/web/20260516111011/https://ilga.gov/Legislation/ILCS/Articles?ActID=982&ChapterID=15&Chapter=SPECIAL%20DISTRICTS&MajorTopic=GOVERNMENT",
+     "sha256": "6f6cdc6b3ecdcb241dc3c30c49536bf8c36e0052bf7ac2d0344b47e395b348cc"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-70-3610",
+   "short": "70 ILCS 3610",
+   "title": "Illinois Compiled Statutes, Local Mass Transit District Act (70 ILCS 3610)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=983",
+   "versions": [
+    {
+     "from": "2026-05-09",
+     "units": 31,
+     "source_url": "https://web.archive.org/web/20260509140633/https://ilga.gov/Legislation/ILCS/Articles?ActID=983&ChapterID=15&Chapter=SPECIAL%20DISTRICTS&MajorTopic=GOVERNMENT",
+     "sha256": "5104e43c42b4762c6907abcca3b77ea4e1fb948fd354fe0430a4a37799cb5aea"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-70-3615",
+   "short": "70 ILCS 3615",
+   "title": "Illinois Compiled Statutes, Regional Transportation Authority Act (70 ILCS 3615)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=984",
+   "versions": [
+    {
+     "from": "2026-05-13",
+     "units": 168,
+     "source_url": "https://web.archive.org/web/20260513152413/https://www.ilga.gov/legislation/ILCS/details?MajorTopic=GOVERNMENT&Chapter=SPECIAL%20DISTRICTS&ActName=Regional%20Transportation%20Authority%20Act.&ActID=984&ChapterID=15&SeqStart=&&ChapAct=FullText",
+     "sha256": "1aabfa1710b95d0e8cbe2128267a6797da22ee7ab180eb053ae2d492e60e0d6e"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-70-3620",
+   "short": "70 ILCS 3620",
+   "title": "Illinois Compiled Statutes, Public Transit Employee Training Programs Act (70 ILCS 3620)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=985",
+   "versions": [
+    {
+     "from": "2026-04-17",
+     "units": 8,
+     "source_url": "https://web.archive.org/web/20260417104601/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=985&ChapterID=15",
+     "sha256": "f1e2f01ea43364e65036d3ba187d27a3dbb74d767cba85df4a5a7df6c121bd6d"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-70-3705",
+   "short": "70 ILCS 3705",
+   "title": "Illinois Compiled Statutes, Public Water District Act (70 ILCS 3705)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=986",
+   "versions": [
+    {
+     "from": "2026-04-20",
+     "units": 54,
+     "source_url": "https://web.archive.org/web/20260420032256/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=986&ChapterID=15&Chapter=SPECIAL%20DISTRICTS&MajorTopic=GOVERNMENT",
+     "sha256": "5c47b12b5ba9cf999bac8e16be410d863a93e182734c6891dac233e2467dc155"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-70-3710",
+   "short": "70 ILCS 3710",
+   "title": "Illinois Compiled Statutes, Water Service District Act (70 ILCS 3710)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=987",
+   "versions": [
+    {
+     "from": "2026-04-19",
+     "units": 17,
+     "source_url": "https://web.archive.org/web/20260419205802/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=987&ChapterID=15&Chapter=SPECIAL%20DISTRICTS&MajorTopic=GOVERNMENT",
+     "sha256": "1a60505278762751c66310afa38b21a7862208979d01fea5b43295bd76ce9a31"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-70-3715",
+   "short": "70 ILCS 3715",
+   "title": "Illinois Compiled Statutes, Water Authorities Act (70 ILCS 3715)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=988",
+   "versions": [
+    {
+     "from": "2026-06-15",
+     "units": 35,
+     "source_url": "https://web.archive.org/web/20260615205439/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=988&ChapterID=15",
+     "sha256": "a39abe86695f07d8290e59da616a6ae83d435d8ec11a6425a79b75c4435a0d90"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-70-3720",
+   "short": "70 ILCS 3720",
+   "title": "Illinois Compiled Statutes, Water Commission Act of 1985 (70 ILCS 3720)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=989",
+   "versions": [
+    {
+     "from": "2026-05-19",
+     "units": 15,
+     "source_url": "https://web.archive.org/web/20260519102946/https://ilga.gov/Legislation/ILCS/Articles?ActID=989&ChapterID=15&Chapter=SPECIAL%20DISTRICTS&MajorTopic=GOVERNMENT",
+     "sha256": "a070819f23bc8657fef4acc6574d906652d63b59636da9c424eb7430cb4970ff"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-75-10",
+   "short": "75 ILCS 10",
+   "title": "Illinois Compiled Statutes, Illinois Library System Act (75 ILCS 10)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=991",
+   "versions": [
+    {
+     "from": "2026-04-08",
+     "units": 25,
+     "source_url": "https://web.archive.org/web/20260408152143/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=991&ChapterID=16",
+     "sha256": "b45067d353dc88b09f2edb9f0faea19b71b60b9bbbcf1eb008a26efa853b8481"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-75-35",
+   "short": "75 ILCS 35",
+   "title": "Illinois Compiled Statutes, Township Library Bond Act (75 ILCS 35)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=997",
+   "versions": [
+    {
+     "from": "2026-05-31",
+     "units": 8,
+     "source_url": "https://web.archive.org/web/20260531173740/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=997&ChapterID=16",
+     "sha256": "64fa82996b37146ca9ce2ab70671ea0934105e963f6c6900475b9641a48a131b"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-75-50",
+   "short": "75 ILCS 50",
+   "title": "Illinois Compiled Statutes, Village Library and Gymnasium Tax Act (75 ILCS 50)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1000",
+   "versions": [
+    {
+     "from": "2026-05-26",
+     "units": 3,
+     "source_url": "https://web.archive.org/web/20260526195715/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1000&ChapterID=18&SeqStart=1&SeqEnd=50",
+     "sha256": "ea9bbcb41784752a823c438881cd90bcbfa52040619707cf19ef20971747d6d9"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-75-55",
+   "short": "75 ILCS 55",
+   "title": "Illinois Compiled Statutes, Library Property Sale Act (75 ILCS 55)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1001",
+   "versions": [
+    {
+     "from": "2026-08-08",
+     "units": 3,
+     "source_url": "https://web.archive.org/web/20260808185816/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1001&ChapterID=16",
+     "sha256": "909d9fa2a45cf1b5d220e3970865682c992cae9a1d702a2f55aafed2bed23cbd"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-75-65",
+   "short": "75 ILCS 65",
+   "title": "Illinois Compiled Statutes, Libraries in Parks Act (75 ILCS 65)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1003",
+   "versions": [
+    {
+     "from": "2026-08-26",
+     "units": 6,
+     "source_url": "https://web.archive.org/web/20260826042337/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1003&ChapterID=16",
+     "sha256": "6f5b1d72ea6207dc23d3c1deeece829deb3ea324df594749d968776f32172d59"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-105-5-article-0001",
+   "short": "105 ILCS 5 art. 1",
+   "title": "Illinois Compiled Statutes, School Code (105 ILCS 5), Article 1",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1005",
+   "versions": [
+    {
+     "from": "2026-05-11",
+     "units": 5,
+     "source_url": "https://web.archive.org/web/20260511150539/https://www.ilga.gov/legislation/ILCS/details?MajorTopic=&Chapter=&ActName=School%20Code.&ActID=1005&ChapterID=17&SeqStart=&&ChapAct=FullText",
+     "sha256": "fe0cfa0f54699a3c6b94d3919527f1156e5083564791761b8de561351ebbd440"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-105-5-article-0001a",
+   "short": "105 ILCS 5 art. 1A",
+   "title": "Illinois Compiled Statutes, School Code (105 ILCS 5), Article 1A",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1005",
+   "versions": [
+    {
+     "from": "2026-05-11",
+     "units": 9,
+     "source_url": "https://web.archive.org/web/20260511150539/https://www.ilga.gov/legislation/ILCS/details?MajorTopic=&Chapter=&ActName=School%20Code.&ActID=1005&ChapterID=17&SeqStart=&&ChapAct=FullText",
+     "sha256": "fe0cfa0f54699a3c6b94d3919527f1156e5083564791761b8de561351ebbd440"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-105-5-article-0001b",
+   "short": "105 ILCS 5 art. 1B",
+   "title": "Illinois Compiled Statutes, School Code (105 ILCS 5), Article 1B",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1005",
+   "versions": [
+    {
+     "from": "2026-05-11",
+     "units": 25,
+     "source_url": "https://web.archive.org/web/20260511150539/https://www.ilga.gov/legislation/ILCS/details?MajorTopic=&Chapter=&ActName=School%20Code.&ActID=1005&ChapterID=17&SeqStart=&&ChapAct=FullText",
+     "sha256": "fe0cfa0f54699a3c6b94d3919527f1156e5083564791761b8de561351ebbd440"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-105-5-article-0001c",
+   "short": "105 ILCS 5 art. 1C",
+   "title": "Illinois Compiled Statutes, School Code (105 ILCS 5), Article 1C",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1005",
+   "versions": [
+    {
+     "from": "2026-05-11",
+     "units": 5,
+     "source_url": "https://web.archive.org/web/20260511150539/https://www.ilga.gov/legislation/ILCS/details?MajorTopic=&Chapter=&ActName=School%20Code.&ActID=1005&ChapterID=17&SeqStart=&&ChapAct=FullText",
+     "sha256": "fe0cfa0f54699a3c6b94d3919527f1156e5083564791761b8de561351ebbd440"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-105-5-article-0001d",
+   "short": "105 ILCS 5 art. 1D",
+   "title": "Illinois Compiled Statutes, School Code (105 ILCS 5), Article 1D",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1005",
+   "versions": [
+    {
+     "from": "2026-05-11",
+     "units": 1,
+     "source_url": "https://web.archive.org/web/20260511150539/https://www.ilga.gov/legislation/ILCS/details?MajorTopic=&Chapter=&ActName=School%20Code.&ActID=1005&ChapterID=17&SeqStart=&&ChapAct=FullText",
+     "sha256": "fe0cfa0f54699a3c6b94d3919527f1156e5083564791761b8de561351ebbd440"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-105-5-article-0001e",
+   "short": "105 ILCS 5 art. 1E",
+   "title": "Illinois Compiled Statutes, School Code (105 ILCS 5), Article 1E",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1005",
+   "versions": [
+    {
+     "from": "2026-05-11",
+     "units": 34,
+     "source_url": "https://web.archive.org/web/20260511150539/https://www.ilga.gov/legislation/ILCS/details?MajorTopic=&Chapter=&ActName=School%20Code.&ActID=1005&ChapterID=17&SeqStart=&&ChapAct=FullText",
+     "sha256": "fe0cfa0f54699a3c6b94d3919527f1156e5083564791761b8de561351ebbd440"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-105-5-article-0001h",
+   "short": "105 ILCS 5 art. 1H",
+   "title": "Illinois Compiled Statutes, School Code (105 ILCS 5), Article 1H",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1005",
+   "versions": [
+    {
+     "from": "2026-05-11",
+     "units": 23,
+     "source_url": "https://web.archive.org/web/20260511150539/https://www.ilga.gov/legislation/ILCS/details?MajorTopic=&Chapter=&ActName=School%20Code.&ActID=1005&ChapterID=17&SeqStart=&&ChapAct=FullText",
+     "sha256": "fe0cfa0f54699a3c6b94d3919527f1156e5083564791761b8de561351ebbd440"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-105-5-article-0002",
+   "short": "105 ILCS 5 art. 2",
+   "title": "Illinois Compiled Statutes, School Code (105 ILCS 5), Article 2",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1005",
+   "versions": [
+    {
+     "from": "2026-05-11",
+     "units": 259,
+     "source_url": "https://web.archive.org/web/20260511150539/https://www.ilga.gov/legislation/ILCS/details?MajorTopic=&Chapter=&ActName=School%20Code.&ActID=1005&ChapterID=17&SeqStart=&&ChapAct=FullText",
+     "sha256": "fe0cfa0f54699a3c6b94d3919527f1156e5083564791761b8de561351ebbd440"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-105-5-article-0003",
+   "short": "105 ILCS 5 art. 3",
+   "title": "Illinois Compiled Statutes, School Code (105 ILCS 5), Article 3",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1005",
+   "versions": [
+    {
+     "from": "2026-05-11",
+     "units": 68,
+     "source_url": "https://web.archive.org/web/20260511150539/https://www.ilga.gov/legislation/ILCS/details?MajorTopic=&Chapter=&ActName=School%20Code.&ActID=1005&ChapterID=17&SeqStart=&&ChapAct=FullText",
+     "sha256": "fe0cfa0f54699a3c6b94d3919527f1156e5083564791761b8de561351ebbd440"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-105-5-article-0003a",
+   "short": "105 ILCS 5 art. 3A",
+   "title": "Illinois Compiled Statutes, School Code (105 ILCS 5), Article 3A",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1005",
+   "versions": [
+    {
+     "from": "2026-05-11",
+     "units": 17,
+     "source_url": "https://web.archive.org/web/20260511150539/https://www.ilga.gov/legislation/ILCS/details?MajorTopic=&Chapter=&ActName=School%20Code.&ActID=1005&ChapterID=17&SeqStart=&&ChapAct=FullText",
+     "sha256": "fe0cfa0f54699a3c6b94d3919527f1156e5083564791761b8de561351ebbd440"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-105-5-article-0004",
+   "short": "105 ILCS 5 art. 4",
+   "title": "Illinois Compiled Statutes, School Code (105 ILCS 5), Article 4",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1005",
+   "versions": [
+    {
+     "from": "2026-05-11",
+     "units": 13,
+     "source_url": "https://web.archive.org/web/20260511150539/https://www.ilga.gov/legislation/ILCS/details?MajorTopic=&Chapter=&ActName=School%20Code.&ActID=1005&ChapterID=17&SeqStart=&&ChapAct=FullText",
+     "sha256": "fe0cfa0f54699a3c6b94d3919527f1156e5083564791761b8de561351ebbd440"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-105-5-article-0005",
+   "short": "105 ILCS 5 art. 5",
+   "title": "Illinois Compiled Statutes, School Code (105 ILCS 5), Article 5",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1005",
+   "versions": [
+    {
+     "from": "2026-05-11",
+     "units": 34,
+     "source_url": "https://web.archive.org/web/20260511150539/https://www.ilga.gov/legislation/ILCS/details?MajorTopic=&Chapter=&ActName=School%20Code.&ActID=1005&ChapterID=17&SeqStart=&&ChapAct=FullText",
+     "sha256": "fe0cfa0f54699a3c6b94d3919527f1156e5083564791761b8de561351ebbd440"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-105-5-article-0006",
+   "short": "105 ILCS 5 art. 6",
+   "title": "Illinois Compiled Statutes, School Code (105 ILCS 5), Article 6",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1005",
+   "versions": [
+    {
+     "from": "2026-05-11",
+     "units": 14,
+     "source_url": "https://web.archive.org/web/20260511150539/https://www.ilga.gov/legislation/ILCS/details?MajorTopic=&Chapter=&ActName=School%20Code.&ActID=1005&ChapterID=17&SeqStart=&&ChapAct=FullText",
+     "sha256": "fe0cfa0f54699a3c6b94d3919527f1156e5083564791761b8de561351ebbd440"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-105-5-article-0007",
+   "short": "105 ILCS 5 art. 7",
+   "title": "Illinois Compiled Statutes, School Code (105 ILCS 5), Article 7",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1005",
+   "versions": [
+    {
+     "from": "2026-05-11",
+     "units": 39,
+     "source_url": "https://web.archive.org/web/20260511150539/https://www.ilga.gov/legislation/ILCS/details?MajorTopic=&Chapter=&ActName=School%20Code.&ActID=1005&ChapterID=17&SeqStart=&&ChapAct=FullText",
+     "sha256": "fe0cfa0f54699a3c6b94d3919527f1156e5083564791761b8de561351ebbd440"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-105-5-article-0008",
+   "short": "105 ILCS 5 art. 8",
+   "title": "Illinois Compiled Statutes, School Code (105 ILCS 5), Article 8",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1005",
+   "versions": [
+    {
+     "from": "2026-05-11",
+     "units": 20,
+     "source_url": "https://web.archive.org/web/20260511150539/https://www.ilga.gov/legislation/ILCS/details?MajorTopic=&Chapter=&ActName=School%20Code.&ActID=1005&ChapterID=17&SeqStart=&&ChapAct=FullText",
+     "sha256": "fe0cfa0f54699a3c6b94d3919527f1156e5083564791761b8de561351ebbd440"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-105-5-article-0009",
+   "short": "105 ILCS 5 art. 9",
+   "title": "Illinois Compiled Statutes, School Code (105 ILCS 5), Article 9",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1005",
+   "versions": [
+    {
+     "from": "2026-05-11",
+     "units": 14,
+     "source_url": "https://web.archive.org/web/20260511150539/https://www.ilga.gov/legislation/ILCS/details?MajorTopic=&Chapter=&ActName=School%20Code.&ActID=1005&ChapterID=17&SeqStart=&&ChapAct=FullText",
+     "sha256": "fe0cfa0f54699a3c6b94d3919527f1156e5083564791761b8de561351ebbd440"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-105-5-article-0010",
+   "short": "105 ILCS 5 art. 10",
+   "title": "Illinois Compiled Statutes, School Code (105 ILCS 5), Article 10",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1005",
+   "versions": [
+    {
+     "from": "2026-05-11",
+     "units": 268,
+     "source_url": "https://web.archive.org/web/20260511150539/https://www.ilga.gov/legislation/ILCS/details?MajorTopic=&Chapter=&ActName=School%20Code.&ActID=1005&ChapterID=17&SeqStart=&&ChapAct=FullText",
+     "sha256": "fe0cfa0f54699a3c6b94d3919527f1156e5083564791761b8de561351ebbd440"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-105-5-article-0011c",
+   "short": "105 ILCS 5 art. 11C",
+   "title": "Illinois Compiled Statutes, School Code (105 ILCS 5), Article 11C",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1005",
+   "versions": [
+    {
+     "from": "2026-05-11",
+     "units": 9,
+     "source_url": "https://web.archive.org/web/20260511150539/https://www.ilga.gov/legislation/ILCS/details?MajorTopic=&Chapter=&ActName=School%20Code.&ActID=1005&ChapterID=17&SeqStart=&&ChapAct=FullText",
+     "sha256": "fe0cfa0f54699a3c6b94d3919527f1156e5083564791761b8de561351ebbd440"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-105-5-article-0011e",
+   "short": "105 ILCS 5 art. 11E",
+   "title": "Illinois Compiled Statutes, School Code (105 ILCS 5), Article 11E",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1005",
+   "versions": [
+    {
+     "from": "2026-05-11",
+     "units": 28,
+     "source_url": "https://web.archive.org/web/20260511150539/https://www.ilga.gov/legislation/ILCS/details?MajorTopic=&Chapter=&ActName=School%20Code.&ActID=1005&ChapterID=17&SeqStart=&&ChapAct=FullText",
+     "sha256": "fe0cfa0f54699a3c6b94d3919527f1156e5083564791761b8de561351ebbd440"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-105-5-article-0012",
+   "short": "105 ILCS 5 art. 12",
+   "title": "Illinois Compiled Statutes, School Code (105 ILCS 5), Article 12",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1005",
+   "versions": [
+    {
+     "from": "2026-05-11",
+     "units": 27,
+     "source_url": "https://web.archive.org/web/20260511150539/https://www.ilga.gov/legislation/ILCS/details?MajorTopic=&Chapter=&ActName=School%20Code.&ActID=1005&ChapterID=17&SeqStart=&&ChapAct=FullText",
+     "sha256": "fe0cfa0f54699a3c6b94d3919527f1156e5083564791761b8de561351ebbd440"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-105-5-article-0013",
+   "short": "105 ILCS 5 art. 13",
+   "title": "Illinois Compiled Statutes, School Code (105 ILCS 5), Article 13",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1005",
+   "versions": [
+    {
+     "from": "2026-05-11",
+     "units": 52,
+     "source_url": "https://web.archive.org/web/20260511150539/https://www.ilga.gov/legislation/ILCS/details?MajorTopic=&Chapter=&ActName=School%20Code.&ActID=1005&ChapterID=17&SeqStart=&&ChapAct=FullText",
+     "sha256": "fe0cfa0f54699a3c6b94d3919527f1156e5083564791761b8de561351ebbd440"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-105-5-article-0013a",
+   "short": "105 ILCS 5 art. 13A",
+   "title": "Illinois Compiled Statutes, School Code (105 ILCS 5), Article 13A",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1005",
+   "versions": [
+    {
+     "from": "2026-05-11",
+     "units": 18,
+     "source_url": "https://web.archive.org/web/20260511150539/https://www.ilga.gov/legislation/ILCS/details?MajorTopic=&Chapter=&ActName=School%20Code.&ActID=1005&ChapterID=17&SeqStart=&&ChapAct=FullText",
+     "sha256": "fe0cfa0f54699a3c6b94d3919527f1156e5083564791761b8de561351ebbd440"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-105-5-article-0013b",
+   "short": "105 ILCS 5 art. 13B",
+   "title": "Illinois Compiled Statutes, School Code (105 ILCS 5), Article 13B",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1005",
+   "versions": [
+    {
+     "from": "2026-05-11",
+     "units": 69,
+     "source_url": "https://web.archive.org/web/20260511150539/https://www.ilga.gov/legislation/ILCS/details?MajorTopic=&Chapter=&ActName=School%20Code.&ActID=1005&ChapterID=17&SeqStart=&&ChapAct=FullText",
+     "sha256": "fe0cfa0f54699a3c6b94d3919527f1156e5083564791761b8de561351ebbd440"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-105-5-article-0014",
+   "short": "105 ILCS 5 art. 14",
+   "title": "Illinois Compiled Statutes, School Code (105 ILCS 5), Article 14",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1005",
+   "versions": [
+    {
+     "from": "2026-05-11",
+     "units": 64,
+     "source_url": "https://web.archive.org/web/20260511150539/https://www.ilga.gov/legislation/ILCS/details?MajorTopic=&Chapter=&ActName=School%20Code.&ActID=1005&ChapterID=17&SeqStart=&&ChapAct=FullText",
+     "sha256": "fe0cfa0f54699a3c6b94d3919527f1156e5083564791761b8de561351ebbd440"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-105-5-article-0014a",
+   "short": "105 ILCS 5 art. 14A",
+   "title": "Illinois Compiled Statutes, School Code (105 ILCS 5), Article 14A",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1005",
+   "versions": [
+    {
+     "from": "2026-05-11",
+     "units": 13,
+     "source_url": "https://web.archive.org/web/20260511150539/https://www.ilga.gov/legislation/ILCS/details?MajorTopic=&Chapter=&ActName=School%20Code.&ActID=1005&ChapterID=17&SeqStart=&&ChapAct=FullText",
+     "sha256": "fe0cfa0f54699a3c6b94d3919527f1156e5083564791761b8de561351ebbd440"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-105-5-article-0014c",
+   "short": "105 ILCS 5 art. 14C",
+   "title": "Illinois Compiled Statutes, School Code (105 ILCS 5), Article 14C",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1005",
+   "versions": [
+    {
+     "from": "2026-05-11",
+     "units": 14,
+     "source_url": "https://web.archive.org/web/20260511150539/https://www.ilga.gov/legislation/ILCS/details?MajorTopic=&Chapter=&ActName=School%20Code.&ActID=1005&ChapterID=17&SeqStart=&&ChapAct=FullText",
+     "sha256": "fe0cfa0f54699a3c6b94d3919527f1156e5083564791761b8de561351ebbd440"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-105-5-article-0014d",
+   "short": "105 ILCS 5 art. 14D",
+   "title": "Illinois Compiled Statutes, School Code (105 ILCS 5), Article 14D",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1005",
+   "versions": [
+    {
+     "from": "2026-05-11",
+     "units": 3,
+     "source_url": "https://web.archive.org/web/20260511150539/https://www.ilga.gov/legislation/ILCS/details?MajorTopic=&Chapter=&ActName=School%20Code.&ActID=1005&ChapterID=17&SeqStart=&&ChapAct=FullText",
+     "sha256": "fe0cfa0f54699a3c6b94d3919527f1156e5083564791761b8de561351ebbd440"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-105-5-article-0015",
+   "short": "105 ILCS 5 art. 15",
+   "title": "Illinois Compiled Statutes, School Code (105 ILCS 5), Article 15",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1005",
+   "versions": [
+    {
+     "from": "2026-05-11",
+     "units": 31,
+     "source_url": "https://web.archive.org/web/20260511150539/https://www.ilga.gov/legislation/ILCS/details?MajorTopic=&Chapter=&ActName=School%20Code.&ActID=1005&ChapterID=17&SeqStart=&&ChapAct=FullText",
+     "sha256": "fe0cfa0f54699a3c6b94d3919527f1156e5083564791761b8de561351ebbd440"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-105-5-article-0015a",
+   "short": "105 ILCS 5 art. 15A",
+   "title": "Illinois Compiled Statutes, School Code (105 ILCS 5), Article 15A",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1005",
+   "versions": [
+    {
+     "from": "2026-05-11",
+     "units": 12,
+     "source_url": "https://web.archive.org/web/20260511150539/https://www.ilga.gov/legislation/ILCS/details?MajorTopic=&Chapter=&ActName=School%20Code.&ActID=1005&ChapterID=17&SeqStart=&&ChapAct=FullText",
+     "sha256": "fe0cfa0f54699a3c6b94d3919527f1156e5083564791761b8de561351ebbd440"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-105-5-article-0016",
+   "short": "105 ILCS 5 art. 16",
+   "title": "Illinois Compiled Statutes, School Code (105 ILCS 5), Article 16",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1005",
+   "versions": [
+    {
+     "from": "2026-05-11",
+     "units": 10,
+     "source_url": "https://web.archive.org/web/20260511150539/https://www.ilga.gov/legislation/ILCS/details?MajorTopic=&Chapter=&ActName=School%20Code.&ActID=1005&ChapterID=17&SeqStart=&&ChapAct=FullText",
+     "sha256": "fe0cfa0f54699a3c6b94d3919527f1156e5083564791761b8de561351ebbd440"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-105-5-article-0017",
+   "short": "105 ILCS 5 art. 17",
+   "title": "Illinois Compiled Statutes, School Code (105 ILCS 5), Article 17",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1005",
+   "versions": [
+    {
+     "from": "2026-05-11",
+     "units": 54,
+     "source_url": "https://web.archive.org/web/20260511150539/https://www.ilga.gov/legislation/ILCS/details?MajorTopic=&Chapter=&ActName=School%20Code.&ActID=1005&ChapterID=17&SeqStart=&&ChapAct=FullText",
+     "sha256": "fe0cfa0f54699a3c6b94d3919527f1156e5083564791761b8de561351ebbd440"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-105-5-article-0018",
+   "short": "105 ILCS 5 art. 18",
+   "title": "Illinois Compiled Statutes, School Code (105 ILCS 5), Article 18",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1005",
+   "versions": [
+    {
+     "from": "2026-05-11",
+     "units": 19,
+     "source_url": "https://web.archive.org/web/20260511150539/https://www.ilga.gov/legislation/ILCS/details?MajorTopic=&Chapter=&ActName=School%20Code.&ActID=1005&ChapterID=17&SeqStart=&&ChapAct=FullText",
+     "sha256": "fe0cfa0f54699a3c6b94d3919527f1156e5083564791761b8de561351ebbd440"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-105-10",
+   "short": "105 ILCS 10",
+   "title": "Illinois Compiled Statutes, Illinois School Student Records Act (105 ILCS 10)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1006",
+   "versions": [
+    {
+     "from": "2026-05-15",
+     "units": 11,
+     "source_url": "https://web.archive.org/web/20260515165748/https://ilga.gov/Legislation/ILCS/Articles?ActID=1006&ChapterID=17&Chapter=SCHOOLS&MajorTopic=EDUCATION",
+     "sha256": "c9ce7f870d998b00fc7572ff50c0336a348cf7dd77267be8a22775d9b99f0a8e"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-105-13",
+   "short": "105 ILCS 13",
+   "title": "Illinois Compiled Statutes, P-20 Longitudinal Education Data System Act (105 ILCS 13)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3110",
+   "versions": [
+    {
+     "from": "2026-02-09",
+     "units": 12,
+     "source_url": "https://web.archive.org/web/20260209113824/https://ilga.gov/Legislation/ILCS/Articles?ActID=3110&ChapterID=17&Chapter=SCHOOLS&MajorTopic=EDUCATION",
+     "sha256": "af2b888fa81ad4adf1a95d5a8b9d1c6d4f01e291b0616ef0cbaafc11d17c9bc7"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-105-15",
+   "short": "105 ILCS 15",
+   "title": "Illinois Compiled Statutes, Surplus Federal Property for Schools Act (105 ILCS 15)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1007",
+   "versions": [
+    {
+     "from": "2026-05-08",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20260508155707/https://ilga.gov/Legislation/ILCS/Articles?ActID=1007&ChapterID=17&Chapter=SCHOOLS&MajorTopic=EDUCATION",
+     "sha256": "bc4602b6711eb2eba2dcc3f1d1bb0e0b35d0a58b727fa9238735c1b0f5e34988"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-105-20",
+   "short": "105 ILCS 20",
+   "title": "Illinois Compiled Statutes, Silent Reflection and Student Prayer Act (105 ILCS 20)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1008",
+   "versions": [
+    {
+     "from": "2026-04-10",
+     "units": 3,
+     "source_url": "https://web.archive.org/web/20260410130611/https://ilga.gov/Legislation/ILCS/Articles?ActID=1008&ChapterID=17&Chapter=SCHOOLS&MajorTopic=EDUCATION",
+     "sha256": "470652e6b735756dbcd5545ea0e8f11db27fa3cdf843aa9704aa8360e0d39423"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-105-25",
+   "short": "105 ILCS 25",
+   "title": "Illinois Compiled Statutes, Interscholastic Athletic Organization Act (105 ILCS 25)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1009",
+   "versions": [
+    {
+     "from": "2026-04-18",
+     "units": 8,
+     "source_url": "https://web.archive.org/web/20260418093550/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1009&ChapterID=17",
+     "sha256": "e8046ecef839a6872869d824b1f5e6f0705618dc4238c9e13a6f135d6e714275"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-105-30",
+   "short": "105 ILCS 30",
+   "title": "Illinois Compiled Statutes, Illinois Peace Corps Fellowship Program Law (105 ILCS 30)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1010",
+   "versions": [
+    {
+     "from": "2026-05-13",
+     "units": 4,
+     "source_url": "https://web.archive.org/web/20260513222418/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1010&ChapterID=17",
+     "sha256": "8e3c532144b5d77e6ccf3f2867ad16c8ffeed61780959502a9de69bc68e8b2ca"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-105-35",
+   "short": "105 ILCS 35",
+   "title": "Illinois Compiled Statutes, Children and Family Community Protection Act (105 ILCS 35)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1011",
+   "versions": [
+    {
+     "from": "2026-05-01",
+     "units": 4,
+     "source_url": "https://web.archive.org/web/20260501025328/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1011&ChapterID=17",
+     "sha256": "17c78ad0d9bfc796292f237a7426d665b371f318cd3aa67b4297e3761e7db2a1"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-105-40",
+   "short": "105 ILCS 40",
+   "title": "Illinois Compiled Statutes, Illinois Distance Learning Foundation Act (105 ILCS 40)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1012",
+   "versions": [
+    {
+     "from": "2026-07-11",
+     "units": 6,
+     "source_url": "https://web.archive.org/web/20260711205031/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1012&ChapterID=17",
+     "sha256": "e025e3bebc6d84609b896ef0a52366638c07239e277cb518395d94554399e576"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-105-45-article-0001",
+   "short": "105 ILCS 45 art. 1",
+   "title": "Illinois Compiled Statutes, Education for Homeless Children Act (105 ILCS 45), Article 1",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1013",
+   "versions": [
+    {
+     "from": "2026-03-16",
+     "units": 13,
+     "source_url": "https://web.archive.org/web/20260316000412/https://www.ilga.gov/legislation/ILCS/details?MajorTopic=EDUCATION&Chapter=SCHOOLS&ActName=Education%20for%20Homeless%20Children%20Act.&ActID=1013&ChapterID=17&SeqStart=&&ChapAct=FullText",
+     "sha256": "60d35b11a4cfbdca6ca051e020edb4916f91ede51e0c43f1f06823580b6d7aec"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-105-45-article-0002",
+   "short": "105 ILCS 45 art. 2",
+   "title": "Illinois Compiled Statutes, Education for Homeless Children Act (105 ILCS 45), Article 2",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1013",
+   "versions": [
+    {
+     "from": "2026-03-16",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20260316000412/https://www.ilga.gov/legislation/ILCS/details?MajorTopic=EDUCATION&Chapter=SCHOOLS&ActName=Education%20for%20Homeless%20Children%20Act.&ActID=1013&ChapterID=17&SeqStart=&&ChapAct=FullText",
+     "sha256": "60d35b11a4cfbdca6ca051e020edb4916f91ede51e0c43f1f06823580b6d7aec"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-105-45-article-0003",
+   "short": "105 ILCS 45 art. 3",
+   "title": "Illinois Compiled Statutes, Education for Homeless Children Act (105 ILCS 45), Article 3",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1013",
+   "versions": [
+    {
+     "from": "2026-03-16",
+     "units": 1,
+     "source_url": "https://web.archive.org/web/20260316000412/https://www.ilga.gov/legislation/ILCS/details?MajorTopic=EDUCATION&Chapter=SCHOOLS&ActName=Education%20for%20Homeless%20Children%20Act.&ActID=1013&ChapterID=17&SeqStart=&&ChapAct=FullText",
+     "sha256": "60d35b11a4cfbdca6ca051e020edb4916f91ede51e0c43f1f06823580b6d7aec"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-105-60",
+   "short": "105 ILCS 60",
+   "title": "Illinois Compiled Statutes, Community Service Education Act (105 ILCS 60)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2800",
+   "versions": [
+    {
+     "from": "2026-04-07",
+     "units": 13,
+     "source_url": "https://web.archive.org/web/20260407111858/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2800&ChapterID=17",
+     "sha256": "59eab33a7fd950627610697a25eb089053bfbaaa56e0374677599e5077cf2e3e"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-105-70",
+   "short": "105 ILCS 70",
+   "title": "Illinois Compiled Statutes, Educational Opportunity for Military Children Act (105 ILCS 70)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3235",
+   "versions": [
+    {
+     "from": "2026-07-01",
+     "units": 22,
+     "source_url": "https://web.archive.org/web/20260701194557/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3235&ChapterID=17",
+     "sha256": "cf7c53a1c2d6080636d5b93fdafe04d235262f9c95d2a86bf681fb341cfeeafd"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-105-75",
+   "short": "105 ILCS 75",
+   "title": "Illinois Compiled Statutes, Right to Privacy in the School Setting Act (105 ILCS 75)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3504",
+   "versions": [
+    {
+     "from": "2026-05-13",
+     "units": 5,
+     "source_url": "https://web.archive.org/web/20260513173514/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3504&ChapterID=17",
+     "sha256": "93a338099742a8c635625004dd4a830ccb32b7f261ea0d43f9d0954f366912d5"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-105-80",
+   "short": "105 ILCS 80",
+   "title": "Illinois Compiled Statutes, Speech Rights of Student Journalists Act (105 ILCS 80)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3723",
+   "versions": [
+    {
+     "from": "2026-05-21",
+     "units": 6,
+     "source_url": "https://web.archive.org/web/20260521211458/https://ilga.gov/Legislation/ILCS/Articles?ActID=3723&ChapterID=17&Chapter=SCHOOLS&MajorTopic=EDUCATION",
+     "sha256": "654dda7e7b060b85367fb38e17481dc443d19f4af6d43401211609db399d0746"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-105-85",
+   "short": "105 ILCS 85",
+   "title": "Illinois Compiled Statutes, Student Online Personal Protection Act (105 ILCS 85)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3806",
+   "versions": [
+    {
+     "from": "2026-04-09",
+     "units": 16,
+     "source_url": "https://web.archive.org/web/20260409171915/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3806&ChapterID=17",
+     "sha256": "52d12ac85fe1f68bc244da956691abe0f6ddef9a94dd1af107baaa6bec3f3c17"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-105-105",
+   "short": "105 ILCS 105",
+   "title": "Illinois Compiled Statutes, Asbestos Abatement Act (105 ILCS 105)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1014",
+   "versions": [
+    {
+     "from": "2026-10-09",
+     "units": 27,
+     "source_url": "https://web.archive.org/web/20261009164536/https://www.ilga.gov/legislation/ilcs/Articles?ActID=1014&ChapAct=105%C2%A0ILCS%C2%A0105/&ChapterID=17&ChapterName=SCHOOLS&ActName=Asbestos%20Abatement%20Act",
+     "sha256": "b5b8a5f80ce4ca2b2ed64721b469797b63b4214be12a099a778ba3b18edc92f6"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-105-112",
+   "short": "105 ILCS 112",
+   "title": "Illinois Compiled Statutes, Dissection Alternatives Act (105 ILCS 112)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1016",
+   "versions": [
+    {
+     "from": "2026-07-07",
+     "units": 7,
+     "source_url": "https://web.archive.org/web/20260707222155/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1016&ChapterID=17",
+     "sha256": "b7cde71b9a1e1878c830897f503a707839b5d7629e7317092e572d94411f6442"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-105-115",
+   "short": "105 ILCS 115",
+   "title": "Illinois Compiled Statutes, Eye Protection in School Act (105 ILCS 115)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1017",
+   "versions": [
+    {
+     "from": "2026-02-09",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20260209023148/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1017&ChapterID=17&Chapter=SCHOOLS&MajorTopic=EDUCATION",
+     "sha256": "fb5afcb08b185e8cc4b65554d0129d9478e0f058dae284b7bc90d4cd792eb5e5"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-105-123",
+   "short": "105 ILCS 123",
+   "title": "Illinois Compiled Statutes, Hunger-Free Students' Bill of Rights Act (105 ILCS 123)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3911",
+   "versions": [
+    {
+     "from": "2026-02-10",
+     "units": 5,
+     "source_url": "https://web.archive.org/web/20260210175425/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3911&ChapterID=17&Chapter=SCHOOLS&MajorTopic=EDUCATION",
+     "sha256": "776b4d84c321b85e30eb4a0c40c093201d05ee7617db3db2dc9f40d27fade496"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-105-125",
+   "short": "105 ILCS 125",
+   "title": "Illinois Compiled Statutes, School Breakfast and Lunch Program Act (105 ILCS 125)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1019",
+   "versions": [
+    {
+     "from": "2026-02-17",
+     "units": 15,
+     "source_url": "https://web.archive.org/web/20260217025830/https://ilga.gov/Legislation/ILCS/Articles?ActID=1019&ChapterID=17&Chapter=SCHOOLS&MajorTopic=EDUCATION",
+     "sha256": "f31710842b72b290e16e99d30c2c6c06db44ebf3e15934ee2af141ae24d658a1"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-105-126",
+   "short": "105 ILCS 126",
+   "title": "Illinois Compiled Statutes, Childhood Hunger Relief Act (105 ILCS 126)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2642",
+   "versions": [
+    {
+     "from": "2026-02-13",
+     "units": 9,
+     "source_url": "https://web.archive.org/web/20260213045919/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2642&ChapterID=17&Chapter=SCHOOLS&MajorTopic=EDUCATION",
+     "sha256": "d5f84bd6d1cc326080c126bd8c9df77e70e7971b3190938e85d25f111e24e1ea"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-105-127",
+   "short": "105 ILCS 127",
+   "title": "Illinois Compiled Statutes, School Reporting of Drug Violations Act (105 ILCS 127)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1020",
+   "versions": [
+    {
+     "from": "2026-05-08",
+     "units": 3,
+     "source_url": "https://web.archive.org/web/20260508084919/https://ilga.gov/Legislation/ILCS/Articles?ActID=1020&ChapterID=17&Chapter=SCHOOLS&MajorTopic=EDUCATION",
+     "sha256": "0b32b7e648c4832f1f22a5db55d0692ef218efe4a0e0ce67cef9ab35606642e8"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-105-128",
+   "short": "105 ILCS 128",
+   "title": "Illinois Compiled Statutes, School Safety Drill Act (105 ILCS 128)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2735",
+   "versions": [
+    {
+     "from": "2026-03-13",
+     "units": 19,
+     "source_url": "https://web.archive.org/web/20260313135157/https://ilga.gov/Legislation/ILCS/Articles?ActID=2735&ChapterID=17&Chapter=SCHOOLS&MajorTopic=EDUCATION",
+     "sha256": "25bf5e6c9313e7204e6393d525d1710661b6f2a9edae3df11eee20dec31a946c"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-105-129",
+   "short": "105 ILCS 129",
+   "title": "Illinois Compiled Statutes, School Health Center Act (105 ILCS 129)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2935",
+   "versions": [
+    {
+     "from": "2026-03-11",
+     "units": 6,
+     "source_url": "https://web.archive.org/web/20260311073852/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2935&ChapterID=17&Chapter=SCHOOLS&MajorTopic=EDUCATION",
+     "sha256": "8d89ecf6f9296548acc3c2592b31bce72fa5eba65b70e860b040d333446b3ba5"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-105-135",
+   "short": "105 ILCS 135",
+   "title": "Illinois Compiled Statutes, Toxic Art Supplies in Schools Act (105 ILCS 135)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1022",
+   "versions": [
+    {
+     "from": "2026-05-17",
+     "units": 10,
+     "source_url": "https://web.archive.org/web/20260517000537/https://ilga.gov/Legislation/ILCS/Articles?ActID=1022&ChapterID=17&Chapter=SCHOOLS&MajorTopic=EDUCATION",
+     "sha256": "4013874a605c8c6b9e2a0839b1a182c4b08aaa9550b5d96671b9418a8b9d7f80"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-105-140",
+   "short": "105 ILCS 140",
+   "title": "Illinois Compiled Statutes, Green Cleaning Schools Act (105 ILCS 140)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2903",
+   "versions": [
+    {
+     "from": "2026-03-09",
+     "units": 7,
+     "source_url": "https://web.archive.org/web/20260309114151/https://ilga.gov/Legislation/ILCS/Articles?ActID=2903&ChapterID=17&Chapter=SCHOOLS&MajorTopic=EDUCATION",
+     "sha256": "59f384f2263fea7b8ec3b139e59c4ee6eeea2beac4c9d26a60003894917aa406"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-105-145",
+   "short": "105 ILCS 145",
+   "title": "Illinois Compiled Statutes, Care of Students with Diabetes Act (105 ILCS 145)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3284",
+   "versions": [
+    {
+     "from": "2026-02-06",
+     "units": 14,
+     "source_url": "https://web.archive.org/web/20260206032747/https://ilga.gov/Legislation/ILCS/Articles?ActID=3284&ChapterID=17",
+     "sha256": "6febb2356b34c1ec44411ad4666b298c1afa13892de165c88021e68b8497fdc7"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-105-150",
+   "short": "105 ILCS 150",
+   "title": "Illinois Compiled Statutes, Seizure Smart School Act (105 ILCS 150)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=4002",
+   "versions": [
+    {
+     "from": "2026-02-12",
+     "units": 14,
+     "source_url": "https://web.archive.org/web/20260212151600/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=4002&ChapterID=17&Chapter=SCHOOLS&MajorTopic=EDUCATION",
+     "sha256": "b46b739534731f290b97bb70c889e752bd7fcd18a5ec2c9c481b86d18f08af78"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-105-160",
+   "short": "105 ILCS 160",
+   "title": "Illinois Compiled Statutes, Pesticide Application at Schools Act (105 ILCS 160)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=4451",
+   "versions": [
+    {
+     "from": "2026-08-24",
+     "units": 5,
+     "source_url": "https://web.archive.org/web/20260824080940/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=4451&ChapterID=17",
+     "sha256": "9499b0615ef796e26256895161ed5729393e1acef197d5d5edc35e6ed2d60d58"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-105-210",
+   "short": "105 ILCS 210",
+   "title": "Illinois Compiled Statutes, School Bus Performance Bond Act (105 ILCS 210)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1024",
+   "versions": [
+    {
+     "from": "2026-02-13",
+     "units": 3,
+     "source_url": "https://web.archive.org/web/20260213124259/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1024&ChapterID=17&Chapter=SCHOOLS&MajorTopic=EDUCATION",
+     "sha256": "502a9c751b83187810f5d9f15339d5af98f57469f38f412d2f212a7102692add"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-105-302",
+   "short": "105 ILCS 302",
+   "title": "Illinois Compiled Statutes, College and Career Success for All Students Act (105 ILCS 302)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2732",
+   "versions": [
+    {
+     "from": "2026-05-11",
+     "units": 7,
+     "source_url": "https://web.archive.org/web/20260511114523/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2732&ChapterID=17",
+     "sha256": "6547b6437f1ced4c8d1345f5be11ea94bd51fe1fdc1808004ac9f4f482bb3d69"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-105-305",
+   "short": "105 ILCS 305",
+   "title": "Illinois Compiled Statutes, Illinois Mathematics and Science Academy Law (105 ILCS 305)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1030",
+   "versions": [
+    {
+     "from": "2026-05-28",
+     "units": 5,
+     "source_url": "https://web.archive.org/web/20260528062102/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1030&ChapterID=17",
+     "sha256": "710a0049e7fba03b4d8c2455d189b1267e1b6e20390fb689f85da5726f28bd31"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-105-426",
+   "short": "105 ILCS 426",
+   "title": "Illinois Compiled Statutes, Private Business and Vocational Schools Act of 2012 (105 ILCS 426)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3393",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 29,
+     "source_url": "https://web.archive.org/web/20260415221054/https://ilga.gov/Legislation/ILCS/Articles?ActID=3393&ChapterID=17&Chapter=SCHOOLS&MajorTopic=EDUCATION",
+     "sha256": "a5009e1736772b7160f081c2c81e44de03a2207a8f0cd912843265ea3806eae6"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-105-435",
+   "short": "105 ILCS 435",
+   "title": "Illinois Compiled Statutes, Vocational Education Act (105 ILCS 435)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1039",
+   "versions": [
+    {
+     "from": "2026-05-12",
+     "units": 4,
+     "source_url": "https://web.archive.org/web/20260512125031/https://ilga.gov/Legislation/ILCS/Articles?ActID=1039&ChapterID=17&Chapter=SCHOOLS&MajorTopic=EDUCATION",
+     "sha256": "d2d6a9f69ed913b0a1288f2b505c5f07abb11b1f5e9d9e507cccbc0c25c42399"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-105-505",
+   "short": "105 ILCS 505",
+   "title": "Illinois Compiled Statutes, Education Ballot and Bond Validation Act (105 ILCS 505)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1040",
+   "versions": [
+    {
+     "from": "2026-03-11",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20260311142008/https://ilga.gov/Legislation/ILCS/Articles?ActID=1040&ChapterID=17&Chapter=SCHOOLS&MajorTopic=EDUCATION",
+     "sha256": "5f888e10e6209b820a70981e4c7ec7b4c38d7ec0f3a0d1aae628ffcc3084b9c1"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-105-510",
+   "short": "105 ILCS 510",
+   "title": "Illinois Compiled Statutes, School Election Validation (1965) Act (105 ILCS 510)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1041",
+   "versions": [
+    {
+     "from": "2026-03-31",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20260331000415/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1041&ChapterID=17",
+     "sha256": "c71ba06be0ae946f5b98b5aa23bcc07985fa4253a61d5cd57b80d0bfc2359b60"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-105-515",
+   "short": "105 ILCS 515",
+   "title": "Illinois Compiled Statutes, School Tax Rate Validation (1967) Act (105 ILCS 515)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1042",
+   "versions": [
+    {
+     "from": "2026-04-17",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20260417015851/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1042&ChapterID=17",
+     "sha256": "2867b475357e473f005afa5f2ca4f50a310fcff657d5b5780266338d5dd02a0a"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-105-530",
+   "short": "105 ILCS 530",
+   "title": "Illinois Compiled Statutes, School Election Validation (1970) Act (105 ILCS 530)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1045",
+   "versions": [
+    {
+     "from": "2026-05-26",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20260526194846/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1045&ChapterID=18&SeqStart=1&SeqEnd=100",
+     "sha256": "bf25bd4d44d75cfe12c71fe77fbee06416de3dabf3a4c5734028bc5034bafc83"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-105-535",
+   "short": "105 ILCS 535",
+   "title": "Illinois Compiled Statutes, Municipal and School Tax Levy Validation Act (105 ILCS 535)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1046",
+   "versions": [
+    {
+     "from": "2026-05-26",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20260526194839/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1046&ChapterID=18&SeqStart=1&SeqEnd=100",
+     "sha256": "1d6718eae42c73b4bb5c81334484e4bd2bf1a62661a41e2732416cb0e7bab550"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-105-540",
+   "short": "105 ILCS 540",
+   "title": "Illinois Compiled Statutes, School District Validation (1971) Act (105 ILCS 540)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1047",
+   "versions": [
+    {
+     "from": "2026-05-26",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20260526195319/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1047&ChapterID=18&Name=Governmental+Ethics+Act&SeqStart=1&SeqEnd=100",
+     "sha256": "5cbd71479c59e0a5242d3595c3618de2480e69ea4bf531d71d6d6d5e60d46d04"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-105-545",
+   "short": "105 ILCS 545",
+   "title": "Illinois Compiled Statutes, School District Validation (1975) Act (105 ILCS 545)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1048",
+   "versions": [
+    {
+     "from": "2026-05-26",
+     "units": 3,
+     "source_url": "https://web.archive.org/web/20260526194827/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1048&ChapterID=18&SeqStart=1&SeqEnd=100",
+     "sha256": "3408c9af9c1aa999e89fa1ec5708b65b71fc3c0edbbb3dfcdfbc23d95f044a96"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-105-550",
+   "short": "105 ILCS 550",
+   "title": "Illinois Compiled Statutes, School District Validation (1988) Act (105 ILCS 550)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1049",
+   "versions": [
+    {
+     "from": "2026-05-26",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20260526194854/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1049&ChapterID=18&SeqStart=1&SeqEnd=100",
+     "sha256": "dab5184f457d7f8e6d8f52e0a23cf418ff30cde7c2acc984a32a300fec3788eb"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-105-555",
+   "short": "105 ILCS 555",
+   "title": "Illinois Compiled Statutes, School District Validation (1995) Act (105 ILCS 555)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1050",
+   "versions": [
+    {
+     "from": "2026-07-13",
+     "units": 4,
+     "source_url": "https://web.archive.org/web/20260713021948/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1050&ChapterID=17",
+     "sha256": "6ff808dcdd864cd8a0ad500788dc32ce7c94019f3bdc90ec072f7d22bc6a97ce"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-105-560",
+   "short": "105 ILCS 560",
+   "title": "Illinois Compiled Statutes, School District Validation (2001) Act (105 ILCS 560)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1051",
+   "versions": [
+    {
+     "from": "2026-03-21",
+     "units": 5,
+     "source_url": "https://web.archive.org/web/20260321214341/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1051&ChapterID=17",
+     "sha256": "98e9f192807a6d557f4f00908ec2c4c0aa0ac5558dd9247cede1f26bab586559"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-110-5",
+   "short": "110 ILCS 5",
+   "title": "Illinois Compiled Statutes, Academic Plagiarism Act (110 ILCS 5)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1052",
+   "versions": [
+    {
+     "from": "2026-07-12",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20260712212741/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1052&ChapterID=18",
+     "sha256": "5d393699680698d9c58bbbf3fb484c96299872c648afa9a74c409ebde43e3ad3"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-110-10",
+   "short": "110 ILCS 10",
+   "title": "Illinois Compiled Statutes, Campus Demonstrations Policy Act (110 ILCS 10)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1053",
+   "versions": [
+    {
+     "from": "2026-03-13",
+     "units": 3,
+     "source_url": "https://web.archive.org/web/20260313044932/https://ilga.gov/Legislation/ILCS/Articles?ActID=1053&ChapterID=18&Chapter=HIGHER%20EDUCATION&MajorTopic=EDUCATION",
+     "sha256": "913cea66bfb3b74f36407d2bd46824da22112b120efb5bdb083a397ad220b4bc"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-110-12",
+   "short": "110 ILCS 12",
+   "title": "Illinois Compiled Statutes, Campus Security Enhancement Act of 2008 (110 ILCS 12)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1054",
+   "versions": [
+    {
+     "from": "2026-03-31",
+     "units": 6,
+     "source_url": "https://web.archive.org/web/20260331200408/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1054&ChapterID=18",
+     "sha256": "e88039f805aadb859168637a3570f50792a83d65aa3dffbe3d43d3c98f7935c0"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-110-13",
+   "short": "110 ILCS 13",
+   "title": "Illinois Compiled Statutes, College Campus Press Act (110 ILCS 13)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2943",
+   "versions": [
+    {
+     "from": "2026-05-22",
+     "units": 9,
+     "source_url": "https://web.archive.org/web/20260522193024/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2943&ChapterID=18",
+     "sha256": "3c9ed3e0e0f69aec5d64e92980afab3c9158793ad00ea7db8db269278b876106"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-110-15",
+   "short": "110 ILCS 15",
+   "title": "Illinois Compiled Statutes, State College Housing Construction Act (110 ILCS 15)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1055",
+   "versions": [
+    {
+     "from": "2026-08-21",
+     "units": 4,
+     "source_url": "https://web.archive.org/web/20260821024055/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1055&ChapterID=18",
+     "sha256": "85ce86148559ebd18e9002d902be5523ef6423c0840ddb1a9fa2591cfaa6fb2a"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-110-17",
+   "short": "110 ILCS 17",
+   "title": "Illinois Compiled Statutes, College Planning Act (110 ILCS 17)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3362",
+   "versions": [
+    {
+     "from": "2026-06-04",
+     "units": 8,
+     "source_url": "https://web.archive.org/web/20260604062959/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3362&ChapterID=18",
+     "sha256": "914260046c75eda5fd942b1afa0639e22acd5266fce19eed95069e49da13b954"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-110-20",
+   "short": "110 ILCS 20",
+   "title": "Illinois Compiled Statutes, College Student Immunization Act (110 ILCS 20)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1056",
+   "versions": [
+    {
+     "from": "2026-05-05",
+     "units": 8,
+     "source_url": "https://web.archive.org/web/20260505232127/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1056&ChapterID=18",
+     "sha256": "c81f0fa02f354e550455a49c9f2e87cbddf79cf76690208ec7c7a111d713074c"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-110-25",
+   "short": "110 ILCS 25",
+   "title": "Illinois Compiled Statutes, Collegiate Athletic Association Compliance Enforcement Procedures Act (110 ILCS 25)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1057",
+   "versions": [
+    {
+     "from": "2026-06-02",
+     "units": 14,
+     "source_url": "https://web.archive.org/web/20260602042454/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1057&ChapterID=18",
+     "sha256": "de2368f724c12c72662d4590bcf9dfaf19c330c9f1ada5c1c3714ef617a3cc73"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-110-26",
+   "short": "110 ILCS 26",
+   "title": "Illinois Compiled Statutes, Credit Card Marketing Act of 2009 (110 ILCS 26)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3124",
+   "versions": [
+    {
+     "from": "2026-05-12",
+     "units": 22,
+     "source_url": "https://web.archive.org/web/20260512033656/https://ilga.gov/Legislation/ILCS/Articles?ActID=3124&ChapterID=18&Chapter=HIGHER%20EDUCATION&MajorTopic=EDUCATION",
+     "sha256": "0817daebace0cc7c152c5a860f6e045c61bb735fb58ff8a9c5991b3c89f4a8ac"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-110-27",
+   "short": "110 ILCS 27",
+   "title": "Illinois Compiled Statutes, Dual Credit Quality Act (110 ILCS 27)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3117",
+   "versions": [
+    {
+     "from": "2026-05-16",
+     "units": 19,
+     "source_url": "https://web.archive.org/web/20260516042734/https://ilga.gov/Legislation/ILCS/Articles?ActID=3117&ChapterID=18&Chapter=HIGHER%20EDUCATION&MajorTopic=EDUCATION",
+     "sha256": "a87fd12c85764805eab33b4995e98f94c88a6cfeefd7cfd5c72043d5eef7451c"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-110-28",
+   "short": "110 ILCS 28",
+   "title": "Illinois Compiled Statutes, Early Childhood Access Consortium for Equity Act (110 ILCS 28)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=4177",
+   "versions": [
+    {
+     "from": "2026-03-15",
+     "units": 12,
+     "source_url": "https://web.archive.org/web/20260315043057/https://ilga.gov/Legislation/ILCS/Articles?ActID=4177&ChapterID=18&Chapter=HIGHER%20EDUCATION&MajorTopic=EDUCATION",
+     "sha256": "3a843e3fe875376c7c97fa8d93fc09e90cc9daa529e0301718787e212db3cd10"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-110-29",
+   "short": "110 ILCS 29",
+   "title": "Illinois Compiled Statutes, Higher Education Fair Admissions Act (110 ILCS 29)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=4168",
+   "versions": [
+    {
+     "from": "2026-05-09",
+     "units": 5,
+     "source_url": "https://web.archive.org/web/20260509195645/https://ilga.gov/Legislation/ILCS/Articles?ActID=4168&ChapterID=18&Chapter=HIGHER%20EDUCATION&MajorTopic=EDUCATION",
+     "sha256": "5359619c0e502b89fe1a7b9ae36dd877fb9b2b0fd8ce48f5972d894a27e12c41"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-110-30",
+   "short": "110 ILCS 30",
+   "title": "Illinois Compiled Statutes, Educational Corporations Act (110 ILCS 30)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1058",
+   "versions": [
+    {
+     "from": "2026-05-10",
+     "units": 6,
+     "source_url": "https://web.archive.org/web/20260510200525/https://ilga.gov/Legislation/ILCS/Articles?ActID=1058&ChapterID=18&Chapter=HIGHER%20EDUCATION&MajorTopic=EDUCATION",
+     "sha256": "d4bd88aa717be460fe501d744dfd86fa9950b8e57df86f95843a1d1514358933"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-110-31",
+   "short": "110 ILCS 31",
+   "title": "Illinois Compiled Statutes, Educational Credit for Firefighting Experience Act (110 ILCS 31)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=4606",
+   "versions": [
+    {
+     "from": "2026-03-12",
+     "units": 4,
+     "source_url": "https://web.archive.org/web/20260312081322/https://ilga.gov/Legislation/ILCS/Articles?ActID=4606&ChapterID=18&Chapter=HIGHER%20EDUCATION&MajorTopic=EDUCATION",
+     "sha256": "da78dee4731bb27837eef8f20ec89f2988346735d6aee08bd68505d8d06b4b62"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-110-35",
+   "short": "110 ILCS 35",
+   "title": "Illinois Compiled Statutes, Educational Institution Presiding Officer Act (110 ILCS 35)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1059",
+   "versions": [
+    {
+     "from": "2026-04-20",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20260420092111/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1059&ChapterID=18",
+     "sha256": "0674ec63bfe0e6ba00eb705bce8cfd29416213b21e5ca22b1687f765e67a5148"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-110-40",
+   "short": "110 ILCS 40",
+   "title": "Illinois Compiled Statutes, Educational Partnership Act (110 ILCS 40)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1060",
+   "versions": [
+    {
+     "from": "2026-05-18",
+     "units": 6,
+     "source_url": "https://web.archive.org/web/20260518035912/https://ilga.gov/Legislation/ILCS/Articles?ActID=1060&ChapterID=18&Chapter=HIGHER%20EDUCATION&MajorTopic=EDUCATION",
+     "sha256": "2b3c02d291f9fb32206f2683eafcafd8695b99f2ffe9bbd3b0824ea338be2743"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-110-45",
+   "short": "110 ILCS 45",
+   "title": "Illinois Compiled Statutes, Educational Trustees Act (110 ILCS 45)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1061",
+   "versions": [
+    {
+     "from": "2026-03-05",
+     "units": 5,
+     "source_url": "https://web.archive.org/web/20260305144327/https://ilga.gov/Legislation/ILCS/Articles?ActID=1061&ChapterID=18&Chapter=HIGHER%20EDUCATION&MajorTopic=EDUCATION",
+     "sha256": "cb7440c2cadbcd60ab8fc3ab849be46cfac431606ef721e05d626a5cbbdc8674"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-110-46",
+   "short": "110 ILCS 46",
+   "title": "Illinois Compiled Statutes, Forensic Psychiatry Fellowship Training Act (110 ILCS 46)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2897",
+   "versions": [
+    {
+     "from": "2026-05-15",
+     "units": 6,
+     "source_url": "https://web.archive.org/web/20260515082732/https://ilga.gov/Legislation/ILCS/Articles?ActID=2897&ChapterID=18&Chapter=HIGHER%20EDUCATION&MajorTopic=EDUCATION",
+     "sha256": "a3ff9833ee4996e4ffe61f6755a8eb59e9e1207cdf2298909ee4ac5333a6350c"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-110-47",
+   "short": "110 ILCS 47",
+   "title": "Illinois Compiled Statutes, Fire Sprinkler Dormitory Act (110 ILCS 47)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2607",
+   "versions": [
+    {
+     "from": "2026-07-21",
+     "units": 7,
+     "source_url": "https://web.archive.org/web/20260721114518/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2607&ChapterID=18",
+     "sha256": "bc596c1becda24cfbc860cf332100af2fc51b8bb2468b4154c7c2c60e31b1e21"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-110-49",
+   "short": "110 ILCS 49",
+   "title": "Illinois Compiled Statutes, Higher Education Veterans Service Act (110 ILCS 49)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3112",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 6,
+     "source_url": "https://web.archive.org/web/20260415194701/https://ilga.gov/Legislation/ILCS/Articles?ActID=3112&ChapterID=18&Chapter=HIGHER%20EDUCATION&MajorTopic=EDUCATION",
+     "sha256": "92bca612a2129b8385e1266eda74dd4489330fa3e81688fe325f8b7f4b880371"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-110-50",
+   "short": "110 ILCS 50",
+   "title": "Illinois Compiled Statutes, Institution of Learning Powers Act (110 ILCS 50)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1062",
+   "versions": [
+    {
+     "from": "2026-07-01",
+     "units": 6,
+     "source_url": "https://web.archive.org/web/20260701125646/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1062&ChapterID=18",
+     "sha256": "a7983eec9b56ad95ce6f73cdee070c2293f437c9a10522902f0bda50215bfcec"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-110-55",
+   "short": "110 ILCS 55",
+   "title": "Illinois Compiled Statutes, Medical School Curriculum Act (110 ILCS 55)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1063",
+   "versions": [
+    {
+     "from": "2026-05-17",
+     "units": 3,
+     "source_url": "https://web.archive.org/web/20260517000119/https://ilga.gov/Legislation/ILCS/Articles?ActID=1063&ChapterID=18&Chapter=HIGHER%20EDUCATION&MajorTopic=EDUCATION",
+     "sha256": "1f657c141c58b5cb0686cc2964785649c0ff28b924d2ec6f0e6054d84bd0d531"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-110-58",
+   "short": "110 ILCS 58",
+   "title": "Illinois Compiled Statutes, Mental Health Early Action on Campus Act (110 ILCS 58)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=4013",
+   "versions": [
+    {
+     "from": "2026-05-20",
+     "units": 13,
+     "source_url": "https://web.archive.org/web/20260520073126/https://ilga.gov/Legislation/ILCS/Articles?ActID=4013&ChapterID=18&Chapter=HIGHER%20EDUCATION&MajorTopic=EDUCATION",
+     "sha256": "aefe34144af151bf02a989c1b3781ad998df567b5ec07d87ffbb1456cc2bc195"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-110-61",
+   "short": "110 ILCS 61",
+   "title": "Illinois Compiled Statutes, Open Access to Research Articles Act (110 ILCS 61)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3508",
+   "versions": [
+    {
+     "from": "2026-06-08",
+     "units": 5,
+     "source_url": "https://web.archive.org/web/20260608052723/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3508&ChapterID=18",
+     "sha256": "1c609bc7502b25309cbdb3ca9e430a6dd1a83d2fa6d56b9ebc057816a0a45516"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-110-62",
+   "short": "110 ILCS 62",
+   "title": "Illinois Compiled Statutes, Public University Energy Conservation Act (110 ILCS 62)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1065",
+   "versions": [
+    {
+     "from": "2026-05-24",
+     "units": 20,
+     "source_url": "https://web.archive.org/web/20260524042746/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1065&ChapterID=18",
+     "sha256": "c068f2a04b99ad5c5885b66934da5b1694f09b4781b3bf4a5dd96e6cefa25341"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-110-63",
+   "short": "110 ILCS 63",
+   "title": "Illinois Compiled Statutes, Public University Tuition Statement Act (110 ILCS 63)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1066",
+   "versions": [
+    {
+     "from": "2026-03-13",
+     "units": 4,
+     "source_url": "https://web.archive.org/web/20260313043954/https://ilga.gov/Legislation/ILCS/Articles?ActID=1066&ChapterID=18&Chapter=HIGHER%20EDUCATION&MajorTopic=EDUCATION",
+     "sha256": "e20831596ee192a88078395128cc07e22ee7532685b7cea6b3a53fbe3c4a2b1f"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-110-64",
+   "short": "110 ILCS 64",
+   "title": "Illinois Compiled Statutes, Smoke-Free Campus Act (110 ILCS 64)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3575",
+   "versions": [
+    {
+     "from": "2026-05-19",
+     "units": 8,
+     "source_url": "https://web.archive.org/web/20260519073456/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3575&ChapterID=18",
+     "sha256": "4720aed88f95b82318e8f28a0b3312699681258c66c6f9a07437a5e5b9dfaad0"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-110-65",
+   "short": "110 ILCS 65",
+   "title": "Illinois Compiled Statutes, State Colleges and Universities Gasohol Use Act (110 ILCS 65)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1067",
+   "versions": [
+    {
+     "from": "2026-05-15",
+     "units": 3,
+     "source_url": "https://web.archive.org/web/20260515125606/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1067&ChapterID=18",
+     "sha256": "098cde9a9f7c705d7d167fc653cf113aff8c1d67c75c9725aedfe88be67dd887"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-110-66",
+   "short": "110 ILCS 66",
+   "title": "Illinois Compiled Statutes, Student Debt Assistance Act (110 ILCS 66)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=4312",
+   "versions": [
+    {
+     "from": "2026-05-14",
+     "units": 9,
+     "source_url": "https://web.archive.org/web/20260514103759/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=4312&ChapterID=18&Chapter=HIGHER%20EDUCATION&MajorTopic=EDUCATION",
+     "sha256": "7db25d2288212fb2826474b9634e0c28a9b0ddd227396f728cc137fb623fc3dc"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-110-70",
+   "short": "110 ILCS 70",
+   "title": "Illinois Compiled Statutes, State Universities Civil Service Act (110 ILCS 70)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1068",
+   "versions": [
+    {
+     "from": "2026-05-19",
+     "units": 31,
+     "source_url": "https://web.archive.org/web/20260519101816/https://ilga.gov/Legislation/ILCS/Articles?ActID=1068&ChapterID=18&Chapter=HIGHER%20EDUCATION&MajorTopic=EDUCATION",
+     "sha256": "e02da45a6bd2c5e3c43fd3af6b7988b4890fad65fe22fd6adc376cca05d626f8"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-110-74",
+   "short": "110 ILCS 74",
+   "title": "Illinois Compiled Statutes, Student Optional Disclosure of Private Mental Health Act (110 ILCS 74)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3654",
+   "versions": [
+    {
+     "from": "2026-04-20",
+     "units": 4,
+     "source_url": "https://web.archive.org/web/20260420002043/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3654&ChapterID=18",
+     "sha256": "8551dc9a59304be21f29f610d1c155f7c970d8d580b4eeabb72694b598c8f817"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-110-75",
+   "short": "110 ILCS 75",
+   "title": "Illinois Compiled Statutes, Televised University Athletics Act (110 ILCS 75)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1069",
+   "versions": [
+    {
+     "from": "2026-05-12",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20260512162631/https://ilga.gov/Legislation/ILCS/Articles?ActID=1069&ChapterID=18&Chapter=HIGHER%20EDUCATION&MajorTopic=EDUCATION",
+     "sha256": "25b644c0f25bf4cb473a7722aff14582980fdb809a7d8d3748d406b0952be567"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-110-78",
+   "short": "110 ILCS 78",
+   "title": "Illinois Compiled Statutes, Transparency in College Textbook Publishing Practices Act (110 ILCS 78)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3129",
+   "versions": [
+    {
+     "from": "2026-05-16",
+     "units": 7,
+     "source_url": "https://web.archive.org/web/20260516141803/https://ilga.gov/Legislation/ILCS/Articles?ActID=3129&ChapterID=18&Chapter=HIGHER%20EDUCATION&MajorTopic=EDUCATION",
+     "sha256": "abdd84ae39aa7b80077624c6d56b29bf78b88f89eeb401fc7251dd43a903f638"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-110-85",
+   "short": "110 ILCS 85",
+   "title": "Illinois Compiled Statutes, University - Building Authority Leased Lands Act (110 ILCS 85)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1071",
+   "versions": [
+    {
+     "from": "2026-03-07",
+     "units": 3,
+     "source_url": "https://web.archive.org/web/20260307094801/https://ilga.gov/Legislation/ILCS/Articles?ActID=1071&ChapterID=18&Chapter=HIGHER%20EDUCATION&MajorTopic=EDUCATION",
+     "sha256": "cd08ec79a6dfcfad3036af77eb44bd052bbe303218cf559e2b4fa319e8033f61"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-110-90",
+   "short": "110 ILCS 90",
+   "title": "Illinois Compiled Statutes, University Chancellors Act (110 ILCS 90)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1072",
+   "versions": [
+    {
+     "from": "2026-03-06",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20260306173350/https://ilga.gov/Legislation/ILCS/Articles?ActID=1072&ChapterID=18&Chapter=HIGHER%20EDUCATION&MajorTopic=EDUCATION",
+     "sha256": "5d2be200e3a4a634a2c9971d68d7605111cbdef4be998f3de0b97dcb20054135"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-110-95",
+   "short": "110 ILCS 95",
+   "title": "Illinois Compiled Statutes, University Employees Custodial Accounts Act (110 ILCS 95)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1073",
+   "versions": [
+    {
+     "from": "2026-06-30",
+     "units": 4,
+     "source_url": "https://web.archive.org/web/20260630172901/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1073&ChapterID=18",
+     "sha256": "19b63bf882654bf63092d5a0cf008bd53ece80f84e36c125e9a75b2d924f4880"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-110-105",
+   "short": "110 ILCS 105",
+   "title": "Illinois Compiled Statutes, University Military Inspection Act (110 ILCS 105)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1075",
+   "versions": [
+    {
+     "from": "2026-06-06",
+     "units": 4,
+     "source_url": "https://web.archive.org/web/20260606055712/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1075&ChapterID=18",
+     "sha256": "c874e91d07c8d9f1e385984cfb252d2098faf0ca4fc48a6f2eaacb4d94ee6936"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-110-110",
+   "short": "110 ILCS 110",
+   "title": "Illinois Compiled Statutes, University Religious Observances Act (110 ILCS 110)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1076",
+   "versions": [
+    {
+     "from": "2026-05-12",
+     "units": 3,
+     "source_url": "https://web.archive.org/web/20260512154339/https://ilga.gov/Legislation/ILCS/Articles?ActID=1076&ChapterID=18&Chapter=HIGHER%20EDUCATION&MajorTopic=EDUCATION",
+     "sha256": "cf7e0b661fb0a8636ab46252203c4c111d93b35a8a9587d4f6ac81286d0c7210"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-110-115",
+   "short": "110 ILCS 115",
+   "title": "Illinois Compiled Statutes, University Credit and Retail Sales Act (110 ILCS 115)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1077",
+   "versions": [
+    {
+     "from": "2026-03-08",
+     "units": 3,
+     "source_url": "https://web.archive.org/web/20260308175443/https://ilga.gov/Legislation/ILCS/Articles?ActID=1077&ChapterID=18&Chapter=HIGHER%20EDUCATION&MajorTopic=EDUCATION",
+     "sha256": "7fe23f329d3c988b7c2cba6b361c5295584491c1803b82a7823b794a2ef4fed4"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-110-118",
+   "short": "110 ILCS 118",
+   "title": "Illinois Compiled Statutes, Public University Uniform Admission Pilot Program Act (110 ILCS 118)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=4026",
+   "versions": [
+    {
+     "from": "2026-05-13",
+     "units": 13,
+     "source_url": "https://web.archive.org/web/20260513101739/https://ilga.gov/Legislation/ILCS/Articles?ActID=4026&ChapterID=18&Chapter=HIGHER%20EDUCATION&MajorTopic=EDUCATION",
+     "sha256": "83bf8f07bb1a29fdb0672019961737474976b1a5dc646a5b122a4a4cba014d71"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-110-120",
+   "short": "110 ILCS 120",
+   "title": "Illinois Compiled Statutes, Vacated Grounds for Universities Act (110 ILCS 120)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1078",
+   "versions": [
+    {
+     "from": "2026-04-16",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20260416072332/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1078&ChapterID=18",
+     "sha256": "de0f41cfb0c18e076b3f8d9e580c051acdf7261377aff1fa3bbcd20e7c6b5662"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-110-122",
+   "short": "110 ILCS 122",
+   "title": "Illinois Compiled Statutes, Volunteer Emergency Worker Higher Education Protection Act (110 ILCS 122)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2803",
+   "versions": [
+    {
+     "from": "2026-05-10",
+     "units": 6,
+     "source_url": "https://web.archive.org/web/20260510120727/https://ilga.gov/Legislation/ILCS/Articles?ActID=2803&ChapterID=18&Chapter=HIGHER%20EDUCATION&MajorTopic=EDUCATION",
+     "sha256": "1991c7cc853c3d599604d50ef356f8a548d19e516f6cf32d3cf02d5fb3f0a662"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-110-125",
+   "short": "110 ILCS 125",
+   "title": "Illinois Compiled Statutes, Youth Crime Prevention Consortium Act (110 ILCS 125)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1079",
+   "versions": [
+    {
+     "from": "2026-04-04",
+     "units": 3,
+     "source_url": "https://web.archive.org/web/20260404151815/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1079&ChapterID=18",
+     "sha256": "b8b4e5b75076db855f8d9fcf0b4ddb088914b7e58d9c0eb2c5611a14e73de02b"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-110-130",
+   "short": "110 ILCS 130",
+   "title": "Illinois Compiled Statutes, Greek Housing Fire Safety Act (110 ILCS 130)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3263",
+   "versions": [
+    {
+     "from": "2026-08-22",
+     "units": 8,
+     "source_url": "https://web.archive.org/web/20260822025829/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3263&ChapterID=18",
+     "sha256": "528f656ae720892b158269f835ed8cd89838231412494186b467414445c6af3e"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-110-131",
+   "short": "110 ILCS 131",
+   "title": "Illinois Compiled Statutes, Higher Education Housing and Opportunities Act (110 ILCS 131)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=4169",
+   "versions": [
+    {
+     "from": "2026-06-09",
+     "units": 4,
+     "source_url": "https://web.archive.org/web/20260609101612/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=4169&ChapterID=18",
+     "sha256": "cf78f7e95da9d7d29f62a1d4202582af3c343a9e4a1d1348c3c6f9f8edaa9ac7"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-110-135",
+   "short": "110 ILCS 135",
+   "title": "Illinois Compiled Statutes, Higher Education Technology Entrepreneur Center Act (110 ILCS 135)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3353",
+   "versions": [
+    {
+     "from": "2026-09-07",
+     "units": 3,
+     "source_url": "https://web.archive.org/web/20260907125300/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3353&ChapterID=18",
+     "sha256": "164d08be9e2b4bcb6a44a06a922e094da5052348d86f71f9fbd81e0343815c0d"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-110-140",
+   "short": "110 ILCS 140",
+   "title": "Illinois Compiled Statutes, Higher Education Green Jobs and Technology Act (110 ILCS 140)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3356",
+   "versions": [
+    {
+     "from": "2026-05-09",
+     "units": 4,
+     "source_url": "https://web.archive.org/web/20260509144646/https://ilga.gov/Legislation/ILCS/Articles?ActID=3356&ChapterID=18&Chapter=HIGHER%20EDUCATION&MajorTopic=EDUCATION",
+     "sha256": "8b9ddd12c9fedef99015cd7ace8cf26ade9a16f020fe1f1746db268b8bff616e"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-110-145",
+   "short": "110 ILCS 145",
+   "title": "Illinois Compiled Statutes, Higher Education Distance Learning Act (110 ILCS 145)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3566",
+   "versions": [
+    {
+     "from": "2026-05-16",
+     "units": 13,
+     "source_url": "https://web.archive.org/web/20260516120412/https://ilga.gov/Legislation/ILCS/Articles?ActID=3566&ChapterID=18&Chapter=HIGHER%20EDUCATION&MajorTopic=EDUCATION",
+     "sha256": "5c3af10386c13fb9deb2aabe2e800697cb99aadc7ef9694552b25a08667e9b29"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-110-148",
+   "short": "110 ILCS 148",
+   "title": "Illinois Compiled Statutes, Postsecondary and Workforce Readiness Act (110 ILCS 148)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3722",
+   "versions": [
+    {
+     "from": "2026-09-06",
+     "units": 23,
+     "source_url": "https://web.archive.org/web/20260906073608/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3722&ChapterID=18",
+     "sha256": "cf0da542cc3751750ed244bbc0f525552ee8da6449dea63912a607e9a213138d"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-110-149",
+   "short": "110 ILCS 149",
+   "title": "Illinois Compiled Statutes, Student Parent Data Collection Act (110 ILCS 149)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=4170",
+   "versions": [
+    {
+     "from": "2026-06-21",
+     "units": 7,
+     "source_url": "https://web.archive.org/web/20260621080322/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=4170&ChapterID=18",
+     "sha256": "ab32690c76c3dfe6ec8861dd912300b2e65ae9181f5497b8ca226e58d38b1a21"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-110-150",
+   "short": "110 ILCS 150",
+   "title": "Illinois Compiled Statutes, Student Transfer Achievement Reform Act (110 ILCS 150)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3655",
+   "versions": [
+    {
+     "from": "2026-03-08",
+     "units": 12,
+     "source_url": "https://web.archive.org/web/20260308113659/https://ilga.gov/Legislation/ILCS/Articles?ActID=3655&ChapterID=18&Chapter=HIGHER%20EDUCATION&MajorTopic=EDUCATION",
+     "sha256": "33b63d01bcf117f9c18d274c69679bcc9ef4afabebfc2cedeb2c6f68faf6f2e2"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-110-151",
+   "short": "110 ILCS 151",
+   "title": "Illinois Compiled Statutes, Career and Workforce Transition Act (110 ILCS 151)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3678",
+   "versions": [
+    {
+     "from": "2026-03-08",
+     "units": 6,
+     "source_url": "https://web.archive.org/web/20260308113750/https://ilga.gov/Legislation/ILCS/Articles?ActID=3678&ChapterID=18&Chapter=HIGHER%20EDUCATION&MajorTopic=EDUCATION",
+     "sha256": "b7fb06a0b6c9ce9484f10f57834cb62e5000fb9cff25ea2b09227406b98a26b5"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-110-155",
+   "short": "110 ILCS 155",
+   "title": "Illinois Compiled Statutes, Preventing Sexual Violence in Higher Education Act (110 ILCS 155)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3672",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 12,
+     "source_url": "https://web.archive.org/web/20261013072232/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3672&ChapterID=18",
+     "sha256": "4e0a94f5af46387401ec469dffddc2e0539c9bb0cdf65cd1104755366c91a7b4"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-110-160",
+   "short": "110 ILCS 160",
+   "title": "Illinois Compiled Statutes, Credit for Prior Learning Act (110 ILCS 160)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3803",
+   "versions": [
+    {
+     "from": "2026-05-21",
+     "units": 5,
+     "source_url": "https://web.archive.org/web/20260521075158/https://ilga.gov/Legislation/ILCS/Articles?ActID=3803&ChapterID=18&Chapter=HIGHER%20EDUCATION&MajorTopic=EDUCATION",
+     "sha256": "3cebc85abd42f3559e9e2a2438b19b4b9b94cbb3337fb6ff28cb401abc7b8506"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-110-165",
+   "short": "110 ILCS 165",
+   "title": "Illinois Compiled Statutes, Behavioral Health Workforce Education Center Task Force Act (110 ILCS 165)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3884",
+   "versions": [
+    {
+     "from": "2026-04-11",
+     "units": 3,
+     "source_url": "https://web.archive.org/web/20260411060952/https://ilga.gov/Legislation/ILCS/Articles?ActID=3884&ChapterID=18&Chapter=HIGHER%20EDUCATION&MajorTopic=EDUCATION",
+     "sha256": "3c70a67bd1073cd38c9a251cda4ca5959d3454682147fedbe962148afce266ec"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-110-167",
+   "short": "110 ILCS 167",
+   "title": "Illinois Compiled Statutes, Public Higher Education Act (110 ILCS 167)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=4446",
+   "versions": [
+    {
+     "from": "2026-05-16",
+     "units": 11,
+     "source_url": "https://web.archive.org/web/20260516074737/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=4446&ChapterID=18&Chapter=HIGHER%20EDUCATION&MajorTopic=EDUCATION",
+     "sha256": "9ebc68011dca484c697a5393b4d277f1b57beb781346e247342d348cbe3e4968"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-110-175-article-0100",
+   "short": "110 ILCS 175 art. 100",
+   "title": "Illinois Compiled Statutes, Developmental Education Reform Act (110 ILCS 175), Article 100",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=4082",
+   "versions": [
+    {
+     "from": "2026-04-11",
+     "units": 8,
+     "source_url": "https://web.archive.org/web/20260411025901/https://ilga.gov/legislation/ILCS/details?MajorTopic=EDUCATION&Chapter=HIGHER%20EDUCATION&ActName=Developmental%20Education%20Reform%20Act.&ActID=4082&ChapterID=18&SeqStart=&&ChapAct=FullText",
+     "sha256": "e5356f1eb846ed4cb2a81ae5812779085ec914e8536535d5309164afcb8d7321"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-110-175-article-0999",
+   "short": "110 ILCS 175 art. 999",
+   "title": "Illinois Compiled Statutes, Developmental Education Reform Act (110 ILCS 175), Article 999",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=4082",
+   "versions": [
+    {
+     "from": "2026-04-11",
+     "units": 1,
+     "source_url": "https://web.archive.org/web/20260411025901/https://ilga.gov/legislation/ILCS/details?MajorTopic=EDUCATION&Chapter=HIGHER%20EDUCATION&ActName=Developmental%20Education%20Reform%20Act.&ActID=4082&ChapterID=18&SeqStart=&&ChapAct=FullText",
+     "sha256": "e5356f1eb846ed4cb2a81ae5812779085ec914e8536535d5309164afcb8d7321"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-110-190",
+   "short": "110 ILCS 190",
+   "title": "Illinois Compiled Statutes, Student-Athlete Endorsement Rights Act (110 ILCS 190)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=4166",
+   "versions": [
+    {
+     "from": "2026-05-25",
+     "units": 12,
+     "source_url": "https://web.archive.org/web/20260525190539/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=4166&ChapterID=18",
+     "sha256": "733e688c84b678071990dd5a502f56c7132b5d61da5adee8199deddfe66b0c45"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-110-195",
+   "short": "110 ILCS 195",
+   "title": "Illinois Compiled Statutes, Removing Barriers to Higher Education Success Act (110 ILCS 195)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=4408",
+   "versions": [
+    {
+     "from": "2026-03-06",
+     "units": 5,
+     "source_url": "https://web.archive.org/web/20260306142822/https://ilga.gov/Legislation/ILCS/Articles?ActID=4408&ChapterID=18&Chapter=HIGHER%20EDUCATION&MajorTopic=EDUCATION",
+     "sha256": "bab81ee58b1370105e053fcebf2f45760b7b82df0fe9bd03ef0dec1bc809b56c"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-110-196",
+   "short": "110 ILCS 196",
+   "title": "Illinois Compiled Statutes, Historical Cost of Attendance Disclosure Act (110 ILCS 196)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=4630",
+   "versions": [
+    {
+     "from": "2026-05-21",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20260521121250/https://ilga.gov/Legislation/ILCS/Articles?ActID=4630&ChapterID=18&Chapter=HIGHER%20EDUCATION&MajorTopic=EDUCATION",
+     "sha256": "8ca5f597ae5c6a539fb05ed6407b3c95c7a726bbd4559b16b2a89ca1c33b6ca2"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-110-205",
+   "short": "110 ILCS 205",
+   "title": "Illinois Compiled Statutes, Board of Higher Education Act (110 ILCS 205)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1080",
+   "versions": [
+    {
+     "from": "2026-03-10",
+     "units": 65,
+     "source_url": "https://web.archive.org/web/20260310155209/https://ilga.gov/Legislation/ILCS/Articles?ActID=1080&ChapterID=18&Chapter=HIGHER%20EDUCATION&MajorTopic=EDUCATION",
+     "sha256": "24592671895fea0091684e43a0c86871eeb2d81648afa7a55003f29825737f5c"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-110-210",
+   "short": "110 ILCS 210",
+   "title": "Illinois Compiled Statutes, Illinois Financial Assistance Act for Nonpublic Institutions of Higher Learning (110 ILCS 210)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1081",
+   "versions": [
+    {
+     "from": "2026-08-01",
+     "units": 8,
+     "source_url": "https://web.archive.org/web/20260801131236/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1081&ChapterID=18",
+     "sha256": "ddf86c5586b590430d872b2718dc487e4f4be4a30dcba3803e39068cb5ff10fd"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-110-220",
+   "short": "110 ILCS 220",
+   "title": "Illinois Compiled Statutes, Higher Education Cooperation Act (110 ILCS 220)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1083",
+   "versions": [
+    {
+     "from": "2026-03-13",
+     "units": 6,
+     "source_url": "https://web.archive.org/web/20260313145104/https://ilga.gov/Legislation/ILCS/Articles?ActID=1083&ChapterID=18&Chapter=HIGHER%20EDUCATION&MajorTopic=EDUCATION",
+     "sha256": "776dbaca1acdbdc923cda74beb0ea7974ec91d831714dda28217f5b823a93878"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-110-225",
+   "short": "110 ILCS 225",
+   "title": "Illinois Compiled Statutes, Illinois Cooperative Work Study Program Act (110 ILCS 225)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1084",
+   "versions": [
+    {
+     "from": "2026-05-20",
+     "units": 4,
+     "source_url": "https://web.archive.org/web/20260520072853/https://ilga.gov/Legislation/ILCS/Articles?ActID=1084&ChapterID=18&Chapter=HIGHER%20EDUCATION&MajorTopic=EDUCATION",
+     "sha256": "894da4fac2ef536f014a40bf933f4c160c9d96746495f8dc89dec036ac7bdac0"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-110-230",
+   "short": "110 ILCS 230",
+   "title": "Illinois Compiled Statutes, Manpower Planning and Analysis Act (110 ILCS 230)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1085",
+   "versions": [
+    {
+     "from": "2026-03-09",
+     "units": 3,
+     "source_url": "https://web.archive.org/web/20260309142003/https://ilga.gov/Legislation/ILCS/Articles?ActID=1085&ChapterID=18&Chapter=HIGHER%20EDUCATION&MajorTopic=EDUCATION",
+     "sha256": "591707c52594b2731e3a514c66f48660be6d38ae81ea6e0fe77241029754c960"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-110-310",
+   "short": "110 ILCS 310",
+   "title": "Illinois Compiled Statutes, University of Illinois Trustees Act (110 ILCS 310)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1087",
+   "versions": [
+    {
+     "from": "2026-06-04",
+     "units": 9,
+     "source_url": "https://web.archive.org/web/20260604223035/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1087&ChapterID=18",
+     "sha256": "ec65e60dd86ad044a1a7880c92847d56447bdca2b36581cb656e854665e5ebe7"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-110-315",
+   "short": "110 ILCS 315",
+   "title": "Illinois Compiled Statutes, University of Illinois Name Change Act (110 ILCS 315)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1088",
+   "versions": [
+    {
+     "from": "2026-05-08",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20260508121028/https://ilga.gov/Legislation/ILCS/Articles?ActID=1088&ChapterID=18&Chapter=HIGHER%20EDUCATION&MajorTopic=EDUCATION",
+     "sha256": "1080f699c6e585a15cb0c512907caf6b398b40f01bd4dadbd87f08c4f3927422"
+    }
+   ]
   }
  ]
 }

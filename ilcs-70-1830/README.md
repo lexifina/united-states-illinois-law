@@ -1,0 +1,60 @@
+# Illinois Compiled Statutes, Kaskaskia Regional Port District Act (70 ILCS 1830)
+
+70 ILCS 1830 · 1 versions, from 2026-03-08 (latest in force: 2026-03-08) · <https://www.ilga.gov/Legislation/ILCS/Articles?ActID=944>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| 70 ILCS 1830/1 | [sec-0001.md](sec-0001.md) | 0 |  |
+| 70 ILCS 1830/1.1 | [sec-0001-0001.md](sec-0001-0001.md) | 0 |  |
+| 70 ILCS 1830/2 | [sec-0002.md](sec-0002.md) | 0 |  |
+| 70 ILCS 1830/3 | [sec-0003.md](sec-0003.md) | 0 |  |
+| 70 ILCS 1830/4 | [sec-0004.md](sec-0004.md) | 0 |  |
+| 70 ILCS 1830/5 | [sec-0005.md](sec-0005.md) | 0 |  |
+| 70 ILCS 1830/6 | [sec-0006.md](sec-0006.md) | 0 |  |
+| 70 ILCS 1830/7.1 | [sec-0007-0001.md](sec-0007-0001.md) | 0 |  |
+| 70 ILCS 1830/7.2 | [sec-0007-0002.md](sec-0007-0002.md) | 0 |  |
+| 70 ILCS 1830/7.3 | [sec-0007-0003.md](sec-0007-0003.md) | 0 |  |
+| 70 ILCS 1830/8.1 | [sec-0008-0001.md](sec-0008-0001.md) | 0 |  |
+| 70 ILCS 1830/9 | [sec-0009.md](sec-0009.md) | 0 |  |
+| 70 ILCS 1830/10 | [sec-0010.md](sec-0010.md) | 0 |  |
+| 70 ILCS 1830/11 | [sec-0011.md](sec-0011.md) | 0 |  |
+| 70 ILCS 1830/13 | [sec-0013.md](sec-0013.md) | 0 |  |
+| 70 ILCS 1830/14 | [sec-0014.md](sec-0014.md) | 0 |  |
+| 70 ILCS 1830/14.5 | [sec-0014-0005.md](sec-0014-0005.md) | 0 |  |
+| 70 ILCS 1830/15 | [sec-0015.md](sec-0015.md) | 0 |  |
+| 70 ILCS 1830/16 | [sec-0016.md](sec-0016.md) | 0 |  |
+| 70 ILCS 1830/17 | [sec-0017.md](sec-0017.md) | 0 |  |
+| 70 ILCS 1830/18 | [sec-0018.md](sec-0018.md) | 0 |  |
+| 70 ILCS 1830/19 | [sec-0019.md](sec-0019.md) | 0 |  |
+| 70 ILCS 1830/20.1 | [sec-0020-0001.md](sec-0020-0001.md) | 0 |  |
+| 70 ILCS 1830/20.2 | [sec-0020-0002.md](sec-0020-0002.md) | 0 |  |
+| 70 ILCS 1830/21.1 | [sec-0021-0001.md](sec-0021-0001.md) | 0 |  |
+| 70 ILCS 1830/22.1 | [sec-0022-0001.md](sec-0022-0001.md) | 0 |  |
+| 70 ILCS 1830/23.1 | [sec-0023-0001.md](sec-0023-0001.md) | 0 |  |
+| 70 ILCS 1830/24.1 | [sec-0024-0001.md](sec-0024-0001.md) | 0 |  |
+| 70 ILCS 1830/25.1 | [sec-0025-0001.md](sec-0025-0001.md) | 0 |  |
+| 70 ILCS 1830/26.1 | [sec-0026-0001.md](sec-0026-0001.md) | 0 |  |
+| 70 ILCS 1830/27.1 | [sec-0027-0001.md](sec-0027-0001.md) | 0 |  |
+| 70 ILCS 1830/28.1 | [sec-0028-0001.md](sec-0028-0001.md) | 0 |  |
+| 70 ILCS 1830/30 | [sec-0030.md](sec-0030.md) | 0 |  |
+| 70 ILCS 1830/31 | [sec-0031.md](sec-0031.md) | 0 |  |
+| 70 ILCS 1830/32 | [sec-0032.md](sec-0032.md) | 0 |  |
+| 70 ILCS 1830/33 | [sec-0033.md](sec-0033.md) | 0 |  |
+| 70 ILCS 1830/34 | [sec-0034.md](sec-0034.md) | 0 |  |
+| 70 ILCS 1830/35 | [sec-0035.md](sec-0035.md) | 0 |  |
+| 70 ILCS 1830/36 | [sec-0036.md](sec-0036.md) | 0 |  |
+| 70 ILCS 1830/37 | [sec-0037.md](sec-0037.md) | 0 |  |
+| 70 ILCS 1830/38 | [sec-0038.md](sec-0038.md) | 0 |  |
+| 70 ILCS 1830/39 | [sec-0039.md](sec-0039.md) | 0 |  |
+| 70 ILCS 1830/40 | [sec-0040.md](sec-0040.md) | 0 |  |
+| 70 ILCS 1830/41 | [sec-0041.md](sec-0041.md) | 0 |  |
+| 70 ILCS 1830/42 | [sec-0042.md](sec-0042.md) | 0 |  |
+| 70 ILCS 1830/43 | [sec-0043.md](sec-0043.md) | 0 |  |
+| 70 ILCS 1830/44 | [sec-0044.md](sec-0044.md) | 0 |  |
+| 70 ILCS 1830/45 | [sec-0045.md](sec-0045.md) | 0 |  |
+| 70 ILCS 1830/46 | [sec-0046.md](sec-0046.md) | 0 |  |
+| 70 ILCS 1830/47 | [sec-0047.md](sec-0047.md) | 0 |  |
+| 70 ILCS 1830/48 | [sec-0048.md](sec-0048.md) | 0 |  |
+| 70 ILCS 1830/49 | [sec-0049.md](sec-0049.md) | 0 |  |
+| 70 ILCS 1830/50 | [sec-0050.md](sec-0050.md) | 0 |  |
+| 70 ILCS 1830/51 | [sec-0051.md](sec-0051.md) | 0 |  |

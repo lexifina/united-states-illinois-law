@@ -1,0 +1,67 @@
+# Illinois Compiled Statutes, Shawneetown Regional Port District Act (70 ILCS 1850)
+
+70 ILCS 1850 · 1 versions, from 2026-05-27 (latest in force: 2026-05-27) · <https://www.ilga.gov/Legislation/ILCS/Articles?ActID=949>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| 70 ILCS 1850/1 | [sec-0001.md](sec-0001.md) | 0 |  |
+| 70 ILCS 1850/2 | [sec-0002.md](sec-0002.md) | 0 |  |
+| 70 ILCS 1850/2.1 | [sec-0002-0001.md](sec-0002-0001.md) | 0 |  |
+| 70 ILCS 1850/2.2 | [sec-0002-0002.md](sec-0002-0002.md) | 0 |  |
+| 70 ILCS 1850/2.3 | [sec-0002-0003.md](sec-0002-0003.md) | 0 |  |
+| 70 ILCS 1850/2.4 | [sec-0002-0004.md](sec-0002-0004.md) | 0 |  |
+| 70 ILCS 1850/2.5 | [sec-0002-0005.md](sec-0002-0005.md) | 0 |  |
+| 70 ILCS 1850/2.6 | [sec-0002-0006.md](sec-0002-0006.md) | 0 |  |
+| 70 ILCS 1850/2.7 | [sec-0002-0007.md](sec-0002-0007.md) | 0 |  |
+| 70 ILCS 1850/2.8 | [sec-0002-0008.md](sec-0002-0008.md) | 0 |  |
+| 70 ILCS 1850/2.9 | [sec-0002-0009.md](sec-0002-0009.md) | 0 |  |
+| 70 ILCS 1850/2.10 | [sec-0002-0010.md](sec-0002-0010.md) | 0 |  |
+| 70 ILCS 1850/2.11 | [sec-0002-0011.md](sec-0002-0011.md) | 0 |  |
+| 70 ILCS 1850/2.12 | [sec-0002-0012.md](sec-0002-0012.md) | 0 |  |
+| 70 ILCS 1850/2.13 | [sec-0002-0013.md](sec-0002-0013.md) | 0 |  |
+| 70 ILCS 1850/2.14 | [sec-0002-0014.md](sec-0002-0014.md) | 0 |  |
+| 70 ILCS 1850/2.15 | [sec-0002-0015.md](sec-0002-0015.md) | 0 |  |
+| 70 ILCS 1850/2.16 | [sec-0002-0016.md](sec-0002-0016.md) | 0 |  |
+| 70 ILCS 1850/2.17 | [sec-0002-0017.md](sec-0002-0017.md) | 0 |  |
+| 70 ILCS 1850/2.18 | [sec-0002-0018.md](sec-0002-0018.md) | 0 |  |
+| 70 ILCS 1850/2.19 | [sec-0002-0019.md](sec-0002-0019.md) | 0 |  |
+| 70 ILCS 1850/2.20 | [sec-0002-0020.md](sec-0002-0020.md) | 0 |  |
+| 70 ILCS 1850/2.21 | [sec-0002-0021.md](sec-0002-0021.md) | 0 |  |
+| 70 ILCS 1850/3 | [sec-0003.md](sec-0003.md) | 0 |  |
+| 70 ILCS 1850/4 | [sec-0004.md](sec-0004.md) | 0 |  |
+| 70 ILCS 1850/4.1 | [sec-0004-0001.md](sec-0004-0001.md) | 0 |  |
+| 70 ILCS 1850/4.2 | [sec-0004-0002.md](sec-0004-0002.md) | 0 |  |
+| 70 ILCS 1850/5 | [sec-0005.md](sec-0005.md) | 0 |  |
+| 70 ILCS 1850/5.1 | [sec-0005-0001.md](sec-0005-0001.md) | 0 |  |
+| 70 ILCS 1850/5.05 | [sec-0005-0005.md](sec-0005-0005.md) | 0 |  |
+| 70 ILCS 1850/6 | [sec-0006.md](sec-0006.md) | 0 |  |
+| 70 ILCS 1850/7 | [sec-0007.md](sec-0007.md) | 0 |  |
+| 70 ILCS 1850/7.1 | [sec-0007-0001.md](sec-0007-0001.md) | 0 |  |
+| 70 ILCS 1850/8 | [sec-0008.md](sec-0008.md) | 0 |  |
+| 70 ILCS 1850/9 | [sec-0009.md](sec-0009.md) | 0 |  |
+| 70 ILCS 1850/10 | [sec-0010.md](sec-0010.md) | 0 |  |
+| 70 ILCS 1850/11 | [sec-0011.md](sec-0011.md) | 0 |  |
+| 70 ILCS 1850/12 | [sec-0012.md](sec-0012.md) | 0 |  |
+| 70 ILCS 1850/13 | [sec-0013.md](sec-0013.md) | 0 |  |
+| 70 ILCS 1850/14 | [sec-0014.md](sec-0014.md) | 0 |  |
+| 70 ILCS 1850/15 | [sec-0015.md](sec-0015.md) | 0 |  |
+| 70 ILCS 1850/16 | [sec-0016.md](sec-0016.md) | 0 |  |
+| 70 ILCS 1850/17 | [sec-0017.md](sec-0017.md) | 0 |  |
+| 70 ILCS 1850/18 | [sec-0018.md](sec-0018.md) | 0 |  |
+| 70 ILCS 1850/19 | [sec-0019.md](sec-0019.md) | 0 |  |
+| 70 ILCS 1850/20 | [sec-0020.md](sec-0020.md) | 0 |  |
+| 70 ILCS 1850/21 | [sec-0021.md](sec-0021.md) | 0 |  |
+| 70 ILCS 1850/22 | [sec-0022.md](sec-0022.md) | 0 |  |
+| 70 ILCS 1850/23 | [sec-0023.md](sec-0023.md) | 0 |  |
+| 70 ILCS 1850/24 | [sec-0024.md](sec-0024.md) | 0 |  |
+| 70 ILCS 1850/25 | [sec-0025.md](sec-0025.md) | 0 |  |
+| 70 ILCS 1850/27 | [sec-0027.md](sec-0027.md) | 0 |  |
+| 70 ILCS 1850/28 | [sec-0028.md](sec-0028.md) | 0 |  |
+| 70 ILCS 1850/29 | [sec-0029.md](sec-0029.md) | 0 |  |
+| 70 ILCS 1850/30 | [sec-0030.md](sec-0030.md) | 0 |  |
+| 70 ILCS 1850/31 | [sec-0031.md](sec-0031.md) | 0 |  |
+| 70 ILCS 1850/32 | [sec-0032.md](sec-0032.md) | 0 |  |
+| 70 ILCS 1850/33 | [sec-0033.md](sec-0033.md) | 0 |  |
+| 70 ILCS 1850/34 | [sec-0034.md](sec-0034.md) | 0 |  |
+| 70 ILCS 1850/35 | [sec-0035.md](sec-0035.md) | 0 |  |
+| 70 ILCS 1850/36 | [sec-0036.md](sec-0036.md) | 0 |  |

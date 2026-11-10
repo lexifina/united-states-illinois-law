@@ -1,0 +1,65 @@
+# Illinois Compiled Statutes, Jackson-Union Counties Regional Port District Act (70 ILCS 1820)
+
+70 ILCS 1820 · 1 versions, from 2026-04-12 (latest in force: 2026-04-12) · <https://www.ilga.gov/Legislation/ILCS/Articles?ActID=942>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| 70 ILCS 1820/1 | [sec-0001.md](sec-0001.md) | 0 |  |
+| 70 ILCS 1820/2 | [sec-0002.md](sec-0002.md) | 0 |  |
+| 70 ILCS 1820/2.1 | [sec-0002-0001.md](sec-0002-0001.md) | 0 |  |
+| 70 ILCS 1820/2.2 | [sec-0002-0002.md](sec-0002-0002.md) | 0 |  |
+| 70 ILCS 1820/2.3 | [sec-0002-0003.md](sec-0002-0003.md) | 0 |  |
+| 70 ILCS 1820/2.4 | [sec-0002-0004.md](sec-0002-0004.md) | 0 |  |
+| 70 ILCS 1820/2.5 | [sec-0002-0005.md](sec-0002-0005.md) | 0 |  |
+| 70 ILCS 1820/2.6 | [sec-0002-0006.md](sec-0002-0006.md) | 0 |  |
+| 70 ILCS 1820/2.7 | [sec-0002-0007.md](sec-0002-0007.md) | 0 |  |
+| 70 ILCS 1820/2.8 | [sec-0002-0008.md](sec-0002-0008.md) | 0 |  |
+| 70 ILCS 1820/2.9 | [sec-0002-0009.md](sec-0002-0009.md) | 0 |  |
+| 70 ILCS 1820/2.10 | [sec-0002-0010.md](sec-0002-0010.md) | 0 |  |
+| 70 ILCS 1820/2.11 | [sec-0002-0011.md](sec-0002-0011.md) | 0 |  |
+| 70 ILCS 1820/2.12 | [sec-0002-0012.md](sec-0002-0012.md) | 0 |  |
+| 70 ILCS 1820/2.13 | [sec-0002-0013.md](sec-0002-0013.md) | 0 |  |
+| 70 ILCS 1820/2.14 | [sec-0002-0014.md](sec-0002-0014.md) | 0 |  |
+| 70 ILCS 1820/2.15 | [sec-0002-0015.md](sec-0002-0015.md) | 0 |  |
+| 70 ILCS 1820/2.16 | [sec-0002-0016.md](sec-0002-0016.md) | 0 |  |
+| 70 ILCS 1820/2.17 | [sec-0002-0017.md](sec-0002-0017.md) | 0 |  |
+| 70 ILCS 1820/2.18 | [sec-0002-0018.md](sec-0002-0018.md) | 0 |  |
+| 70 ILCS 1820/2.19 | [sec-0002-0019.md](sec-0002-0019.md) | 0 |  |
+| 70 ILCS 1820/2.20 | [sec-0002-0020.md](sec-0002-0020.md) | 0 |  |
+| 70 ILCS 1820/2.21 | [sec-0002-0021.md](sec-0002-0021.md) | 0 |  |
+| 70 ILCS 1820/3 | [sec-0003.md](sec-0003.md) | 0 |  |
+| 70 ILCS 1820/4 | [sec-0004.md](sec-0004.md) | 0 |  |
+| 70 ILCS 1820/4.1 | [sec-0004-0001.md](sec-0004-0001.md) | 0 |  |
+| 70 ILCS 1820/5 | [sec-0005.md](sec-0005.md) | 0 |  |
+| 70 ILCS 1820/5.1 | [sec-0005-0001.md](sec-0005-0001.md) | 0 |  |
+| 70 ILCS 1820/5.05 | [sec-0005-0005.md](sec-0005-0005.md) | 0 |  |
+| 70 ILCS 1820/6 | [sec-0006.md](sec-0006.md) | 0 |  |
+| 70 ILCS 1820/7 | [sec-0007.md](sec-0007.md) | 0 |  |
+| 70 ILCS 1820/8 | [sec-0008.md](sec-0008.md) | 0 |  |
+| 70 ILCS 1820/9 | [sec-0009.md](sec-0009.md) | 0 |  |
+| 70 ILCS 1820/10 | [sec-0010.md](sec-0010.md) | 0 |  |
+| 70 ILCS 1820/11 | [sec-0011.md](sec-0011.md) | 0 |  |
+| 70 ILCS 1820/12 | [sec-0012.md](sec-0012.md) | 0 |  |
+| 70 ILCS 1820/13 | [sec-0013.md](sec-0013.md) | 0 |  |
+| 70 ILCS 1820/14 | [sec-0014.md](sec-0014.md) | 0 |  |
+| 70 ILCS 1820/15 | [sec-0015.md](sec-0015.md) | 0 |  |
+| 70 ILCS 1820/16 | [sec-0016.md](sec-0016.md) | 0 |  |
+| 70 ILCS 1820/17 | [sec-0017.md](sec-0017.md) | 0 |  |
+| 70 ILCS 1820/18 | [sec-0018.md](sec-0018.md) | 0 |  |
+| 70 ILCS 1820/19 | [sec-0019.md](sec-0019.md) | 0 |  |
+| 70 ILCS 1820/20 | [sec-0020.md](sec-0020.md) | 0 |  |
+| 70 ILCS 1820/21 | [sec-0021.md](sec-0021.md) | 0 |  |
+| 70 ILCS 1820/22 | [sec-0022.md](sec-0022.md) | 0 |  |
+| 70 ILCS 1820/23 | [sec-0023.md](sec-0023.md) | 0 |  |
+| 70 ILCS 1820/24 | [sec-0024.md](sec-0024.md) | 0 |  |
+| 70 ILCS 1820/25 | [sec-0025.md](sec-0025.md) | 0 |  |
+| 70 ILCS 1820/26 | [sec-0026.md](sec-0026.md) | 0 |  |
+| 70 ILCS 1820/27 | [sec-0027.md](sec-0027.md) | 0 |  |
+| 70 ILCS 1820/28 | [sec-0028.md](sec-0028.md) | 0 |  |
+| 70 ILCS 1820/29 | [sec-0029.md](sec-0029.md) | 0 |  |
+| 70 ILCS 1820/30 | [sec-0030.md](sec-0030.md) | 0 |  |
+| 70 ILCS 1820/31 | [sec-0031.md](sec-0031.md) | 0 |  |
+| 70 ILCS 1820/32 | [sec-0032.md](sec-0032.md) | 0 |  |
+| 70 ILCS 1820/33 | [sec-0033.md](sec-0033.md) | 0 |  |
+| 70 ILCS 1820/34 | [sec-0034.md](sec-0034.md) | 0 |  |
+| 70 ILCS 1820/35 | [sec-0035.md](sec-0035.md) | 0 |  |

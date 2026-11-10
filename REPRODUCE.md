@@ -876,12 +876,294 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `ilcs-70-810` | Illinois Compiled Statutes, Cook County Forest Preserve District Act (70 ILCS 810) | 1 | 2026-05-13 to 2026-05-13 |
 | `ilcs-70-815` | Illinois Compiled Statutes, Forest Preserve District Defective Bond Repayment Act (70 ILCS 815) | 1 | 2026-04-21 to 2026-04-21 |
 | `ilcs-70-820` | Illinois Compiled Statutes, Forest Preserve District Refunding Bond Act (70 ILCS 820) | 1 | 2026-04-19 to 2026-04-19 |
+| `ilcs-70-825` | Illinois Compiled Statutes, Forest Preserve District Corporate Powers Affirmation Act (70 ILCS 825) | 1 | 2026-03-12 to 2026-03-12 |
+| `ilcs-70-830` | Illinois Compiled Statutes, Forest Preserve Botanic Gardens Act (70 ILCS 830) | 1 | 2026-04-12 to 2026-04-12 |
+| `ilcs-70-835` | Illinois Compiled Statutes, Forest Preserve Zoological Parks Act (70 ILCS 835) | 1 | 2026-04-10 to 2026-04-10 |
+| `ilcs-70-840` | Illinois Compiled Statutes, Forest Preserve District Tax Levy Validation (1963) Act (70 ILCS 840) | 1 | 2026-03-08 to 2026-03-08 |
+| `ilcs-70-845` | Illinois Compiled Statutes, Forest Preserve District Tax Levy Validation (1967) Act (70 ILCS 845) | 1 | 2026-04-15 to 2026-04-15 |
+| `ilcs-70-850` | Illinois Compiled Statutes, Forest Preserve District Tax Levy Validation (1986) Act (70 ILCS 850) | 1 | 2026-04-12 to 2026-04-12 |
+| `ilcs-70-855` | Illinois Compiled Statutes, DuPage County Forest Preserve District Tax Levy Validation (1988) Act (70 ILCS 855) | 1 | 2026-03-16 to 2026-03-16 |
+| `ilcs-70-860` | Illinois Compiled Statutes, Forest Preserve District and Conservation District Design-Build Authorization Act (70 ILCS 860) | 1 | 2026-04-22 to 2026-04-22 |
+| `ilcs-70-905` | Illinois Compiled Statutes, Public Health District Act (70 ILCS 905) | 1 | 2026-05-14 to 2026-05-14 |
+| `ilcs-70-910` | Illinois Compiled Statutes, Hospital District Law (70 ILCS 910) | 1 | 2026-03-14 to 2026-03-14 |
+| `ilcs-70-915` | Illinois Compiled Statutes, Illinois Medical District Act (70 ILCS 915) | 1 | 2026-08-21 to 2026-08-21 |
+| `ilcs-70-920` | Illinois Compiled Statutes, Tuberculosis Sanitarium District Act (70 ILCS 920) | 1 | 2026-08-17 to 2026-08-17 |
+| `ilcs-70-925` | Illinois Compiled Statutes, Mid-Illinois Medical District Act (70 ILCS 925) | 1 | 2026-04-16 to 2026-04-16 |
+| `ilcs-70-930` | Illinois Compiled Statutes, Mid-America Medical District Act (70 ILCS 930) | 1 | 2026-03-08 to 2026-03-08 |
+| `ilcs-70-935` | Illinois Compiled Statutes, Roseland Community Medical District Act (70 ILCS 935) | 1 | 2026-07-05 to 2026-07-05 |
+| `ilcs-70-1005` | Illinois Compiled Statutes, Mosquito Abatement District Act (70 ILCS 1005) | 1 | 2026-02-17 to 2026-02-17 |
+| `ilcs-70-1105` | Illinois Compiled Statutes, Museum District Act (70 ILCS 1105) | 1 | 2026-04-12 to 2026-04-12 |
+| `ilcs-70-1205-article-0001` | Illinois Compiled Statutes, Park District Code (70 ILCS 1205), Article 1 | 1 | 2026-04-12 to 2026-04-12 |
+| `ilcs-70-1205-article-0002` | Illinois Compiled Statutes, Park District Code (70 ILCS 1205), Article 2 | 1 | 2026-04-12 to 2026-04-12 |
+| `ilcs-70-1205-article-0003` | Illinois Compiled Statutes, Park District Code (70 ILCS 1205), Article 3 | 1 | 2026-04-12 to 2026-04-12 |
+| `ilcs-70-1205-article-0004` | Illinois Compiled Statutes, Park District Code (70 ILCS 1205), Article 4 | 1 | 2026-04-12 to 2026-04-12 |
+| `ilcs-70-1205-article-0005` | Illinois Compiled Statutes, Park District Code (70 ILCS 1205), Article 5 | 1 | 2026-04-12 to 2026-04-12 |
+| `ilcs-70-1205-article-0006` | Illinois Compiled Statutes, Park District Code (70 ILCS 1205), Article 6 | 1 | 2026-04-12 to 2026-04-12 |
+| `ilcs-70-1205-article-0007` | Illinois Compiled Statutes, Park District Code (70 ILCS 1205), Article 7 | 1 | 2026-04-12 to 2026-04-12 |
+| `ilcs-70-1205-article-0008` | Illinois Compiled Statutes, Park District Code (70 ILCS 1205), Article 8 | 1 | 2026-04-12 to 2026-04-12 |
+| `ilcs-70-1205-article-0009` | Illinois Compiled Statutes, Park District Code (70 ILCS 1205), Article 9 | 1 | 2026-04-12 to 2026-04-12 |
+| `ilcs-70-1205-article-0009-0001` | Illinois Compiled Statutes, Park District Code (70 ILCS 1205), Article 9.1 | 1 | 2026-04-12 to 2026-04-12 |
+| `ilcs-70-1205-article-0009-0002` | Illinois Compiled Statutes, Park District Code (70 ILCS 1205), Article 9.2 | 1 | 2026-04-12 to 2026-04-12 |
+| `ilcs-70-1205-article-0009-0003` | Illinois Compiled Statutes, Park District Code (70 ILCS 1205), Article 9.3 | 1 | 2026-04-12 to 2026-04-12 |
+| `ilcs-70-1205-article-0010` | Illinois Compiled Statutes, Park District Code (70 ILCS 1205), Article 10 | 1 | 2026-04-12 to 2026-04-12 |
+| `ilcs-70-1205-article-0011` | Illinois Compiled Statutes, Park District Code (70 ILCS 1205), Article 11 | 1 | 2026-04-12 to 2026-04-12 |
+| `ilcs-70-1205-article-0011-0001` | Illinois Compiled Statutes, Park District Code (70 ILCS 1205), Article 11.1 | 1 | 2026-04-12 to 2026-04-12 |
+| `ilcs-70-1205-article-0011-0002` | Illinois Compiled Statutes, Park District Code (70 ILCS 1205), Article 11.2 | 1 | 2026-04-12 to 2026-04-12 |
+| `ilcs-70-1205-article-0012` | Illinois Compiled Statutes, Park District Code (70 ILCS 1205), Article 12 | 1 | 2026-04-12 to 2026-04-12 |
+| `ilcs-70-1205-article-0013` | Illinois Compiled Statutes, Park District Code (70 ILCS 1205), Article 13 | 1 | 2026-04-12 to 2026-04-12 |
+| `ilcs-70-1210` | Illinois Compiled Statutes, Park System Civil Service Act (70 ILCS 1210) | 1 | 2026-03-13 to 2026-03-13 |
+| `ilcs-70-1215` | Illinois Compiled Statutes, Park Annuity and Benefit Fund Civil Service Act (70 ILCS 1215) | 1 | 2026-04-22 to 2026-04-22 |
+| `ilcs-70-1220` | Illinois Compiled Statutes, Park Commissioners Control of Municipal Parks Act (70 ILCS 1220) | 1 | 2026-04-15 to 2026-04-15 |
+| `ilcs-70-1225` | Illinois Compiled Statutes, Park Commissioners Land Condemnation Act (70 ILCS 1225) | 1 | 2026-04-14 to 2026-04-14 |
+| `ilcs-70-1230` | Illinois Compiled Statutes, Park Commissioners Water Control Act (70 ILCS 1230) | 1 | 2026-04-23 to 2026-04-23 |
+| `ilcs-70-1235` | Illinois Compiled Statutes, Park Commissioners Land Sale Act (70 ILCS 1235) | 1 | 2026-05-10 to 2026-05-10 |
+| `ilcs-70-1240` | Illinois Compiled Statutes, Park Commissioners Land Conveyance Act (70 ILCS 1240) | 1 | 2026-04-11 to 2026-04-11 |
+| `ilcs-70-1245` | Illinois Compiled Statutes, Park Commissioners Street Control (1879) Act (70 ILCS 1245) | 1 | 2026-05-26 to 2026-05-26 |
+| `ilcs-70-1250` | Illinois Compiled Statutes, Park Commissioners Street Control (1889) Act (70 ILCS 1250) | 1 | 2026-04-13 to 2026-04-13 |
+| `ilcs-70-1255` | Illinois Compiled Statutes, Park Commissioners Street Control (1895) Act (70 ILCS 1255) | 1 | 2026-06-06 to 2026-06-06 |
+| `ilcs-70-1260` | Illinois Compiled Statutes, Park Commissioners Street Control (1907) Act (70 ILCS 1260) | 1 | 2026-04-17 to 2026-04-17 |
+| `ilcs-70-1265` | Illinois Compiled Statutes, Park Commissioners Street Control (1917) Act (70 ILCS 1265) | 1 | 2026-04-12 to 2026-04-12 |
+| `ilcs-70-1270` | Illinois Compiled Statutes, Park District Refunding Bond Act (70 ILCS 1270) | 1 | 2026-04-18 to 2026-04-18 |
+| `ilcs-70-1275` | Illinois Compiled Statutes, Living War Memorial Act (70 ILCS 1275) | 1 | 2026-05-01 to 2026-05-01 |
+| `ilcs-70-1280` | Illinois Compiled Statutes, Park District Historical Museum Act (70 ILCS 1280) | 1 | 2026-04-20 to 2026-04-20 |
+| `ilcs-70-1285` | Illinois Compiled Statutes, Park Commissioners Federal Government Conveyance Act (70 ILCS 1285) | 1 | 2026-04-22 to 2026-04-22 |
+| `ilcs-70-1290` | Illinois Compiled Statutes, Park District Aquarium and Museum Act (70 ILCS 1290) | 1 | 2026-04-13 to 2026-04-13 |
+| `ilcs-70-1295` | Illinois Compiled Statutes, Park District Armory and Airfield Site Act (70 ILCS 1295) | 1 | 2026-04-16 to 2026-04-16 |
+| `ilcs-70-1300` | Illinois Compiled Statutes, Park District Airport Site Act (70 ILCS 1300) | 1 | 2026-04-17 to 2026-04-17 |
+| `ilcs-70-1305` | Illinois Compiled Statutes, Park District Airport Zoning Act (70 ILCS 1305) | 1 | 2026-04-11 to 2026-04-11 |
+| `ilcs-70-1310` | Illinois Compiled Statutes, Park District Elevated Highway Act (70 ILCS 1310) | 1 | 2026-02-15 to 2026-02-15 |
+| `ilcs-70-1315` | Illinois Compiled Statutes, Park Child Welfare Sanitarium Act (70 ILCS 1315) | 1 | 2026-04-16 to 2026-04-16 |
+| `ilcs-70-1320` | Illinois Compiled Statutes, Park Ordinance Violation Incarceration Act (70 ILCS 1320) | 1 | 2026-07-10 to 2026-07-10 |
+| `ilcs-70-1325` | Illinois Compiled Statutes, Park District Police Act (70 ILCS 1325) | 1 | 2026-04-20 to 2026-04-20 |
+| `ilcs-70-1505` | Illinois Compiled Statutes, Chicago Park District Act (70 ILCS 1505) | 1 | 2026-10-11 to 2026-10-11 |
+| `ilcs-70-1510` | Illinois Compiled Statutes, Chicago Park District Working Cash Fund Act (70 ILCS 1510) | 1 | 2026-07-19 to 2026-07-19 |
+| `ilcs-70-1515` | Illinois Compiled Statutes, Chicago Park District Debt Assumption Act (70 ILCS 1515) | 1 | 2026-04-10 to 2026-04-10 |
+| `ilcs-70-1520` | Illinois Compiled Statutes, Chicago Park District Bond (1935) Act (70 ILCS 1520) | 1 | 2026-04-20 to 2026-04-20 |
+| `ilcs-70-1525` | Illinois Compiled Statutes, Chicago Park District Bond (1965) Act (70 ILCS 1525) | 1 | 2026-05-14 to 2026-05-14 |
+| `ilcs-70-1530` | Illinois Compiled Statutes, Chicago Park District Corporate Note Act (70 ILCS 1530) | 1 | 2026-04-12 to 2026-04-12 |
+| `ilcs-70-1535` | Illinois Compiled Statutes, Chicago Park District Street Car Line Act (70 ILCS 1535) | 1 | 2026-05-09 to 2026-05-09 |
+| `ilcs-70-1540` | Illinois Compiled Statutes, Chicago Park District Judgment Indebtedness Bond Act (70 ILCS 1540) | 1 | 2026-05-08 to 2026-05-08 |
+| `ilcs-70-1545` | Illinois Compiled Statutes, Chicago Park and City Exchange of Functions Act (70 ILCS 1545) | 1 | 2026-04-15 to 2026-04-15 |
+| `ilcs-70-1550` | Illinois Compiled Statutes, Chicago Submerged Lands (1903) Act (70 ILCS 1550) | 1 | 2026-04-19 to 2026-04-19 |
+| `ilcs-70-1560` | Illinois Compiled Statutes, Park District Exposition Authority Lease Act (70 ILCS 1560) | 1 | 2026-04-12 to 2026-04-12 |
+| `ilcs-70-1565` | Illinois Compiled Statutes, Park Waterworks Improvement Lease Act (70 ILCS 1565) | 1 | 2026-03-07 to 2026-03-07 |
+| `ilcs-70-1570` | Illinois Compiled Statutes, Lincoln Park Commissioners Land Condemnation Act (70 ILCS 1570) | 1 | 2026-03-10 to 2026-03-10 |
+| `ilcs-70-1575` | Illinois Compiled Statutes, Lincoln Park Submerged Lands Act (70 ILCS 1575) | 1 | 2026-03-30 to 2026-03-30 |
+| `ilcs-70-1580` | Illinois Compiled Statutes, Grant Park (1899) Act (70 ILCS 1580) | 1 | 2026-03-11 to 2026-03-11 |
+| `ilcs-70-1585` | Illinois Compiled Statutes, Grant Park (1905) Act (70 ILCS 1585) | 1 | 2026-04-22 to 2026-04-22 |
+| `ilcs-70-1590` | Illinois Compiled Statutes, Grant Park Boundary Act (70 ILCS 1590) | 1 | 2026-04-16 to 2026-04-16 |
+| `ilcs-70-1600` | Illinois Compiled Statutes, Exposition Authority Incorporation Act (70 ILCS 1600) | 1 | 2026-04-11 to 2026-04-11 |
+| `ilcs-70-1605` | Illinois Compiled Statutes, Metro-East Park and Recreation District Act (70 ILCS 1605) | 1 | 2026-05-15 to 2026-05-15 |
+| `ilcs-70-1610` | Illinois Compiled Statutes, Summit Park District Tax Levy Validation (2010) Act (70 ILCS 1610) | 1 | 2026-04-28 to 2026-04-28 |
+| `ilcs-70-1707` | Illinois Compiled Statutes, Regional Planning Act (70 ILCS 1707) | 1 | 2026-07-14 to 2026-07-14 |
+| `ilcs-70-1710` | Illinois Compiled Statutes, Southwestern Illinois Metropolitan and Regional Planning Act (70 ILCS 1710) | 1 | 2026-09-04 to 2026-09-04 |
+| `ilcs-70-1801` | Illinois Compiled Statutes, Alexander-Cairo Port District Act (70 ILCS 1801) | 1 | 2026-03-16 to 2026-03-16 |
+| `ilcs-70-1805` | Illinois Compiled Statutes, Havana Regional Port District Act (70 ILCS 1805) | 1 | 2026-05-17 to 2026-05-17 |
+| `ilcs-70-1807` | Illinois Compiled Statutes, Heart of Illinois Regional Port District Act (70 ILCS 1807) | 1 | 2026-04-25 to 2026-04-25 |
+| `ilcs-70-1810` | Illinois Compiled Statutes, Illinois International Port District Act (70 ILCS 1810) | 1 | 2026-04-14 to 2026-04-14 |
+| `ilcs-70-1815` | Illinois Compiled Statutes, Illinois Valley Regional Port District Act (70 ILCS 1815) | 1 | 2026-04-20 to 2026-04-20 |
+| `ilcs-70-1816` | Illinois Compiled Statutes, Illinois Waterway Ports Commission Act (70 ILCS 1816) | 1 | 2026-04-12 to 2026-04-12 |
+| `ilcs-70-1820` | Illinois Compiled Statutes, Jackson-Union Counties Regional Port District Act (70 ILCS 1820) | 1 | 2026-04-12 to 2026-04-12 |
+| `ilcs-70-1825` | Illinois Compiled Statutes, Joliet Regional Port District Act (70 ILCS 1825) | 1 | 2026-04-15 to 2026-04-15 |
+| `ilcs-70-1830` | Illinois Compiled Statutes, Kaskaskia Regional Port District Act (70 ILCS 1830) | 1 | 2026-03-08 to 2026-03-08 |
+| `ilcs-70-1832` | Illinois Compiled Statutes, Mid-America Intermodal Authority Port District Act (70 ILCS 1832) | 1 | 2026-04-20 to 2026-04-20 |
+| `ilcs-70-1837` | Illinois Compiled Statutes, Ottawa Port District Act (70 ILCS 1837) | 1 | 2026-06-16 to 2026-06-16 |
+| `ilcs-70-1845` | Illinois Compiled Statutes, Seneca Regional Port District Act (70 ILCS 1845) | 1 | 2026-05-13 to 2026-05-13 |
+| `ilcs-70-1850` | Illinois Compiled Statutes, Shawneetown Regional Port District Act (70 ILCS 1850) | 1 | 2026-05-27 to 2026-05-27 |
+| `ilcs-70-1860` | Illinois Compiled Statutes, America's Central Port District Act (70 ILCS 1860) | 1 | 2026-04-16 to 2026-04-16 |
+| `ilcs-70-1863` | Illinois Compiled Statutes, Upper Mississippi River International Port District Act (70 ILCS 1863) | 1 | 2026-07-10 to 2026-07-10 |
+| `ilcs-70-1865` | Illinois Compiled Statutes, Waukegan Port District Act (70 ILCS 1865) | 1 | 2026-07-06 to 2026-07-06 |
+| `ilcs-70-1920` | Illinois Compiled Statutes, West Cook Railroad Relocation and Development Authority Act (70 ILCS 1920) | 1 | 2026-04-20 to 2026-04-20 |
+| `ilcs-70-1935` | Illinois Compiled Statutes, Elmwood Park Grade Separation Authority Act (70 ILCS 1935) | 1 | 2026-09-06 to 2026-09-06 |
+| `ilcs-70-1950` | Illinois Compiled Statutes, Renewable Energy Production District Act (70 ILCS 1950) | 1 | 2026-03-08 to 2026-03-08 |
+| `ilcs-70-2005` | Illinois Compiled Statutes, Emergency Services Districts Act (70 ILCS 2005) | 1 | 2026-04-14 to 2026-04-14 |
+| `ilcs-70-2105` | Illinois Compiled Statutes, River Conservancy Districts Act (70 ILCS 2105) | 1 | 2026-04-10 to 2026-04-10 |
+| `ilcs-70-2110` | Illinois Compiled Statutes, River Conservancy District Validation Act (70 ILCS 2110) | 1 | 2026-07-08 to 2026-07-08 |
+| `ilcs-70-2115` | Illinois Compiled Statutes, Rend Lake Dam and Reservoir on the Big Muddy River Act (70 ILCS 2115) | 1 | 2026-04-10 to 2026-04-10 |
+| `ilcs-70-2205` | Illinois Compiled Statutes, Sanitary District Act of 1907 (70 ILCS 2205) | 1 | 2026-04-21 to 2026-04-21 |
+| `ilcs-70-2305` | Illinois Compiled Statutes, North Shore Water Reclamation District Act (70 ILCS 2305) | 1 | 2026-07-17 to 2026-07-17 |
+| `ilcs-70-2310` | Illinois Compiled Statutes, North Shore Sanitary District Extension (1st) Act (70 ILCS 2310) | 1 | 2026-04-13 to 2026-04-13 |
+| `ilcs-70-2315` | Illinois Compiled Statutes, North Shore Sanitary District Extension (2nd) Act (70 ILCS 2315) | 1 | 2026-04-12 to 2026-04-12 |
+| `ilcs-70-2405` | Illinois Compiled Statutes, Sanitary District Act of 1917 (70 ILCS 2405) | 1 | 2026-04-10 to 2026-04-10 |
+| `ilcs-70-2410` | Illinois Compiled Statutes, Sanitary Districts (1917 Act) Bond Act (70 ILCS 2410) | 1 | 2026-05-14 to 2026-05-14 |
+| `ilcs-70-2605` | Illinois Compiled Statutes, Metropolitan Water Reclamation District Act (70 ILCS 2605) | 1 | 2026-02-15 to 2026-02-15 |
+| `ilcs-70-2805` | Illinois Compiled Statutes, Sanitary District Act of 1936 (70 ILCS 2805) | 1 | 2026-06-11 to 2026-06-11 |
+| `ilcs-70-3005` | Illinois Compiled Statutes, Sanitary District Refunding Bond Act (70 ILCS 3005) | 1 | 2026-04-15 to 2026-04-15 |
+| `ilcs-70-3010` | Illinois Compiled Statutes, Sanitary District Revenue Bond Act (70 ILCS 3010) | 1 | 2026-04-13 to 2026-04-13 |
+| `ilcs-70-3015` | Illinois Compiled Statutes, Sanitary Districts Corporate Notes Act (70 ILCS 3015) | 1 | 2026-04-15 to 2026-04-15 |
+| `ilcs-70-3020` | Illinois Compiled Statutes, Eastern Will Sanitary District Act (70 ILCS 3020) | 1 | 2026-06-07 to 2026-06-07 |
+| `ilcs-70-3105` | Illinois Compiled Statutes, Solid Waste Disposal District Act (70 ILCS 3105) | 1 | 2026-04-18 to 2026-04-18 |
+| `ilcs-70-3110` | Illinois Compiled Statutes, Metro East Solid Waste Disposal and Energy Producing Service Act (70 ILCS 3110) | 1 | 2026-04-14 to 2026-04-14 |
+| `ilcs-70-3205` | Illinois Compiled Statutes, Illinois Sports Facilities Authority Act (70 ILCS 3205) | 1 | 2026-10-12 to 2026-10-12 |
+| `ilcs-70-3210` | Illinois Compiled Statutes, Downstate Illinois Sports Facilities Authority Act (70 ILCS 3210) | 1 | 2026-05-14 to 2026-05-14 |
+| `ilcs-70-3305` | Illinois Compiled Statutes, Street Light District Act (70 ILCS 3305) | 1 | 2026-03-11 to 2026-03-11 |
+| `ilcs-70-3405` | Illinois Compiled Statutes, Surface Water Protection District Act (70 ILCS 3405) | 1 | 2026-04-13 to 2026-04-13 |
+| `ilcs-70-3455` | Illinois Compiled Statutes, Tourism Preservation and Sustainability District Act (70 ILCS 3455) | 1 | 2026-05-18 to 2026-05-18 |
+| `ilcs-70-3505` | Illinois Compiled Statutes, Prairie Trail Authority Act (70 ILCS 3505) | 1 | 2026-04-21 to 2026-04-21 |
+| `ilcs-70-3605` | Illinois Compiled Statutes, Metropolitan Transit Authority Act (70 ILCS 3605) | 1 | 2026-05-16 to 2026-05-16 |
+| `ilcs-70-3610` | Illinois Compiled Statutes, Local Mass Transit District Act (70 ILCS 3610) | 1 | 2026-05-09 to 2026-05-09 |
+| `ilcs-70-3615` | Illinois Compiled Statutes, Regional Transportation Authority Act (70 ILCS 3615) | 1 | 2026-05-13 to 2026-05-13 |
+| `ilcs-70-3620` | Illinois Compiled Statutes, Public Transit Employee Training Programs Act (70 ILCS 3620) | 1 | 2026-04-17 to 2026-04-17 |
+| `ilcs-70-3705` | Illinois Compiled Statutes, Public Water District Act (70 ILCS 3705) | 1 | 2026-04-20 to 2026-04-20 |
+| `ilcs-70-3710` | Illinois Compiled Statutes, Water Service District Act (70 ILCS 3710) | 1 | 2026-04-19 to 2026-04-19 |
+| `ilcs-70-3715` | Illinois Compiled Statutes, Water Authorities Act (70 ILCS 3715) | 1 | 2026-06-15 to 2026-06-15 |
+| `ilcs-70-3720` | Illinois Compiled Statutes, Water Commission Act of 1985 (70 ILCS 3720) | 1 | 2026-05-19 to 2026-05-19 |
+| `ilcs-75-10` | Illinois Compiled Statutes, Illinois Library System Act (75 ILCS 10) | 1 | 2026-04-08 to 2026-04-08 |
+| `ilcs-75-35` | Illinois Compiled Statutes, Township Library Bond Act (75 ILCS 35) | 1 | 2026-05-31 to 2026-05-31 |
+| `ilcs-75-50` | Illinois Compiled Statutes, Village Library and Gymnasium Tax Act (75 ILCS 50) | 1 | 2026-05-26 to 2026-05-26 |
+| `ilcs-75-55` | Illinois Compiled Statutes, Library Property Sale Act (75 ILCS 55) | 1 | 2026-08-08 to 2026-08-08 |
+| `ilcs-75-65` | Illinois Compiled Statutes, Libraries in Parks Act (75 ILCS 65) | 1 | 2026-08-26 to 2026-08-26 |
+| `ilcs-105-5-article-0001` | Illinois Compiled Statutes, School Code (105 ILCS 5), Article 1 | 1 | 2026-05-11 to 2026-05-11 |
+| `ilcs-105-5-article-0001a` | Illinois Compiled Statutes, School Code (105 ILCS 5), Article 1A | 1 | 2026-05-11 to 2026-05-11 |
+| `ilcs-105-5-article-0001b` | Illinois Compiled Statutes, School Code (105 ILCS 5), Article 1B | 1 | 2026-05-11 to 2026-05-11 |
+| `ilcs-105-5-article-0001c` | Illinois Compiled Statutes, School Code (105 ILCS 5), Article 1C | 1 | 2026-05-11 to 2026-05-11 |
+| `ilcs-105-5-article-0001d` | Illinois Compiled Statutes, School Code (105 ILCS 5), Article 1D | 1 | 2026-05-11 to 2026-05-11 |
+| `ilcs-105-5-article-0001e` | Illinois Compiled Statutes, School Code (105 ILCS 5), Article 1E | 1 | 2026-05-11 to 2026-05-11 |
+| `ilcs-105-5-article-0001h` | Illinois Compiled Statutes, School Code (105 ILCS 5), Article 1H | 1 | 2026-05-11 to 2026-05-11 |
+| `ilcs-105-5-article-0002` | Illinois Compiled Statutes, School Code (105 ILCS 5), Article 2 | 1 | 2026-05-11 to 2026-05-11 |
+| `ilcs-105-5-article-0003` | Illinois Compiled Statutes, School Code (105 ILCS 5), Article 3 | 1 | 2026-05-11 to 2026-05-11 |
+| `ilcs-105-5-article-0003a` | Illinois Compiled Statutes, School Code (105 ILCS 5), Article 3A | 1 | 2026-05-11 to 2026-05-11 |
+| `ilcs-105-5-article-0004` | Illinois Compiled Statutes, School Code (105 ILCS 5), Article 4 | 1 | 2026-05-11 to 2026-05-11 |
+| `ilcs-105-5-article-0005` | Illinois Compiled Statutes, School Code (105 ILCS 5), Article 5 | 1 | 2026-05-11 to 2026-05-11 |
+| `ilcs-105-5-article-0006` | Illinois Compiled Statutes, School Code (105 ILCS 5), Article 6 | 1 | 2026-05-11 to 2026-05-11 |
+| `ilcs-105-5-article-0007` | Illinois Compiled Statutes, School Code (105 ILCS 5), Article 7 | 1 | 2026-05-11 to 2026-05-11 |
+| `ilcs-105-5-article-0008` | Illinois Compiled Statutes, School Code (105 ILCS 5), Article 8 | 1 | 2026-05-11 to 2026-05-11 |
+| `ilcs-105-5-article-0009` | Illinois Compiled Statutes, School Code (105 ILCS 5), Article 9 | 1 | 2026-05-11 to 2026-05-11 |
+| `ilcs-105-5-article-0010` | Illinois Compiled Statutes, School Code (105 ILCS 5), Article 10 | 1 | 2026-05-11 to 2026-05-11 |
+| `ilcs-105-5-article-0011c` | Illinois Compiled Statutes, School Code (105 ILCS 5), Article 11C | 1 | 2026-05-11 to 2026-05-11 |
+| `ilcs-105-5-article-0011e` | Illinois Compiled Statutes, School Code (105 ILCS 5), Article 11E | 1 | 2026-05-11 to 2026-05-11 |
+| `ilcs-105-5-article-0012` | Illinois Compiled Statutes, School Code (105 ILCS 5), Article 12 | 1 | 2026-05-11 to 2026-05-11 |
+| `ilcs-105-5-article-0013` | Illinois Compiled Statutes, School Code (105 ILCS 5), Article 13 | 1 | 2026-05-11 to 2026-05-11 |
+| `ilcs-105-5-article-0013a` | Illinois Compiled Statutes, School Code (105 ILCS 5), Article 13A | 1 | 2026-05-11 to 2026-05-11 |
+| `ilcs-105-5-article-0013b` | Illinois Compiled Statutes, School Code (105 ILCS 5), Article 13B | 1 | 2026-05-11 to 2026-05-11 |
+| `ilcs-105-5-article-0014` | Illinois Compiled Statutes, School Code (105 ILCS 5), Article 14 | 1 | 2026-05-11 to 2026-05-11 |
+| `ilcs-105-5-article-0014a` | Illinois Compiled Statutes, School Code (105 ILCS 5), Article 14A | 1 | 2026-05-11 to 2026-05-11 |
+| `ilcs-105-5-article-0014c` | Illinois Compiled Statutes, School Code (105 ILCS 5), Article 14C | 1 | 2026-05-11 to 2026-05-11 |
+| `ilcs-105-5-article-0014d` | Illinois Compiled Statutes, School Code (105 ILCS 5), Article 14D | 1 | 2026-05-11 to 2026-05-11 |
+| `ilcs-105-5-article-0015` | Illinois Compiled Statutes, School Code (105 ILCS 5), Article 15 | 1 | 2026-05-11 to 2026-05-11 |
+| `ilcs-105-5-article-0015a` | Illinois Compiled Statutes, School Code (105 ILCS 5), Article 15A | 1 | 2026-05-11 to 2026-05-11 |
+| `ilcs-105-5-article-0016` | Illinois Compiled Statutes, School Code (105 ILCS 5), Article 16 | 1 | 2026-05-11 to 2026-05-11 |
+| `ilcs-105-5-article-0017` | Illinois Compiled Statutes, School Code (105 ILCS 5), Article 17 | 1 | 2026-05-11 to 2026-05-11 |
+| `ilcs-105-5-article-0018` | Illinois Compiled Statutes, School Code (105 ILCS 5), Article 18 | 1 | 2026-05-11 to 2026-05-11 |
+| `ilcs-105-10` | Illinois Compiled Statutes, Illinois School Student Records Act (105 ILCS 10) | 1 | 2026-05-15 to 2026-05-15 |
+| `ilcs-105-13` | Illinois Compiled Statutes, P-20 Longitudinal Education Data System Act (105 ILCS 13) | 1 | 2026-02-09 to 2026-02-09 |
+| `ilcs-105-15` | Illinois Compiled Statutes, Surplus Federal Property for Schools Act (105 ILCS 15) | 1 | 2026-05-08 to 2026-05-08 |
+| `ilcs-105-20` | Illinois Compiled Statutes, Silent Reflection and Student Prayer Act (105 ILCS 20) | 1 | 2026-04-10 to 2026-04-10 |
+| `ilcs-105-25` | Illinois Compiled Statutes, Interscholastic Athletic Organization Act (105 ILCS 25) | 1 | 2026-04-18 to 2026-04-18 |
+| `ilcs-105-30` | Illinois Compiled Statutes, Illinois Peace Corps Fellowship Program Law (105 ILCS 30) | 1 | 2026-05-13 to 2026-05-13 |
+| `ilcs-105-35` | Illinois Compiled Statutes, Children and Family Community Protection Act (105 ILCS 35) | 1 | 2026-05-01 to 2026-05-01 |
+| `ilcs-105-40` | Illinois Compiled Statutes, Illinois Distance Learning Foundation Act (105 ILCS 40) | 1 | 2026-07-11 to 2026-07-11 |
+| `ilcs-105-45-article-0001` | Illinois Compiled Statutes, Education for Homeless Children Act (105 ILCS 45), Article 1 | 1 | 2026-03-16 to 2026-03-16 |
+| `ilcs-105-45-article-0002` | Illinois Compiled Statutes, Education for Homeless Children Act (105 ILCS 45), Article 2 | 1 | 2026-03-16 to 2026-03-16 |
+| `ilcs-105-45-article-0003` | Illinois Compiled Statutes, Education for Homeless Children Act (105 ILCS 45), Article 3 | 1 | 2026-03-16 to 2026-03-16 |
+| `ilcs-105-60` | Illinois Compiled Statutes, Community Service Education Act (105 ILCS 60) | 1 | 2026-04-07 to 2026-04-07 |
+| `ilcs-105-70` | Illinois Compiled Statutes, Educational Opportunity for Military Children Act (105 ILCS 70) | 1 | 2026-07-01 to 2026-07-01 |
+| `ilcs-105-75` | Illinois Compiled Statutes, Right to Privacy in the School Setting Act (105 ILCS 75) | 1 | 2026-05-13 to 2026-05-13 |
+| `ilcs-105-80` | Illinois Compiled Statutes, Speech Rights of Student Journalists Act (105 ILCS 80) | 1 | 2026-05-21 to 2026-05-21 |
+| `ilcs-105-85` | Illinois Compiled Statutes, Student Online Personal Protection Act (105 ILCS 85) | 1 | 2026-04-09 to 2026-04-09 |
+| `ilcs-105-105` | Illinois Compiled Statutes, Asbestos Abatement Act (105 ILCS 105) | 1 | 2026-10-09 to 2026-10-09 |
+| `ilcs-105-112` | Illinois Compiled Statutes, Dissection Alternatives Act (105 ILCS 112) | 1 | 2026-07-07 to 2026-07-07 |
+| `ilcs-105-115` | Illinois Compiled Statutes, Eye Protection in School Act (105 ILCS 115) | 1 | 2026-02-09 to 2026-02-09 |
+| `ilcs-105-123` | Illinois Compiled Statutes, Hunger-Free Students' Bill of Rights Act (105 ILCS 123) | 1 | 2026-02-10 to 2026-02-10 |
+| `ilcs-105-125` | Illinois Compiled Statutes, School Breakfast and Lunch Program Act (105 ILCS 125) | 1 | 2026-02-17 to 2026-02-17 |
+| `ilcs-105-126` | Illinois Compiled Statutes, Childhood Hunger Relief Act (105 ILCS 126) | 1 | 2026-02-13 to 2026-02-13 |
+| `ilcs-105-127` | Illinois Compiled Statutes, School Reporting of Drug Violations Act (105 ILCS 127) | 1 | 2026-05-08 to 2026-05-08 |
+| `ilcs-105-128` | Illinois Compiled Statutes, School Safety Drill Act (105 ILCS 128) | 1 | 2026-03-13 to 2026-03-13 |
+| `ilcs-105-129` | Illinois Compiled Statutes, School Health Center Act (105 ILCS 129) | 1 | 2026-03-11 to 2026-03-11 |
+| `ilcs-105-135` | Illinois Compiled Statutes, Toxic Art Supplies in Schools Act (105 ILCS 135) | 1 | 2026-05-17 to 2026-05-17 |
+| `ilcs-105-140` | Illinois Compiled Statutes, Green Cleaning Schools Act (105 ILCS 140) | 1 | 2026-03-09 to 2026-03-09 |
+| `ilcs-105-145` | Illinois Compiled Statutes, Care of Students with Diabetes Act (105 ILCS 145) | 1 | 2026-02-06 to 2026-02-06 |
+| `ilcs-105-150` | Illinois Compiled Statutes, Seizure Smart School Act (105 ILCS 150) | 1 | 2026-02-12 to 2026-02-12 |
+| `ilcs-105-160` | Illinois Compiled Statutes, Pesticide Application at Schools Act (105 ILCS 160) | 1 | 2026-08-24 to 2026-08-24 |
+| `ilcs-105-210` | Illinois Compiled Statutes, School Bus Performance Bond Act (105 ILCS 210) | 1 | 2026-02-13 to 2026-02-13 |
+| `ilcs-105-302` | Illinois Compiled Statutes, College and Career Success for All Students Act (105 ILCS 302) | 1 | 2026-05-11 to 2026-05-11 |
+| `ilcs-105-305` | Illinois Compiled Statutes, Illinois Mathematics and Science Academy Law (105 ILCS 305) | 1 | 2026-05-28 to 2026-05-28 |
+| `ilcs-105-426` | Illinois Compiled Statutes, Private Business and Vocational Schools Act of 2012 (105 ILCS 426) | 1 | 2026-04-15 to 2026-04-15 |
+| `ilcs-105-435` | Illinois Compiled Statutes, Vocational Education Act (105 ILCS 435) | 1 | 2026-05-12 to 2026-05-12 |
+| `ilcs-105-505` | Illinois Compiled Statutes, Education Ballot and Bond Validation Act (105 ILCS 505) | 1 | 2026-03-11 to 2026-03-11 |
+| `ilcs-105-510` | Illinois Compiled Statutes, School Election Validation (1965) Act (105 ILCS 510) | 1 | 2026-03-31 to 2026-03-31 |
+| `ilcs-105-515` | Illinois Compiled Statutes, School Tax Rate Validation (1967) Act (105 ILCS 515) | 1 | 2026-04-17 to 2026-04-17 |
+| `ilcs-105-530` | Illinois Compiled Statutes, School Election Validation (1970) Act (105 ILCS 530) | 1 | 2026-05-26 to 2026-05-26 |
+| `ilcs-105-535` | Illinois Compiled Statutes, Municipal and School Tax Levy Validation Act (105 ILCS 535) | 1 | 2026-05-26 to 2026-05-26 |
+| `ilcs-105-540` | Illinois Compiled Statutes, School District Validation (1971) Act (105 ILCS 540) | 1 | 2026-05-26 to 2026-05-26 |
+| `ilcs-105-545` | Illinois Compiled Statutes, School District Validation (1975) Act (105 ILCS 545) | 1 | 2026-05-26 to 2026-05-26 |
+| `ilcs-105-550` | Illinois Compiled Statutes, School District Validation (1988) Act (105 ILCS 550) | 1 | 2026-05-26 to 2026-05-26 |
+| `ilcs-105-555` | Illinois Compiled Statutes, School District Validation (1995) Act (105 ILCS 555) | 1 | 2026-07-13 to 2026-07-13 |
+| `ilcs-105-560` | Illinois Compiled Statutes, School District Validation (2001) Act (105 ILCS 560) | 1 | 2026-03-21 to 2026-03-21 |
+| `ilcs-110-5` | Illinois Compiled Statutes, Academic Plagiarism Act (110 ILCS 5) | 1 | 2026-07-12 to 2026-07-12 |
+| `ilcs-110-10` | Illinois Compiled Statutes, Campus Demonstrations Policy Act (110 ILCS 10) | 1 | 2026-03-13 to 2026-03-13 |
+| `ilcs-110-12` | Illinois Compiled Statutes, Campus Security Enhancement Act of 2008 (110 ILCS 12) | 1 | 2026-03-31 to 2026-03-31 |
+| `ilcs-110-13` | Illinois Compiled Statutes, College Campus Press Act (110 ILCS 13) | 1 | 2026-05-22 to 2026-05-22 |
+| `ilcs-110-15` | Illinois Compiled Statutes, State College Housing Construction Act (110 ILCS 15) | 1 | 2026-08-21 to 2026-08-21 |
+| `ilcs-110-17` | Illinois Compiled Statutes, College Planning Act (110 ILCS 17) | 1 | 2026-06-04 to 2026-06-04 |
+| `ilcs-110-20` | Illinois Compiled Statutes, College Student Immunization Act (110 ILCS 20) | 1 | 2026-05-05 to 2026-05-05 |
+| `ilcs-110-25` | Illinois Compiled Statutes, Collegiate Athletic Association Compliance Enforcement Procedures Act (110 ILCS 25) | 1 | 2026-06-02 to 2026-06-02 |
+| `ilcs-110-26` | Illinois Compiled Statutes, Credit Card Marketing Act of 2009 (110 ILCS 26) | 1 | 2026-05-12 to 2026-05-12 |
+| `ilcs-110-27` | Illinois Compiled Statutes, Dual Credit Quality Act (110 ILCS 27) | 1 | 2026-05-16 to 2026-05-16 |
+| `ilcs-110-28` | Illinois Compiled Statutes, Early Childhood Access Consortium for Equity Act (110 ILCS 28) | 1 | 2026-03-15 to 2026-03-15 |
+| `ilcs-110-29` | Illinois Compiled Statutes, Higher Education Fair Admissions Act (110 ILCS 29) | 1 | 2026-05-09 to 2026-05-09 |
+| `ilcs-110-30` | Illinois Compiled Statutes, Educational Corporations Act (110 ILCS 30) | 1 | 2026-05-10 to 2026-05-10 |
+| `ilcs-110-31` | Illinois Compiled Statutes, Educational Credit for Firefighting Experience Act (110 ILCS 31) | 1 | 2026-03-12 to 2026-03-12 |
+| `ilcs-110-35` | Illinois Compiled Statutes, Educational Institution Presiding Officer Act (110 ILCS 35) | 1 | 2026-04-20 to 2026-04-20 |
+| `ilcs-110-40` | Illinois Compiled Statutes, Educational Partnership Act (110 ILCS 40) | 1 | 2026-05-18 to 2026-05-18 |
+| `ilcs-110-45` | Illinois Compiled Statutes, Educational Trustees Act (110 ILCS 45) | 1 | 2026-03-05 to 2026-03-05 |
+| `ilcs-110-46` | Illinois Compiled Statutes, Forensic Psychiatry Fellowship Training Act (110 ILCS 46) | 1 | 2026-05-15 to 2026-05-15 |
+| `ilcs-110-47` | Illinois Compiled Statutes, Fire Sprinkler Dormitory Act (110 ILCS 47) | 1 | 2026-07-21 to 2026-07-21 |
+| `ilcs-110-49` | Illinois Compiled Statutes, Higher Education Veterans Service Act (110 ILCS 49) | 1 | 2026-04-15 to 2026-04-15 |
+| `ilcs-110-50` | Illinois Compiled Statutes, Institution of Learning Powers Act (110 ILCS 50) | 1 | 2026-07-01 to 2026-07-01 |
+| `ilcs-110-55` | Illinois Compiled Statutes, Medical School Curriculum Act (110 ILCS 55) | 1 | 2026-05-17 to 2026-05-17 |
+| `ilcs-110-58` | Illinois Compiled Statutes, Mental Health Early Action on Campus Act (110 ILCS 58) | 1 | 2026-05-20 to 2026-05-20 |
+| `ilcs-110-61` | Illinois Compiled Statutes, Open Access to Research Articles Act (110 ILCS 61) | 1 | 2026-06-08 to 2026-06-08 |
+| `ilcs-110-62` | Illinois Compiled Statutes, Public University Energy Conservation Act (110 ILCS 62) | 1 | 2026-05-24 to 2026-05-24 |
+| `ilcs-110-63` | Illinois Compiled Statutes, Public University Tuition Statement Act (110 ILCS 63) | 1 | 2026-03-13 to 2026-03-13 |
+| `ilcs-110-64` | Illinois Compiled Statutes, Smoke-Free Campus Act (110 ILCS 64) | 1 | 2026-05-19 to 2026-05-19 |
+| `ilcs-110-65` | Illinois Compiled Statutes, State Colleges and Universities Gasohol Use Act (110 ILCS 65) | 1 | 2026-05-15 to 2026-05-15 |
+| `ilcs-110-66` | Illinois Compiled Statutes, Student Debt Assistance Act (110 ILCS 66) | 1 | 2026-05-14 to 2026-05-14 |
+| `ilcs-110-70` | Illinois Compiled Statutes, State Universities Civil Service Act (110 ILCS 70) | 1 | 2026-05-19 to 2026-05-19 |
+| `ilcs-110-74` | Illinois Compiled Statutes, Student Optional Disclosure of Private Mental Health Act (110 ILCS 74) | 1 | 2026-04-20 to 2026-04-20 |
+| `ilcs-110-75` | Illinois Compiled Statutes, Televised University Athletics Act (110 ILCS 75) | 1 | 2026-05-12 to 2026-05-12 |
+| `ilcs-110-78` | Illinois Compiled Statutes, Transparency in College Textbook Publishing Practices Act (110 ILCS 78) | 1 | 2026-05-16 to 2026-05-16 |
+| `ilcs-110-85` | Illinois Compiled Statutes, University - Building Authority Leased Lands Act (110 ILCS 85) | 1 | 2026-03-07 to 2026-03-07 |
+| `ilcs-110-90` | Illinois Compiled Statutes, University Chancellors Act (110 ILCS 90) | 1 | 2026-03-06 to 2026-03-06 |
+| `ilcs-110-95` | Illinois Compiled Statutes, University Employees Custodial Accounts Act (110 ILCS 95) | 1 | 2026-06-30 to 2026-06-30 |
+| `ilcs-110-105` | Illinois Compiled Statutes, University Military Inspection Act (110 ILCS 105) | 1 | 2026-06-06 to 2026-06-06 |
+| `ilcs-110-110` | Illinois Compiled Statutes, University Religious Observances Act (110 ILCS 110) | 1 | 2026-05-12 to 2026-05-12 |
+| `ilcs-110-115` | Illinois Compiled Statutes, University Credit and Retail Sales Act (110 ILCS 115) | 1 | 2026-03-08 to 2026-03-08 |
+| `ilcs-110-118` | Illinois Compiled Statutes, Public University Uniform Admission Pilot Program Act (110 ILCS 118) | 1 | 2026-05-13 to 2026-05-13 |
+| `ilcs-110-120` | Illinois Compiled Statutes, Vacated Grounds for Universities Act (110 ILCS 120) | 1 | 2026-04-16 to 2026-04-16 |
+| `ilcs-110-122` | Illinois Compiled Statutes, Volunteer Emergency Worker Higher Education Protection Act (110 ILCS 122) | 1 | 2026-05-10 to 2026-05-10 |
+| `ilcs-110-125` | Illinois Compiled Statutes, Youth Crime Prevention Consortium Act (110 ILCS 125) | 1 | 2026-04-04 to 2026-04-04 |
+| `ilcs-110-130` | Illinois Compiled Statutes, Greek Housing Fire Safety Act (110 ILCS 130) | 1 | 2026-08-22 to 2026-08-22 |
+| `ilcs-110-131` | Illinois Compiled Statutes, Higher Education Housing and Opportunities Act (110 ILCS 131) | 1 | 2026-06-09 to 2026-06-09 |
+| `ilcs-110-135` | Illinois Compiled Statutes, Higher Education Technology Entrepreneur Center Act (110 ILCS 135) | 1 | 2026-09-07 to 2026-09-07 |
+| `ilcs-110-140` | Illinois Compiled Statutes, Higher Education Green Jobs and Technology Act (110 ILCS 140) | 1 | 2026-05-09 to 2026-05-09 |
+| `ilcs-110-145` | Illinois Compiled Statutes, Higher Education Distance Learning Act (110 ILCS 145) | 1 | 2026-05-16 to 2026-05-16 |
+| `ilcs-110-148` | Illinois Compiled Statutes, Postsecondary and Workforce Readiness Act (110 ILCS 148) | 1 | 2026-09-06 to 2026-09-06 |
+| `ilcs-110-149` | Illinois Compiled Statutes, Student Parent Data Collection Act (110 ILCS 149) | 1 | 2026-06-21 to 2026-06-21 |
+| `ilcs-110-150` | Illinois Compiled Statutes, Student Transfer Achievement Reform Act (110 ILCS 150) | 1 | 2026-03-08 to 2026-03-08 |
+| `ilcs-110-151` | Illinois Compiled Statutes, Career and Workforce Transition Act (110 ILCS 151) | 1 | 2026-03-08 to 2026-03-08 |
+| `ilcs-110-155` | Illinois Compiled Statutes, Preventing Sexual Violence in Higher Education Act (110 ILCS 155) | 1 | 2026-10-13 to 2026-10-13 |
+| `ilcs-110-160` | Illinois Compiled Statutes, Credit for Prior Learning Act (110 ILCS 160) | 1 | 2026-05-21 to 2026-05-21 |
+| `ilcs-110-165` | Illinois Compiled Statutes, Behavioral Health Workforce Education Center Task Force Act (110 ILCS 165) | 1 | 2026-04-11 to 2026-04-11 |
+| `ilcs-110-167` | Illinois Compiled Statutes, Public Higher Education Act (110 ILCS 167) | 1 | 2026-05-16 to 2026-05-16 |
+| `ilcs-110-175-article-0100` | Illinois Compiled Statutes, Developmental Education Reform Act (110 ILCS 175), Article 100 | 1 | 2026-04-11 to 2026-04-11 |
+| `ilcs-110-175-article-0999` | Illinois Compiled Statutes, Developmental Education Reform Act (110 ILCS 175), Article 999 | 1 | 2026-04-11 to 2026-04-11 |
+| `ilcs-110-190` | Illinois Compiled Statutes, Student-Athlete Endorsement Rights Act (110 ILCS 190) | 1 | 2026-05-25 to 2026-05-25 |
+| `ilcs-110-195` | Illinois Compiled Statutes, Removing Barriers to Higher Education Success Act (110 ILCS 195) | 1 | 2026-03-06 to 2026-03-06 |
+| `ilcs-110-196` | Illinois Compiled Statutes, Historical Cost of Attendance Disclosure Act (110 ILCS 196) | 1 | 2026-05-21 to 2026-05-21 |
+| `ilcs-110-205` | Illinois Compiled Statutes, Board of Higher Education Act (110 ILCS 205) | 1 | 2026-03-10 to 2026-03-10 |
+| `ilcs-110-210` | Illinois Compiled Statutes, Illinois Financial Assistance Act for Nonpublic Institutions of Higher Learning (110 ILCS 210) | 1 | 2026-08-01 to 2026-08-01 |
+| `ilcs-110-220` | Illinois Compiled Statutes, Higher Education Cooperation Act (110 ILCS 220) | 1 | 2026-03-13 to 2026-03-13 |
+| `ilcs-110-225` | Illinois Compiled Statutes, Illinois Cooperative Work Study Program Act (110 ILCS 225) | 1 | 2026-05-20 to 2026-05-20 |
+| `ilcs-110-230` | Illinois Compiled Statutes, Manpower Planning and Analysis Act (110 ILCS 230) | 1 | 2026-03-09 to 2026-03-09 |
+| `ilcs-110-310` | Illinois Compiled Statutes, University of Illinois Trustees Act (110 ILCS 310) | 1 | 2026-06-04 to 2026-06-04 |
+| `ilcs-110-315` | Illinois Compiled Statutes, University of Illinois Name Change Act (110 ILCS 315) | 1 | 2026-05-08 to 2026-05-08 |
 
-The build made 861 commits:
+The build made 1143 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 861 | first version of an act |
+| 1143 | first version of an act |
 | 0 | one law on its in-force day |
 | 0 | changes no amendment note explains, credited to the publisher |
 
@@ -889,7 +1171,7 @@ Other counts:
 - 0 commits on the branch `future`: laws not yet in force on 2026-11-10.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
 - 0 laws in the record.
-- 861 tags.
+- 1143 tags.
 
 ## Dates
 
@@ -901,7 +1183,7 @@ When a law gives no date of its own, the default rule applies: No dated history 
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `8fbfda767e6d1b74f80c3a8759690de9ac437f0e18aadf0a72e21d1d9b3111f3` (22605613 bytes).
+- Corpus: sha256 `5d7e28be6d1a759c6b8435d445c8b1601085048cb3fa1a8148b9b26f43d3d534` (29861493 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `3024ff164c261807dfc4d5b7b1b4a2cde4357da1`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.12.10; git version 2.46.0.windows.1.
 
