@@ -16002,6 +16002,3716 @@
      "sha256": "1080f699c6e585a15cb0c512907caf6b398b40f01bd4dadbd87f08c4f3927422"
     }
    ]
+  },
+  {
+   "slug": "ilcs-110-320",
+   "short": "110 ILCS 320",
+   "title": "Illinois Compiled Statutes, University of Illinois at Chicago Act (110 ILCS 320)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1089",
+   "versions": [
+    {
+     "from": "2026-05-11",
+     "units": 3,
+     "source_url": "https://web.archive.org/web/20260511150138/https://ilga.gov/Legislation/ILCS/Articles?ActID=1089&ChapterID=18&Chapter=HIGHER%20EDUCATION&MajorTopic=EDUCATION",
+     "sha256": "c45b1eaeb607449b2b87df39764802b2d3a0c45c4f9fa9f7bdbac2a9406a5777"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-110-330",
+   "short": "110 ILCS 330",
+   "title": "Illinois Compiled Statutes, University of Illinois Hospital Act (110 ILCS 330)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1092",
+   "versions": [
+    {
+     "from": "2026-06-12",
+     "units": 24,
+     "source_url": "https://web.archive.org/web/20260612002354/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1092&ChapterID=18",
+     "sha256": "c7993812f3faa6a79a79f13d8754a45e8d11c07ab93f667ba039ac13a506fa17"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-110-337",
+   "short": "110 ILCS 337",
+   "title": "Illinois Compiled Statutes, Biomonitoring Feasibility Study Act (110 ILCS 337)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2902",
+   "versions": [
+    {
+     "from": "2026-04-19",
+     "units": 5,
+     "source_url": "https://web.archive.org/web/20260419144331/https://ilga.gov/Legislation/ILCS/Articles?ActID=2902&ChapterID=18&Chapter=HIGHER%20EDUCATION&MajorTopic=EDUCATION",
+     "sha256": "88d6627a5d085506283cb491eb98f98f4b952a4505962f394e8bb85d15da7341"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-110-350",
+   "short": "110 ILCS 350",
+   "title": "Illinois Compiled Statutes, University of Illinois Institutes for Juvenile Research and Developmental Disabilities Act (110 ILCS 350)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1096",
+   "versions": [
+    {
+     "from": "2026-05-21",
+     "units": 6,
+     "source_url": "https://web.archive.org/web/20260521081511/https://ilga.gov/Legislation/ILCS/Articles?ActID=1096&ChapterID=18&Chapter=HIGHER%20EDUCATION&MajorTopic=EDUCATION",
+     "sha256": "877a43664497bee42b0d8f6e62b9edbfe6518cb6a949809d60ae4f62c64c9da3"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-110-355-article-3000",
+   "short": "110 ILCS 355 art. 3000",
+   "title": "Illinois Compiled Statutes, Civil Administrative Code of Illinois. (University of Illinois Exercise of Functions and Duties Law) (110 ILCS 355), Article 3000",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1097",
+   "versions": [
+    {
+     "from": "2026-04-11",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20260411024508/https://ilga.gov/legislation/ILCS/details?MajorTopic=EDUCATION&Chapter=HIGHER%20EDUCATION&ActName=Civil%20Administrative%20Code%20of%20Illinois.%20(University%20of%20Illinois%20Exercise%20of%20Functions%20and%20Duties%20Law)&ActID=1097&ChapterID=18&SeqStart=&&ChapAct=FullText",
+     "sha256": "1e3c70004609c60680985b67017406f5b6e68068ff3c461fd6befb18b79f4547"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-110-360",
+   "short": "110 ILCS 360",
+   "title": "Illinois Compiled Statutes, Forestry Promotion Act (110 ILCS 360)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1098",
+   "versions": [
+    {
+     "from": "2026-05-12",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20260512225054/https://ilga.gov/Legislation/ILCS/Articles?ActID=1098&ChapterID=18&Chapter=HIGHER%20EDUCATION&MajorTopic=EDUCATION",
+     "sha256": "477319631fc494da3e38c8d9ee437944119d3cec464d47b185b500cbd8066b3c"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-110-365",
+   "short": "110 ILCS 365",
+   "title": "Illinois Compiled Statutes, Illinois Fire Service Institute Act (110 ILCS 365)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1099",
+   "versions": [
+    {
+     "from": "2026-03-12",
+     "units": 7,
+     "source_url": "https://web.archive.org/web/20260312075745/https://ilga.gov/Legislation/ILCS/Articles?ActID=1099&ChapterID=18&Chapter=HIGHER%20EDUCATION&MajorTopic=EDUCATION",
+     "sha256": "70e3d2759aeadc6bd63563b9ef9adb45a912d63d70a80d3917245687f3c4d1db"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-110-370",
+   "short": "110 ILCS 370",
+   "title": "Illinois Compiled Statutes, Police Training Institute Act (110 ILCS 370)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1100",
+   "versions": [
+    {
+     "from": "2026-06-30",
+     "units": 5,
+     "source_url": "https://web.archive.org/web/20260630232351/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1100&ChapterID=18",
+     "sha256": "28e851f8282db412078baa56b23f9ffa05d69e51e7a5935c53ad6e8d1b9baf7c"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-110-375",
+   "short": "110 ILCS 375",
+   "title": "Illinois Compiled Statutes, University of Illinois Facility Use Prohibition Act (110 ILCS 375)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1101",
+   "versions": [
+    {
+     "from": "2026-04-29",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20260429194827/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1101&ChapterID=18",
+     "sha256": "7f9ee0c7f7db2f0519aaa999e7b279dac07fbf0a0f58ea0783a5fa41683e42c3"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-110-380",
+   "short": "110 ILCS 380",
+   "title": "Illinois Compiled Statutes, University of Illinois Mining Engineering Act (110 ILCS 380)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1102",
+   "versions": [
+    {
+     "from": "2026-05-14",
+     "units": 4,
+     "source_url": "https://web.archive.org/web/20260514035528/https://ilga.gov/Legislation/ILCS/Articles?ActID=1102&ChapterID=18&Chapter=HIGHER%20EDUCATION&MajorTopic=EDUCATION",
+     "sha256": "9b7c70d8d1ef1f8ee6dd5af309d230f21fc4ed8e4c4103193ac01891e0967325"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-110-385",
+   "short": "110 ILCS 385",
+   "title": "Illinois Compiled Statutes, University of Illinois Veterinary College Act (110 ILCS 385)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1103",
+   "versions": [
+    {
+     "from": "2026-03-16",
+     "units": 4,
+     "source_url": "https://web.archive.org/web/20260316000451/https://ilga.gov/Legislation/ILCS/Articles?ActID=1103&ChapterID=18&Chapter=HIGHER%20EDUCATION&MajorTopic=EDUCATION",
+     "sha256": "367ff45c07c0e7d2eba1c6ce0c0bc2699ae4b599d92231b8e24219ce6a30687a"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-110-395",
+   "short": "110 ILCS 395",
+   "title": "Illinois Compiled Statutes, University of Illinois Journalism College Act (110 ILCS 395)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1105",
+   "versions": [
+    {
+     "from": "2026-04-11",
+     "units": 3,
+     "source_url": "https://web.archive.org/web/20260411152922/https://ilga.gov/Legislation/ILCS/Articles?ActID=1105&ChapterID=18&Chapter=HIGHER%20EDUCATION&MajorTopic=EDUCATION",
+     "sha256": "c9afbc1ac0de42727559d7a0302813b17a1de6ed9451c19be7c33df0c38597e1"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-110-400",
+   "short": "110 ILCS 400",
+   "title": "Illinois Compiled Statutes, University of Illinois Airport Act (110 ILCS 400)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1106",
+   "versions": [
+    {
+     "from": "2026-08-04",
+     "units": 3,
+     "source_url": "https://web.archive.org/web/20260804204920/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1106&ChapterID=18",
+     "sha256": "c546018c857e69f4e170438d49ac3dce69c49e084ad8f939b2a47477e5ee6150"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-110-405",
+   "short": "110 ILCS 405",
+   "title": "Illinois Compiled Statutes, University of Illinois Revenue Bond Financing Act for Auxiliary Facilities (110 ILCS 405)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1107",
+   "versions": [
+    {
+     "from": "2026-04-24",
+     "units": 12,
+     "source_url": "https://web.archive.org/web/20260424214033/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1107&ChapterID=18",
+     "sha256": "b8dec99f18727a5b0740047f6a94c67c4b707212a87931c94cc99d13db81848c"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-110-415",
+   "short": "110 ILCS 415",
+   "title": "Illinois Compiled Statutes, University of Illinois Construction Financing Act (110 ILCS 415)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1109",
+   "versions": [
+    {
+     "from": "2026-03-08",
+     "units": 4,
+     "source_url": "https://web.archive.org/web/20260308161348/https://ilga.gov/Legislation/ILCS/Articles?ActID=1109&ChapterID=18&Chapter=HIGHER%20EDUCATION&MajorTopic=EDUCATION",
+     "sha256": "8afd1993c965350c501d141713abace9fdd7cba098a950d0ccfe651182ad33e4"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-110-425",
+   "short": "110 ILCS 425",
+   "title": "Illinois Compiled Statutes, University of Illinois Scientific Surveys Act (110 ILCS 425)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2983",
+   "versions": [
+    {
+     "from": "2026-09-17",
+     "units": 37,
+     "source_url": "https://web.archive.org/web/20260917141437/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2983&ChapterID=18",
+     "sha256": "62118b39914c4707c8090e791bb3b41d6ffdb516c0b1c5d1f366a379247f5081"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-110-435",
+   "short": "110 ILCS 435",
+   "title": "Illinois Compiled Statutes, University of Illinois School of Labor and Employment Relations Act (110 ILCS 435)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3524",
+   "versions": [
+    {
+     "from": "2026-03-16",
+     "units": 4,
+     "source_url": "https://web.archive.org/web/20260316031338/https://ilga.gov/Legislation/ILCS/Articles?ActID=3524&ChapterID=18&Chapter=HIGHER%20EDUCATION&MajorTopic=EDUCATION",
+     "sha256": "b7db30b4c6983ecaf500b0748383b491df84a0556f0861981972c08683e40b08"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-110-510",
+   "short": "110 ILCS 510",
+   "title": "Illinois Compiled Statutes, Southern Illinois University Objects Act (110 ILCS 510)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1112",
+   "versions": [
+    {
+     "from": "2026-05-10",
+     "units": 4,
+     "source_url": "https://web.archive.org/web/20260510115351/https://ilga.gov/Legislation/ILCS/Articles?ActID=1112&ChapterID=18&Chapter=HIGHER%20EDUCATION&MajorTopic=EDUCATION",
+     "sha256": "4fbd057bae4348949745eb1bb3639db810f527d6ab1a09141b89fda1f0502f15"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-110-520",
+   "short": "110 ILCS 520",
+   "title": "Illinois Compiled Statutes, Southern Illinois University Management Act (110 ILCS 520)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1114",
+   "versions": [
+    {
+     "from": "2026-05-21",
+     "units": 58,
+     "source_url": "https://web.archive.org/web/20260521115028/https://ilga.gov/Legislation/ILCS/Articles?ActID=1114&ChapterID=18&Chapter=HIGHER%20EDUCATION&MajorTopic=EDUCATION",
+     "sha256": "17c9dfbcac48dee8c26868b5f5f51e71b4f6875ab892502efd597f85a67734f8"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-110-525",
+   "short": "110 ILCS 525",
+   "title": "Illinois Compiled Statutes, Southern Illinois University Revenue Bond Act (110 ILCS 525)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1115",
+   "versions": [
+    {
+     "from": "2026-05-21",
+     "units": 15,
+     "source_url": "https://web.archive.org/web/20260521010611/https://ilga.gov/Legislation/ILCS/Articles?ActID=1115&ChapterID=18&Chapter=HIGHER%20EDUCATION&MajorTopic=EDUCATION",
+     "sha256": "cb77a70eb2179dab7dbeec4a2e3448f250c02202896fc6f14d9081d5021d4724"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-110-530",
+   "short": "110 ILCS 530",
+   "title": "Illinois Compiled Statutes, Sewage and Water System Training Institute Act (110 ILCS 530)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1116",
+   "versions": [
+    {
+     "from": "2026-05-21",
+     "units": 6,
+     "source_url": "https://web.archive.org/web/20260521080203/https://ilga.gov/Legislation/ILCS/Articles?ActID=1116&ChapterID=18&Chapter=HIGHER%20EDUCATION&MajorTopic=EDUCATION",
+     "sha256": "87c3c5fdad75b7515da63944325df0feaa7a8d72409c550b698be2bd66d17c2b"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-110-610",
+   "short": "110 ILCS 610",
+   "title": "Illinois Compiled Statutes, Board of Governors of State Colleges and Universities Revenue Bond Act (110 ILCS 610)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1118",
+   "versions": [
+    {
+     "from": "2026-02-11",
+     "units": 8,
+     "source_url": "https://web.archive.org/web/20260211074440/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1118&ChapterID=18&Chapter=HIGHER+EDUCATION&MajorTopic=EDUCATION",
+     "sha256": "312780e68af3521b0d0acd3583bfe21379b4d9cfab3d0d345dd4c23fcad47cd9"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-110-661-article-0006",
+   "short": "110 ILCS 661 art. 6",
+   "title": "Illinois Compiled Statutes, Chicago State University Revenue Bond Law (110 ILCS 661), Article 6",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1129",
+   "versions": [
+    {
+     "from": "2026-06-08",
+     "units": 14,
+     "source_url": "https://web.archive.org/web/20260608172510/https://ilga.gov/legislation/ILCS/details?MajorTopic=EDUCATION&Chapter=HIGHER%20EDUCATION&ActName=Chicago%20State%20University%20Revenue%20Bond%20Law.&ActID=1129&ChapterID=18&SeqStart=&&ChapAct=FullText",
+     "sha256": "5cd2e1c4863eedb2ba9021d44e53c850df0830ebd2558cf0bfb53449b72c2a6d"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-110-661-article-0099",
+   "short": "110 ILCS 661 art. 99",
+   "title": "Illinois Compiled Statutes, Chicago State University Revenue Bond Law (110 ILCS 661), Article 99",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1129",
+   "versions": [
+    {
+     "from": "2026-06-08",
+     "units": 1,
+     "source_url": "https://web.archive.org/web/20260608172510/https://ilga.gov/legislation/ILCS/details?MajorTopic=EDUCATION&Chapter=HIGHER%20EDUCATION&ActName=Chicago%20State%20University%20Revenue%20Bond%20Law.&ActID=1129&ChapterID=18&SeqStart=&&ChapAct=FullText",
+     "sha256": "5cd2e1c4863eedb2ba9021d44e53c850df0830ebd2558cf0bfb53449b72c2a6d"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-110-670-article-0015",
+   "short": "110 ILCS 670 art. 15",
+   "title": "Illinois Compiled Statutes, Governors State University Law (110 ILCS 670), Article 15",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1132",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 58,
+     "source_url": "https://web.archive.org/web/20260415230330/https://ilga.gov/legislation/ILCS/details?MajorTopic=EDUCATION&Chapter=HIGHER%20EDUCATION&ActName=Governors%20State%20University%20Law.&ActID=1132&ChapterID=18&SeqStart=&&ChapAct=FullText",
+     "sha256": "86eff60e1790509946a03d3f796960def7e27eb61e07ae9b69d7f8360bfb60ad"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-110-670-article-0099",
+   "short": "110 ILCS 670 art. 99",
+   "title": "Illinois Compiled Statutes, Governors State University Law (110 ILCS 670), Article 99",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1132",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 1,
+     "source_url": "https://web.archive.org/web/20260415230330/https://ilga.gov/legislation/ILCS/details?MajorTopic=EDUCATION&Chapter=HIGHER%20EDUCATION&ActName=Governors%20State%20University%20Law.&ActID=1132&ChapterID=18&SeqStart=&&ChapAct=FullText",
+     "sha256": "86eff60e1790509946a03d3f796960def7e27eb61e07ae9b69d7f8360bfb60ad"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-110-676-article-0021",
+   "short": "110 ILCS 676 art. 21",
+   "title": "Illinois Compiled Statutes, Illinois State University Revenue Bond Law (110 ILCS 676), Article 21",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1135",
+   "versions": [
+    {
+     "from": "2026-06-15",
+     "units": 14,
+     "source_url": "https://web.archive.org/web/20260615015018/https://ilga.gov/legislation/ILCS/details?MajorTopic=EDUCATION&Chapter=HIGHER%20EDUCATION&ActName=Illinois%20State%20University%20Revenue%20Bond%20Law.&ActID=1135&ChapterID=18&SeqStart=&&ChapAct=FullText",
+     "sha256": "a9f5ea183a0240868f8b4b6f835f9a42a26ace9dbb33914bf87f9b45f160abfc"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-110-676-article-0099",
+   "short": "110 ILCS 676 art. 99",
+   "title": "Illinois Compiled Statutes, Illinois State University Revenue Bond Law (110 ILCS 676), Article 99",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1135",
+   "versions": [
+    {
+     "from": "2026-06-15",
+     "units": 1,
+     "source_url": "https://web.archive.org/web/20260615015018/https://ilga.gov/legislation/ILCS/details?MajorTopic=EDUCATION&Chapter=HIGHER%20EDUCATION&ActName=Illinois%20State%20University%20Revenue%20Bond%20Law.&ActID=1135&ChapterID=18&SeqStart=&&ChapAct=FullText",
+     "sha256": "a9f5ea183a0240868f8b4b6f835f9a42a26ace9dbb33914bf87f9b45f160abfc"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-110-680-article-0025",
+   "short": "110 ILCS 680 art. 25",
+   "title": "Illinois Compiled Statutes, Northeastern Illinois University Law (110 ILCS 680), Article 25",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1136",
+   "versions": [
+    {
+     "from": "2026-04-11",
+     "units": 58,
+     "source_url": "https://web.archive.org/web/20260411110239/https://www.ilga.gov/legislation/ILCS/details?MajorTopic=&Chapter=&ActName=Northeastern%20Illinois%20University%20Law.&ActID=1136&ChapterID=18&SeqStart=&&ChapAct=FullText",
+     "sha256": "bbaa4e0cda2d6bf360d50e8d1537f384b073016d623cb8d6d03e162825fdb789"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-110-680-article-0099",
+   "short": "110 ILCS 680 art. 99",
+   "title": "Illinois Compiled Statutes, Northeastern Illinois University Law (110 ILCS 680), Article 99",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1136",
+   "versions": [
+    {
+     "from": "2026-04-11",
+     "units": 1,
+     "source_url": "https://web.archive.org/web/20260411110239/https://www.ilga.gov/legislation/ILCS/details?MajorTopic=&Chapter=&ActName=Northeastern%20Illinois%20University%20Law.&ActID=1136&ChapterID=18&SeqStart=&&ChapAct=FullText",
+     "sha256": "bbaa4e0cda2d6bf360d50e8d1537f384b073016d623cb8d6d03e162825fdb789"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-110-710",
+   "short": "110 ILCS 710",
+   "title": "Illinois Compiled Statutes, Board of Regents Revenue Bond Act of 1967 (110 ILCS 710)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1143",
+   "versions": [
+    {
+     "from": "2026-05-12",
+     "units": 15,
+     "source_url": "https://web.archive.org/web/20260512004445/https://ilga.gov/Legislation/ILCS/Articles?ActID=1143&ChapterID=18&Chapter=HIGHER%20EDUCATION&MajorTopic=EDUCATION",
+     "sha256": "46b266fd481345fdd3241b4eacc91f3de5a334141daea01eaa42ef4ceaaabb54"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-110-905",
+   "short": "110 ILCS 905",
+   "title": "Illinois Compiled Statutes, Allied Health Care Professional Assistance Law (110 ILCS 905)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1151",
+   "versions": [
+    {
+     "from": "2026-03-15",
+     "units": 5,
+     "source_url": "https://web.archive.org/web/20260315053842/https://ilga.gov/Legislation/ILCS/Articles?ActID=1151&ChapterID=18&Chapter=HIGHER%20EDUCATION&MajorTopic=EDUCATION",
+     "sha256": "d9d50c4121cbb109f05e2a0b233ba60661103cb3264b737d3916839e7ff1f03b"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-110-916",
+   "short": "110 ILCS 916",
+   "title": "Illinois Compiled Statutes, Public Interest Attorney Assistance Act (110 ILCS 916)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3145",
+   "versions": [
+    {
+     "from": "2026-05-12",
+     "units": 8,
+     "source_url": "https://web.archive.org/web/20260512222729/https://ilga.gov/Legislation/ILCS/Articles?ActID=3145&ChapterID=18&Chapter=HIGHER%20EDUCATION&MajorTopic=EDUCATION",
+     "sha256": "29bf4de0a9c808a62fef85f26c2adb799ecb0dad85db54866b1641f27ef4b87f"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-110-920",
+   "short": "110 ILCS 920",
+   "title": "Illinois Compiled Statutes, Baccalaureate Savings Act (110 ILCS 920)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1154",
+   "versions": [
+    {
+     "from": "2026-05-31",
+     "units": 11,
+     "source_url": "https://web.archive.org/web/20260531132421/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1154&ChapterID=18",
+     "sha256": "6bd4622d17536d37afb0eddb728b4d220c28dc584ee7d0f9fd1c4e054e0d9e9a"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-110-921",
+   "short": "110 ILCS 921",
+   "title": "Illinois Compiled Statutes, Career Preservation and Student Loan Repayment Act (110 ILCS 921)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3892",
+   "versions": [
+    {
+     "from": "2026-07-27",
+     "units": 44,
+     "source_url": "https://web.archive.org/web/20260727191419/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3892&ChapterID=18",
+     "sha256": "7a15e2d177b9b71829802298f5c96a83eec8fb4d0951b34ab03d6be71e9a5118"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-110-923",
+   "short": "110 ILCS 923",
+   "title": "Illinois Compiled Statutes, Child Welfare Student Loan Forgiveness Act (110 ILCS 923)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2730",
+   "versions": [
+    {
+     "from": "2026-05-16",
+     "units": 7,
+     "source_url": "https://web.archive.org/web/20260516140107/https://ilga.gov/Legislation/ILCS/Articles?ActID=2730&ChapterID=18&Chapter=HIGHER%20EDUCATION&MajorTopic=EDUCATION",
+     "sha256": "c3bb92f107a441364890c9a7ac6c73728bb57a7dd8510aa0a2f86f466365494d"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-110-924",
+   "short": "110 ILCS 924",
+   "title": "Illinois Compiled Statutes, Community College Transfer Grant Program Act (110 ILCS 924)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3261",
+   "versions": [
+    {
+     "from": "2026-05-21",
+     "units": 7,
+     "source_url": "https://web.archive.org/web/20260521082327/https://ilga.gov/Legislation/ILCS/Articles?ActID=3261&ChapterID=18&Chapter=HIGHER%20EDUCATION&MajorTopic=EDUCATION",
+     "sha256": "369b9f3a9671b2e4b21c1131e9e80a6901a50376ed469a086193bdc1f7c0b8c2"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-110-930",
+   "short": "110 ILCS 930",
+   "title": "Illinois Compiled Statutes, Diversifying Higher Education Faculty in Illinois Act (110 ILCS 930)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1157",
+   "versions": [
+    {
+     "from": "2026-05-07",
+     "units": 16,
+     "source_url": "https://web.archive.org/web/20260507023546/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1157&ChapterID=18",
+     "sha256": "c8f7bdb385e0362c87a1b9396a15688d1ff71f50f19b3eabe0eafde2ffd6a684"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-110-932",
+   "short": "110 ILCS 932",
+   "title": "Illinois Compiled Statutes, Equity and Representation in Health Care Act (110 ILCS 932)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=4307",
+   "versions": [
+    {
+     "from": "2026-09-04",
+     "units": 11,
+     "source_url": "https://web.archive.org/web/20260904063733/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=4307&ChapterID=18",
+     "sha256": "863d3e1bf772c8924192400703fb77323e045f6dad1557f8d14abe38d274733a"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-110-935",
+   "short": "110 ILCS 935",
+   "title": "Illinois Compiled Statutes, Underserved Health Care Provider Workforce Act (110 ILCS 935)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1158",
+   "versions": [
+    {
+     "from": "2026-03-07",
+     "units": 33,
+     "source_url": "https://web.archive.org/web/20260307153311/https://ilga.gov/Legislation/ILCS/Articles?ActID=1158&ChapterID=18&Chapter=HIGHER%20EDUCATION&MajorTopic=EDUCATION",
+     "sha256": "c87dee476661bf59ef6dbfbb88ec5fae61951a1049516c23f6c782a0b61b3f2e"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-110-940",
+   "short": "110 ILCS 940",
+   "title": "Illinois Compiled Statutes, Governor's Scholars Board of Sponsors Act (110 ILCS 940)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1159",
+   "versions": [
+    {
+     "from": "2026-05-12",
+     "units": 5,
+     "source_url": "https://web.archive.org/web/20260512133357/https://ilga.gov/Legislation/ILCS/Articles?ActID=1159&ChapterID=18&Chapter=HIGHER%20EDUCATION&MajorTopic=EDUCATION",
+     "sha256": "61b7ed90d691247d50f13fea2bb4f69a76dc25f74e4742ed5368feabb458ed64"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-110-945",
+   "short": "110 ILCS 945",
+   "title": "Illinois Compiled Statutes, Higher Education Loan Act (110 ILCS 945)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1160",
+   "versions": [
+    {
+     "from": "2026-08-03",
+     "units": 53,
+     "source_url": "https://web.archive.org/web/20260803190110/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1160&ChapterID=18",
+     "sha256": "f738433abb58fd664825b4e78c018c787d21ce1bba22dbd3cca4d2f88a5ecaa2"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-110-947",
+   "short": "110 ILCS 947",
+   "title": "Illinois Compiled Statutes, Higher Education Student Assistance Act (110 ILCS 947)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1161",
+   "versions": [
+    {
+     "from": "2026-05-14",
+     "units": 85,
+     "source_url": "https://web.archive.org/web/20260514112151/https://ilga.gov/Legislation/ILCS/Articles?ActID=1161&ChapterID=18&Chapter=HIGHER%20EDUCATION&MajorTopic=EDUCATION",
+     "sha256": "abbb26850425fea53f82cf42c36adcbdbf523fba13467e6bb60a647a3156ca6a"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-110-948",
+   "short": "110 ILCS 948",
+   "title": "Illinois Compiled Statutes, Loan Repayment Assistance for Dentists Act (110 ILCS 948)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2917",
+   "versions": [
+    {
+     "from": "2026-05-17",
+     "units": 9,
+     "source_url": "https://web.archive.org/web/20260517084918/https://ilga.gov/Legislation/ILCS/Articles?ActID=2917&ChapterID=18&Chapter=HIGHER%20EDUCATION&MajorTopic=EDUCATION",
+     "sha256": "8785bc18edb390ca311a3e2bd81d496ac09b7244dace396f17ddb7c7bc7f750c"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-110-949",
+   "short": "110 ILCS 949",
+   "title": "Illinois Compiled Statutes, Loan Repayment Assistance for Physicians Act (110 ILCS 949)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2720",
+   "versions": [
+    {
+     "from": "2026-05-20",
+     "units": 9,
+     "source_url": "https://web.archive.org/web/20260520015925/https://ilga.gov/Legislation/ILCS/Articles?ActID=2720&ChapterID=18&Chapter=HIGHER%20EDUCATION&MajorTopic=EDUCATION",
+     "sha256": "b5e3e2ffbbc96567e7a5b2052e34eefe5ee970f8b35b482da0a7c56551ab5294"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-110-952",
+   "short": "110 ILCS 952",
+   "title": "Illinois Compiled Statutes, Mental Health Graduate Education Scholarship Act (110 ILCS 952)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3148",
+   "versions": [
+    {
+     "from": "2026-07-07",
+     "units": 11,
+     "source_url": "https://web.archive.org/web/20260707100747/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3148&ChapterID=18",
+     "sha256": "cbd003a622c5f82f0334ca231a0455be04f5a9bbe06bc6c91db69b4d529d1b55"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-110-970",
+   "short": "110 ILCS 970",
+   "title": "Illinois Compiled Statutes, Nurses in Advancement Law (110 ILCS 970)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1166",
+   "versions": [
+    {
+     "from": "2026-05-14",
+     "units": 5,
+     "source_url": "https://web.archive.org/web/20260514110534/https://ilga.gov/Legislation/ILCS/Articles?ActID=1166&ChapterID=18&Chapter=HIGHER%20EDUCATION&MajorTopic=EDUCATION",
+     "sha256": "1a85bbd9c943f06dcd67290346e934674b002762a816f9b4cef318f1b0f8097e"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-110-972",
+   "short": "110 ILCS 972",
+   "title": "Illinois Compiled Statutes, Veterans' Home Medical Providers' Loan Repayment Act (110 ILCS 972)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2942",
+   "versions": [
+    {
+     "from": "2026-04-16",
+     "units": 7,
+     "source_url": "https://web.archive.org/web/20260416025757/https://ilga.gov/Legislation/ILCS/Articles?ActID=2942&ChapterID=18&Chapter=HIGHER%20EDUCATION&MajorTopic=EDUCATION",
+     "sha256": "5773d50b04b6c1a77df9bd161ecae84720e6cdf97b7927b2a12c5550ac1b2d32"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-110-975",
+   "short": "110 ILCS 975",
+   "title": "Illinois Compiled Statutes, Nursing Education Scholarship Law (110 ILCS 975)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1167",
+   "versions": [
+    {
+     "from": "2026-03-07",
+     "units": 13,
+     "source_url": "https://web.archive.org/web/20260307021424/https://ilga.gov/Legislation/ILCS/Articles?ActID=1167&ChapterID=18&Chapter=HIGHER%20EDUCATION&MajorTopic=EDUCATION",
+     "sha256": "a689d83bfaf344a84c5775edfe89f897500dcd95e7a26dde6b699d5a87a4f3fd"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-110-978",
+   "short": "110 ILCS 978",
+   "title": "Illinois Compiled Statutes, Podiatric Scholarship and Residency Act (110 ILCS 978)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1168",
+   "versions": [
+    {
+     "from": "2026-05-13",
+     "units": 9,
+     "source_url": "https://web.archive.org/web/20260513225652/https://ilga.gov/Legislation/ILCS/Articles?ActID=1168&ChapterID=18&Chapter=HIGHER%20EDUCATION&MajorTopic=EDUCATION",
+     "sha256": "64ed0955032defcb2720fb69f0eede37e580084b984d28d03c357e66b9c5bc92"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-110-979",
+   "short": "110 ILCS 979",
+   "title": "Illinois Compiled Statutes, Illinois Prepaid Tuition Act (110 ILCS 979)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1169",
+   "versions": [
+    {
+     "from": "2026-03-08",
+     "units": 17,
+     "source_url": "https://web.archive.org/web/20260308163359/https://ilga.gov/Legislation/ILCS/Articles?ActID=1169&ChapterID=18&Chapter=HIGHER%20EDUCATION&MajorTopic=EDUCATION",
+     "sha256": "28ef08d1159b621ebae4237aa2c3f01a134850f5404f0e21039173eb1084ccbc"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-110-983",
+   "short": "110 ILCS 983",
+   "title": "Illinois Compiled Statutes, Know Before You Owe Private Education Loan Act (110 ILCS 983)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=4211",
+   "versions": [
+    {
+     "from": "2026-10-02",
+     "units": 8,
+     "source_url": "https://web.archive.org/web/20261002163329/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=4211&ChapAct=110%A0ILCS%A0983/&ChapterID=18&ChapterName=HIGHER%20EDUCATION&ActName=Know%20Before%20You%20Owe%20Private%20Education%20Loan%20Act",
+     "sha256": "91df0c71678f576a943886882dd3fac00bf995168709a364864143aac0ec8fde"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-110-985",
+   "short": "110 ILCS 985",
+   "title": "Illinois Compiled Statutes, Residence of Minors for Tuition Act (110 ILCS 985)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1171",
+   "versions": [
+    {
+     "from": "2026-03-10",
+     "units": 3,
+     "source_url": "https://web.archive.org/web/20260310104027/https://ilga.gov/Legislation/ILCS/Articles?ActID=1171&ChapterID=18&Chapter=HIGHER%20EDUCATION&MajorTopic=EDUCATION",
+     "sha256": "2dc42fcb406464ac07cb070b0a859df9450ecef4e919d8369dfb170e34fb8776"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-110-986",
+   "short": "110 ILCS 986",
+   "title": "Illinois Compiled Statutes, Retention of Illinois Students and Equity Act (110 ILCS 986)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3991",
+   "versions": [
+    {
+     "from": "2026-05-15",
+     "units": 5,
+     "source_url": "https://web.archive.org/web/20260515163716/https://ilga.gov/Legislation/ILCS/Articles?ActID=3991&ChapterID=18&Chapter=HIGHER%20EDUCATION&MajorTopic=EDUCATION",
+     "sha256": "9744f7b227aeb88ef13278687791159c9655cbaa9a10884282c0772eedfdfe68"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-110-990",
+   "short": "110 ILCS 990",
+   "title": "Illinois Compiled Statutes, Senior Citizen Courses Act (110 ILCS 990)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1172",
+   "versions": [
+    {
+     "from": "2026-04-16",
+     "units": 4,
+     "source_url": "https://web.archive.org/web/20260416022525/https://ilga.gov/Legislation/ILCS/Articles?ActID=1172&ChapterID=18&Chapter=HIGHER%20EDUCATION&MajorTopic=EDUCATION",
+     "sha256": "73b595c8c1279622163ed752af63436b86ebfbd2c8b88fedc2ef15d91e9b1668"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-110-991",
+   "short": "110 ILCS 991",
+   "title": "Illinois Compiled Statutes, Student Investment Account Act (110 ILCS 991)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=4037",
+   "versions": [
+    {
+     "from": "2026-03-05",
+     "units": 18,
+     "source_url": "https://web.archive.org/web/20260305134235/https://ilga.gov/Legislation/ILCS/Articles?ActID=4037&ChapterID=18&Chapter=HIGHER%20EDUCATION&MajorTopic=EDUCATION",
+     "sha256": "c06bebb5655fa4a90c3f4694805b54fe570f3c80436d39d6b27381d8c0359bf7"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-110-992-article-0001",
+   "short": "110 ILCS 992 art. 1",
+   "title": "Illinois Compiled Statutes, Student Loan Servicing Rights Act (110 ILCS 992), Article 1",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3830",
+   "versions": [
+    {
+     "from": "2026-02-14",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20260214225825/https://www.ilga.gov/legislation/ILCS/details?MajorTopic=EDUCATION&Chapter=HIGHER%20EDUCATION&ActName=Student%20Loan%20Servicing%20Rights%20Act.&ActID=3830&ChapterID=18&SeqStart=&&ChapAct=FullText",
+     "sha256": "b8cf3de38a37d6058b869724eabfd4a1a6e5f9cad9f1d9c7b589237114879b38"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-110-992-article-0005",
+   "short": "110 ILCS 992 art. 5",
+   "title": "Illinois Compiled Statutes, Student Loan Servicing Rights Act (110 ILCS 992), Article 5",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3830",
+   "versions": [
+    {
+     "from": "2026-02-14",
+     "units": 17,
+     "source_url": "https://web.archive.org/web/20260214225825/https://www.ilga.gov/legislation/ILCS/details?MajorTopic=EDUCATION&Chapter=HIGHER%20EDUCATION&ActName=Student%20Loan%20Servicing%20Rights%20Act.&ActID=3830&ChapterID=18&SeqStart=&&ChapAct=FullText",
+     "sha256": "b8cf3de38a37d6058b869724eabfd4a1a6e5f9cad9f1d9c7b589237114879b38"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-110-992-article-0007",
+   "short": "110 ILCS 992 art. 7",
+   "title": "Illinois Compiled Statutes, Student Loan Servicing Rights Act (110 ILCS 992), Article 7",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3830",
+   "versions": [
+    {
+     "from": "2026-02-14",
+     "units": 25,
+     "source_url": "https://web.archive.org/web/20260214225825/https://www.ilga.gov/legislation/ILCS/details?MajorTopic=EDUCATION&Chapter=HIGHER%20EDUCATION&ActName=Student%20Loan%20Servicing%20Rights%20Act.&ActID=3830&ChapterID=18&SeqStart=&&ChapAct=FullText",
+     "sha256": "b8cf3de38a37d6058b869724eabfd4a1a6e5f9cad9f1d9c7b589237114879b38"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-110-992-article-0010",
+   "short": "110 ILCS 992 art. 10",
+   "title": "Illinois Compiled Statutes, Student Loan Servicing Rights Act (110 ILCS 992), Article 10",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3830",
+   "versions": [
+    {
+     "from": "2026-02-14",
+     "units": 1,
+     "source_url": "https://web.archive.org/web/20260214225825/https://www.ilga.gov/legislation/ILCS/details?MajorTopic=EDUCATION&Chapter=HIGHER%20EDUCATION&ActName=Student%20Loan%20Servicing%20Rights%20Act.&ActID=3830&ChapterID=18&SeqStart=&&ChapAct=FullText",
+     "sha256": "b8cf3de38a37d6058b869724eabfd4a1a6e5f9cad9f1d9c7b589237114879b38"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-110-992-article-0015",
+   "short": "110 ILCS 992 art. 15",
+   "title": "Illinois Compiled Statutes, Student Loan Servicing Rights Act (110 ILCS 992), Article 15",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3830",
+   "versions": [
+    {
+     "from": "2026-02-14",
+     "units": 8,
+     "source_url": "https://web.archive.org/web/20260214225825/https://www.ilga.gov/legislation/ILCS/details?MajorTopic=EDUCATION&Chapter=HIGHER%20EDUCATION&ActName=Student%20Loan%20Servicing%20Rights%20Act.&ActID=3830&ChapterID=18&SeqStart=&&ChapAct=FullText",
+     "sha256": "b8cf3de38a37d6058b869724eabfd4a1a6e5f9cad9f1d9c7b589237114879b38"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-110-992-article-0020",
+   "short": "110 ILCS 992 art. 20",
+   "title": "Illinois Compiled Statutes, Student Loan Servicing Rights Act (110 ILCS 992), Article 20",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3830",
+   "versions": [
+    {
+     "from": "2026-02-14",
+     "units": 17,
+     "source_url": "https://web.archive.org/web/20260214225825/https://www.ilga.gov/legislation/ILCS/details?MajorTopic=EDUCATION&Chapter=HIGHER%20EDUCATION&ActName=Student%20Loan%20Servicing%20Rights%20Act.&ActID=3830&ChapterID=18&SeqStart=&&ChapAct=FullText",
+     "sha256": "b8cf3de38a37d6058b869724eabfd4a1a6e5f9cad9f1d9c7b589237114879b38"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-110-992-article-0025",
+   "short": "110 ILCS 992 art. 25",
+   "title": "Illinois Compiled Statutes, Student Loan Servicing Rights Act (110 ILCS 992), Article 25",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3830",
+   "versions": [
+    {
+     "from": "2026-02-14",
+     "units": 1,
+     "source_url": "https://web.archive.org/web/20260214225825/https://www.ilga.gov/legislation/ILCS/details?MajorTopic=EDUCATION&Chapter=HIGHER%20EDUCATION&ActName=Student%20Loan%20Servicing%20Rights%20Act.&ActID=3830&ChapterID=18&SeqStart=&&ChapAct=FullText",
+     "sha256": "b8cf3de38a37d6058b869724eabfd4a1a6e5f9cad9f1d9c7b589237114879b38"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-110-992-article-0099",
+   "short": "110 ILCS 992 art. 99",
+   "title": "Illinois Compiled Statutes, Student Loan Servicing Rights Act (110 ILCS 992), Article 99",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3830",
+   "versions": [
+    {
+     "from": "2026-02-14",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20260214225825/https://www.ilga.gov/legislation/ILCS/details?MajorTopic=EDUCATION&Chapter=HIGHER%20EDUCATION&ActName=Student%20Loan%20Servicing%20Rights%20Act.&ActID=3830&ChapterID=18&SeqStart=&&ChapAct=FullText",
+     "sha256": "b8cf3de38a37d6058b869724eabfd4a1a6e5f9cad9f1d9c7b589237114879b38"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-110-995",
+   "short": "110 ILCS 995",
+   "title": "Illinois Compiled Statutes, Veterinary Student Loan Repayment Program Act (110 ILCS 995)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3114",
+   "versions": [
+    {
+     "from": "2026-07-11",
+     "units": 8,
+     "source_url": "https://web.archive.org/web/20260711135047/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3114&ChapterID=18",
+     "sha256": "59fd128a51b17ff7927e7a5a561cae7f384a63f9fc8f5f7939493cc5757bcfb4"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-110-996",
+   "short": "110 ILCS 996",
+   "title": "Illinois Compiled Statutes, Community Behavioral Health Care Professional Loan Repayment Program Act (110 ILCS 996)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3889",
+   "versions": [
+    {
+     "from": "2026-03-15",
+     "units": 8,
+     "source_url": "https://web.archive.org/web/20260315080840/https://ilga.gov/Legislation/ILCS/Articles?ActID=3889&ChapterID=18&Chapter=HIGHER%20EDUCATION&MajorTopic=EDUCATION",
+     "sha256": "3ad6d5f3f434a918626be68c97c92ff3c54335f9a099b75c86ecf1a894ec3f89"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-110-997",
+   "short": "110 ILCS 997",
+   "title": "Illinois Compiled Statutes, Human Services Professional Loan Repayment Program Act (110 ILCS 997)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=4330",
+   "versions": [
+    {
+     "from": "2026-05-21",
+     "units": 9,
+     "source_url": "https://web.archive.org/web/20260521082940/https://ilga.gov/Legislation/ILCS/Articles?ActID=4330&ChapterID=18&Chapter=HIGHER%20EDUCATION&MajorTopic=EDUCATION",
+     "sha256": "fd06909cdc22a011badc157ed3f4f8c8f00543ea932cc5be4d4516c4c081b7f4"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-110-1005",
+   "short": "110 ILCS 1005",
+   "title": "Illinois Compiled Statutes, Private College Act (110 ILCS 1005)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1173",
+   "versions": [
+    {
+     "from": "2026-05-12",
+     "units": 21,
+     "source_url": "https://web.archive.org/web/20260512135513/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1173&ChapterID=18",
+     "sha256": "7a4bcc7a09a581289bb36addd878857db75a35dba1a7ceb60c9125d8f6adafd0"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-110-1010",
+   "short": "110 ILCS 1010",
+   "title": "Illinois Compiled Statutes, Academic Degree Act (110 ILCS 1010)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1174",
+   "versions": [
+    {
+     "from": "2026-03-10",
+     "units": 16,
+     "source_url": "https://web.archive.org/web/20260310132935/https://ilga.gov/Legislation/ILCS/Articles?ActID=1174&ChapterID=18&Chapter=HIGHER%20EDUCATION&MajorTopic=EDUCATION",
+     "sha256": "01c20d20836699ae77b593e732e53a7b9f43dfaea42ebc797be3e13f892e50b1"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-110-1020",
+   "short": "110 ILCS 1020",
+   "title": "Illinois Compiled Statutes, Private College Campus Police Act (110 ILCS 1020)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1176",
+   "versions": [
+    {
+     "from": "2026-04-10",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20260410143223/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1176&ChapterID=18",
+     "sha256": "40692acf56490c5a74cfec167c5bffda55b7914669b98aaf9c1c86b00d44e458"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-115-5",
+   "short": "115 ILCS 5",
+   "title": "Illinois Compiled Statutes, Illinois Educational Labor Relations Act (115 ILCS 5)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1177",
+   "versions": [
+    {
+     "from": "2026-08-27",
+     "units": 27,
+     "source_url": "https://web.archive.org/web/20260827135616/https://ilga.gov/Legislation/ILCS/Articles?Chapter=EDUCATIONAL+LABOR+RELATIONS&MajorTopic=EDUCATION&ActID=1177&ChapterID=19",
+     "sha256": "a25b2bcdf144db0a1fcf959ea358df24789f356552f27101d151ab8b02926701"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-205-5",
+   "short": "205 ILCS 5",
+   "title": "Illinois Compiled Statutes, Illinois Banking Act (205 ILCS 5)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1178",
+   "versions": [
+    {
+     "from": "2026-05-08",
+     "units": 121,
+     "source_url": "https://web.archive.org/web/20260508114430/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1178&ChapAct=205&nbsp;ILCS&nbsp;5/&ChapterID=20&ChapterName=FINANCIAL%20REGULATION&ActName=Illinois%20Banking%20Act.",
+     "sha256": "af751d295a911cf4ab4e312122ff7f4c8da0a35342be8457dd5de3693ffec6a6"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-205-10",
+   "short": "205 ILCS 10",
+   "title": "Illinois Compiled Statutes, Illinois Bank Holding Company Act of 1957 (205 ILCS 10)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1179",
+   "versions": [
+    {
+     "from": "2026-02-13",
+     "units": 18,
+     "source_url": "https://web.archive.org/web/20260213014733/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1179&ChapterID=20&Chapter=FINANCIAL%20REGULATION&MajorTopic=REGULATION",
+     "sha256": "f550e10d34f801d2d337ae2df51f32cc05f8d195115be67970549bcf32e935db"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-205-205",
+   "short": "205 ILCS 205",
+   "title": "Illinois Compiled Statutes, Savings Bank Act (205 ILCS 205)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1184",
+   "versions": [
+    {
+     "from": "2026-03-16",
+     "units": 200,
+     "source_url": "https://web.archive.org/web/20260316031330/https://www.ilga.gov/legislation/ILCS/details?MajorTopic=REGULATION&Chapter=FINANCIAL%20REGULATION&ActName=Savings%20Bank%20Act.&ActID=1184&ChapterID=20&SeqStart=&&ChapAct=FullText",
+     "sha256": "3b68c62fa6fedb7a35977887b8e54fd291ae315a17fb2443a9af7e7b7f971508"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-205-305",
+   "short": "205 ILCS 305",
+   "title": "Illinois Compiled Statutes, Illinois Credit Union Act (205 ILCS 305)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1185",
+   "versions": [
+    {
+     "from": "2026-02-15",
+     "units": 91,
+     "source_url": "https://web.archive.org/web/20260215014220/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1185&ChapterID=20&Chapter=FINANCIAL%20REGULATION&MajorTopic=REGULATION",
+     "sha256": "9f5de73e56c57bc6708933d84d96dc2757f3e4db975bbdbf8ff8cc4dd115306d"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-205-405",
+   "short": "205 ILCS 405",
+   "title": "Illinois Compiled Statutes, Currency Exchange Act (205 ILCS 405)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1186",
+   "versions": [
+    {
+     "from": "2026-06-17",
+     "units": 52,
+     "source_url": "https://web.archive.org/web/20260617100449/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1186&ChapterID=20",
+     "sha256": "90348198dcf86c834c17e36860fe62e43e8b7356043fc33265a6cf67b7b08ab7"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-205-511",
+   "short": "205 ILCS 511",
+   "title": "Illinois Compiled Statutes, Pawnbroker Regulation Act of 2023 (205 ILCS 511)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=4466",
+   "versions": [
+    {
+     "from": "2026-05-16",
+     "units": 47,
+     "source_url": "https://web.archive.org/web/20260516235154/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=4466&ChapterID=20&Chapter=FINANCIAL%20REGULATION&MajorTopic=REGULATION",
+     "sha256": "8f77de851ccb68249a9cc5a769e24fa3ed993513ba0b4776f750133ef53ca425"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-205-605",
+   "short": "205 ILCS 605",
+   "title": "Illinois Compiled Statutes, Consumer Deposit Account Act (205 ILCS 605)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1189",
+   "versions": [
+    {
+     "from": "2026-03-12",
+     "units": 7,
+     "source_url": "https://web.archive.org/web/20260312111832/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1189&ChapterID=20&Chapter=FINANCIAL%20REGULATION&MajorTopic=REGULATION",
+     "sha256": "b39663b1a6a0f2463e4a1e7ed5ba126f8c1fbce4128550689fc05a0b56e534c1"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-205-610",
+   "short": "205 ILCS 610",
+   "title": "Illinois Compiled Statutes, Banking Emergencies Act (205 ILCS 610)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1190",
+   "versions": [
+    {
+     "from": "2026-05-19",
+     "units": 7,
+     "source_url": "https://web.archive.org/web/20260519004532/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1190&ChapterID=20",
+     "sha256": "4d0a067bc86304f8c4d7fe2906eb4704fea8cfeeb46cb8e6e0edc72e2b4f3e06"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-205-616",
+   "short": "205 ILCS 616",
+   "title": "Illinois Compiled Statutes, Electronic Fund Transfer Act (205 ILCS 616)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1192",
+   "versions": [
+    {
+     "from": "2026-08-10",
+     "units": 26,
+     "source_url": "https://web.archive.org/web/20260810055752/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1192&ChapterID=20",
+     "sha256": "c34a0432cbde59ebe141662fa98b0d5fb432012f1fbb477e8f4c77a7ceebb7b0"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-205-625",
+   "short": "205 ILCS 625",
+   "title": "Illinois Compiled Statutes, Illinois Trust and Payable on Death Accounts Act (205 ILCS 625)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1194",
+   "versions": [
+    {
+     "from": "2026-05-16",
+     "units": 7,
+     "source_url": "https://web.archive.org/web/20260516231316/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1194&ChapterID=20",
+     "sha256": "4c8b8a1936b4528e77a8c248692c7f6f643dc8952dbcf56aef25fe5920191949"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-205-630",
+   "short": "205 ILCS 630",
+   "title": "Illinois Compiled Statutes, Promissory Note and Bank Holiday Act. (Part 3) (205 ILCS 630)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1195",
+   "versions": [
+    {
+     "from": "2026-05-16",
+     "units": 1,
+     "source_url": "https://web.archive.org/web/20260516114631/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1195&ChapterID=20&Chapter=FINANCIAL%20REGULATION&MajorTopic=REGULATION",
+     "sha256": "9b3e8a0a83728d6c1abd41aae482bc90b8e68959e6e2d414f7d9ca893fbd879b"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-205-650",
+   "short": "205 ILCS 650",
+   "title": "Illinois Compiled Statutes, Foreign Bank Representative Office Act (205 ILCS 650)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1199",
+   "versions": [
+    {
+     "from": "2026-02-12",
+     "units": 9,
+     "source_url": "https://web.archive.org/web/20260212134313/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1199&ChapterID=20&Chapter=FINANCIAL%20REGULATION&MajorTopic=REGULATION",
+     "sha256": "39065e38ece97c08a94bf1290868022ec5c2f1cbce13426a6d52ce8b7c844f53"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-205-660",
+   "short": "205 ILCS 660",
+   "title": "Illinois Compiled Statutes, Sales Finance Agency Act (205 ILCS 660)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1202",
+   "versions": [
+    {
+     "from": "2026-05-27",
+     "units": 43,
+     "source_url": "https://web.archive.org/web/20260527171339/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1202&ChapterID=20",
+     "sha256": "70c7784a761cea3ad76ab8cd26339fb920569430195a5927e7cbb0ef129f55f3"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-205-665",
+   "short": "205 ILCS 665",
+   "title": "Illinois Compiled Statutes, Debt Management Service Act (205 ILCS 665)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1203",
+   "versions": [
+    {
+     "from": "2026-03-23",
+     "units": 32,
+     "source_url": "https://web.archive.org/web/20260323002505/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1203&ChapterID=20",
+     "sha256": "35f196f0c720ddf08722967ef6274150e5067500300f2eabe9a5988bf8ded4f7"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-205-670",
+   "short": "205 ILCS 670",
+   "title": "Illinois Compiled Statutes, Consumer Installment Loan Act (205 ILCS 670)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1204",
+   "versions": [
+    {
+     "from": "2026-05-21",
+     "units": 48,
+     "source_url": "https://web.archive.org/web/20260521041918/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1204&ChapterID=20",
+     "sha256": "f29ec66e67cedbbe3d564bff7a0a90f6a57d20c7d0458f9fbe33d86fb9e37080"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-205-675",
+   "short": "205 ILCS 675",
+   "title": "Illinois Compiled Statutes, Illinois Financial Services Development Act (205 ILCS 675)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1205",
+   "versions": [
+    {
+     "from": "2026-02-12",
+     "units": 12,
+     "source_url": "https://web.archive.org/web/20260212155211/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1205&ChapterID=20&Chapter=FINANCIAL%20REGULATION&MajorTopic=REGULATION",
+     "sha256": "029c722821ab82ce19df195473ebc2cb58e767d3f91ed2b86155ebd8f1155318"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-205-685",
+   "short": "205 ILCS 685",
+   "title": "Illinois Compiled Statutes, Currency Reporting Act (205 ILCS 685)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1207",
+   "versions": [
+    {
+     "from": "2026-08-08",
+     "units": 11,
+     "source_url": "https://web.archive.org/web/20260808175923/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1207&ChapterID=20",
+     "sha256": "3cbec02a23c511a11705f7fd56162692e14f354942337fdbad3cb4dbaa47b80f"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-205-695",
+   "short": "205 ILCS 695",
+   "title": "Illinois Compiled Statutes, Automated Teller Machine Security Act (205 ILCS 695)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1209",
+   "versions": [
+    {
+     "from": "2026-02-18",
+     "units": 10,
+     "source_url": "https://web.archive.org/web/20260218112533/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1209&ChapterID=20&Chapter=FINANCIAL%20REGULATION&MajorTopic=REGULATION",
+     "sha256": "f5ac523322812ad86dd41f9922b9dbaca8df7faaa011a2d0798d85981c4dc6d2"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-205-705",
+   "short": "205 ILCS 705",
+   "title": "Illinois Compiled Statutes, Financial Institutions Electronic Documents and Digital Signature Act (205 ILCS 705)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1211",
+   "versions": [
+    {
+     "from": "2026-03-08",
+     "units": 12,
+     "source_url": "https://web.archive.org/web/20260308050426/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1211&ChapterID=20&Chapter=FINANCIAL%20REGULATION&MajorTopic=REGULATION",
+     "sha256": "d28f4b31c94a128d181f4664fb68ebeb041687a07dcdf971543f0c2c4417bdcb"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-205-710",
+   "short": "205 ILCS 710",
+   "title": "Illinois Compiled Statutes, Banking on Illinois Act (205 ILCS 710)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1212",
+   "versions": [
+    {
+     "from": "2026-03-11",
+     "units": 6,
+     "source_url": "https://web.archive.org/web/20260311051307/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1212&ChapterID=20&Chapter=FINANCIAL%20REGULATION&MajorTopic=REGULATION",
+     "sha256": "c422172f277df42b39b60055ca293b7f228216f5ee93b7d11cde0a113cf311be"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-205-715",
+   "short": "205 ILCS 715",
+   "title": "Illinois Compiled Statutes, Data Processing Services for Financial Institutions Act (205 ILCS 715)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1213",
+   "versions": [
+    {
+     "from": "2026-02-08",
+     "units": 6,
+     "source_url": "https://web.archive.org/web/20260208104139/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1213&ChapterID=20&Chapter=FINANCIAL%20REGULATION&MajorTopic=REGULATION",
+     "sha256": "ac46cff93d3aaac63dda5eb2159c1377974ef4928bd4f1138bb33daf25f45c2a"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-205-725",
+   "short": "205 ILCS 725",
+   "title": "Illinois Compiled Statutes, Blockchain Business Development Act  (205 ILCS 725)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=4014",
+   "versions": [
+    {
+     "from": "2026-03-16",
+     "units": 4,
+     "source_url": "https://web.archive.org/web/20260316053815/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=4014&ChapterID=20&Chapter=FINANCIAL%20REGULATION&MajorTopic=REGULATION",
+     "sha256": "3c1c53531324adf2059abb4318146808045521e55c2b0becbab6a0d8778951a2"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-205-730",
+   "short": "205 ILCS 730",
+   "title": "Illinois Compiled Statutes, Blockchain Technology Act (205 ILCS 730)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=4030",
+   "versions": [
+    {
+     "from": "2026-07-19",
+     "units": 5,
+     "source_url": "https://web.archive.org/web/20260719063911/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=4030&ChapterID=20",
+     "sha256": "968f41d07bf4efafb6d5382bb0bd26d172dddccbf581cf51198e87bc4b01ff9b"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-205-731-article-0001",
+   "short": "205 ILCS 731 art. 1",
+   "title": "Illinois Compiled Statutes, Digital Assets and Consumer Protection Act (205 ILCS 731), Article 1",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=4632",
+   "versions": [
+    {
+     "from": "2026-03-15",
+     "units": 5,
+     "source_url": "https://web.archive.org/web/20260315050133/https://www.ilga.gov/legislation/ILCS/details?MajorTopic=REGULATION&Chapter=FINANCIAL%20REGULATION&ActName=Digital%20Assets%20and%20Consumer%20Protection%20Act.&ActID=4632&ChapterID=20&SeqStart=&&ChapAct=FullText",
+     "sha256": "67c9b0a52fc4100405ba6ae29c011df8f02f842b200509d572a5ab29089db6f1"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-205-731-article-0005",
+   "short": "205 ILCS 731 art. 5",
+   "title": "Illinois Compiled Statutes, Digital Assets and Consumer Protection Act (205 ILCS 731), Article 5",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=4632",
+   "versions": [
+    {
+     "from": "2026-03-15",
+     "units": 5,
+     "source_url": "https://web.archive.org/web/20260315050133/https://www.ilga.gov/legislation/ILCS/details?MajorTopic=REGULATION&Chapter=FINANCIAL%20REGULATION&ActName=Digital%20Assets%20and%20Consumer%20Protection%20Act.&ActID=4632&ChapterID=20&SeqStart=&&ChapAct=FullText",
+     "sha256": "67c9b0a52fc4100405ba6ae29c011df8f02f842b200509d572a5ab29089db6f1"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-205-731-article-0010",
+   "short": "205 ILCS 731 art. 10",
+   "title": "Illinois Compiled Statutes, Digital Assets and Consumer Protection Act (205 ILCS 731), Article 10",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=4632",
+   "versions": [
+    {
+     "from": "2026-03-15",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20260315050133/https://www.ilga.gov/legislation/ILCS/details?MajorTopic=REGULATION&Chapter=FINANCIAL%20REGULATION&ActName=Digital%20Assets%20and%20Consumer%20Protection%20Act.&ActID=4632&ChapterID=20&SeqStart=&&ChapAct=FullText",
+     "sha256": "67c9b0a52fc4100405ba6ae29c011df8f02f842b200509d572a5ab29089db6f1"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-205-731-article-0015",
+   "short": "205 ILCS 731 art. 15",
+   "title": "Illinois Compiled Statutes, Digital Assets and Consumer Protection Act (205 ILCS 731), Article 15",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=4632",
+   "versions": [
+    {
+     "from": "2026-03-15",
+     "units": 4,
+     "source_url": "https://web.archive.org/web/20260315050133/https://www.ilga.gov/legislation/ILCS/details?MajorTopic=REGULATION&Chapter=FINANCIAL%20REGULATION&ActName=Digital%20Assets%20and%20Consumer%20Protection%20Act.&ActID=4632&ChapterID=20&SeqStart=&&ChapAct=FullText",
+     "sha256": "67c9b0a52fc4100405ba6ae29c011df8f02f842b200509d572a5ab29089db6f1"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-205-731-article-0020",
+   "short": "205 ILCS 731 art. 20",
+   "title": "Illinois Compiled Statutes, Digital Assets and Consumer Protection Act (205 ILCS 731), Article 20",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=4632",
+   "versions": [
+    {
+     "from": "2026-03-15",
+     "units": 16,
+     "source_url": "https://web.archive.org/web/20260315050133/https://www.ilga.gov/legislation/ILCS/details?MajorTopic=REGULATION&Chapter=FINANCIAL%20REGULATION&ActName=Digital%20Assets%20and%20Consumer%20Protection%20Act.&ActID=4632&ChapterID=20&SeqStart=&&ChapAct=FullText",
+     "sha256": "67c9b0a52fc4100405ba6ae29c011df8f02f842b200509d572a5ab29089db6f1"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-205-731-article-0030",
+   "short": "205 ILCS 731 art. 30",
+   "title": "Illinois Compiled Statutes, Digital Assets and Consumer Protection Act (205 ILCS 731), Article 30",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=4632",
+   "versions": [
+    {
+     "from": "2026-03-15",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20260315050133/https://www.ilga.gov/legislation/ILCS/details?MajorTopic=REGULATION&Chapter=FINANCIAL%20REGULATION&ActName=Digital%20Assets%20and%20Consumer%20Protection%20Act.&ActID=4632&ChapterID=20&SeqStart=&&ChapAct=FullText",
+     "sha256": "67c9b0a52fc4100405ba6ae29c011df8f02f842b200509d572a5ab29089db6f1"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-205-731-article-0035",
+   "short": "205 ILCS 731 art. 35",
+   "title": "Illinois Compiled Statutes, Digital Assets and Consumer Protection Act (205 ILCS 731), Article 35",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=4632",
+   "versions": [
+    {
+     "from": "2026-03-15",
+     "units": 3,
+     "source_url": "https://web.archive.org/web/20260315050133/https://www.ilga.gov/legislation/ILCS/details?MajorTopic=REGULATION&Chapter=FINANCIAL%20REGULATION&ActName=Digital%20Assets%20and%20Consumer%20Protection%20Act.&ActID=4632&ChapterID=20&SeqStart=&&ChapAct=FullText",
+     "sha256": "67c9b0a52fc4100405ba6ae29c011df8f02f842b200509d572a5ab29089db6f1"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-205-731-article-0099",
+   "short": "205 ILCS 731 art. 99",
+   "title": "Illinois Compiled Statutes, Digital Assets and Consumer Protection Act (205 ILCS 731), Article 99",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=4632",
+   "versions": [
+    {
+     "from": "2026-03-15",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20260315050133/https://www.ilga.gov/legislation/ILCS/details?MajorTopic=REGULATION&Chapter=FINANCIAL%20REGULATION&ActName=Digital%20Assets%20and%20Consumer%20Protection%20Act.&ActID=4632&ChapterID=20&SeqStart=&&ChapAct=FullText",
+     "sha256": "67c9b0a52fc4100405ba6ae29c011df8f02f842b200509d572a5ab29089db6f1"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-205-732",
+   "short": "205 ILCS 732",
+   "title": "Illinois Compiled Statutes, Digital Asset Kiosks Act (205 ILCS 732)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=4633",
+   "versions": [
+    {
+     "from": "2026-05-13",
+     "units": 33,
+     "source_url": "https://web.archive.org/web/20260513042519/https://ilga.gov/Legislation/ILCS/Articles?ActID=4633&ChapterID=20&Chapter=FINANCIAL%20REGULATION&MajorTopic=REGULATION",
+     "sha256": "3b23439c75b538e61452e71f1112b4ee842d1a3b26a8025398cd5f22829b0c87"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-205-735",
+   "short": "205 ILCS 735",
+   "title": "Illinois Compiled Statutes, Illinois Community Reinvestment Act (205 ILCS 735)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=4086",
+   "versions": [
+    {
+     "from": "2026-05-24",
+     "units": 13,
+     "source_url": "https://web.archive.org/web/20260524220618/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=4086&ChapterID=20",
+     "sha256": "df32fd9b4e793d9c35a855ca9ed7d0d8144ffc8b9a379e72f3992b382eb1ad73"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-205-740",
+   "short": "205 ILCS 740",
+   "title": "Illinois Compiled Statutes, Collection Agency Act (205 ILCS 740)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=4292",
+   "versions": [
+    {
+     "from": "2026-09-03",
+     "units": 61,
+     "source_url": "https://web.archive.org/web/20260903171517/https://ilga.gov/Legislation/ILCS/Articles?ActID=4292&ChapterID=20&Chapter=FINANCIAL%20REGULATION&MajorTopic=REGULATION",
+     "sha256": "7219e46c5f88915e95292f01bac8debe6962a463a02ffd972c0ab0355cf5606e"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-205-745",
+   "short": "205 ILCS 745",
+   "title": "Illinois Compiled Statutes, Banking Development District Act (205 ILCS 745)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=4335",
+   "versions": [
+    {
+     "from": "2026-05-21",
+     "units": 9,
+     "source_url": "https://web.archive.org/web/20260521121855/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=4335&ChapterID=20&Chapter=FINANCIAL%20REGULATION&MajorTopic=REGULATION",
+     "sha256": "96edca82442c64c8238e284ecd862bfe8662a73f0cf5fded7298eef647a31a1e"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-210-3",
+   "short": "210 ILCS 3",
+   "title": "Illinois Compiled Statutes, Alternative Health Care Delivery Act (210 ILCS 3)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1214",
+   "versions": [
+    {
+     "from": "2026-06-13",
+     "units": 23,
+     "source_url": "https://web.archive.org/web/20260613233654/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1214&ChapterID=21",
+     "sha256": "d22b73e3e7727f8409c1b5574a96388f02cb1cf1e7d20244719d507a20e5a04b"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-210-4",
+   "short": "210 ILCS 4",
+   "title": "Illinois Compiled Statutes, Alzheimer's Disease and Related Dementias Special Care Disclosure Act (210 ILCS 4)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1215",
+   "versions": [
+    {
+     "from": "2026-10-15",
+     "units": 9,
+     "source_url": "https://web.archive.org/web/20261015230132/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1215&ChapterID=21",
+     "sha256": "b239f0d313168f67b57e40b5e716669477a19cd69cb278ba5bae23468a1f90ba"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-210-5",
+   "short": "210 ILCS 5",
+   "title": "Illinois Compiled Statutes, Ambulatory Surgical Treatment Center Act (210 ILCS 5)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1216",
+   "versions": [
+    {
+     "from": "2026-09-02",
+     "units": 34,
+     "source_url": "https://web.archive.org/web/20260902181811/https://ilga.gov/Legislation/ILCS/Articles?ActID=1216&ChapterID=21",
+     "sha256": "363088aaeac3b5cc16f34bde3f60b467e36de4e3573e51ccbed6696b386acc0c"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-210-9",
+   "short": "210 ILCS 9",
+   "title": "Illinois Compiled Statutes, Assisted Living and Shared Housing Act (210 ILCS 9)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1217",
+   "versions": [
+    {
+     "from": "2026-10-11",
+     "units": 58,
+     "source_url": "https://web.archive.org/web/20261011014645/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1217&ChapterID=21&Chapter=HEALTH%20FACILITIES%20AND%20REGULATION&MajorTopic=REGULATION",
+     "sha256": "d640edf31e9195a1a95bbf88718e9ac51caa7e9de92e4fc37b38a46b3e0bdf23"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-210-15",
+   "short": "210 ILCS 15",
+   "title": "Illinois Compiled Statutes, Blood Donation Act (210 ILCS 15)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1219",
+   "versions": [
+    {
+     "from": "2026-04-10",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20260410185918/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1219&ChapterID=21",
+     "sha256": "773e10c9e9c90cb9da757afe4226256e0c15747e75d5b7f24138fa73511c74a8"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-210-28",
+   "short": "210 ILCS 28",
+   "title": "Illinois Compiled Statutes, Abuse Prevention Review Team Act (210 ILCS 28)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2464",
+   "versions": [
+    {
+     "from": "2026-08-14",
+     "units": 16,
+     "source_url": "https://web.archive.org/web/20260814132443/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2464&ChapterID=21",
+     "sha256": "12aedc4f17a44c2fe60f0943fd52a67befe67fec9e23f659a76c809794144b8c"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-210-30",
+   "short": "210 ILCS 30",
+   "title": "Illinois Compiled Statutes, Abused and Neglected Long Term Care Facility Residents Reporting Act (210 ILCS 30)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1222",
+   "versions": [
+    {
+     "from": "2026-08-17",
+     "units": 23,
+     "source_url": "https://web.archive.org/web/20260817213118/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1222&ChapterID=21",
+     "sha256": "80f2a9e959cf97036089481a3b33fc7dbdff734af6a820e2ed009c6d38b5fdf9"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-210-40",
+   "short": "210 ILCS 40",
+   "title": "Illinois Compiled Statutes, Life Care Facilities Act (210 ILCS 40)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1224",
+   "versions": [
+    {
+     "from": "2026-04-27",
+     "units": 19,
+     "source_url": "https://web.archive.org/web/20260427030237/https://ilga.gov/Legislation/ILCS/Articles?ActID=1224&ChapterID=21",
+     "sha256": "b2f60f15dcedb15c0816341e428dbe58e233b8d6269816d30ab1767357590554"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-210-42",
+   "short": "210 ILCS 42",
+   "title": "Illinois Compiled Statutes, Continuum of Care Services for the Developmentally Disabled Act (210 ILCS 42)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3741",
+   "versions": [
+    {
+     "from": "2026-09-06",
+     "units": 10,
+     "source_url": "https://web.archive.org/web/20260906231339/https://ilga.gov/Legislation/ILCS/Articles?ActID=3741&ChapterID=21",
+     "sha256": "fb0008638717790b35cc32bf73b7d87505ae02653ef3b03e51d02aa72393032b"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-210-45-article-0001",
+   "short": "210 ILCS 45 art. 1",
+   "title": "Illinois Compiled Statutes, Nursing Home Care Act (210 ILCS 45), Article 1",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1225",
+   "versions": [
+    {
+     "from": "2026-03-16",
+     "units": 39,
+     "source_url": "https://web.archive.org/web/20260316215849/https://www.ilga.gov/legislation/ILCS/details?MajorTopic=REGULATION&Chapter=HEALTH%20FACILITIES%20AND%20REGULATION&ActName=Nursing%20Home%20Care%20Act.&ActID=1225&ChapterID=21&SeqStart=&&ChapAct=FullText",
+     "sha256": "677a1f1ba8f75f3a74d1166f20d9a537828654001c50490f7518f49ff71e5b19"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-210-45-article-0002",
+   "short": "210 ILCS 45 art. 2",
+   "title": "Illinois Compiled Statutes, Nursing Home Care Act (210 ILCS 45), Article 2",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1225",
+   "versions": [
+    {
+     "from": "2026-03-16",
+     "units": 44,
+     "source_url": "https://web.archive.org/web/20260316215849/https://www.ilga.gov/legislation/ILCS/details?MajorTopic=REGULATION&Chapter=HEALTH%20FACILITIES%20AND%20REGULATION&ActName=Nursing%20Home%20Care%20Act.&ActID=1225&ChapterID=21&SeqStart=&&ChapAct=FullText",
+     "sha256": "677a1f1ba8f75f3a74d1166f20d9a537828654001c50490f7518f49ff71e5b19"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-210-45-article-0003",
+   "short": "210 ILCS 45 art. 3",
+   "title": "Illinois Compiled Statutes, Nursing Home Care Act (210 ILCS 45), Article 3",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1225",
+   "versions": [
+    {
+     "from": "2026-03-16",
+     "units": 171,
+     "source_url": "https://web.archive.org/web/20260316215849/https://www.ilga.gov/legislation/ILCS/details?MajorTopic=REGULATION&Chapter=HEALTH%20FACILITIES%20AND%20REGULATION&ActName=Nursing%20Home%20Care%20Act.&ActID=1225&ChapterID=21&SeqStart=&&ChapAct=FullText",
+     "sha256": "677a1f1ba8f75f3a74d1166f20d9a537828654001c50490f7518f49ff71e5b19"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-210-45-article-0003a",
+   "short": "210 ILCS 45 art. 3A",
+   "title": "Illinois Compiled Statutes, Nursing Home Care Act (210 ILCS 45), Article 3A",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1225",
+   "versions": [
+    {
+     "from": "2026-03-16",
+     "units": 1,
+     "source_url": "https://web.archive.org/web/20260316215849/https://www.ilga.gov/legislation/ILCS/details?MajorTopic=REGULATION&Chapter=HEALTH%20FACILITIES%20AND%20REGULATION&ActName=Nursing%20Home%20Care%20Act.&ActID=1225&ChapterID=21&SeqStart=&&ChapAct=FullText",
+     "sha256": "677a1f1ba8f75f3a74d1166f20d9a537828654001c50490f7518f49ff71e5b19"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-210-50",
+   "short": "210 ILCS 50",
+   "title": "Illinois Compiled Statutes, Emergency Medical Services (EMS) Systems Act (210 ILCS 50)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1226",
+   "versions": [
+    {
+     "from": "2026-03-10",
+     "units": 149,
+     "source_url": "https://web.archive.org/web/20260310220753/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1226&ChapterID=21",
+     "sha256": "834ce5ad2e06d2a42e23cb33013f976de125902a0a89a1e09af50e97ecc79a68"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-210-55",
+   "short": "210 ILCS 55",
+   "title": "Illinois Compiled Statutes, Home Health, Home Services, and Home Nursing Agency Licensing Act (210 ILCS 55)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1227",
+   "versions": [
+    {
+     "from": "2026-07-27",
+     "units": 40,
+     "source_url": "https://web.archive.org/web/20260727141751/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1227&ChapterID=21",
+     "sha256": "2533f7df062afc1f7658667900d750ec501f907f46f0ed5bf38b1425ef83e250"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-210-60",
+   "short": "210 ILCS 60",
+   "title": "Illinois Compiled Statutes, Hospice Program Licensing Act (210 ILCS 60)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1228",
+   "versions": [
+    {
+     "from": "2026-04-14",
+     "units": 18,
+     "source_url": "https://web.archive.org/web/20260414212755/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1228&ChapAct=210%20ILCS%2060/&ChapterID=21&ChapterName=HEALTH%20FACILITIES&ActName=Hospice%20Program%20Licensing%20Act.",
+     "sha256": "f0da9c5b56007a038f9df44747e792023c621a5a3936829d07bf2a9b2e1e012a"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-210-74",
+   "short": "210 ILCS 74",
+   "title": "Illinois Compiled Statutes, Physical Fitness Facility Medical Emergency Preparedness Act (210 ILCS 74)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2616",
+   "versions": [
+    {
+     "from": "2026-07-10",
+     "units": 19,
+     "source_url": "https://web.archive.org/web/20260710141142/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2616&ChapterID=21",
+     "sha256": "1a09d5da81e85c8cf0a585f22611d29e8f1f5d8234292ddca606a19ce5fcad4e"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-210-76",
+   "short": "210 ILCS 76",
+   "title": "Illinois Compiled Statutes, Community Benefits Act (210 ILCS 76)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2465",
+   "versions": [
+    {
+     "from": "2026-10-15",
+     "units": 10,
+     "source_url": "https://web.archive.org/web/20261015145829/https://www.ilga.gov/Legislation/ILCS/Articles?MajorTopic=&ChapterID=21&ActID=2465&Chapter=",
+     "sha256": "03527f9773115f19232ba5612638af427321186c869fa702360b5e43e30652e6"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-210-80",
+   "short": "210 ILCS 80",
+   "title": "Illinois Compiled Statutes, Hospital Emergency Service Act (210 ILCS 80)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1233",
+   "versions": [
+    {
+     "from": "2026-05-15",
+     "units": 9,
+     "source_url": "https://web.archive.org/web/20260515074211/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1233&ChapAct=210%20ILCS%2080/&ChapterID=21&ChapterName=HEALTH%20FACILITIES&ActName=Hospital%20Emergency%20Service%20Act",
+     "sha256": "d712eca5ef8295f4e9ce16dea4cb33de961ec5e1daf25fd20a1ff639b59c6a32"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-210-83",
+   "short": "210 ILCS 83",
+   "title": "Illinois Compiled Statutes, MRSA Screening and Reporting Act (210 ILCS 83)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2919",
+   "versions": [
+    {
+     "from": "2026-05-05",
+     "units": 5,
+     "source_url": "https://web.archive.org/web/20260505113502/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2919&ChapterID=21",
+     "sha256": "15be72a036c6b2defcf1282fe51e36926ea7634c977c55634dcf0f25bf895c7b"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-210-85",
+   "short": "210 ILCS 85",
+   "title": "Illinois Compiled Statutes, Hospital Licensing Act (210 ILCS 85)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1234",
+   "versions": [
+    {
+     "from": "2026-05-20",
+     "units": 95,
+     "source_url": "https://web.archive.org/web/20260520040515/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1234&ChapterID=21",
+     "sha256": "992bcd84e5ccbe79ae229f774c7b11b0e7fe4a2d584883fc0bcdf34175bfb448"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-210-86",
+   "short": "210 ILCS 86",
+   "title": "Illinois Compiled Statutes, Hospital Report Card Act (210 ILCS 86)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2466",
+   "versions": [
+    {
+     "from": "2026-07-17",
+     "units": 12,
+     "source_url": "https://web.archive.org/web/20260717004051/https://ilga.gov/Legislation/ILCS/Articles?ActID=2466&ChapterID=21",
+     "sha256": "51d38c0bc229796e04dde1f227bd0752f7e17b4774fa1ac0c4e990251e5aab34"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-210-88",
+   "short": "210 ILCS 88",
+   "title": "Illinois Compiled Statutes, Fair Patient Billing Act (210 ILCS 88)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2798",
+   "versions": [
+    {
+     "from": "2026-10-14",
+     "units": 20,
+     "source_url": "https://web.archive.org/web/20261014042758/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2798&ChapterID=21&Chapter=HEALTH%20FACILITIES%20AND%20REGULATION&MajorTopic=REGULATION",
+     "sha256": "2c712d1ba11da2eb2989627c78738c35978b0a9b8174c5ddd3a75aad13aeba1c"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-210-89",
+   "short": "210 ILCS 89",
+   "title": "Illinois Compiled Statutes, Hospital Uninsured Patient Discount Act (210 ILCS 89)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3001",
+   "versions": [
+    {
+     "from": "2026-03-30",
+     "units": 9,
+     "source_url": "https://web.archive.org/web/20260330160629/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3001&ChapterID=21",
+     "sha256": "442ee62682a468c2d4351f001dbb9c3a327b32a7a53297dfe663cf777ededb7a"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-210-91",
+   "short": "210 ILCS 91",
+   "title": "Illinois Compiled Statutes, Caregiver Advise, Record, and Enable Act (210 ILCS 91)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3647",
+   "versions": [
+    {
+     "from": "2026-05-25",
+     "units": 9,
+     "source_url": "https://web.archive.org/web/20260525191452/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3647&ChapterID=21",
+     "sha256": "abd40aa746a877adcfae2ac58c113e9c27fdc5a4ae0061fbb3440204b235f729"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-210-95",
+   "short": "210 ILCS 95",
+   "title": "Illinois Compiled Statutes, Campground Licensing and Recreational Area Act (210 ILCS 95)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1237",
+   "versions": [
+    {
+     "from": "2026-06-07",
+     "units": 32,
+     "source_url": "https://web.archive.org/web/20260607174647/https://ilga.gov/Legislation/ILCS/Articles?ActID=1237&ChapterID=21",
+     "sha256": "a8eaf4f1a4664b6201cc11d265b906f1186ff629dca252ac566616908d3c1041"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-210-100",
+   "short": "210 ILCS 100",
+   "title": "Illinois Compiled Statutes, Youth Camp Act (210 ILCS 100)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1238",
+   "versions": [
+    {
+     "from": "2026-04-16",
+     "units": 33,
+     "source_url": "https://web.archive.org/web/20260416130659/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1238&ChapterID=21",
+     "sha256": "d20feae27d7c0f19c54c802af825e53cb07c7075ceb689de39c1f2e877e6aafa"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-210-105",
+   "short": "210 ILCS 105",
+   "title": "Illinois Compiled Statutes, Field Sanitation Act (210 ILCS 105)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1239",
+   "versions": [
+    {
+     "from": "2026-02-24",
+     "units": 12,
+     "source_url": "https://web.archive.org/web/20260224165543/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1239&ChapterID=21",
+     "sha256": "85224595e41392916f83e1fd97cf3e2c96a122bb84b157c0bfa43f0a2641d386"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-210-110",
+   "short": "210 ILCS 110",
+   "title": "Illinois Compiled Statutes, Illinois Migrant Labor Camp Law (210 ILCS 110)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1240",
+   "versions": [
+    {
+     "from": "2026-08-13",
+     "units": 23,
+     "source_url": "https://web.archive.org/web/20260813150033/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1240&ChapterID=25",
+     "sha256": "4d9102a5bf69a7ecfbfd8ca4d5ed8ee54e9761650b75d061721f44b6f321e3a8"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-210-115",
+   "short": "210 ILCS 115",
+   "title": "Illinois Compiled Statutes, Mobile Home Park Act (210 ILCS 115)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1241",
+   "versions": [
+    {
+     "from": "2026-06-22",
+     "units": 58,
+     "source_url": "https://web.archive.org/web/20260622045946/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1241&ChapterID=21",
+     "sha256": "b2c4d4cc0d96bb645150ee2f654d35774137cafdffd4474e88acd9632e4d9b99"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-210-117",
+   "short": "210 ILCS 117",
+   "title": "Illinois Compiled Statutes, Abandoned Mobile Home Act (210 ILCS 117)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1242",
+   "versions": [
+    {
+     "from": "2026-08-04",
+     "units": 15,
+     "source_url": "https://web.archive.org/web/20260804000334/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1242&ChapterID=21",
+     "sha256": "cb2b61062081c0ba5c2e09124045ea523947e8d07b23f8a94258d2dcef0edf51"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-210-120",
+   "short": "210 ILCS 120",
+   "title": "Illinois Compiled Statutes, Illinois Mobile Home Tiedown Act (210 ILCS 120)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1243",
+   "versions": [
+    {
+     "from": "2026-05-19",
+     "units": 7,
+     "source_url": "https://web.archive.org/web/20260519222241/https://ilga.gov/Legislation/ILCS/Articles?ActID=1243&ChapterID=21&Chapter=HEALTH%20FACILITIES%20AND%20REGULATION&MajorTopic=REGULATION",
+     "sha256": "0a80944e8443cd3874bd32585d93f19e8bbf9696bccffa7caeeed15bf509ff33"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-210-125",
+   "short": "210 ILCS 125",
+   "title": "Illinois Compiled Statutes, Swimming Facility Act (210 ILCS 125)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1244",
+   "versions": [
+    {
+     "from": "2026-08-09",
+     "units": 69,
+     "source_url": "https://web.archive.org/web/20260809023521/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1244&ChapterID=21",
+     "sha256": "dfe19bbb33096d0da4c8e7760e290ab22d64db4db33baa7050fcc340cfe4a9b5"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-210-145",
+   "short": "210 ILCS 145",
+   "title": "Illinois Compiled Statutes, Tanning Facility Permit Act (210 ILCS 145)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1248",
+   "versions": [
+    {
+     "from": "2026-05-12",
+     "units": 19,
+     "source_url": "https://web.archive.org/web/20260512133200/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1248&ChapAct=210%26nbsp%3BILCS%26nbsp%3B145%2F&ChapterID=21&ChapterName=HEALTH+FACILITIES&ActName=Tanning+Facility+Permit+Act.",
+     "sha256": "94ab3c0f6466d7af44091fd4b4a9babaf55d10afbfdc10f925477484779059b1"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-210-155",
+   "short": "210 ILCS 155",
+   "title": "Illinois Compiled Statutes, Long Term Acute Care Hospital Quality Improvement Transfer Program Act (210 ILCS 155)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3251",
+   "versions": [
+    {
+     "from": "2026-05-06",
+     "units": 13,
+     "source_url": "https://web.archive.org/web/20260506232948/https://ilga.gov/Legislation/ILCS/Articles?ActID=3251&ChapterID=21",
+     "sha256": "4c70c3c38df23473a4570c726bf5bf78f1ad3d42416f2527d0a3ac40fdd3c3e2"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-210-160",
+   "short": "210 ILCS 160",
+   "title": "Illinois Compiled Statutes, Health Care Violence Prevention Act (210 ILCS 160)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3906",
+   "versions": [
+    {
+     "from": "2026-05-18",
+     "units": 14,
+     "source_url": "https://web.archive.org/web/20260518043149/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3906&ChapterID=21",
+     "sha256": "a42c7f2abe99375df2764ef842e913b0212fa9520c7b1ecd940e74b9f8a55889"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-210-165",
+   "short": "210 ILCS 165",
+   "title": "Illinois Compiled Statutes, Authorized Electronic Monitoring in Community-Integrated Living Arrangements and Developmental Disability Facilities Act (210 ILCS 165)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=4011",
+   "versions": [
+    {
+     "from": "2026-04-27",
+     "units": 17,
+     "source_url": "https://web.archive.org/web/20260427020949/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=4011&ChapterID=21",
+     "sha256": "ffa57963512a53acc33de1bfa6300c5ea553487d9abe6a431aeee85d56e5130a"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-210-175",
+   "short": "210 ILCS 175",
+   "title": "Illinois Compiled Statutes, Essential Support Person Act (210 ILCS 175)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=4423",
+   "versions": [
+    {
+     "from": "2026-05-09",
+     "units": 6,
+     "source_url": "https://web.archive.org/web/20260509143439/https://ilga.gov/Legislation/ILCS/Articles?ActID=4423&ChapterID=21&Chapter=HEALTH%20FACILITIES%20AND%20REGULATION&MajorTopic=REGULATION",
+     "sha256": "df01256dfc4da85d5a6c1ae048c9e4e303b2b38fac338f809c3375c519208cba"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-215-5",
+   "short": "215 ILCS 5",
+   "title": "Illinois Compiled Statutes, Illinois Insurance Code (215 ILCS 5)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1249",
+   "versions": [
+    {
+     "from": "2026-10-21",
+     "units": 1606,
+     "source_url": "https://web.archive.org/web/20261021172450/https://www.ilga.gov/legislation/ILCS/details?SeqStart=&ChapAct=FullText&MajorTopic=&Chapter=&ActName=Illinois+Insurance+Code.&ActID=1249&ChapterID=22",
+     "sha256": "29f0e89e33ef0a7f1adf6bcd13372a9b312a8e5d30b3b42b0027adde3010f402"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-215-97",
+   "short": "215 ILCS 97",
+   "title": "Illinois Compiled Statutes, Illinois Health Insurance Portability and Accountability Act (215 ILCS 97)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1252",
+   "versions": [
+    {
+     "from": "2026-06-12",
+     "units": 19,
+     "source_url": "https://web.archive.org/web/20260612024134/https://ilga.gov/Legislation/ILCS/Articles?ActID=1252&ChapterID=22&Chapter=INSURANCE&MajorTopic=REGULATION",
+     "sha256": "f1b019310352711f82330232d5e5bb9afc7db1f2c9e613a85df5ba91bfbcfd56"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-215-100",
+   "short": "215 ILCS 100",
+   "title": "Illinois Compiled Statutes, Reinsurance Intermediary Act (215 ILCS 100)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1253",
+   "versions": [
+    {
+     "from": "2026-06-12",
+     "units": 13,
+     "source_url": "https://web.archive.org/web/20260612020057/https://ilga.gov/Legislation/ILCS/Articles?ActID=1253&ChapterID=22&Chapter=INSURANCE&MajorTopic=REGULATION",
+     "sha256": "0fdf7d681014efbd588e3a43031ac64d64c842e4af5c8029d8e9a42e55779879"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-215-105",
+   "short": "215 ILCS 105",
+   "title": "Illinois Compiled Statutes, Comprehensive Health Insurance Plan Act (215 ILCS 105)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1254",
+   "versions": [
+    {
+     "from": "2026-06-12",
+     "units": 24,
+     "source_url": "https://web.archive.org/web/20260612025131/https://ilga.gov/Legislation/ILCS/Articles?ActID=1254&ChapterID=22&Chapter=INSURANCE&MajorTopic=REGULATION",
+     "sha256": "55b504e757162ef026476d16f390dd2f56c494d41bee9f40b01dfcdafc8604f9"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-215-106",
+   "short": "215 ILCS 106",
+   "title": "Illinois Compiled Statutes, Children's Health Insurance Program Act (215 ILCS 106)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1255",
+   "versions": [
+    {
+     "from": "2026-06-12",
+     "units": 26,
+     "source_url": "https://web.archive.org/web/20260612021231/https://ilga.gov/Legislation/ILCS/Articles?ActID=1255&ChapterID=22&Chapter=INSURANCE&MajorTopic=REGULATION",
+     "sha256": "0723baf465b78e605f23f08a93775f16029573066ffe81a2ad3a301ad6dd8675"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-215-107",
+   "short": "215 ILCS 107",
+   "title": "Illinois Compiled Statutes, Producer Controlled Insurer Act (215 ILCS 107)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1256",
+   "versions": [
+    {
+     "from": "2026-06-12",
+     "units": 16,
+     "source_url": "https://web.archive.org/web/20260612012635/https://ilga.gov/Legislation/ILCS/Articles?ActID=1256&ChapterID=22&Chapter=INSURANCE&MajorTopic=REGULATION",
+     "sha256": "25eeb024706c33678b6e6e548e97a29004457293f95bb812ceb1c7f75376d604"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-215-109",
+   "short": "215 ILCS 109",
+   "title": "Illinois Compiled Statutes, Dental Care Patient Protection Act (215 ILCS 109)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1257",
+   "versions": [
+    {
+     "from": "2026-06-12",
+     "units": 16,
+     "source_url": "https://web.archive.org/web/20260612022111/https://ilga.gov/Legislation/ILCS/Articles?ActID=1257&ChapterID=22&Chapter=INSURANCE&MajorTopic=REGULATION",
+     "sha256": "3abd986461a0e9a41f9f36c8d4986652f66756d59d3f37afcb11f30876af384f"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-215-113",
+   "short": "215 ILCS 113",
+   "title": "Illinois Compiled Statutes, Employee Leasing Company Act (215 ILCS 113)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1259",
+   "versions": [
+    {
+     "from": "2026-06-12",
+     "units": 18,
+     "source_url": "https://web.archive.org/web/20260612023124/https://ilga.gov/Legislation/ILCS/Articles?ActID=1259&ChapterID=22&Chapter=INSURANCE&MajorTopic=REGULATION",
+     "sha256": "a0ea08337c7f9141c2fea2e1337bbc67625d5289b3fd997c26e5361e78cfb0ab"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-215-115",
+   "short": "215 ILCS 115",
+   "title": "Illinois Compiled Statutes, Employees Dental Freedom of Choice Act (215 ILCS 115)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1260",
+   "versions": [
+    {
+     "from": "2026-06-12",
+     "units": 4,
+     "source_url": "https://web.archive.org/web/20260612024838/https://ilga.gov/Legislation/ILCS/Articles?ActID=1260&ChapterID=22&Chapter=INSURANCE&MajorTopic=REGULATION",
+     "sha256": "73ba8854e0fcd10c9f93edbaf449a15321c101c7071b918ebeb3ba049e5d913a"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-215-120",
+   "short": "215 ILCS 120",
+   "title": "Illinois Compiled Statutes, Farm Mutual Insurance Company Act of 1986 (215 ILCS 120)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1261",
+   "versions": [
+    {
+     "from": "2026-06-12",
+     "units": 17,
+     "source_url": "https://web.archive.org/web/20260612020900/https://ilga.gov/Legislation/ILCS/Articles?ActID=1261&ChapterID=22&Chapter=INSURANCE&MajorTopic=REGULATION",
+     "sha256": "1e8fe1f01f1f5c36bdfde06821fe2b31a8fe99471fc7ae15e2ea941b969b5852"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-215-121",
+   "short": "215 ILCS 121",
+   "title": "Illinois Compiled Statutes, Navigator Certification Act (215 ILCS 121)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3518",
+   "versions": [
+    {
+     "from": "2026-06-12",
+     "units": 12,
+     "source_url": "https://web.archive.org/web/20260612013112/https://ilga.gov/Legislation/ILCS/Articles?ActID=3518&ChapterID=22&Chapter=INSURANCE&MajorTopic=REGULATION",
+     "sha256": "65d96b8607a291b2d02edb9b41dbd8152e6041493c3bd0a362db4371a511f246"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-215-124",
+   "short": "215 ILCS 124",
+   "title": "Illinois Compiled Statutes, Network Adequacy and Transparency Act (215 ILCS 124)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3824",
+   "versions": [
+    {
+     "from": "2026-06-12",
+     "units": 14,
+     "source_url": "https://web.archive.org/web/20260612024452/https://ilga.gov/Legislation/ILCS/Articles?ActID=3824&ChapterID=22&Chapter=INSURANCE&MajorTopic=REGULATION",
+     "sha256": "5abc324338b8caa173f51a522737faa051e0cc36c753d097f637c114c8bd0b2a"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-215-134",
+   "short": "215 ILCS 134",
+   "title": "Illinois Compiled Statutes, Managed Care Reform and Patient Rights Act (215 ILCS 134)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1265",
+   "versions": [
+    {
+     "from": "2026-06-12",
+     "units": 43,
+     "source_url": "https://web.archive.org/web/20260612022705/https://ilga.gov/Legislation/ILCS/Articles?ActID=1265&ChapterID=22&Chapter=INSURANCE&MajorTopic=REGULATION",
+     "sha256": "611b309de0216d6379cd6c2235c64672fa4e5a31cf7831369090f36cc08253a1"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-215-136",
+   "short": "215 ILCS 136",
+   "title": "Illinois Compiled Statutes, Portable Electronics Insurance Act (215 ILCS 136)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3369",
+   "versions": [
+    {
+     "from": "2026-06-12",
+     "units": 9,
+     "source_url": "https://web.archive.org/web/20260612012335/https://ilga.gov/Legislation/ILCS/Articles?ActID=3369&ChapterID=22&Chapter=INSURANCE&MajorTopic=REGULATION",
+     "sha256": "919f679955e3fae5962b912fa4dba791309b09c78dc8b1ae6f23088cea082776"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-215-138",
+   "short": "215 ILCS 138",
+   "title": "Illinois Compiled Statutes, Uniform Prescription Drug Information Card Act (215 ILCS 138)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1267",
+   "versions": [
+    {
+     "from": "2026-06-12",
+     "units": 6,
+     "source_url": "https://web.archive.org/web/20260612023520/https://ilga.gov/Legislation/ILCS/Articles?ActID=1267&ChapterID=22&Chapter=INSURANCE&MajorTopic=REGULATION",
+     "sha256": "5799ae7fd674b55a87ef40ca8aec15a91c1cd5657b7a240e9d649dd0562f31b6"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-215-139",
+   "short": "215 ILCS 139",
+   "title": "Illinois Compiled Statutes, Uniform Health Care Service Benefits Information Card Act (215 ILCS 139)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1268",
+   "versions": [
+    {
+     "from": "2026-06-12",
+     "units": 7,
+     "source_url": "https://web.archive.org/web/20260612015458/https://ilga.gov/Legislation/ILCS/Articles?ActID=1268&ChapterID=22&Chapter=INSURANCE&MajorTopic=REGULATION",
+     "sha256": "f0ee5ad968a29f131269776a41da42e2923d9b5c30b72f03c483d2032379cacb"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-215-145",
+   "short": "215 ILCS 145",
+   "title": "Illinois Compiled Statutes, Property Fire Loss Act (215 ILCS 145)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1270",
+   "versions": [
+    {
+     "from": "2026-06-12",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20260612012937/https://ilga.gov/Legislation/ILCS/Articles?ActID=1270&ChapterID=22&Chapter=INSURANCE&MajorTopic=REGULATION",
+     "sha256": "583d332ba609bd63f50f8d51e276aabbff0a923f359a28468b3d2af0fd917ca7"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-215-152",
+   "short": "215 ILCS 152",
+   "title": "Illinois Compiled Statutes, Service Contract Act (215 ILCS 152)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1272",
+   "versions": [
+    {
+     "from": "2026-06-12",
+     "units": 14,
+     "source_url": "https://web.archive.org/web/20260612014255/https://ilga.gov/Legislation/ILCS/Articles?ActID=1272&ChapterID=22&Chapter=INSURANCE&MajorTopic=REGULATION",
+     "sha256": "8983b1b4326357ea9c37d79b525b61a3a5fd5003175e651d87744e87fb058f13"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-215-153",
+   "short": "215 ILCS 153",
+   "title": "Illinois Compiled Statutes, Structured Settlement Protection Act (215 ILCS 153)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2467",
+   "versions": [
+    {
+     "from": "2026-06-12",
+     "units": 8,
+     "source_url": "https://web.archive.org/web/20260612014825/https://ilga.gov/Legislation/ILCS/Articles?ActID=2467&ChapterID=22&Chapter=INSURANCE&MajorTopic=REGULATION",
+     "sha256": "86464426907977d95d028295ccab0ff2b3cab3691480c402ba733783b5058149"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-215-155",
+   "short": "215 ILCS 155",
+   "title": "Illinois Compiled Statutes, Title Insurance Act (215 ILCS 155)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1273",
+   "versions": [
+    {
+     "from": "2026-09-25",
+     "units": 37,
+     "source_url": "https://web.archive.org/web/20260925074917/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1273&ChapterID=22",
+     "sha256": "85fecf779ce64c2c3306c2cae1def1aa5e05a8f81c6f0de330c3414308b2da66"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-215-156",
+   "short": "215 ILCS 156",
+   "title": "Illinois Compiled Statutes, Topical Eye Medication Prescription Act (215 ILCS 156)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3648",
+   "versions": [
+    {
+     "from": "2026-06-12",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20260612024827/https://ilga.gov/Legislation/ILCS/Articles?ActID=3648&ChapterID=22&Chapter=INSURANCE&MajorTopic=REGULATION",
+     "sha256": "d600d830c3f6a4b1e104c020d96ebeac1821ed44e4b69a2989ccf56f18edee90"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-215-157",
+   "short": "215 ILCS 157",
+   "title": "Illinois Compiled Statutes, Use of Credit Information in Personal Insurance Act (215 ILCS 157)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2468",
+   "versions": [
+    {
+     "from": "2026-06-12",
+     "units": 15,
+     "source_url": "https://web.archive.org/web/20260612023709/https://ilga.gov/Legislation/ILCS/Articles?ActID=2468&ChapterID=22&Chapter=INSURANCE&MajorTopic=REGULATION",
+     "sha256": "67074d32e408e2e3b3d27edb2d1c269071919d9cd8c2fd9101377df2760de530"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-215-159",
+   "short": "215 ILCS 159",
+   "title": "Illinois Compiled Statutes, Viatical Settlements Act of 2009 (215 ILCS 159)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3153",
+   "versions": [
+    {
+     "from": "2026-09-25",
+     "units": 30,
+     "source_url": "https://web.archive.org/web/20260925074938/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3153&ChapterID=22",
+     "sha256": "eede58f6a09519f3d281402806f690da0232ab65abdc8c3dddaa6f92c8b38a8a"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-215-161",
+   "short": "215 ILCS 161",
+   "title": "Illinois Compiled Statutes, Vision Care Plan Regulation Act (215 ILCS 161)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=4450",
+   "versions": [
+    {
+     "from": "2026-06-12",
+     "units": 11,
+     "source_url": "https://web.archive.org/web/20260612013011/https://ilga.gov/Legislation/ILCS/Articles?ActID=4450&ChapterID=22&Chapter=INSURANCE&MajorTopic=REGULATION",
+     "sha256": "eef23c3b56e70dcdbfd1d19b019ede1155d20007fc6850b5316544bf4adf429d"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-215-165",
+   "short": "215 ILCS 165",
+   "title": "Illinois Compiled Statutes, Voluntary Health Services Plans Act (215 ILCS 165)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1276",
+   "versions": [
+    {
+     "from": "2026-06-12",
+     "units": 51,
+     "source_url": "https://web.archive.org/web/20260612020329/https://ilga.gov/Legislation/ILCS/Articles?ActID=1276&ChapterID=22&Chapter=INSURANCE&MajorTopic=REGULATION",
+     "sha256": "fc8b5d0e3b995aaee5f2163c3ff2282daf3edf1bdf10a2a08197a8a4edd16aac"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-215-175",
+   "short": "215 ILCS 175",
+   "title": "Illinois Compiled Statutes, Organ Transplant Medication Notification Act (215 ILCS 175)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3157",
+   "versions": [
+    {
+     "from": "2026-06-12",
+     "units": 5,
+     "source_url": "https://web.archive.org/web/20260612014631/https://ilga.gov/Legislation/ILCS/Articles?ActID=3157&ChapterID=22&Chapter=INSURANCE&MajorTopic=REGULATION",
+     "sha256": "c3438508b130b7a4caccda47dcc6f083b368e93a382d7b5bbc35ab8c800670d0"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-215-180",
+   "short": "215 ILCS 180",
+   "title": "Illinois Compiled Statutes, Health Carrier External Review Act (215 ILCS 180)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3171",
+   "versions": [
+    {
+     "from": "2026-03-10",
+     "units": 23,
+     "source_url": "https://web.archive.org/web/20260310135203/https://ilga.gov/Legislation/ILCS/Articles?ActID=3171&ChapterID=22&Chapter=INSURANCE&MajorTopic=REGULATION&ref=counterforcehealth.org",
+     "sha256": "ff79dab3343f6de4812d96c3502f983aaa94198bfaefae685fc89a8633980478"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-215-205",
+   "short": "215 ILCS 205",
+   "title": "Illinois Compiled Statutes, Private Primary Residential Flood Insurance Act (215 ILCS 205)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=4287",
+   "versions": [
+    {
+     "from": "2026-06-12",
+     "units": 8,
+     "source_url": "https://web.archive.org/web/20260612025454/https://ilga.gov/Legislation/ILCS/Articles?ActID=4287&ChapterID=22&Chapter=INSURANCE&MajorTopic=REGULATION",
+     "sha256": "ee66403cc058a0598c3d8e3d6deb904f023d0254049416326182e709d2e8fe0b"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-215-215",
+   "short": "215 ILCS 215",
+   "title": "Illinois Compiled Statutes, Insurance Data Security Law (215 ILCS 215)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=4412",
+   "versions": [
+    {
+     "from": "2026-06-12",
+     "units": 14,
+     "source_url": "https://web.archive.org/web/20260612021035/https://ilga.gov/Legislation/ILCS/Articles?ActID=4412&ChapterID=22&Chapter=INSURANCE&MajorTopic=REGULATION",
+     "sha256": "72294fc8886717187daa6787aee2bfa329c72d12b2644a00cfcd5e0098dc37d5"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-220-5-article-0001",
+   "short": "220 ILCS 5 art. 1",
+   "title": "Illinois Compiled Statutes, Public Utilities Act (220 ILCS 5), Article 1",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1277",
+   "versions": [
+    {
+     "from": "2026-04-20",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20260420134127/https://www.ilga.gov/legislation/ILCS/details?MajorTopic=&Chapter=&ActName=Public%20Utilities%20Act.&ActID=1277&ChapterID=23&SeqStart=&&ChapAct=FullText",
+     "sha256": "e6dfe3fbfd6b753a26fade7068374710dbbf199dd69449bccf5f9dabc7b8ddaa"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-220-5-article-0002",
+   "short": "220 ILCS 5 art. 2",
+   "title": "Illinois Compiled Statutes, Public Utilities Act (220 ILCS 5), Article 2",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1277",
+   "versions": [
+    {
+     "from": "2026-04-20",
+     "units": 11,
+     "source_url": "https://web.archive.org/web/20260420134127/https://www.ilga.gov/legislation/ILCS/details?MajorTopic=&Chapter=&ActName=Public%20Utilities%20Act.&ActID=1277&ChapterID=23&SeqStart=&&ChapAct=FullText",
+     "sha256": "e6dfe3fbfd6b753a26fade7068374710dbbf199dd69449bccf5f9dabc7b8ddaa"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-220-5-article-0003",
+   "short": "220 ILCS 5 art. 3",
+   "title": "Illinois Compiled Statutes, Public Utilities Act (220 ILCS 5), Article 3",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1277",
+   "versions": [
+    {
+     "from": "2026-04-20",
+     "units": 21,
+     "source_url": "https://web.archive.org/web/20260420134127/https://www.ilga.gov/legislation/ILCS/details?MajorTopic=&Chapter=&ActName=Public%20Utilities%20Act.&ActID=1277&ChapterID=23&SeqStart=&&ChapAct=FullText",
+     "sha256": "e6dfe3fbfd6b753a26fade7068374710dbbf199dd69449bccf5f9dabc7b8ddaa"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-220-5-article-0004",
+   "short": "220 ILCS 5 art. 4",
+   "title": "Illinois Compiled Statutes, Public Utilities Act (220 ILCS 5), Article 4",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1277",
+   "versions": [
+    {
+     "from": "2026-04-20",
+     "units": 25,
+     "source_url": "https://web.archive.org/web/20260420134127/https://www.ilga.gov/legislation/ILCS/details?MajorTopic=&Chapter=&ActName=Public%20Utilities%20Act.&ActID=1277&ChapterID=23&SeqStart=&&ChapAct=FullText",
+     "sha256": "e6dfe3fbfd6b753a26fade7068374710dbbf199dd69449bccf5f9dabc7b8ddaa"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-220-5-article-0005",
+   "short": "220 ILCS 5 art. 5",
+   "title": "Illinois Compiled Statutes, Public Utilities Act (220 ILCS 5), Article 5",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1277",
+   "versions": [
+    {
+     "from": "2026-04-20",
+     "units": 17,
+     "source_url": "https://web.archive.org/web/20260420134127/https://www.ilga.gov/legislation/ILCS/details?MajorTopic=&Chapter=&ActName=Public%20Utilities%20Act.&ActID=1277&ChapterID=23&SeqStart=&&ChapAct=FullText",
+     "sha256": "e6dfe3fbfd6b753a26fade7068374710dbbf199dd69449bccf5f9dabc7b8ddaa"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-220-5-article-0006",
+   "short": "220 ILCS 5 art. 6",
+   "title": "Illinois Compiled Statutes, Public Utilities Act (220 ILCS 5), Article 6",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1277",
+   "versions": [
+    {
+     "from": "2026-04-20",
+     "units": 8,
+     "source_url": "https://web.archive.org/web/20260420134127/https://www.ilga.gov/legislation/ILCS/details?MajorTopic=&Chapter=&ActName=Public%20Utilities%20Act.&ActID=1277&ChapterID=23&SeqStart=&&ChapAct=FullText",
+     "sha256": "e6dfe3fbfd6b753a26fade7068374710dbbf199dd69449bccf5f9dabc7b8ddaa"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-220-5-article-0007",
+   "short": "220 ILCS 5 art. 7",
+   "title": "Illinois Compiled Statutes, Public Utilities Act (220 ILCS 5), Article 7",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1277",
+   "versions": [
+    {
+     "from": "2026-04-20",
+     "units": 20,
+     "source_url": "https://web.archive.org/web/20260420134127/https://www.ilga.gov/legislation/ILCS/details?MajorTopic=&Chapter=&ActName=Public%20Utilities%20Act.&ActID=1277&ChapterID=23&SeqStart=&&ChapAct=FullText",
+     "sha256": "e6dfe3fbfd6b753a26fade7068374710dbbf199dd69449bccf5f9dabc7b8ddaa"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-220-5-article-0008",
+   "short": "220 ILCS 5 art. 8",
+   "title": "Illinois Compiled Statutes, Public Utilities Act (220 ILCS 5), Article 8",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1277",
+   "versions": [
+    {
+     "from": "2026-04-20",
+     "units": 65,
+     "source_url": "https://web.archive.org/web/20260420134127/https://www.ilga.gov/legislation/ILCS/details?MajorTopic=&Chapter=&ActName=Public%20Utilities%20Act.&ActID=1277&ChapterID=23&SeqStart=&&ChapAct=FullText",
+     "sha256": "e6dfe3fbfd6b753a26fade7068374710dbbf199dd69449bccf5f9dabc7b8ddaa"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-220-5-article-0009",
+   "short": "220 ILCS 5 art. 9",
+   "title": "Illinois Compiled Statutes, Public Utilities Act (220 ILCS 5), Article 9",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1277",
+   "versions": [
+    {
+     "from": "2026-04-20",
+     "units": 51,
+     "source_url": "https://web.archive.org/web/20260420134127/https://www.ilga.gov/legislation/ILCS/details?MajorTopic=&Chapter=&ActName=Public%20Utilities%20Act.&ActID=1277&ChapterID=23&SeqStart=&&ChapAct=FullText",
+     "sha256": "e6dfe3fbfd6b753a26fade7068374710dbbf199dd69449bccf5f9dabc7b8ddaa"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-220-5-article-0010",
+   "short": "220 ILCS 5 art. 10",
+   "title": "Illinois Compiled Statutes, Public Utilities Act (220 ILCS 5), Article 10",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1277",
+   "versions": [
+    {
+     "from": "2026-04-20",
+     "units": 18,
+     "source_url": "https://web.archive.org/web/20260420134127/https://www.ilga.gov/legislation/ILCS/details?MajorTopic=&Chapter=&ActName=Public%20Utilities%20Act.&ActID=1277&ChapterID=23&SeqStart=&&ChapAct=FullText",
+     "sha256": "e6dfe3fbfd6b753a26fade7068374710dbbf199dd69449bccf5f9dabc7b8ddaa"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-220-5-article-0011",
+   "short": "220 ILCS 5 art. 11",
+   "title": "Illinois Compiled Statutes, Public Utilities Act (220 ILCS 5), Article 11",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1277",
+   "versions": [
+    {
+     "from": "2026-04-20",
+     "units": 11,
+     "source_url": "https://web.archive.org/web/20260420134127/https://www.ilga.gov/legislation/ILCS/details?MajorTopic=&Chapter=&ActName=Public%20Utilities%20Act.&ActID=1277&ChapterID=23&SeqStart=&&ChapAct=FullText",
+     "sha256": "e6dfe3fbfd6b753a26fade7068374710dbbf199dd69449bccf5f9dabc7b8ddaa"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-220-5-article-0012",
+   "short": "220 ILCS 5 art. 12",
+   "title": "Illinois Compiled Statutes, Public Utilities Act (220 ILCS 5), Article 12",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1277",
+   "versions": [
+    {
+     "from": "2026-04-20",
+     "units": 1,
+     "source_url": "https://web.archive.org/web/20260420134127/https://www.ilga.gov/legislation/ILCS/details?MajorTopic=&Chapter=&ActName=Public%20Utilities%20Act.&ActID=1277&ChapterID=23&SeqStart=&&ChapAct=FullText",
+     "sha256": "e6dfe3fbfd6b753a26fade7068374710dbbf199dd69449bccf5f9dabc7b8ddaa"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-220-5-article-0013",
+   "short": "220 ILCS 5 art. 13",
+   "title": "Illinois Compiled Statutes, Public Utilities Act (220 ILCS 5), Article 13",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1277",
+   "versions": [
+    {
+     "from": "2026-04-20",
+     "units": 114,
+     "source_url": "https://web.archive.org/web/20260420134127/https://www.ilga.gov/legislation/ILCS/details?MajorTopic=&Chapter=&ActName=Public%20Utilities%20Act.&ActID=1277&ChapterID=23&SeqStart=&&ChapAct=FullText",
+     "sha256": "e6dfe3fbfd6b753a26fade7068374710dbbf199dd69449bccf5f9dabc7b8ddaa"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-220-5-article-0014",
+   "short": "220 ILCS 5 art. 14",
+   "title": "Illinois Compiled Statutes, Public Utilities Act (220 ILCS 5), Article 14",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1277",
+   "versions": [
+    {
+     "from": "2026-04-20",
+     "units": 10,
+     "source_url": "https://web.archive.org/web/20260420134127/https://www.ilga.gov/legislation/ILCS/details?MajorTopic=&Chapter=&ActName=Public%20Utilities%20Act.&ActID=1277&ChapterID=23&SeqStart=&&ChapAct=FullText",
+     "sha256": "e6dfe3fbfd6b753a26fade7068374710dbbf199dd69449bccf5f9dabc7b8ddaa"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-220-5-article-0015",
+   "short": "220 ILCS 5 art. 15",
+   "title": "Illinois Compiled Statutes, Public Utilities Act (220 ILCS 5), Article 15",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1277",
+   "versions": [
+    {
+     "from": "2026-04-20",
+     "units": 18,
+     "source_url": "https://web.archive.org/web/20260420134127/https://www.ilga.gov/legislation/ILCS/details?MajorTopic=&Chapter=&ActName=Public%20Utilities%20Act.&ActID=1277&ChapterID=23&SeqStart=&&ChapAct=FullText",
+     "sha256": "e6dfe3fbfd6b753a26fade7068374710dbbf199dd69449bccf5f9dabc7b8ddaa"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-220-5-article-0016",
+   "short": "220 ILCS 5 art. 16",
+   "title": "Illinois Compiled Statutes, Public Utilities Act (220 ILCS 5), Article 16",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1277",
+   "versions": [
+    {
+     "from": "2026-04-20",
+     "units": 87,
+     "source_url": "https://web.archive.org/web/20260420134127/https://www.ilga.gov/legislation/ILCS/details?MajorTopic=&Chapter=&ActName=Public%20Utilities%20Act.&ActID=1277&ChapterID=23&SeqStart=&&ChapAct=FullText",
+     "sha256": "e6dfe3fbfd6b753a26fade7068374710dbbf199dd69449bccf5f9dabc7b8ddaa"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-220-5-article-0017",
+   "short": "220 ILCS 5 art. 17",
+   "title": "Illinois Compiled Statutes, Public Utilities Act (220 ILCS 5), Article 17",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1277",
+   "versions": [
+    {
+     "from": "2026-04-20",
+     "units": 9,
+     "source_url": "https://web.archive.org/web/20260420134127/https://www.ilga.gov/legislation/ILCS/details?MajorTopic=&Chapter=&ActName=Public%20Utilities%20Act.&ActID=1277&ChapterID=23&SeqStart=&&ChapAct=FullText",
+     "sha256": "e6dfe3fbfd6b753a26fade7068374710dbbf199dd69449bccf5f9dabc7b8ddaa"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-220-5-article-0018",
+   "short": "220 ILCS 5 art. 18",
+   "title": "Illinois Compiled Statutes, Public Utilities Act (220 ILCS 5), Article 18",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1277",
+   "versions": [
+    {
+     "from": "2026-04-20",
+     "units": 11,
+     "source_url": "https://web.archive.org/web/20260420134127/https://www.ilga.gov/legislation/ILCS/details?MajorTopic=&Chapter=&ActName=Public%20Utilities%20Act.&ActID=1277&ChapterID=23&SeqStart=&&ChapAct=FullText",
+     "sha256": "e6dfe3fbfd6b753a26fade7068374710dbbf199dd69449bccf5f9dabc7b8ddaa"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-220-5-article-0019",
+   "short": "220 ILCS 5 art. 19",
+   "title": "Illinois Compiled Statutes, Public Utilities Act (220 ILCS 5), Article 19",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1277",
+   "versions": [
+    {
+     "from": "2026-04-20",
+     "units": 13,
+     "source_url": "https://web.archive.org/web/20260420134127/https://www.ilga.gov/legislation/ILCS/details?MajorTopic=&Chapter=&ActName=Public%20Utilities%20Act.&ActID=1277&ChapterID=23&SeqStart=&&ChapAct=FullText",
+     "sha256": "e6dfe3fbfd6b753a26fade7068374710dbbf199dd69449bccf5f9dabc7b8ddaa"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-220-5-article-0020",
+   "short": "220 ILCS 5 art. 20",
+   "title": "Illinois Compiled Statutes, Public Utilities Act (220 ILCS 5), Article 20",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1277",
+   "versions": [
+    {
+     "from": "2026-04-20",
+     "units": 8,
+     "source_url": "https://web.archive.org/web/20260420134127/https://www.ilga.gov/legislation/ILCS/details?MajorTopic=&Chapter=&ActName=Public%20Utilities%20Act.&ActID=1277&ChapterID=23&SeqStart=&&ChapAct=FullText",
+     "sha256": "e6dfe3fbfd6b753a26fade7068374710dbbf199dd69449bccf5f9dabc7b8ddaa"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-220-5-article-0021",
+   "short": "220 ILCS 5 art. 21",
+   "title": "Illinois Compiled Statutes, Public Utilities Act (220 ILCS 5), Article 21",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1277",
+   "versions": [
+    {
+     "from": "2026-04-20",
+     "units": 19,
+     "source_url": "https://web.archive.org/web/20260420134127/https://www.ilga.gov/legislation/ILCS/details?MajorTopic=&Chapter=&ActName=Public%20Utilities%20Act.&ActID=1277&ChapterID=23&SeqStart=&&ChapAct=FullText",
+     "sha256": "e6dfe3fbfd6b753a26fade7068374710dbbf199dd69449bccf5f9dabc7b8ddaa"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-220-5-article-0022",
+   "short": "220 ILCS 5 art. 22",
+   "title": "Illinois Compiled Statutes, Public Utilities Act (220 ILCS 5), Article 22",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1277",
+   "versions": [
+    {
+     "from": "2026-04-20",
+     "units": 1,
+     "source_url": "https://web.archive.org/web/20260420134127/https://www.ilga.gov/legislation/ILCS/details?MajorTopic=&Chapter=&ActName=Public%20Utilities%20Act.&ActID=1277&ChapterID=23&SeqStart=&&ChapAct=FullText",
+     "sha256": "e6dfe3fbfd6b753a26fade7068374710dbbf199dd69449bccf5f9dabc7b8ddaa"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-220-10",
+   "short": "220 ILCS 10",
+   "title": "Illinois Compiled Statutes, Citizens Utility Board Act (220 ILCS 10)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1278",
+   "versions": [
+    {
+     "from": "2026-04-19",
+     "units": 24,
+     "source_url": "https://web.archive.org/web/20260419044400/https://ilga.gov/Legislation/ILCS/Articles?ActID=1278&ChapterID=23&Chapter=UTILITIES&MajorTopic=REGULATION",
+     "sha256": "461c8ab7ed95035feb98189fe2bcb3d8ea644f61aaf755ca6efff29391ccbe1a"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-220-15",
+   "short": "220 ILCS 15",
+   "title": "Illinois Compiled Statutes, Gas Storage Act (220 ILCS 15)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1279",
+   "versions": [
+    {
+     "from": "2026-04-19",
+     "units": 10,
+     "source_url": "https://web.archive.org/web/20260419060846/https://ilga.gov/Legislation/ILCS/Articles?ActID=1279&ChapterID=23&Chapter=UTILITIES&MajorTopic=REGULATION",
+     "sha256": "d8cd85f45118df8defa92eb840c3efa3e93514af861e8e3ca00bf134d36362d0"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-220-20",
+   "short": "220 ILCS 20",
+   "title": "Illinois Compiled Statutes, Illinois Gas Pipeline Safety Act (220 ILCS 20)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1280",
+   "versions": [
+    {
+     "from": "2026-04-19",
+     "units": 26,
+     "source_url": "https://web.archive.org/web/20260419062146/https://ilga.gov/Legislation/ILCS/Articles?ActID=1280&ChapterID=23&Chapter=UTILITIES&MajorTopic=REGULATION",
+     "sha256": "6cb7fb39e5b63bf9a225cac64bea2ec83c82fcc3030a56dabb0105aa7e1738a8"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-220-25",
+   "short": "220 ILCS 25",
+   "title": "Illinois Compiled Statutes, Gas Transmission Facilities Act (220 ILCS 25)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1281",
+   "versions": [
+    {
+     "from": "2026-04-19",
+     "units": 15,
+     "source_url": "https://web.archive.org/web/20260419054643/https://ilga.gov/Legislation/ILCS/Articles?ActID=1281&ChapterID=23&Chapter=UTILITIES&MajorTopic=REGULATION",
+     "sha256": "9c2badae154e8b934457663d6a8f8ed6a8aa33f2d2a49fc8acec7f4190a382ff"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-220-30",
+   "short": "220 ILCS 30",
+   "title": "Illinois Compiled Statutes, Electric Supplier Act (220 ILCS 30)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1282",
+   "versions": [
+    {
+     "from": "2026-04-19",
+     "units": 53,
+     "source_url": "https://web.archive.org/web/20260419063400/https://ilga.gov/Legislation/ILCS/Articles?ActID=1282&ChapterID=23&Chapter=UTILITIES&MajorTopic=REGULATION",
+     "sha256": "07030fb879ec6fa4a290e8625f4c85be840a39ce0b40954892027f185b1f6372"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-220-31",
+   "short": "220 ILCS 31",
+   "title": "Illinois Compiled Statutes, Municipal and Cooperative Electric Utility Transparent Planning Act (220 ILCS 31)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=4653",
+   "versions": [
+    {
+     "from": "2026-04-19",
+     "units": 40,
+     "source_url": "https://web.archive.org/web/20260419062817/https://ilga.gov/Legislation/ILCS/Articles?ActID=4653&ChapterID=23&Chapter=UTILITIES&MajorTopic=REGULATION",
+     "sha256": "fdf1a48503c161c204c8318b39ec331667bdb48885863b188c1fd8b4d8b31226"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-220-32",
+   "short": "220 ILCS 32",
+   "title": "Illinois Compiled Statutes, Electric Transmission Systems Construction Standards Act (220 ILCS 32)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=4563",
+   "versions": [
+    {
+     "from": "2026-04-17",
+     "units": 11,
+     "source_url": "https://web.archive.org/web/20260417100359/https://ilga.gov/Legislation/ILCS/Articles?ActID=4563&ChapterID=23&Chapter=UTILITIES&MajorTopic=REGULATION",
+     "sha256": "1aa633e5834090ca09c18284e9a6dfdd1b926a07c05a17a9be41749a2f13e9e6"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-220-33",
+   "short": "220 ILCS 33",
+   "title": "Illinois Compiled Statutes, Utility Data Access Act (220 ILCS 33)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=4654",
+   "versions": [
+    {
+     "from": "2026-04-19",
+     "units": 32,
+     "source_url": "https://web.archive.org/web/20260419054829/https://ilga.gov/Legislation/ILCS/Articles?ActID=4654&ChapterID=23&Chapter=UTILITIES&MajorTopic=REGULATION",
+     "sha256": "adcb38ba2d33b620801143ef00f7495f67b4ee41e19b6b25ab131d046e978810"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-220-35",
+   "short": "220 ILCS 35",
+   "title": "Illinois Compiled Statutes, Small Business Utility Deposit Relief Act (220 ILCS 35)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1283",
+   "versions": [
+    {
+     "from": "2026-04-19",
+     "units": 9,
+     "source_url": "https://web.archive.org/web/20260419060030/https://ilga.gov/Legislation/ILCS/Articles?ActID=1283&ChapterID=23&Chapter=UTILITIES&MajorTopic=REGULATION",
+     "sha256": "ab3ac5eb0df44a45a98225d9de354eadc70666f27774208d7ec0825dacdd7abf"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-220-40",
+   "short": "220 ILCS 40",
+   "title": "Illinois Compiled Statutes, Small Business Utility Advocate Act (220 ILCS 40)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1284",
+   "versions": [
+    {
+     "from": "2026-05-18",
+     "units": 12,
+     "source_url": "https://web.archive.org/web/20260518143921/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1284&ChapterID=23",
+     "sha256": "9ccab4417d6a9458f413f82220d7e7ddde3e7b947cd79bccedd010a7872e2e96"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-220-45",
+   "short": "220 ILCS 45",
+   "title": "Illinois Compiled Statutes, Telecommunications Facility Fire and Emergency Act (220 ILCS 45)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1285",
+   "versions": [
+    {
+     "from": "2026-04-17",
+     "units": 6,
+     "source_url": "https://web.archive.org/web/20260417095324/https://ilga.gov/Legislation/ILCS/Articles?ActID=1285&ChapterID=23&Chapter=UTILITIES&MajorTopic=REGULATION",
+     "sha256": "b397f7e90c0a02103b2816814bac4e77765700562f16799b87078930a0f95eda"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-220-50",
+   "short": "220 ILCS 50",
+   "title": "Illinois Compiled Statutes, Illinois Underground Utility Facilities Damage Prevention Act (220 ILCS 50)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1286",
+   "versions": [
+    {
+     "from": "2026-08-13",
+     "units": 39,
+     "source_url": "https://web.archive.org/web/20260813105119/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1286&ChapterID=23&Chapter=UTILITIES&MajorTopic=REGULATION",
+     "sha256": "2de83bc95b5d71a879514fe78b480b028b709eb3d72d59ff4424925c040b6363"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-220-55",
+   "short": "220 ILCS 55",
+   "title": "Illinois Compiled Statutes, Telegraph Act (220 ILCS 55)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1287",
+   "versions": [
+    {
+     "from": "2026-07-12",
+     "units": 12,
+     "source_url": "https://web.archive.org/web/20260712064538/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1287&ChapterID=23",
+     "sha256": "c35cb12c929461fe2ae59f4c947a20a50167532b8279ac6d43c791c82144edcc"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-220-60",
+   "short": "220 ILCS 60",
+   "title": "Illinois Compiled Statutes, Telephone Line Right of Way Act (220 ILCS 60)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1288",
+   "versions": [
+    {
+     "from": "2026-04-19",
+     "units": 4,
+     "source_url": "https://web.archive.org/web/20260419052600/https://ilga.gov/Legislation/ILCS/Articles?ActID=1288&ChapterID=23&Chapter=UTILITIES&MajorTopic=REGULATION",
+     "sha256": "6d5783d815ee431eb4c338524dc2c9cec6833e0a4bc9ce50968445b814f463fc"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-220-65",
+   "short": "220 ILCS 65",
+   "title": "Illinois Compiled Statutes, Telephone Company Act (220 ILCS 65)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1289",
+   "versions": [
+    {
+     "from": "2026-06-03",
+     "units": 6,
+     "source_url": "https://web.archive.org/web/20260603190148/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1289&ChapterID=23",
+     "sha256": "88f4e78c79190d9848d54f7d805d35de1313b2d6277b4d80164e8bc78f9dc7d2"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-220-66",
+   "short": "220 ILCS 66",
+   "title": "Illinois Compiled Statutes, Party Line Emergency Act (220 ILCS 66)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3455",
+   "versions": [
+    {
+     "from": "2026-05-19",
+     "units": 5,
+     "source_url": "https://web.archive.org/web/20260519084517/https://ilga.gov/Legislation/ILCS/Articles?ActID=3455&ChapterID=23",
+     "sha256": "a146c1f213e8798353b697a8e6e030b531286a4cf193bb6fc5344569a52691ff"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-220-70",
+   "short": "220 ILCS 70",
+   "title": "Illinois Compiled Statutes, Crossing of Railroad Right-of-way Act (220 ILCS 70)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3140",
+   "versions": [
+    {
+     "from": "2026-04-19",
+     "units": 9,
+     "source_url": "https://web.archive.org/web/20260419061521/https://ilga.gov/Legislation/ILCS/Articles?ActID=3140&ChapterID=23&Chapter=UTILITIES&MajorTopic=REGULATION",
+     "sha256": "ce0219fdd34f977325649f0bb8564ca0bd6909988780b56be12286eca1de4e68"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-220-75",
+   "short": "220 ILCS 75",
+   "title": "Illinois Compiled Statutes, Carbon Dioxide Transportation and Sequestration Act (220 ILCS 75)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3379",
+   "versions": [
+    {
+     "from": "2026-08-13",
+     "units": 11,
+     "source_url": "https://web.archive.org/web/20260813105153/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3379&ChapterID=23",
+     "sha256": "fe65a080d85dc32cb91bededf621999c7faa527d617247f6db83f6c1f2bcad1e"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-220-80",
+   "short": "220 ILCS 80",
+   "title": "Illinois Compiled Statutes, Broadband Advisory Council Act (220 ILCS 80)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3885",
+   "versions": [
+    {
+     "from": "2026-04-19",
+     "units": 7,
+     "source_url": "https://web.archive.org/web/20260419044046/https://ilga.gov/Legislation/ILCS/Articles?ActID=3885&ChapterID=23&Chapter=UTILITIES&MajorTopic=REGULATION",
+     "sha256": "3ba1f6944fd0903944a6f00775dc06fe1af6375edded8e63a161f3977783b7ad"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-220-81",
+   "short": "220 ILCS 81",
+   "title": "Illinois Compiled Statutes, Broadband Infrastructure Advancement Act (220 ILCS 81)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=4281",
+   "versions": [
+    {
+     "from": "2026-05-04",
+     "units": 7,
+     "source_url": "https://web.archive.org/web/20260504093003/https://ilga.gov/Legislation/ILCS/Articles?ActID=4281&ChapterID=23",
+     "sha256": "ef5ab4998409ba2187dc2d61caacb7ae02ade9f3f4339751c389e94f8b54adb6"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-220-85",
+   "short": "220 ILCS 85",
+   "title": "Illinois Compiled Statutes, Pembroke Township Natural Gas Investment Pilot Program Act (220 ILCS 85)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=4214",
+   "versions": [
+    {
+     "from": "2026-04-19",
+     "units": 8,
+     "source_url": "https://web.archive.org/web/20260419060835/https://ilga.gov/Legislation/ILCS/Articles?ActID=4214&ChapterID=23&Chapter=UTILITIES&MajorTopic=REGULATION",
+     "sha256": "86ab306e7a01b0285beaca04ec89c0b9385cd04436aa7ca64aeffc93f75a37be"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-225-2",
+   "short": "225 ILCS 2",
+   "title": "Illinois Compiled Statutes, Acupuncture Practice Act (225 ILCS 2)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1290",
+   "versions": [
+    {
+     "from": "2026-08-24",
+     "units": 53,
+     "source_url": "https://web.archive.org/web/20260824020617/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1290&ChapterID=24",
+     "sha256": "f294fbba029d5967940ab5fc4636439ed49ddc81a4bd5c417cfe36b8bb0cc5ba"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-225-5",
+   "short": "225 ILCS 5",
+   "title": "Illinois Compiled Statutes, Illinois Athletic Trainers Practice Act (225 ILCS 5)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1291",
+   "versions": [
+    {
+     "from": "2026-04-12",
+     "units": 44,
+     "source_url": "https://web.archive.org/web/20260412194631/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1291&ChapterID=24&Chapter=PROFESSIONS,%20OCCUPATIONS,%20AND%20BUSINESS%20OPERATIONS&MajorTopic=REGULATION",
+     "sha256": "fd4328fc146032a43ae626566b43e257d05b2abfea8b4d42a112af144cddd876"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-225-6",
+   "short": "225 ILCS 6",
+   "title": "Illinois Compiled Statutes, Behavior Analyst Licensing Act (225 ILCS 6)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=4308",
+   "versions": [
+    {
+     "from": "2026-07-23",
+     "units": 38,
+     "source_url": "https://web.archive.org/web/20260723133242/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=4308&ChapterID=24",
+     "sha256": "fc66673c936bebbf1726f723f60a4e7a5945ca4406be7b4d33a075179da78f04"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-225-7",
+   "short": "225 ILCS 7",
+   "title": "Illinois Compiled Statutes, Board and Care Home Act (225 ILCS 7)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1292",
+   "versions": [
+    {
+     "from": "2026-09-03",
+     "units": 31,
+     "source_url": "https://web.archive.org/web/20260903010528/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1292&ChapterID=24",
+     "sha256": "24e6effae90f116c1122b7e61fe0e18742712cc8cc890ac41e3408c20ad4146a"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-225-10",
+   "short": "225 ILCS 10",
+   "title": "Illinois Compiled Statutes, Child Care Act of 1969 (225 ILCS 10)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1293",
+   "versions": [
+    {
+     "from": "2026-10-14",
+     "units": 135,
+     "source_url": "https://web.archive.org/web/20261014232008/https://www.ilga.gov/Legislation/ILCS/Articles?actid=1293&chapact=225%26nbsp%3bilcs%26nbsp%3b10/&chapterid=24&chaptername=professions%2band%2boccupations&actname=child%2bcare%2bact%2bof%2b1969.",
+     "sha256": "cef9d498fcb07ad22843244592d157f69c8daafad71eb6d819a40f0e14c5398c"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-225-15",
+   "short": "225 ILCS 15",
+   "title": "Illinois Compiled Statutes, Clinical Psychologist Licensing Act (225 ILCS 15)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1294",
+   "versions": [
+    {
+     "from": "2026-04-26",
+     "units": 52,
+     "source_url": "https://web.archive.org/web/20260426083201/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1294&ChapAct=225%26nbsp%3BILCS%26nbsp%3B15%2F&ChapterID=24&ChapterName=PROFESSIONS+AND+OCCUPATIO",
+     "sha256": "c180d498b040d0074c24e61bb4160eef552388cfa842c716641724f7b5344815"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-225-20",
+   "short": "225 ILCS 20",
+   "title": "Illinois Compiled Statutes, Clinical Social Work and Social Work Practice Act (225 ILCS 20)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1295",
+   "versions": [
+    {
+     "from": "2026-08-20",
+     "units": 51,
+     "source_url": "https://web.archive.org/web/20260820182651/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1295&ChapterID=24",
+     "sha256": "a8dc9691fb5cf7084b591988eeef2b35a5b3be629f5f692569495272311c46e2"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-225-25",
+   "short": "225 ILCS 25",
+   "title": "Illinois Compiled Statutes, Illinois Dental Practice Act (225 ILCS 25)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1296",
+   "versions": [
+    {
+     "from": "2026-05-12",
+     "units": 85,
+     "source_url": "https://web.archive.org/web/20260512184843/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1296&ChapterID=24",
+     "sha256": "e2082893c457c92953dcf8ef08893052c54f046ee7b62a3ae7e670a05027158e"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-225-30",
+   "short": "225 ILCS 30",
+   "title": "Illinois Compiled Statutes, Dietitian Nutritionist Practice Act (225 ILCS 30)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1297",
+   "versions": [
+    {
+     "from": "2026-02-08",
+     "units": 46,
+     "source_url": "https://web.archive.org/web/20260208134331/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1297&ChapterID=24&Chapter=PROFESSIONS,%20OCCUPATIONS,%20AND%20BUSINESS%20OPERATIONS&MajorTopic=REGULATION",
+     "sha256": "ed885e901dc7f50e68581c93260a89d22d0d9631a4c71fdec21113613ce00d3b"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-225-35",
+   "short": "225 ILCS 35",
+   "title": "Illinois Compiled Statutes, Embalming Fluid Act (225 ILCS 35)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1298",
+   "versions": [
+    {
+     "from": "2026-08-15",
+     "units": 4,
+     "source_url": "https://web.archive.org/web/20260815131547/https://www.ilga.gov/Legislation/ILCS/Articles?ChapterID=24&Chapter=PROFESSIONS%2C+OCCUPATIONS%2C+AND+BUSINESS+OPERATIONS&MajorTopic=REGULATION&ActID=1298",
+     "sha256": "87b2dd9104455989f99039c74159520ad3befd8c2395b6cadbcbb64f1fb80d89"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-225-37",
+   "short": "225 ILCS 37",
+   "title": "Illinois Compiled Statutes, Environmental Health Practitioner Licensing Act (225 ILCS 37)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1299",
+   "versions": [
+    {
+     "from": "2026-08-20",
+     "units": 47,
+     "source_url": "https://web.archive.org/web/20260820220234/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1299&ChapterID=24",
+     "sha256": "3cbe83d920d1297c662398a2ae81eaab833e2d36b64ed35dbd19d31112ca4573"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-225-45",
+   "short": "225 ILCS 45",
+   "title": "Illinois Compiled Statutes, Illinois Funeral or Burial Funds Act (225 ILCS 45)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1302",
+   "versions": [
+    {
+     "from": "2026-04-22",
+     "units": 29,
+     "source_url": "https://web.archive.org/web/20260422023330/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1302&ChapterID=24&Chapter=PROFESSIONS,%20OCCUPATIONS,%20AND%20BUSINESS%20OPERATIONS&MajorTopic=REGULATION",
+     "sha256": "249f18e1483ad2ee3013d58b19b7203b7273f79a5f16fd6ccd196f7264a827f3"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-225-46",
+   "short": "225 ILCS 46",
+   "title": "Illinois Compiled Statutes, Health Care Worker Background Check Act (225 ILCS 46)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1303",
+   "versions": [
+    {
+     "from": "2026-04-12",
+     "units": 25,
+     "source_url": "https://web.archive.org/web/20260412094628/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1303&ChapterID=24&Chapter=PROFESSIONS,%20OCCUPATIONS,%20AND%20BUSINESS%20OPERATIONS&MajorTopic=REGULATION",
+     "sha256": "4a272d9a51a133015044a270be8fff8e0ab605a4c98103c29b2be235392bab26"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-225-47",
+   "short": "225 ILCS 47",
+   "title": "Illinois Compiled Statutes, Health Care Worker Self-Referral Act (225 ILCS 47)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1304",
+   "versions": [
+    {
+     "from": "2026-06-15",
+     "units": 12,
+     "source_url": "https://web.archive.org/web/20260615111039/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1304&ChapterID=24",
+     "sha256": "522717ec54ec816e8fad35fa65d32f390104e9a7a2621f4a2d5509571eb8122d"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-225-50",
+   "short": "225 ILCS 50",
+   "title": "Illinois Compiled Statutes, Hearing Instrument Consumer Protection Act (225 ILCS 50)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1305",
+   "versions": [
+    {
+     "from": "2026-04-14",
+     "units": 40,
+     "source_url": "https://web.archive.org/web/20260414145530/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1305&ChapterID=24&Chapter=PROFESSIONS,%20OCCUPATIONS,%20AND%20BUSINESS%20OPERATIONS&MajorTopic=REGULATION",
+     "sha256": "29dd7b68dba57a87e0e436e6d98ce3e011ba54a59ead7a0afd36207d6cf43af6"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-225-51",
+   "short": "225 ILCS 51",
+   "title": "Illinois Compiled Statutes, Home Medical Equipment and Services Provider License Act (225 ILCS 51)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1306",
+   "versions": [
+    {
+     "from": "2026-04-12",
+     "units": 41,
+     "source_url": "https://web.archive.org/web/20260412162031/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1306&ChapterID=24&Chapter=PROFESSIONS,%20OCCUPATIONS,%20AND%20BUSINESS%20OPERATIONS&MajorTopic=REGULATION",
+     "sha256": "27071875d59cbe70074728ab3dfc120bd501a834bbb4b81cff7798444c4b6ed0"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-225-53",
+   "short": "225 ILCS 53",
+   "title": "Illinois Compiled Statutes, Task Force on Internationally-Licensed Health Care Professionals Act (225 ILCS 53)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=4294",
+   "versions": [
+    {
+     "from": "2026-04-13",
+     "units": 5,
+     "source_url": "https://web.archive.org/web/20260413172630/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=4294&ChapterID=24&Chapter=PROFESSIONS,%20OCCUPATIONS,%20AND%20BUSINESS%20OPERATIONS&MajorTopic=REGULATION",
+     "sha256": "0203e7b5013629f0db5e7bf4084ce25c056666551d090e6a99be3f8a59a056cd"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-225-55",
+   "short": "225 ILCS 55",
+   "title": "Illinois Compiled Statutes, Marriage and Family Therapy Licensing Act (225 ILCS 55)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1308",
+   "versions": [
+    {
+     "from": "2026-05-05",
+     "units": 43,
+     "source_url": "https://web.archive.org/web/20260505200610/https://ilga.gov/Legislation/ILCS/Articles?ActID=1308&ChapAct=225&nbsp;ILCS&nbsp;55/&ChapterID=24&ChapterName=PROFESSIONS%20AND%20OCCUPATIONS&ActName=Marriage%20and%20Family%20Therapy%20Licensing%20Act",
+     "sha256": "f906f5c9dc94ef9a7fc8a43cddcb940c285ecf319b96be15f097954aa068a804"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-225-56",
+   "short": "225 ILCS 56",
+   "title": "Illinois Compiled Statutes, Music Therapy Licensing and Practice Act (225 ILCS 56)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=4311",
+   "versions": [
+    {
+     "from": "2026-04-21",
+     "units": 40,
+     "source_url": "https://web.archive.org/web/20260421013845/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=4311&ChapterID=24&Chapter=PROFESSIONS,%20OCCUPATIONS,%20AND%20BUSINESS%20OPERATIONS&MajorTopic=REGULATION",
+     "sha256": "bdff634d21de7397e668d5e428c758d8d4c6c516f48585445afed005f9ae48d5"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-225-57",
+   "short": "225 ILCS 57",
+   "title": "Illinois Compiled Statutes, Massage Therapy Practice Act (225 ILCS 57)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2469",
+   "versions": [
+    {
+     "from": "2026-04-12",
+     "units": 43,
+     "source_url": "https://web.archive.org/web/20260412051205/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2469&ChapterID=24&Chapter=PROFESSIONS,%20OCCUPATIONS,%20AND%20BUSINESS%20OPERATIONS&MajorTopic=REGULATION",
+     "sha256": "0f083cc2d1cf3477b169d17a77fe5f3d6fbe0806dc5f8c3e29a12e45b3f240a3"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-225-60",
+   "short": "225 ILCS 60",
+   "title": "Illinois Compiled Statutes, Medical Practice Act of 1987 (225 ILCS 60)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1309",
+   "versions": [
+    {
+     "from": "2026-04-22",
+     "units": 86,
+     "source_url": "https://web.archive.org/web/20260422182306/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1309&ChapterID=24&Chapter=PROFESSIONS,%20OCCUPATIONS,%20AND%20BUSINESS%20OPERATIONS&MajorTopic=REGULATION",
+     "sha256": "05c825b1cd28f4e7eeab43c81d51def183e865cbd3c1b7cf352292309cfb28f3"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-225-61",
+   "short": "225 ILCS 61",
+   "title": "Illinois Compiled Statutes, Patients' Right to Know Act (225 ILCS 61)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3361",
+   "versions": [
+    {
+     "from": "2026-08-29",
+     "units": 9,
+     "source_url": "https://web.archive.org/web/20260829061530/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3361&ChapterID=24",
+     "sha256": "5478389bc473eaa87a8716e2df85a43b7b352801cd6797c10bd7ab37bb53c3ee"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-225-62",
+   "short": "225 ILCS 62",
+   "title": "Illinois Compiled Statutes, Osteopathic and Allopathic Healthcare Discrimination Act (225 ILCS 62)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1310",
+   "versions": [
+    {
+     "from": "2026-05-24",
+     "units": 8,
+     "source_url": "https://web.archive.org/web/20260524081823/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1310&ChapterID=24",
+     "sha256": "cf58e8a5abb06589a00f8992c7672bd5d178770b7534e111f76f6c8ab199571e"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-225-63",
+   "short": "225 ILCS 63",
+   "title": "Illinois Compiled Statutes, Naprapathic Practice Act (225 ILCS 63)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1311",
+   "versions": [
+    {
+     "from": "2026-02-06",
+     "units": 51,
+     "source_url": "https://web.archive.org/web/20260206053507/https://ilga.gov/Legislation/ILCS/Articles?ActID=1311&ChapAct=225%26nbsp%3BILCS%26nbsp%3B63%2F&ChapterID=24&ChapterName=PROFESSIONS+AND+OCCUPATIONS&ActName=Naprapathic+Practice+Act.",
+     "sha256": "cb672688e985d9da8ef6bb82e36e01b7e0f611fcf27c9c0c995696d925a90520"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-225-64",
+   "short": "225 ILCS 64",
+   "title": "Illinois Compiled Statutes, Licensed Certified Professional Midwife Practice Act (225 ILCS 64)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=4231",
+   "versions": [
+    {
+     "from": "2026-05-03",
+     "units": 39,
+     "source_url": "https://web.archive.org/web/20260503151205/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=4231&ChapterID=24",
+     "sha256": "f0e4ace7517e006681855ddf3e25bc99a4ba243b25c72eef002594d1498b3991"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-225-65-article-0050",
+   "short": "225 ILCS 65 art. 50",
+   "title": "Illinois Compiled Statutes, Nurse Practice Act (225 ILCS 65), Article 50",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1312",
+   "versions": [
+    {
+     "from": "2026-10-02",
+     "units": 20,
+     "source_url": "https://web.archive.org/web/20261002011035/https://www.ilga.gov/legislation/ILCS/details?SeqStart=&ChapAct=FullText&MajorTopic=&Chapter=&ActName=Nurse+Practice+Act.&ActID=1312&ChapterID=24",
+     "sha256": "4c47fccc82eda8ac21c43a8029c6c9081968ac7d5de08861b006de02a8b986fc"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-225-65-article-0055",
+   "short": "225 ILCS 65 art. 55",
+   "title": "Illinois Compiled Statutes, Nurse Practice Act (225 ILCS 65), Article 55",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1312",
+   "versions": [
+    {
+     "from": "2026-10-02",
+     "units": 8,
+     "source_url": "https://web.archive.org/web/20261002011035/https://www.ilga.gov/legislation/ILCS/details?SeqStart=&ChapAct=FullText&MajorTopic=&Chapter=&ActName=Nurse+Practice+Act.&ActID=1312&ChapterID=24",
+     "sha256": "4c47fccc82eda8ac21c43a8029c6c9081968ac7d5de08861b006de02a8b986fc"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-225-65-article-0060",
+   "short": "225 ILCS 65 art. 60",
+   "title": "Illinois Compiled Statutes, Nurse Practice Act (225 ILCS 65), Article 60",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1312",
+   "versions": [
+    {
+     "from": "2026-10-02",
+     "units": 9,
+     "source_url": "https://web.archive.org/web/20261002011035/https://www.ilga.gov/legislation/ILCS/details?SeqStart=&ChapAct=FullText&MajorTopic=&Chapter=&ActName=Nurse+Practice+Act.&ActID=1312&ChapterID=24",
+     "sha256": "4c47fccc82eda8ac21c43a8029c6c9081968ac7d5de08861b006de02a8b986fc"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-225-65-article-0065",
+   "short": "225 ILCS 65 art. 65",
+   "title": "Illinois Compiled Statutes, Nurse Practice Act (225 ILCS 65), Article 65",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1312",
+   "versions": [
+    {
+     "from": "2026-10-02",
+     "units": 19,
+     "source_url": "https://web.archive.org/web/20261002011035/https://www.ilga.gov/legislation/ILCS/details?SeqStart=&ChapAct=FullText&MajorTopic=&Chapter=&ActName=Nurse+Practice+Act.&ActID=1312&ChapterID=24",
+     "sha256": "4c47fccc82eda8ac21c43a8029c6c9081968ac7d5de08861b006de02a8b986fc"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-225-65-article-0070",
+   "short": "225 ILCS 65 art. 70",
+   "title": "Illinois Compiled Statutes, Nurse Practice Act (225 ILCS 65), Article 70",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1312",
+   "versions": [
+    {
+     "from": "2026-10-02",
+     "units": 36,
+     "source_url": "https://web.archive.org/web/20261002011035/https://www.ilga.gov/legislation/ILCS/details?SeqStart=&ChapAct=FullText&MajorTopic=&Chapter=&ActName=Nurse+Practice+Act.&ActID=1312&ChapterID=24",
+     "sha256": "4c47fccc82eda8ac21c43a8029c6c9081968ac7d5de08861b006de02a8b986fc"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-225-65-article-0075",
+   "short": "225 ILCS 65 art. 75",
+   "title": "Illinois Compiled Statutes, Nurse Practice Act (225 ILCS 65), Article 75",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1312",
+   "versions": [
+    {
+     "from": "2026-10-02",
+     "units": 4,
+     "source_url": "https://web.archive.org/web/20261002011035/https://www.ilga.gov/legislation/ILCS/details?SeqStart=&ChapAct=FullText&MajorTopic=&Chapter=&ActName=Nurse+Practice+Act.&ActID=1312&ChapterID=24",
+     "sha256": "4c47fccc82eda8ac21c43a8029c6c9081968ac7d5de08861b006de02a8b986fc"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-225-70",
+   "short": "225 ILCS 70",
+   "title": "Illinois Compiled Statutes, Nursing Home Administrators Licensing and Disciplinary Act (225 ILCS 70)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1313",
+   "versions": [
+    {
+     "from": "2026-08-15",
+     "units": 47,
+     "source_url": "https://web.archive.org/web/20260815131547/https://www.ilga.gov/Legislation/ILCS/Articles?Chapter=PROFESSIONS%2C+OCCUPATIONS%2C+AND+BUSINESS+OPERATIONS&MajorTopic=REGULATION&ActID=1313&ChapterID=24",
+     "sha256": "37596f59466575c77ad361783ff528597a82c34325ddae3d5c07bb019e2a3b0b"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-225-75",
+   "short": "225 ILCS 75",
+   "title": "Illinois Compiled Statutes, Illinois Occupational Therapy Practice Act (225 ILCS 75)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1314",
+   "versions": [
+    {
+     "from": "2026-04-12",
+     "units": 49,
+     "source_url": "https://web.archive.org/web/20260412174227/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1314&ChapterID=24&Chapter=PROFESSIONS,%20OCCUPATIONS,%20AND%20BUSINESS%20OPERATIONS&MajorTopic=REGULATION",
+     "sha256": "36899d136bad442d81989087b04cfe4527796c0321d0dfe160cab97d25694542"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-225-83",
+   "short": "225 ILCS 83",
+   "title": "Illinois Compiled Statutes, Mail Order Contact Lens Act (225 ILCS 83)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1316",
+   "versions": [
+    {
+     "from": "2026-08-16",
+     "units": 8,
+     "source_url": "https://web.archive.org/web/20260816090818/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1316&ChapterID=24",
+     "sha256": "ddbb0e4bd3ea7ed32bddeeb7b314270070dbd89d8a725e7dfd08238aa29b1036"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-225-84",
+   "short": "225 ILCS 84",
+   "title": "Illinois Compiled Statutes, Orthotics, Prosthetics, and Pedorthics Practice Act (225 ILCS 84)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1317",
+   "versions": [
+    {
+     "from": "2026-08-15",
+     "units": 46,
+     "source_url": "https://web.archive.org/web/20260815131547/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1317&ChapterID=24&Chapter=PROFESSIONS%2C+OCCUPATIONS%2C+AND+BUSINESS+OPERATIONS&MajorTopic=REGULATION",
+     "sha256": "cb49e8c41a65e7fd8e334045007d2a510b5c4466c42e460397eb698201734452"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-225-85",
+   "short": "225 ILCS 85",
+   "title": "Illinois Compiled Statutes, Pharmacy Practice Act (225 ILCS 85)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1318",
+   "versions": [
+    {
+     "from": "2026-08-15",
+     "units": 96,
+     "source_url": "https://web.archive.org/web/20260815131547/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1318&ChapterID=24&Chapter=PROFESSIONS%2C+OCCUPATIONS%2C+AND+BUSINESS+OPERATIONS&MajorTopic=REGULATION",
+     "sha256": "82ae61c72682743a1fa62061251cafb74d2f9086b34b112f346ab8f31d08727a"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-225-90",
+   "short": "225 ILCS 90",
+   "title": "Illinois Compiled Statutes, Illinois Physical Therapy Act (225 ILCS 90)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1319",
+   "versions": [
+    {
+     "from": "2026-05-12",
+     "units": 54,
+     "source_url": "https://web.archive.org/web/20260512071121/https://ilga.gov/Legislation/ILCS/Articles?ActID=1319&ChapterID=24&Chapter=PROFESSIONS,%20OCCUPATIONS,%20AND%20BUSINESS%20OPERATIONS&MajorTopic=REGULATION",
+     "sha256": "858a7d3af2a35e1dcad5534a53d7006f191fedd718f295d08ea0605aec02d431"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-225-95",
+   "short": "225 ILCS 95",
+   "title": "Illinois Compiled Statutes, Physician Assistant Practice Act of 1987 (225 ILCS 95)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1320",
+   "versions": [
+    {
+     "from": "2026-04-10",
+     "units": 55,
+     "source_url": "https://web.archive.org/web/20260410153735/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1320&ChapterID=24&Chapter=PROFESSIONS,%20OCCUPATIONS,%20AND%20BUSINESS%20OPERATIONS&MajorTopic=REGULATION",
+     "sha256": "2dd9dfd935cae7c61406c815b221587734b2494e62af942a97512b6cd122f23a"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-225-100",
+   "short": "225 ILCS 100",
+   "title": "Illinois Compiled Statutes, Podiatric Medical Practice Act of 1987 (225 ILCS 100)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1321",
+   "versions": [
+    {
+     "from": "2026-04-12",
+     "units": 54,
+     "source_url": "https://web.archive.org/web/20260412200300/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1321&ChapterID=24&Chapter=PROFESSIONS,%20OCCUPATIONS,%20AND%20BUSINESS%20OPERATIONS&MajorTopic=REGULATION",
+     "sha256": "d4734f51f207934d3e40c634ad8ed75f63b8bc9f35febf1336c39a8dc31f17eb"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-225-105",
+   "short": "225 ILCS 105",
+   "title": "Illinois Compiled Statutes, Boxing and Full-contact Martial Arts Act (225 ILCS 105)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1322",
+   "versions": [
+    {
+     "from": "2026-04-20",
+     "units": 49,
+     "source_url": "https://web.archive.org/web/20260420222246/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1322&ChapterID=24&Chapter=PROFESSIONS,%20OCCUPATIONS,%20AND%20BUSINESS%20OPERATIONS&MajorTopic=REGULATION",
+     "sha256": "a48b3c44dae3d44135cd7db7d6d2042e661b61ae6ba47c9111b8ff198f104481"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-225-106",
+   "short": "225 ILCS 106",
+   "title": "Illinois Compiled Statutes, Respiratory Care Practice Act (225 ILCS 106)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1323",
+   "versions": [
+    {
+     "from": "2026-07-23",
+     "units": 45,
+     "source_url": "https://web.archive.org/web/20260723211916/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1323&ChapterID=24",
+     "sha256": "5eeaff48f2942e3f0f1aeb6d650bf010e66163863fb3cf52f0f9cc908b55ba4c"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-225-107",
+   "short": "225 ILCS 107",
+   "title": "Illinois Compiled Statutes, Professional Counselor and Clinical Professional Counselor Licensing and Practice Act (225 ILCS 107)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1324",
+   "versions": [
+    {
+     "from": "2026-05-10",
+     "units": 42,
+     "source_url": "https://web.archive.org/web/20260510123406/https://ilga.gov/Legislation/ILCS/Articles?ActID=1324&ChapAct=225%C2%A0ILCS%C2%A0107/&ChapterID=24&ChapterName=PROFESSIONS%20AND%20OCCUPATIONS&ActName=Professional%20Counselor%20and%20Clinical%20Professional%20Counselor%20Licensing%20Act",
+     "sha256": "c1ebb9311c09dde235ccbb475134bf47bc8d341167f576bb5c40809629b13da6"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-225-109",
+   "short": "225 ILCS 109",
+   "title": "Illinois Compiled Statutes, Sex Offender Evaluation and Treatment Provider Act (225 ILCS 109)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3431",
+   "versions": [
+    {
+     "from": "2026-04-22",
+     "units": 43,
+     "source_url": "https://web.archive.org/web/20260422154650/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3431&ChapterID=24&Chapter=PROFESSIONS,%20OCCUPATIONS,%20AND%20BUSINESS%20OPERATIONS&MajorTopic=REGULATION",
+     "sha256": "630573df2c4564851394d869f37ef2dab0604ab1001b3c0ba33c65261fc6a04d"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-225-110",
+   "short": "225 ILCS 110",
+   "title": "Illinois Compiled Statutes, Illinois Speech-Language Pathology and Audiology Practice Act (225 ILCS 110)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1325",
+   "versions": [
+    {
+     "from": "2026-05-18",
+     "units": 58,
+     "source_url": "https://web.archive.org/web/20260518182852/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1325&ChapterID=24",
+     "sha256": "6e2e8483f9210968285913ee242a0b5b6e234ef8e885364d3b7e1b6e837542c4"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-225-115",
+   "short": "225 ILCS 115",
+   "title": "Illinois Compiled Statutes, Veterinary Medicine and Surgery Practice Act of 2004 (225 ILCS 115)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1326",
+   "versions": [
+    {
+     "from": "2026-05-14",
+     "units": 59,
+     "source_url": "https://web.archive.org/web/20260514091232/https://ilga.gov/Legislation/ILCS/Articles?ActID=1326&ChapAct=225%26nbsp%3BILCS%26nbsp%3B115%2F&ChapterID=24&ChapterN",
+     "sha256": "6ded15260fd711b9cbfdfaa6973139f58780d3ced729ec28ea0b4ecba555100a"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-225-120",
+   "short": "225 ILCS 120",
+   "title": "Illinois Compiled Statutes, Wholesale Drug Distribution Licensing Act (225 ILCS 120)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1327",
+   "versions": [
+    {
+     "from": "2026-08-15",
+     "units": 53,
+     "source_url": "https://web.archive.org/web/20260815131547/https://www.ilga.gov/Legislation/ILCS/Articles?ChapterID=24&Chapter=PROFESSIONS%2C+OCCUPATIONS%2C+AND+BUSINESS+OPERATIONS&MajorTopic=REGULATION&ActID=1327",
+     "sha256": "ef5b29022e0db65ff16a52f1e3d58d7452396fbbe5c3c27ead8cb56d7c4639f0"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-225-125",
+   "short": "225 ILCS 125",
+   "title": "Illinois Compiled Statutes, Perfusionist Practice Act (225 ILCS 125)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1328",
+   "versions": [
+    {
+     "from": "2026-08-15",
+     "units": 53,
+     "source_url": "https://web.archive.org/web/20260815131547/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1328&ChapterID=24&Chapter=PROFESSIONS%2C+OCCUPATIONS%2C+AND+BUSINESS+OPERATIONS&MajorTopic=REGULATION",
+     "sha256": "71958a53f107382874c0c11282b9bc34ec8bd0b9aec7eb24ec559e60a16c9db8"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-225-130",
+   "short": "225 ILCS 130",
+   "title": "Illinois Compiled Statutes, Registered Surgical Assistant and Registered Surgical Technologist Title Protection Act (225 ILCS 130)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2470",
+   "versions": [
+    {
+     "from": "2026-04-22",
+     "units": 41,
+     "source_url": "https://web.archive.org/web/20260422084416/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2470&ChapterID=24&Chapter=PROFESSIONS,%20OCCUPATIONS,%20AND%20BUSINESS%20OPERATIONS&MajorTopic=REGULATION",
+     "sha256": "40524893698b464bd37a5a5ccd99a2cf7f47a2ad40b84d51ef9f9d22f3a5322c"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-225-135",
+   "short": "225 ILCS 135",
+   "title": "Illinois Compiled Statutes, Genetic Counselor Licensing Act (225 ILCS 135)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2632",
+   "versions": [
+    {
+     "from": "2026-04-13",
+     "units": 43,
+     "source_url": "https://web.archive.org/web/20260413044609/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2632&ChapterID=24&Chapter=PROFESSIONS,%20OCCUPATIONS,%20AND%20BUSINESS%20OPERATIONS&MajorTopic=REGULATION",
+     "sha256": "741866dfcf0a47ddd41e5a4d9113366bdedf07cbad2bc604cf4d59454538dd85"
+    }
+   ]
   }
  ]
 }

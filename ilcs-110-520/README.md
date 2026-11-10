@@ -1,0 +1,64 @@
+# Illinois Compiled Statutes, Southern Illinois University Management Act (110 ILCS 520)
+
+110 ILCS 520 · 1 versions, from 2026-05-21 (latest in force: 2026-05-21) · <https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1114>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| 110 ILCS 520/0.01 | [sec-0000-0001.md](sec-0000-0001.md) | 0 |  |
+| 110 ILCS 520/1 | [sec-0001.md](sec-0001.md) | 0 |  |
+| 110 ILCS 520/2 | [sec-0002.md](sec-0002.md) | 0 |  |
+| 110 ILCS 520/3 | [sec-0003.md](sec-0003.md) | 0 |  |
+| 110 ILCS 520/4 | [sec-0004.md](sec-0004.md) | 0 |  |
+| 110 ILCS 520/5 | [sec-0005.md](sec-0005.md) | 0 |  |
+| 110 ILCS 520/6 | [sec-0006.md](sec-0006.md) | 0 |  |
+| 110 ILCS 520/6.5 | [sec-0006-0005.md](sec-0006-0005.md) | 0 |  |
+| 110 ILCS 520/6.6 | [sec-0006-0006.md](sec-0006-0006.md) | 0 |  |
+| 110 ILCS 520/7 | [sec-0007.md](sec-0007.md) | 0 |  |
+| 110 ILCS 520/7.1 | [sec-0007-0001.md](sec-0007-0001.md) | 0 |  |
+| 110 ILCS 520/7.2 | [sec-0007-0002.md](sec-0007-0002.md) | 0 |  |
+| 110 ILCS 520/8 | [sec-0008.md](sec-0008.md) | 0 |  |
+| 110 ILCS 520/8a | [sec-0008a.md](sec-0008a.md) | 0 |  |
+| 110 ILCS 520/8b | [sec-0008b.md](sec-0008b.md) | 0 |  |
+| 110 ILCS 520/8b.1 | [sec-0008b-0001.md](sec-0008b-0001.md) | 0 |  |
+| 110 ILCS 520/8b.2 | [sec-0008b-0002.md](sec-0008b-0002.md) | 0 |  |
+| 110 ILCS 520/8c | [sec-0008c.md](sec-0008c.md) | 0 |  |
+| 110 ILCS 520/8d | [sec-0008d.md](sec-0008d.md) | 0 |  |
+| 110 ILCS 520/8d-5 | [sec-0008d-0005.md](sec-0008d-0005.md) | 0 |  |
+| 110 ILCS 520/8e | [sec-0008e.md](sec-0008e.md) | 0 |  |
+| 110 ILCS 520/8f | [sec-0008f.md](sec-0008f.md) | 0 |  |
+| 110 ILCS 520/8g | [sec-0008g.md](sec-0008g.md) | 0 |  |
+| 110 ILCS 520/8h | [sec-0008h.md](sec-0008h.md) | 0 |  |
+| 110 ILCS 520/8i | [sec-0008i.md](sec-0008i.md) | 0 |  |
+| 110 ILCS 520/9 | [sec-0009.md](sec-0009.md) | 0 |  |
+| 110 ILCS 520/10 | [sec-0010.md](sec-0010.md) | 0 |  |
+| 110 ILCS 520/11 | [sec-0011.md](sec-0011.md) | 0 |  |
+| 110 ILCS 520/15 | [sec-0015.md](sec-0015.md) | 0 |  |
+| 110 ILCS 520/16 | [sec-0016.md](sec-0016.md) | 0 |  |
+| 110 ILCS 520/20 | [sec-0020.md](sec-0020.md) | 0 |  |
+| 110 ILCS 520/25 | [sec-0025.md](sec-0025.md) | 0 |  |
+| 110 ILCS 520/30 | [sec-0030.md](sec-0030.md) | 0 |  |
+| 110 ILCS 520/35 | [sec-0035.md](sec-0035.md) | 0 |  |
+| 110 ILCS 520/40 | [sec-0040.md](sec-0040.md) | 0 |  |
+| 110 ILCS 520/45 | [sec-0045.md](sec-0045.md) | 0 |  |
+| 110 ILCS 520/50 | [sec-0050.md](sec-0050.md) | 0 |  |
+| 110 ILCS 520/55 | [sec-0055.md](sec-0055.md) | 0 |  |
+| 110 ILCS 520/60 | [sec-0060.md](sec-0060.md) | 0 |  |
+| 110 ILCS 520/65 | [sec-0065.md](sec-0065.md) | 0 |  |
+| 110 ILCS 520/70 | [sec-0070.md](sec-0070.md) | 0 |  |
+| 110 ILCS 520/75 | [sec-0075.md](sec-0075.md) | 0 |  |
+| 110 ILCS 520/80 | [sec-0080.md](sec-0080.md) | 0 |  |
+| 110 ILCS 520/85 | [sec-0085.md](sec-0085.md) | 0 |  |
+| 110 ILCS 520/90 | [sec-0090.md](sec-0090.md) | 0 |  |
+| 110 ILCS 520/95 | [sec-0095.md](sec-0095.md) | 0 |  |
+| 110 ILCS 520/100 | [sec-0100.md](sec-0100.md) | 0 |  |
+| 110 ILCS 520/102 | [sec-0102.md](sec-0102.md) | 0 |  |
+| 110 ILCS 520/110 | [sec-0110.md](sec-0110.md) | 0 |  |
+| 110 ILCS 520/115 | [sec-0115.md](sec-0115.md) | 0 |  |
+| 110 ILCS 520/120 | [sec-0120.md](sec-0120.md) | 0 |  |
+| 110 ILCS 520/125 | [sec-0125.md](sec-0125.md) | 0 |  |
+| 110 ILCS 520/130 | [sec-0130.md](sec-0130.md) | 0 |  |
+| 110 ILCS 520/135 | [sec-0135.md](sec-0135.md) | 0 |  |
+| 110 ILCS 520/145 | [sec-0145.md](sec-0145.md) | 0 |  |
+| 110 ILCS 520/150 | [sec-0150.md](sec-0150.md) | 0 |  |
+| 110 ILCS 520/155 | [sec-0155.md](sec-0155.md) | 0 |  |
+| 110 ILCS 520/160 | [sec-0160.md](sec-0160.md) | 0 |  |

@@ -9,7 +9,7 @@ The law of Illinois as a git history: one file per provision, with `git blame` a
 | Folder | Act | Versions | History |
 | --- | --- | ---: | --- |
 | `constitution-*/` | Constitution of the State of Illinois (1970): the preamble, one folder per article, and the transition schedule | 1 | 139 provisions, text as read on 2026-01-01 |
-| `ilcs-<chapter>-<act>[-article-NNNN]/` | Illinois Compiled Statutes: 817 of the 2859 acts in force that the 72 chapter act lists name (one folder per act, or per article of a large act) | 1-2 | 20681 sections; each act dated by the day of the capture read (2024-12-22 to 2026-10-22) |
+| `ilcs-<chapter>-<act>[-article-NNNN]/` | Illinois Compiled Statutes: 1035 of the 2859 acts in force that the 72 chapter act lists name (one folder per act, or per article of a large act) | 1-2 | 28725 sections; each act dated by the day of the capture read (2024-12-22 to 2026-10-22) |
 
 English. Only statute and Constitution text and the compilation's own "(Source: ...)" lines are taken.
 
@@ -27,4 +27,4 @@ The author of a commit is the law that made the change, with an e-mail address t
 
 ## Limits
 
-817 of the 2859 acts in force listed by the General Assembly are included. An act is included only when its page (or, for a large act, its full text or every article page) has a capture holding section text. Acts marked repealed or renumbered are not read. Left out so far: large act: no capture of its full text or of every article page (59); no section text on the page (247); no capture (1715); large act: a page without section text (22). The Public Acts and administrative rules are not included. There is no history before the dates above.
+1035 of the 2859 acts in force listed by the General Assembly are included. An act is included only when its page (or, for a large act, its full text or every article page) has a capture holding section text. Acts marked repealed or renumbered are not read. Left out so far: large act: no capture of its full text or of every article page (72); no section text on the page (277); no capture (1443); large act: a page without section text (33). The Public Acts and administrative rules are not included. There is no history before the dates above.

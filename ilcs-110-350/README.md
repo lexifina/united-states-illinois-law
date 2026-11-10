@@ -1,0 +1,12 @@
+# Illinois Compiled Statutes, University of Illinois Institutes for Juvenile Research and Developmental Disabilities Act (110 ILCS 350)
+
+110 ILCS 350 · 1 versions, from 2026-05-21 (latest in force: 2026-05-21) · <https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1096>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| 110 ILCS 350/0.01 | [sec-0000-0001.md](sec-0000-0001.md) | 0 |  |
+| 110 ILCS 350/1 | [sec-0001.md](sec-0001.md) | 0 |  |
+| 110 ILCS 350/2 | [sec-0002.md](sec-0002.md) | 0 |  |
+| 110 ILCS 350/3 | [sec-0003.md](sec-0003.md) | 0 |  |
+| 110 ILCS 350/4 | [sec-0004.md](sec-0004.md) | 0 |  |
+| 110 ILCS 350/5 | [sec-0005.md](sec-0005.md) | 0 |  |

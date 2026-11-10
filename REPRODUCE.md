@@ -1158,12 +1158,277 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `ilcs-110-230` | Illinois Compiled Statutes, Manpower Planning and Analysis Act (110 ILCS 230) | 1 | 2026-03-09 to 2026-03-09 |
 | `ilcs-110-310` | Illinois Compiled Statutes, University of Illinois Trustees Act (110 ILCS 310) | 1 | 2026-06-04 to 2026-06-04 |
 | `ilcs-110-315` | Illinois Compiled Statutes, University of Illinois Name Change Act (110 ILCS 315) | 1 | 2026-05-08 to 2026-05-08 |
+| `ilcs-110-320` | Illinois Compiled Statutes, University of Illinois at Chicago Act (110 ILCS 320) | 1 | 2026-05-11 to 2026-05-11 |
+| `ilcs-110-330` | Illinois Compiled Statutes, University of Illinois Hospital Act (110 ILCS 330) | 1 | 2026-06-12 to 2026-06-12 |
+| `ilcs-110-337` | Illinois Compiled Statutes, Biomonitoring Feasibility Study Act (110 ILCS 337) | 1 | 2026-04-19 to 2026-04-19 |
+| `ilcs-110-350` | Illinois Compiled Statutes, University of Illinois Institutes for Juvenile Research and Developmental Disabilities Act (110 ILCS 350) | 1 | 2026-05-21 to 2026-05-21 |
+| `ilcs-110-355-article-3000` | Illinois Compiled Statutes, Civil Administrative Code of Illinois. (University of Illinois Exercise of Functions and Duties Law) (110 ILCS 355), Article 3000 | 1 | 2026-04-11 to 2026-04-11 |
+| `ilcs-110-360` | Illinois Compiled Statutes, Forestry Promotion Act (110 ILCS 360) | 1 | 2026-05-12 to 2026-05-12 |
+| `ilcs-110-365` | Illinois Compiled Statutes, Illinois Fire Service Institute Act (110 ILCS 365) | 1 | 2026-03-12 to 2026-03-12 |
+| `ilcs-110-370` | Illinois Compiled Statutes, Police Training Institute Act (110 ILCS 370) | 1 | 2026-06-30 to 2026-06-30 |
+| `ilcs-110-375` | Illinois Compiled Statutes, University of Illinois Facility Use Prohibition Act (110 ILCS 375) | 1 | 2026-04-29 to 2026-04-29 |
+| `ilcs-110-380` | Illinois Compiled Statutes, University of Illinois Mining Engineering Act (110 ILCS 380) | 1 | 2026-05-14 to 2026-05-14 |
+| `ilcs-110-385` | Illinois Compiled Statutes, University of Illinois Veterinary College Act (110 ILCS 385) | 1 | 2026-03-16 to 2026-03-16 |
+| `ilcs-110-395` | Illinois Compiled Statutes, University of Illinois Journalism College Act (110 ILCS 395) | 1 | 2026-04-11 to 2026-04-11 |
+| `ilcs-110-400` | Illinois Compiled Statutes, University of Illinois Airport Act (110 ILCS 400) | 1 | 2026-08-04 to 2026-08-04 |
+| `ilcs-110-405` | Illinois Compiled Statutes, University of Illinois Revenue Bond Financing Act for Auxiliary Facilities (110 ILCS 405) | 1 | 2026-04-24 to 2026-04-24 |
+| `ilcs-110-415` | Illinois Compiled Statutes, University of Illinois Construction Financing Act (110 ILCS 415) | 1 | 2026-03-08 to 2026-03-08 |
+| `ilcs-110-425` | Illinois Compiled Statutes, University of Illinois Scientific Surveys Act (110 ILCS 425) | 1 | 2026-09-17 to 2026-09-17 |
+| `ilcs-110-435` | Illinois Compiled Statutes, University of Illinois School of Labor and Employment Relations Act (110 ILCS 435) | 1 | 2026-03-16 to 2026-03-16 |
+| `ilcs-110-510` | Illinois Compiled Statutes, Southern Illinois University Objects Act (110 ILCS 510) | 1 | 2026-05-10 to 2026-05-10 |
+| `ilcs-110-520` | Illinois Compiled Statutes, Southern Illinois University Management Act (110 ILCS 520) | 1 | 2026-05-21 to 2026-05-21 |
+| `ilcs-110-525` | Illinois Compiled Statutes, Southern Illinois University Revenue Bond Act (110 ILCS 525) | 1 | 2026-05-21 to 2026-05-21 |
+| `ilcs-110-530` | Illinois Compiled Statutes, Sewage and Water System Training Institute Act (110 ILCS 530) | 1 | 2026-05-21 to 2026-05-21 |
+| `ilcs-110-610` | Illinois Compiled Statutes, Board of Governors of State Colleges and Universities Revenue Bond Act (110 ILCS 610) | 1 | 2026-02-11 to 2026-02-11 |
+| `ilcs-110-661-article-0006` | Illinois Compiled Statutes, Chicago State University Revenue Bond Law (110 ILCS 661), Article 6 | 1 | 2026-06-08 to 2026-06-08 |
+| `ilcs-110-661-article-0099` | Illinois Compiled Statutes, Chicago State University Revenue Bond Law (110 ILCS 661), Article 99 | 1 | 2026-06-08 to 2026-06-08 |
+| `ilcs-110-670-article-0015` | Illinois Compiled Statutes, Governors State University Law (110 ILCS 670), Article 15 | 1 | 2026-04-15 to 2026-04-15 |
+| `ilcs-110-670-article-0099` | Illinois Compiled Statutes, Governors State University Law (110 ILCS 670), Article 99 | 1 | 2026-04-15 to 2026-04-15 |
+| `ilcs-110-676-article-0021` | Illinois Compiled Statutes, Illinois State University Revenue Bond Law (110 ILCS 676), Article 21 | 1 | 2026-06-15 to 2026-06-15 |
+| `ilcs-110-676-article-0099` | Illinois Compiled Statutes, Illinois State University Revenue Bond Law (110 ILCS 676), Article 99 | 1 | 2026-06-15 to 2026-06-15 |
+| `ilcs-110-680-article-0025` | Illinois Compiled Statutes, Northeastern Illinois University Law (110 ILCS 680), Article 25 | 1 | 2026-04-11 to 2026-04-11 |
+| `ilcs-110-680-article-0099` | Illinois Compiled Statutes, Northeastern Illinois University Law (110 ILCS 680), Article 99 | 1 | 2026-04-11 to 2026-04-11 |
+| `ilcs-110-710` | Illinois Compiled Statutes, Board of Regents Revenue Bond Act of 1967 (110 ILCS 710) | 1 | 2026-05-12 to 2026-05-12 |
+| `ilcs-110-905` | Illinois Compiled Statutes, Allied Health Care Professional Assistance Law (110 ILCS 905) | 1 | 2026-03-15 to 2026-03-15 |
+| `ilcs-110-916` | Illinois Compiled Statutes, Public Interest Attorney Assistance Act (110 ILCS 916) | 1 | 2026-05-12 to 2026-05-12 |
+| `ilcs-110-920` | Illinois Compiled Statutes, Baccalaureate Savings Act (110 ILCS 920) | 1 | 2026-05-31 to 2026-05-31 |
+| `ilcs-110-921` | Illinois Compiled Statutes, Career Preservation and Student Loan Repayment Act (110 ILCS 921) | 1 | 2026-07-27 to 2026-07-27 |
+| `ilcs-110-923` | Illinois Compiled Statutes, Child Welfare Student Loan Forgiveness Act (110 ILCS 923) | 1 | 2026-05-16 to 2026-05-16 |
+| `ilcs-110-924` | Illinois Compiled Statutes, Community College Transfer Grant Program Act (110 ILCS 924) | 1 | 2026-05-21 to 2026-05-21 |
+| `ilcs-110-930` | Illinois Compiled Statutes, Diversifying Higher Education Faculty in Illinois Act (110 ILCS 930) | 1 | 2026-05-07 to 2026-05-07 |
+| `ilcs-110-932` | Illinois Compiled Statutes, Equity and Representation in Health Care Act (110 ILCS 932) | 1 | 2026-09-04 to 2026-09-04 |
+| `ilcs-110-935` | Illinois Compiled Statutes, Underserved Health Care Provider Workforce Act (110 ILCS 935) | 1 | 2026-03-07 to 2026-03-07 |
+| `ilcs-110-940` | Illinois Compiled Statutes, Governor's Scholars Board of Sponsors Act (110 ILCS 940) | 1 | 2026-05-12 to 2026-05-12 |
+| `ilcs-110-945` | Illinois Compiled Statutes, Higher Education Loan Act (110 ILCS 945) | 1 | 2026-08-03 to 2026-08-03 |
+| `ilcs-110-947` | Illinois Compiled Statutes, Higher Education Student Assistance Act (110 ILCS 947) | 1 | 2026-05-14 to 2026-05-14 |
+| `ilcs-110-948` | Illinois Compiled Statutes, Loan Repayment Assistance for Dentists Act (110 ILCS 948) | 1 | 2026-05-17 to 2026-05-17 |
+| `ilcs-110-949` | Illinois Compiled Statutes, Loan Repayment Assistance for Physicians Act (110 ILCS 949) | 1 | 2026-05-20 to 2026-05-20 |
+| `ilcs-110-952` | Illinois Compiled Statutes, Mental Health Graduate Education Scholarship Act (110 ILCS 952) | 1 | 2026-07-07 to 2026-07-07 |
+| `ilcs-110-970` | Illinois Compiled Statutes, Nurses in Advancement Law (110 ILCS 970) | 1 | 2026-05-14 to 2026-05-14 |
+| `ilcs-110-972` | Illinois Compiled Statutes, Veterans' Home Medical Providers' Loan Repayment Act (110 ILCS 972) | 1 | 2026-04-16 to 2026-04-16 |
+| `ilcs-110-975` | Illinois Compiled Statutes, Nursing Education Scholarship Law (110 ILCS 975) | 1 | 2026-03-07 to 2026-03-07 |
+| `ilcs-110-978` | Illinois Compiled Statutes, Podiatric Scholarship and Residency Act (110 ILCS 978) | 1 | 2026-05-13 to 2026-05-13 |
+| `ilcs-110-979` | Illinois Compiled Statutes, Illinois Prepaid Tuition Act (110 ILCS 979) | 1 | 2026-03-08 to 2026-03-08 |
+| `ilcs-110-983` | Illinois Compiled Statutes, Know Before You Owe Private Education Loan Act (110 ILCS 983) | 1 | 2026-10-02 to 2026-10-02 |
+| `ilcs-110-985` | Illinois Compiled Statutes, Residence of Minors for Tuition Act (110 ILCS 985) | 1 | 2026-03-10 to 2026-03-10 |
+| `ilcs-110-986` | Illinois Compiled Statutes, Retention of Illinois Students and Equity Act (110 ILCS 986) | 1 | 2026-05-15 to 2026-05-15 |
+| `ilcs-110-990` | Illinois Compiled Statutes, Senior Citizen Courses Act (110 ILCS 990) | 1 | 2026-04-16 to 2026-04-16 |
+| `ilcs-110-991` | Illinois Compiled Statutes, Student Investment Account Act (110 ILCS 991) | 1 | 2026-03-05 to 2026-03-05 |
+| `ilcs-110-992-article-0001` | Illinois Compiled Statutes, Student Loan Servicing Rights Act (110 ILCS 992), Article 1 | 1 | 2026-02-14 to 2026-02-14 |
+| `ilcs-110-992-article-0005` | Illinois Compiled Statutes, Student Loan Servicing Rights Act (110 ILCS 992), Article 5 | 1 | 2026-02-14 to 2026-02-14 |
+| `ilcs-110-992-article-0007` | Illinois Compiled Statutes, Student Loan Servicing Rights Act (110 ILCS 992), Article 7 | 1 | 2026-02-14 to 2026-02-14 |
+| `ilcs-110-992-article-0010` | Illinois Compiled Statutes, Student Loan Servicing Rights Act (110 ILCS 992), Article 10 | 1 | 2026-02-14 to 2026-02-14 |
+| `ilcs-110-992-article-0015` | Illinois Compiled Statutes, Student Loan Servicing Rights Act (110 ILCS 992), Article 15 | 1 | 2026-02-14 to 2026-02-14 |
+| `ilcs-110-992-article-0020` | Illinois Compiled Statutes, Student Loan Servicing Rights Act (110 ILCS 992), Article 20 | 1 | 2026-02-14 to 2026-02-14 |
+| `ilcs-110-992-article-0025` | Illinois Compiled Statutes, Student Loan Servicing Rights Act (110 ILCS 992), Article 25 | 1 | 2026-02-14 to 2026-02-14 |
+| `ilcs-110-992-article-0099` | Illinois Compiled Statutes, Student Loan Servicing Rights Act (110 ILCS 992), Article 99 | 1 | 2026-02-14 to 2026-02-14 |
+| `ilcs-110-995` | Illinois Compiled Statutes, Veterinary Student Loan Repayment Program Act (110 ILCS 995) | 1 | 2026-07-11 to 2026-07-11 |
+| `ilcs-110-996` | Illinois Compiled Statutes, Community Behavioral Health Care Professional Loan Repayment Program Act (110 ILCS 996) | 1 | 2026-03-15 to 2026-03-15 |
+| `ilcs-110-997` | Illinois Compiled Statutes, Human Services Professional Loan Repayment Program Act (110 ILCS 997) | 1 | 2026-05-21 to 2026-05-21 |
+| `ilcs-110-1005` | Illinois Compiled Statutes, Private College Act (110 ILCS 1005) | 1 | 2026-05-12 to 2026-05-12 |
+| `ilcs-110-1010` | Illinois Compiled Statutes, Academic Degree Act (110 ILCS 1010) | 1 | 2026-03-10 to 2026-03-10 |
+| `ilcs-110-1020` | Illinois Compiled Statutes, Private College Campus Police Act (110 ILCS 1020) | 1 | 2026-04-10 to 2026-04-10 |
+| `ilcs-115-5` | Illinois Compiled Statutes, Illinois Educational Labor Relations Act (115 ILCS 5) | 1 | 2026-08-27 to 2026-08-27 |
+| `ilcs-205-5` | Illinois Compiled Statutes, Illinois Banking Act (205 ILCS 5) | 1 | 2026-05-08 to 2026-05-08 |
+| `ilcs-205-10` | Illinois Compiled Statutes, Illinois Bank Holding Company Act of 1957 (205 ILCS 10) | 1 | 2026-02-13 to 2026-02-13 |
+| `ilcs-205-205` | Illinois Compiled Statutes, Savings Bank Act (205 ILCS 205) | 1 | 2026-03-16 to 2026-03-16 |
+| `ilcs-205-305` | Illinois Compiled Statutes, Illinois Credit Union Act (205 ILCS 305) | 1 | 2026-02-15 to 2026-02-15 |
+| `ilcs-205-405` | Illinois Compiled Statutes, Currency Exchange Act (205 ILCS 405) | 1 | 2026-06-17 to 2026-06-17 |
+| `ilcs-205-511` | Illinois Compiled Statutes, Pawnbroker Regulation Act of 2023 (205 ILCS 511) | 1 | 2026-05-16 to 2026-05-16 |
+| `ilcs-205-605` | Illinois Compiled Statutes, Consumer Deposit Account Act (205 ILCS 605) | 1 | 2026-03-12 to 2026-03-12 |
+| `ilcs-205-610` | Illinois Compiled Statutes, Banking Emergencies Act (205 ILCS 610) | 1 | 2026-05-19 to 2026-05-19 |
+| `ilcs-205-616` | Illinois Compiled Statutes, Electronic Fund Transfer Act (205 ILCS 616) | 1 | 2026-08-10 to 2026-08-10 |
+| `ilcs-205-625` | Illinois Compiled Statutes, Illinois Trust and Payable on Death Accounts Act (205 ILCS 625) | 1 | 2026-05-16 to 2026-05-16 |
+| `ilcs-205-630` | Illinois Compiled Statutes, Promissory Note and Bank Holiday Act. (Part 3) (205 ILCS 630) | 1 | 2026-05-16 to 2026-05-16 |
+| `ilcs-205-650` | Illinois Compiled Statutes, Foreign Bank Representative Office Act (205 ILCS 650) | 1 | 2026-02-12 to 2026-02-12 |
+| `ilcs-205-660` | Illinois Compiled Statutes, Sales Finance Agency Act (205 ILCS 660) | 1 | 2026-05-27 to 2026-05-27 |
+| `ilcs-205-665` | Illinois Compiled Statutes, Debt Management Service Act (205 ILCS 665) | 1 | 2026-03-23 to 2026-03-23 |
+| `ilcs-205-670` | Illinois Compiled Statutes, Consumer Installment Loan Act (205 ILCS 670) | 1 | 2026-05-21 to 2026-05-21 |
+| `ilcs-205-675` | Illinois Compiled Statutes, Illinois Financial Services Development Act (205 ILCS 675) | 1 | 2026-02-12 to 2026-02-12 |
+| `ilcs-205-685` | Illinois Compiled Statutes, Currency Reporting Act (205 ILCS 685) | 1 | 2026-08-08 to 2026-08-08 |
+| `ilcs-205-695` | Illinois Compiled Statutes, Automated Teller Machine Security Act (205 ILCS 695) | 1 | 2026-02-18 to 2026-02-18 |
+| `ilcs-205-705` | Illinois Compiled Statutes, Financial Institutions Electronic Documents and Digital Signature Act (205 ILCS 705) | 1 | 2026-03-08 to 2026-03-08 |
+| `ilcs-205-710` | Illinois Compiled Statutes, Banking on Illinois Act (205 ILCS 710) | 1 | 2026-03-11 to 2026-03-11 |
+| `ilcs-205-715` | Illinois Compiled Statutes, Data Processing Services for Financial Institutions Act (205 ILCS 715) | 1 | 2026-02-08 to 2026-02-08 |
+| `ilcs-205-725` | Illinois Compiled Statutes, Blockchain Business Development Act  (205 ILCS 725) | 1 | 2026-03-16 to 2026-03-16 |
+| `ilcs-205-730` | Illinois Compiled Statutes, Blockchain Technology Act (205 ILCS 730) | 1 | 2026-07-19 to 2026-07-19 |
+| `ilcs-205-731-article-0001` | Illinois Compiled Statutes, Digital Assets and Consumer Protection Act (205 ILCS 731), Article 1 | 1 | 2026-03-15 to 2026-03-15 |
+| `ilcs-205-731-article-0005` | Illinois Compiled Statutes, Digital Assets and Consumer Protection Act (205 ILCS 731), Article 5 | 1 | 2026-03-15 to 2026-03-15 |
+| `ilcs-205-731-article-0010` | Illinois Compiled Statutes, Digital Assets and Consumer Protection Act (205 ILCS 731), Article 10 | 1 | 2026-03-15 to 2026-03-15 |
+| `ilcs-205-731-article-0015` | Illinois Compiled Statutes, Digital Assets and Consumer Protection Act (205 ILCS 731), Article 15 | 1 | 2026-03-15 to 2026-03-15 |
+| `ilcs-205-731-article-0020` | Illinois Compiled Statutes, Digital Assets and Consumer Protection Act (205 ILCS 731), Article 20 | 1 | 2026-03-15 to 2026-03-15 |
+| `ilcs-205-731-article-0030` | Illinois Compiled Statutes, Digital Assets and Consumer Protection Act (205 ILCS 731), Article 30 | 1 | 2026-03-15 to 2026-03-15 |
+| `ilcs-205-731-article-0035` | Illinois Compiled Statutes, Digital Assets and Consumer Protection Act (205 ILCS 731), Article 35 | 1 | 2026-03-15 to 2026-03-15 |
+| `ilcs-205-731-article-0099` | Illinois Compiled Statutes, Digital Assets and Consumer Protection Act (205 ILCS 731), Article 99 | 1 | 2026-03-15 to 2026-03-15 |
+| `ilcs-205-732` | Illinois Compiled Statutes, Digital Asset Kiosks Act (205 ILCS 732) | 1 | 2026-05-13 to 2026-05-13 |
+| `ilcs-205-735` | Illinois Compiled Statutes, Illinois Community Reinvestment Act (205 ILCS 735) | 1 | 2026-05-24 to 2026-05-24 |
+| `ilcs-205-740` | Illinois Compiled Statutes, Collection Agency Act (205 ILCS 740) | 1 | 2026-09-03 to 2026-09-03 |
+| `ilcs-205-745` | Illinois Compiled Statutes, Banking Development District Act (205 ILCS 745) | 1 | 2026-05-21 to 2026-05-21 |
+| `ilcs-210-3` | Illinois Compiled Statutes, Alternative Health Care Delivery Act (210 ILCS 3) | 1 | 2026-06-13 to 2026-06-13 |
+| `ilcs-210-4` | Illinois Compiled Statutes, Alzheimer's Disease and Related Dementias Special Care Disclosure Act (210 ILCS 4) | 1 | 2026-10-15 to 2026-10-15 |
+| `ilcs-210-5` | Illinois Compiled Statutes, Ambulatory Surgical Treatment Center Act (210 ILCS 5) | 1 | 2026-09-02 to 2026-09-02 |
+| `ilcs-210-9` | Illinois Compiled Statutes, Assisted Living and Shared Housing Act (210 ILCS 9) | 1 | 2026-10-11 to 2026-10-11 |
+| `ilcs-210-15` | Illinois Compiled Statutes, Blood Donation Act (210 ILCS 15) | 1 | 2026-04-10 to 2026-04-10 |
+| `ilcs-210-28` | Illinois Compiled Statutes, Abuse Prevention Review Team Act (210 ILCS 28) | 1 | 2026-08-14 to 2026-08-14 |
+| `ilcs-210-30` | Illinois Compiled Statutes, Abused and Neglected Long Term Care Facility Residents Reporting Act (210 ILCS 30) | 1 | 2026-08-17 to 2026-08-17 |
+| `ilcs-210-40` | Illinois Compiled Statutes, Life Care Facilities Act (210 ILCS 40) | 1 | 2026-04-27 to 2026-04-27 |
+| `ilcs-210-42` | Illinois Compiled Statutes, Continuum of Care Services for the Developmentally Disabled Act (210 ILCS 42) | 1 | 2026-09-06 to 2026-09-06 |
+| `ilcs-210-45-article-0001` | Illinois Compiled Statutes, Nursing Home Care Act (210 ILCS 45), Article 1 | 1 | 2026-03-16 to 2026-03-16 |
+| `ilcs-210-45-article-0002` | Illinois Compiled Statutes, Nursing Home Care Act (210 ILCS 45), Article 2 | 1 | 2026-03-16 to 2026-03-16 |
+| `ilcs-210-45-article-0003` | Illinois Compiled Statutes, Nursing Home Care Act (210 ILCS 45), Article 3 | 1 | 2026-03-16 to 2026-03-16 |
+| `ilcs-210-45-article-0003a` | Illinois Compiled Statutes, Nursing Home Care Act (210 ILCS 45), Article 3A | 1 | 2026-03-16 to 2026-03-16 |
+| `ilcs-210-50` | Illinois Compiled Statutes, Emergency Medical Services (EMS) Systems Act (210 ILCS 50) | 1 | 2026-03-10 to 2026-03-10 |
+| `ilcs-210-55` | Illinois Compiled Statutes, Home Health, Home Services, and Home Nursing Agency Licensing Act (210 ILCS 55) | 1 | 2026-07-27 to 2026-07-27 |
+| `ilcs-210-60` | Illinois Compiled Statutes, Hospice Program Licensing Act (210 ILCS 60) | 1 | 2026-04-14 to 2026-04-14 |
+| `ilcs-210-74` | Illinois Compiled Statutes, Physical Fitness Facility Medical Emergency Preparedness Act (210 ILCS 74) | 1 | 2026-07-10 to 2026-07-10 |
+| `ilcs-210-76` | Illinois Compiled Statutes, Community Benefits Act (210 ILCS 76) | 1 | 2026-10-15 to 2026-10-15 |
+| `ilcs-210-80` | Illinois Compiled Statutes, Hospital Emergency Service Act (210 ILCS 80) | 1 | 2026-05-15 to 2026-05-15 |
+| `ilcs-210-83` | Illinois Compiled Statutes, MRSA Screening and Reporting Act (210 ILCS 83) | 1 | 2026-05-05 to 2026-05-05 |
+| `ilcs-210-85` | Illinois Compiled Statutes, Hospital Licensing Act (210 ILCS 85) | 1 | 2026-05-20 to 2026-05-20 |
+| `ilcs-210-86` | Illinois Compiled Statutes, Hospital Report Card Act (210 ILCS 86) | 1 | 2026-07-17 to 2026-07-17 |
+| `ilcs-210-88` | Illinois Compiled Statutes, Fair Patient Billing Act (210 ILCS 88) | 1 | 2026-10-14 to 2026-10-14 |
+| `ilcs-210-89` | Illinois Compiled Statutes, Hospital Uninsured Patient Discount Act (210 ILCS 89) | 1 | 2026-03-30 to 2026-03-30 |
+| `ilcs-210-91` | Illinois Compiled Statutes, Caregiver Advise, Record, and Enable Act (210 ILCS 91) | 1 | 2026-05-25 to 2026-05-25 |
+| `ilcs-210-95` | Illinois Compiled Statutes, Campground Licensing and Recreational Area Act (210 ILCS 95) | 1 | 2026-06-07 to 2026-06-07 |
+| `ilcs-210-100` | Illinois Compiled Statutes, Youth Camp Act (210 ILCS 100) | 1 | 2026-04-16 to 2026-04-16 |
+| `ilcs-210-105` | Illinois Compiled Statutes, Field Sanitation Act (210 ILCS 105) | 1 | 2026-02-24 to 2026-02-24 |
+| `ilcs-210-110` | Illinois Compiled Statutes, Illinois Migrant Labor Camp Law (210 ILCS 110) | 1 | 2026-08-13 to 2026-08-13 |
+| `ilcs-210-115` | Illinois Compiled Statutes, Mobile Home Park Act (210 ILCS 115) | 1 | 2026-06-22 to 2026-06-22 |
+| `ilcs-210-117` | Illinois Compiled Statutes, Abandoned Mobile Home Act (210 ILCS 117) | 1 | 2026-08-04 to 2026-08-04 |
+| `ilcs-210-120` | Illinois Compiled Statutes, Illinois Mobile Home Tiedown Act (210 ILCS 120) | 1 | 2026-05-19 to 2026-05-19 |
+| `ilcs-210-125` | Illinois Compiled Statutes, Swimming Facility Act (210 ILCS 125) | 1 | 2026-08-09 to 2026-08-09 |
+| `ilcs-210-145` | Illinois Compiled Statutes, Tanning Facility Permit Act (210 ILCS 145) | 1 | 2026-05-12 to 2026-05-12 |
+| `ilcs-210-155` | Illinois Compiled Statutes, Long Term Acute Care Hospital Quality Improvement Transfer Program Act (210 ILCS 155) | 1 | 2026-05-06 to 2026-05-06 |
+| `ilcs-210-160` | Illinois Compiled Statutes, Health Care Violence Prevention Act (210 ILCS 160) | 1 | 2026-05-18 to 2026-05-18 |
+| `ilcs-210-165` | Illinois Compiled Statutes, Authorized Electronic Monitoring in Community-Integrated Living Arrangements and Developmental Disability Facilities Act (210 ILCS 165) | 1 | 2026-04-27 to 2026-04-27 |
+| `ilcs-210-175` | Illinois Compiled Statutes, Essential Support Person Act (210 ILCS 175) | 1 | 2026-05-09 to 2026-05-09 |
+| `ilcs-215-5` | Illinois Compiled Statutes, Illinois Insurance Code (215 ILCS 5) | 1 | 2026-10-21 to 2026-10-21 |
+| `ilcs-215-97` | Illinois Compiled Statutes, Illinois Health Insurance Portability and Accountability Act (215 ILCS 97) | 1 | 2026-06-12 to 2026-06-12 |
+| `ilcs-215-100` | Illinois Compiled Statutes, Reinsurance Intermediary Act (215 ILCS 100) | 1 | 2026-06-12 to 2026-06-12 |
+| `ilcs-215-105` | Illinois Compiled Statutes, Comprehensive Health Insurance Plan Act (215 ILCS 105) | 1 | 2026-06-12 to 2026-06-12 |
+| `ilcs-215-106` | Illinois Compiled Statutes, Children's Health Insurance Program Act (215 ILCS 106) | 1 | 2026-06-12 to 2026-06-12 |
+| `ilcs-215-107` | Illinois Compiled Statutes, Producer Controlled Insurer Act (215 ILCS 107) | 1 | 2026-06-12 to 2026-06-12 |
+| `ilcs-215-109` | Illinois Compiled Statutes, Dental Care Patient Protection Act (215 ILCS 109) | 1 | 2026-06-12 to 2026-06-12 |
+| `ilcs-215-113` | Illinois Compiled Statutes, Employee Leasing Company Act (215 ILCS 113) | 1 | 2026-06-12 to 2026-06-12 |
+| `ilcs-215-115` | Illinois Compiled Statutes, Employees Dental Freedom of Choice Act (215 ILCS 115) | 1 | 2026-06-12 to 2026-06-12 |
+| `ilcs-215-120` | Illinois Compiled Statutes, Farm Mutual Insurance Company Act of 1986 (215 ILCS 120) | 1 | 2026-06-12 to 2026-06-12 |
+| `ilcs-215-121` | Illinois Compiled Statutes, Navigator Certification Act (215 ILCS 121) | 1 | 2026-06-12 to 2026-06-12 |
+| `ilcs-215-124` | Illinois Compiled Statutes, Network Adequacy and Transparency Act (215 ILCS 124) | 1 | 2026-06-12 to 2026-06-12 |
+| `ilcs-215-134` | Illinois Compiled Statutes, Managed Care Reform and Patient Rights Act (215 ILCS 134) | 1 | 2026-06-12 to 2026-06-12 |
+| `ilcs-215-136` | Illinois Compiled Statutes, Portable Electronics Insurance Act (215 ILCS 136) | 1 | 2026-06-12 to 2026-06-12 |
+| `ilcs-215-138` | Illinois Compiled Statutes, Uniform Prescription Drug Information Card Act (215 ILCS 138) | 1 | 2026-06-12 to 2026-06-12 |
+| `ilcs-215-139` | Illinois Compiled Statutes, Uniform Health Care Service Benefits Information Card Act (215 ILCS 139) | 1 | 2026-06-12 to 2026-06-12 |
+| `ilcs-215-145` | Illinois Compiled Statutes, Property Fire Loss Act (215 ILCS 145) | 1 | 2026-06-12 to 2026-06-12 |
+| `ilcs-215-152` | Illinois Compiled Statutes, Service Contract Act (215 ILCS 152) | 1 | 2026-06-12 to 2026-06-12 |
+| `ilcs-215-153` | Illinois Compiled Statutes, Structured Settlement Protection Act (215 ILCS 153) | 1 | 2026-06-12 to 2026-06-12 |
+| `ilcs-215-155` | Illinois Compiled Statutes, Title Insurance Act (215 ILCS 155) | 1 | 2026-09-25 to 2026-09-25 |
+| `ilcs-215-156` | Illinois Compiled Statutes, Topical Eye Medication Prescription Act (215 ILCS 156) | 1 | 2026-06-12 to 2026-06-12 |
+| `ilcs-215-157` | Illinois Compiled Statutes, Use of Credit Information in Personal Insurance Act (215 ILCS 157) | 1 | 2026-06-12 to 2026-06-12 |
+| `ilcs-215-159` | Illinois Compiled Statutes, Viatical Settlements Act of 2009 (215 ILCS 159) | 1 | 2026-09-25 to 2026-09-25 |
+| `ilcs-215-161` | Illinois Compiled Statutes, Vision Care Plan Regulation Act (215 ILCS 161) | 1 | 2026-06-12 to 2026-06-12 |
+| `ilcs-215-165` | Illinois Compiled Statutes, Voluntary Health Services Plans Act (215 ILCS 165) | 1 | 2026-06-12 to 2026-06-12 |
+| `ilcs-215-175` | Illinois Compiled Statutes, Organ Transplant Medication Notification Act (215 ILCS 175) | 1 | 2026-06-12 to 2026-06-12 |
+| `ilcs-215-180` | Illinois Compiled Statutes, Health Carrier External Review Act (215 ILCS 180) | 1 | 2026-03-10 to 2026-03-10 |
+| `ilcs-215-205` | Illinois Compiled Statutes, Private Primary Residential Flood Insurance Act (215 ILCS 205) | 1 | 2026-06-12 to 2026-06-12 |
+| `ilcs-215-215` | Illinois Compiled Statutes, Insurance Data Security Law (215 ILCS 215) | 1 | 2026-06-12 to 2026-06-12 |
+| `ilcs-220-5-article-0001` | Illinois Compiled Statutes, Public Utilities Act (220 ILCS 5), Article 1 | 1 | 2026-04-20 to 2026-04-20 |
+| `ilcs-220-5-article-0002` | Illinois Compiled Statutes, Public Utilities Act (220 ILCS 5), Article 2 | 1 | 2026-04-20 to 2026-04-20 |
+| `ilcs-220-5-article-0003` | Illinois Compiled Statutes, Public Utilities Act (220 ILCS 5), Article 3 | 1 | 2026-04-20 to 2026-04-20 |
+| `ilcs-220-5-article-0004` | Illinois Compiled Statutes, Public Utilities Act (220 ILCS 5), Article 4 | 1 | 2026-04-20 to 2026-04-20 |
+| `ilcs-220-5-article-0005` | Illinois Compiled Statutes, Public Utilities Act (220 ILCS 5), Article 5 | 1 | 2026-04-20 to 2026-04-20 |
+| `ilcs-220-5-article-0006` | Illinois Compiled Statutes, Public Utilities Act (220 ILCS 5), Article 6 | 1 | 2026-04-20 to 2026-04-20 |
+| `ilcs-220-5-article-0007` | Illinois Compiled Statutes, Public Utilities Act (220 ILCS 5), Article 7 | 1 | 2026-04-20 to 2026-04-20 |
+| `ilcs-220-5-article-0008` | Illinois Compiled Statutes, Public Utilities Act (220 ILCS 5), Article 8 | 1 | 2026-04-20 to 2026-04-20 |
+| `ilcs-220-5-article-0009` | Illinois Compiled Statutes, Public Utilities Act (220 ILCS 5), Article 9 | 1 | 2026-04-20 to 2026-04-20 |
+| `ilcs-220-5-article-0010` | Illinois Compiled Statutes, Public Utilities Act (220 ILCS 5), Article 10 | 1 | 2026-04-20 to 2026-04-20 |
+| `ilcs-220-5-article-0011` | Illinois Compiled Statutes, Public Utilities Act (220 ILCS 5), Article 11 | 1 | 2026-04-20 to 2026-04-20 |
+| `ilcs-220-5-article-0012` | Illinois Compiled Statutes, Public Utilities Act (220 ILCS 5), Article 12 | 1 | 2026-04-20 to 2026-04-20 |
+| `ilcs-220-5-article-0013` | Illinois Compiled Statutes, Public Utilities Act (220 ILCS 5), Article 13 | 1 | 2026-04-20 to 2026-04-20 |
+| `ilcs-220-5-article-0014` | Illinois Compiled Statutes, Public Utilities Act (220 ILCS 5), Article 14 | 1 | 2026-04-20 to 2026-04-20 |
+| `ilcs-220-5-article-0015` | Illinois Compiled Statutes, Public Utilities Act (220 ILCS 5), Article 15 | 1 | 2026-04-20 to 2026-04-20 |
+| `ilcs-220-5-article-0016` | Illinois Compiled Statutes, Public Utilities Act (220 ILCS 5), Article 16 | 1 | 2026-04-20 to 2026-04-20 |
+| `ilcs-220-5-article-0017` | Illinois Compiled Statutes, Public Utilities Act (220 ILCS 5), Article 17 | 1 | 2026-04-20 to 2026-04-20 |
+| `ilcs-220-5-article-0018` | Illinois Compiled Statutes, Public Utilities Act (220 ILCS 5), Article 18 | 1 | 2026-04-20 to 2026-04-20 |
+| `ilcs-220-5-article-0019` | Illinois Compiled Statutes, Public Utilities Act (220 ILCS 5), Article 19 | 1 | 2026-04-20 to 2026-04-20 |
+| `ilcs-220-5-article-0020` | Illinois Compiled Statutes, Public Utilities Act (220 ILCS 5), Article 20 | 1 | 2026-04-20 to 2026-04-20 |
+| `ilcs-220-5-article-0021` | Illinois Compiled Statutes, Public Utilities Act (220 ILCS 5), Article 21 | 1 | 2026-04-20 to 2026-04-20 |
+| `ilcs-220-5-article-0022` | Illinois Compiled Statutes, Public Utilities Act (220 ILCS 5), Article 22 | 1 | 2026-04-20 to 2026-04-20 |
+| `ilcs-220-10` | Illinois Compiled Statutes, Citizens Utility Board Act (220 ILCS 10) | 1 | 2026-04-19 to 2026-04-19 |
+| `ilcs-220-15` | Illinois Compiled Statutes, Gas Storage Act (220 ILCS 15) | 1 | 2026-04-19 to 2026-04-19 |
+| `ilcs-220-20` | Illinois Compiled Statutes, Illinois Gas Pipeline Safety Act (220 ILCS 20) | 1 | 2026-04-19 to 2026-04-19 |
+| `ilcs-220-25` | Illinois Compiled Statutes, Gas Transmission Facilities Act (220 ILCS 25) | 1 | 2026-04-19 to 2026-04-19 |
+| `ilcs-220-30` | Illinois Compiled Statutes, Electric Supplier Act (220 ILCS 30) | 1 | 2026-04-19 to 2026-04-19 |
+| `ilcs-220-31` | Illinois Compiled Statutes, Municipal and Cooperative Electric Utility Transparent Planning Act (220 ILCS 31) | 1 | 2026-04-19 to 2026-04-19 |
+| `ilcs-220-32` | Illinois Compiled Statutes, Electric Transmission Systems Construction Standards Act (220 ILCS 32) | 1 | 2026-04-17 to 2026-04-17 |
+| `ilcs-220-33` | Illinois Compiled Statutes, Utility Data Access Act (220 ILCS 33) | 1 | 2026-04-19 to 2026-04-19 |
+| `ilcs-220-35` | Illinois Compiled Statutes, Small Business Utility Deposit Relief Act (220 ILCS 35) | 1 | 2026-04-19 to 2026-04-19 |
+| `ilcs-220-40` | Illinois Compiled Statutes, Small Business Utility Advocate Act (220 ILCS 40) | 1 | 2026-05-18 to 2026-05-18 |
+| `ilcs-220-45` | Illinois Compiled Statutes, Telecommunications Facility Fire and Emergency Act (220 ILCS 45) | 1 | 2026-04-17 to 2026-04-17 |
+| `ilcs-220-50` | Illinois Compiled Statutes, Illinois Underground Utility Facilities Damage Prevention Act (220 ILCS 50) | 1 | 2026-08-13 to 2026-08-13 |
+| `ilcs-220-55` | Illinois Compiled Statutes, Telegraph Act (220 ILCS 55) | 1 | 2026-07-12 to 2026-07-12 |
+| `ilcs-220-60` | Illinois Compiled Statutes, Telephone Line Right of Way Act (220 ILCS 60) | 1 | 2026-04-19 to 2026-04-19 |
+| `ilcs-220-65` | Illinois Compiled Statutes, Telephone Company Act (220 ILCS 65) | 1 | 2026-06-03 to 2026-06-03 |
+| `ilcs-220-66` | Illinois Compiled Statutes, Party Line Emergency Act (220 ILCS 66) | 1 | 2026-05-19 to 2026-05-19 |
+| `ilcs-220-70` | Illinois Compiled Statutes, Crossing of Railroad Right-of-way Act (220 ILCS 70) | 1 | 2026-04-19 to 2026-04-19 |
+| `ilcs-220-75` | Illinois Compiled Statutes, Carbon Dioxide Transportation and Sequestration Act (220 ILCS 75) | 1 | 2026-08-13 to 2026-08-13 |
+| `ilcs-220-80` | Illinois Compiled Statutes, Broadband Advisory Council Act (220 ILCS 80) | 1 | 2026-04-19 to 2026-04-19 |
+| `ilcs-220-81` | Illinois Compiled Statutes, Broadband Infrastructure Advancement Act (220 ILCS 81) | 1 | 2026-05-04 to 2026-05-04 |
+| `ilcs-220-85` | Illinois Compiled Statutes, Pembroke Township Natural Gas Investment Pilot Program Act (220 ILCS 85) | 1 | 2026-04-19 to 2026-04-19 |
+| `ilcs-225-2` | Illinois Compiled Statutes, Acupuncture Practice Act (225 ILCS 2) | 1 | 2026-08-24 to 2026-08-24 |
+| `ilcs-225-5` | Illinois Compiled Statutes, Illinois Athletic Trainers Practice Act (225 ILCS 5) | 1 | 2026-04-12 to 2026-04-12 |
+| `ilcs-225-6` | Illinois Compiled Statutes, Behavior Analyst Licensing Act (225 ILCS 6) | 1 | 2026-07-23 to 2026-07-23 |
+| `ilcs-225-7` | Illinois Compiled Statutes, Board and Care Home Act (225 ILCS 7) | 1 | 2026-09-03 to 2026-09-03 |
+| `ilcs-225-10` | Illinois Compiled Statutes, Child Care Act of 1969 (225 ILCS 10) | 1 | 2026-10-14 to 2026-10-14 |
+| `ilcs-225-15` | Illinois Compiled Statutes, Clinical Psychologist Licensing Act (225 ILCS 15) | 1 | 2026-04-26 to 2026-04-26 |
+| `ilcs-225-20` | Illinois Compiled Statutes, Clinical Social Work and Social Work Practice Act (225 ILCS 20) | 1 | 2026-08-20 to 2026-08-20 |
+| `ilcs-225-25` | Illinois Compiled Statutes, Illinois Dental Practice Act (225 ILCS 25) | 1 | 2026-05-12 to 2026-05-12 |
+| `ilcs-225-30` | Illinois Compiled Statutes, Dietitian Nutritionist Practice Act (225 ILCS 30) | 1 | 2026-02-08 to 2026-02-08 |
+| `ilcs-225-35` | Illinois Compiled Statutes, Embalming Fluid Act (225 ILCS 35) | 1 | 2026-08-15 to 2026-08-15 |
+| `ilcs-225-37` | Illinois Compiled Statutes, Environmental Health Practitioner Licensing Act (225 ILCS 37) | 1 | 2026-08-20 to 2026-08-20 |
+| `ilcs-225-45` | Illinois Compiled Statutes, Illinois Funeral or Burial Funds Act (225 ILCS 45) | 1 | 2026-04-22 to 2026-04-22 |
+| `ilcs-225-46` | Illinois Compiled Statutes, Health Care Worker Background Check Act (225 ILCS 46) | 1 | 2026-04-12 to 2026-04-12 |
+| `ilcs-225-47` | Illinois Compiled Statutes, Health Care Worker Self-Referral Act (225 ILCS 47) | 1 | 2026-06-15 to 2026-06-15 |
+| `ilcs-225-50` | Illinois Compiled Statutes, Hearing Instrument Consumer Protection Act (225 ILCS 50) | 1 | 2026-04-14 to 2026-04-14 |
+| `ilcs-225-51` | Illinois Compiled Statutes, Home Medical Equipment and Services Provider License Act (225 ILCS 51) | 1 | 2026-04-12 to 2026-04-12 |
+| `ilcs-225-53` | Illinois Compiled Statutes, Task Force on Internationally-Licensed Health Care Professionals Act (225 ILCS 53) | 1 | 2026-04-13 to 2026-04-13 |
+| `ilcs-225-55` | Illinois Compiled Statutes, Marriage and Family Therapy Licensing Act (225 ILCS 55) | 1 | 2026-05-05 to 2026-05-05 |
+| `ilcs-225-56` | Illinois Compiled Statutes, Music Therapy Licensing and Practice Act (225 ILCS 56) | 1 | 2026-04-21 to 2026-04-21 |
+| `ilcs-225-57` | Illinois Compiled Statutes, Massage Therapy Practice Act (225 ILCS 57) | 1 | 2026-04-12 to 2026-04-12 |
+| `ilcs-225-60` | Illinois Compiled Statutes, Medical Practice Act of 1987 (225 ILCS 60) | 1 | 2026-04-22 to 2026-04-22 |
+| `ilcs-225-61` | Illinois Compiled Statutes, Patients' Right to Know Act (225 ILCS 61) | 1 | 2026-08-29 to 2026-08-29 |
+| `ilcs-225-62` | Illinois Compiled Statutes, Osteopathic and Allopathic Healthcare Discrimination Act (225 ILCS 62) | 1 | 2026-05-24 to 2026-05-24 |
+| `ilcs-225-63` | Illinois Compiled Statutes, Naprapathic Practice Act (225 ILCS 63) | 1 | 2026-02-06 to 2026-02-06 |
+| `ilcs-225-64` | Illinois Compiled Statutes, Licensed Certified Professional Midwife Practice Act (225 ILCS 64) | 1 | 2026-05-03 to 2026-05-03 |
+| `ilcs-225-65-article-0050` | Illinois Compiled Statutes, Nurse Practice Act (225 ILCS 65), Article 50 | 1 | 2026-10-02 to 2026-10-02 |
+| `ilcs-225-65-article-0055` | Illinois Compiled Statutes, Nurse Practice Act (225 ILCS 65), Article 55 | 1 | 2026-10-02 to 2026-10-02 |
+| `ilcs-225-65-article-0060` | Illinois Compiled Statutes, Nurse Practice Act (225 ILCS 65), Article 60 | 1 | 2026-10-02 to 2026-10-02 |
+| `ilcs-225-65-article-0065` | Illinois Compiled Statutes, Nurse Practice Act (225 ILCS 65), Article 65 | 1 | 2026-10-02 to 2026-10-02 |
+| `ilcs-225-65-article-0070` | Illinois Compiled Statutes, Nurse Practice Act (225 ILCS 65), Article 70 | 1 | 2026-10-02 to 2026-10-02 |
+| `ilcs-225-65-article-0075` | Illinois Compiled Statutes, Nurse Practice Act (225 ILCS 65), Article 75 | 1 | 2026-10-02 to 2026-10-02 |
+| `ilcs-225-70` | Illinois Compiled Statutes, Nursing Home Administrators Licensing and Disciplinary Act (225 ILCS 70) | 1 | 2026-08-15 to 2026-08-15 |
+| `ilcs-225-75` | Illinois Compiled Statutes, Illinois Occupational Therapy Practice Act (225 ILCS 75) | 1 | 2026-04-12 to 2026-04-12 |
+| `ilcs-225-83` | Illinois Compiled Statutes, Mail Order Contact Lens Act (225 ILCS 83) | 1 | 2026-08-16 to 2026-08-16 |
+| `ilcs-225-84` | Illinois Compiled Statutes, Orthotics, Prosthetics, and Pedorthics Practice Act (225 ILCS 84) | 1 | 2026-08-15 to 2026-08-15 |
+| `ilcs-225-85` | Illinois Compiled Statutes, Pharmacy Practice Act (225 ILCS 85) | 1 | 2026-08-15 to 2026-08-15 |
+| `ilcs-225-90` | Illinois Compiled Statutes, Illinois Physical Therapy Act (225 ILCS 90) | 1 | 2026-05-12 to 2026-05-12 |
+| `ilcs-225-95` | Illinois Compiled Statutes, Physician Assistant Practice Act of 1987 (225 ILCS 95) | 1 | 2026-04-10 to 2026-04-10 |
+| `ilcs-225-100` | Illinois Compiled Statutes, Podiatric Medical Practice Act of 1987 (225 ILCS 100) | 1 | 2026-04-12 to 2026-04-12 |
+| `ilcs-225-105` | Illinois Compiled Statutes, Boxing and Full-contact Martial Arts Act (225 ILCS 105) | 1 | 2026-04-20 to 2026-04-20 |
+| `ilcs-225-106` | Illinois Compiled Statutes, Respiratory Care Practice Act (225 ILCS 106) | 1 | 2026-07-23 to 2026-07-23 |
+| `ilcs-225-107` | Illinois Compiled Statutes, Professional Counselor and Clinical Professional Counselor Licensing and Practice Act (225 ILCS 107) | 1 | 2026-05-10 to 2026-05-10 |
+| `ilcs-225-109` | Illinois Compiled Statutes, Sex Offender Evaluation and Treatment Provider Act (225 ILCS 109) | 1 | 2026-04-22 to 2026-04-22 |
+| `ilcs-225-110` | Illinois Compiled Statutes, Illinois Speech-Language Pathology and Audiology Practice Act (225 ILCS 110) | 1 | 2026-05-18 to 2026-05-18 |
+| `ilcs-225-115` | Illinois Compiled Statutes, Veterinary Medicine and Surgery Practice Act of 2004 (225 ILCS 115) | 1 | 2026-05-14 to 2026-05-14 |
+| `ilcs-225-120` | Illinois Compiled Statutes, Wholesale Drug Distribution Licensing Act (225 ILCS 120) | 1 | 2026-08-15 to 2026-08-15 |
+| `ilcs-225-125` | Illinois Compiled Statutes, Perfusionist Practice Act (225 ILCS 125) | 1 | 2026-08-15 to 2026-08-15 |
+| `ilcs-225-130` | Illinois Compiled Statutes, Registered Surgical Assistant and Registered Surgical Technologist Title Protection Act (225 ILCS 130) | 1 | 2026-04-22 to 2026-04-22 |
+| `ilcs-225-135` | Illinois Compiled Statutes, Genetic Counselor Licensing Act (225 ILCS 135) | 1 | 2026-04-13 to 2026-04-13 |
 
-The build made 1143 commits:
+The build made 1408 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 1143 | first version of an act |
+| 1408 | first version of an act |
 | 0 | one law on its in-force day |
 | 0 | changes no amendment note explains, credited to the publisher |
 
@@ -1171,7 +1436,7 @@ Other counts:
 - 0 commits on the branch `future`: laws not yet in force on 2026-11-10.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
 - 0 laws in the record.
-- 1143 tags.
+- 1408 tags.
 
 ## Dates
 
@@ -1183,7 +1448,7 @@ When a law gives no date of its own, the default rule applies: No dated history 
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `5d7e28be6d1a759c6b8435d445c8b1601085048cb3fa1a8148b9b26f43d3d534` (29861493 bytes).
+- Corpus: sha256 `6d1f9367e0fcfcfa228b0e6deaca7868363fb1bcd077bfd6fa1e60727c45c344` (38848013 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `3024ff164c261807dfc4d5b7b1b4a2cde4357da1`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.12.10; git version 2.46.0.windows.1.
 
