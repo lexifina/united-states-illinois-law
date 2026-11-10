@@ -284,12 +284,26 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `ilcs-20-530` | Illinois Compiled Statutes, DCFS Residential Services Construction Grant Program Act (20 ILCS 530) | 1 | 2026-04-02 to 2026-04-02 |
 | `ilcs-20-535` | Illinois Compiled Statutes, Administration of Psychotropic Medications to Children Act (20 ILCS 535) | 1 | 2026-03-15 to 2026-03-15 |
 | `ilcs-20-540` | Illinois Compiled Statutes, Custody Relinquishment Prevention Act (20 ILCS 540) | 1 | 2026-05-09 to 2026-05-09 |
+| `ilcs-20-545` | Illinois Compiled Statutes, Illinois Youth in Care Timely Provision of Essential Care Act (20 ILCS 545) | 1 | 2026-03-07 to 2026-03-07 |
+| `ilcs-20-608` | Illinois Compiled Statutes, Business Assistance and Regulatory Reform Act (20 ILCS 608) | 1 | 2026-08-18 to 2026-08-18 |
+| `ilcs-20-609` | Illinois Compiled Statutes, Center for Business Ownership Succession and Employee Ownership Act (20 ILCS 609) | 1 | 2026-06-13 to 2026-06-13 |
+| `ilcs-20-615` | Illinois Compiled Statutes, Displaced Homemakers Assistance Act (20 ILCS 615) | 1 | 2026-05-12 to 2026-05-12 |
+| `ilcs-20-620` | Illinois Compiled Statutes, Economic Development Area Tax Increment Allocation Act (20 ILCS 620) | 1 | 2026-04-23 to 2026-04-23 |
+| `ilcs-20-625` | Illinois Compiled Statutes, Illinois Economic Opportunity Act (20 ILCS 625) | 1 | 2026-07-04 to 2026-07-04 |
+| `ilcs-20-655` | Illinois Compiled Statutes, Illinois Enterprise Zone Act (20 ILCS 655) | 1 | 2026-05-11 to 2026-05-11 |
+| `ilcs-20-660` | Illinois Compiled Statutes, Family Farm Assistance Act (20 ILCS 660) | 1 | 2026-03-16 to 2026-03-16 |
+| `ilcs-20-662` | Illinois Compiled Statutes, Local Planning Technical Assistance Act (20 ILCS 662) | 1 | 2026-03-17 to 2026-03-17 |
+| `ilcs-20-663` | Illinois Compiled Statutes, New Markets Development Program Act (20 ILCS 663) | 1 | 2026-09-03 to 2026-09-03 |
+| `ilcs-20-665` | Illinois Compiled Statutes, Illinois Promotion Act (20 ILCS 665) | 1 | 2026-04-16 to 2026-04-16 |
+| `ilcs-20-686` | Illinois Compiled Statutes, Reimagining Energy and Vehicles in Illinois Act (20 ILCS 686) | 1 | 2026-06-07 to 2026-06-07 |
+| `ilcs-20-688` | Illinois Compiled Statutes, Illinois Resource Development and Energy Security Act (20 ILCS 688) | 1 | 2026-04-30 to 2026-04-30 |
+| `ilcs-20-689` | Illinois Compiled Statutes, Illinois Renewable Fuels Development Program Act (20 ILCS 689) | 1 | 2026-03-07 to 2026-03-07 |
 
-The build made 269 commits:
+The build made 283 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 269 | first version of an act |
+| 283 | first version of an act |
 | 0 | one law on its in-force day |
 | 0 | changes no amendment note explains, credited to the publisher |
 
@@ -297,7 +311,7 @@ Other counts:
 - 0 commits on the branch `future`: laws not yet in force on 2026-11-10.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
 - 0 laws in the record.
-- 269 tags.
+- 283 tags.
 
 ## Dates
 
@@ -309,7 +323,7 @@ When a law gives no date of its own, the default rule applies: No dated history 
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `3465f4c6cb5aab50e7a5894bb80369064f1b800089a986214205ac0c4427eca7` (8350226 bytes).
+- Corpus: sha256 `6aca7d0f0996ddc4e8bc521846d6064f7cd45f73f89cc12511a955b33492d424` (8594867 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `3024ff164c261807dfc4d5b7b1b4a2cde4357da1`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.12.10; git version 2.46.0.windows.1.
 

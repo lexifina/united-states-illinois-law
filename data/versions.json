@@ -3766,6 +3766,202 @@
      "sha256": "1b70aa5c9b5514f5f0228ba18b5be3632554db21faa119f8dfaba8f3005cb583"
     }
    ]
+  },
+  {
+   "slug": "ilcs-20-545",
+   "short": "20 ILCS 545",
+   "title": "Illinois Compiled Statutes, Illinois Youth in Care Timely Provision of Essential Care Act (20 ILCS 545)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=4426",
+   "versions": [
+    {
+     "from": "2026-03-07",
+     "units": 4,
+     "source_url": "https://web.archive.org/web/20260307032511/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=4426&ChapterID=5&Chapter=EXECUTIVE%20BRANCH&MajorTopic=GOVERNMENT",
+     "sha256": "f7191b3d708bfd0afb5fa9ab1d21afc4fde805ad786703822d9a382f4129f947"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-20-608",
+   "short": "20 ILCS 608",
+   "title": "Illinois Compiled Statutes, Business Assistance and Regulatory Reform Act (20 ILCS 608)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=248",
+   "versions": [
+    {
+     "from": "2026-08-18",
+     "units": 6,
+     "source_url": "https://web.archive.org/web/20260818235413/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=248&ChapterID=5",
+     "sha256": "7edb9224ca8c7c366175d2701b1ab415d2ed39507f1e225f9bebca5c66c1114f"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-20-609",
+   "short": "20 ILCS 609",
+   "title": "Illinois Compiled Statutes, Center for Business Ownership Succession and Employee Ownership Act (20 ILCS 609)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=249",
+   "versions": [
+    {
+     "from": "2026-06-13",
+     "units": 26,
+     "source_url": "https://web.archive.org/web/20260613131930/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=249&ChapterID=5",
+     "sha256": "709930428212e2f0bc585609dabe64e043202c6bbfaf907320ca18e39b235049"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-20-615",
+   "short": "20 ILCS 615",
+   "title": "Illinois Compiled Statutes, Displaced Homemakers Assistance Act (20 ILCS 615)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=252",
+   "versions": [
+    {
+     "from": "2026-05-12",
+     "units": 8,
+     "source_url": "https://web.archive.org/web/20260512005842/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=252&ChapterID=5&Chapter=EXECUTIVE%20BRANCH&MajorTopic=GOVERNMENT",
+     "sha256": "0c96731dc66950c9d324567fb6384e1f2e7b7cfb6d2b4e853642005b97427173"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-20-620",
+   "short": "20 ILCS 620",
+   "title": "Illinois Compiled Statutes, Economic Development Area Tax Increment Allocation Act (20 ILCS 620)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=253",
+   "versions": [
+    {
+     "from": "2026-04-23",
+     "units": 15,
+     "source_url": "https://web.archive.org/web/20260423000606/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=253&ChapterID=5&Chapter=EXECUTIVE%20BRANCH&MajorTopic=GOVERNMENT",
+     "sha256": "57542dbeb2369dfd73a82dd7518646750d2e3d21643563ab3a1ca68f8aab4041"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-20-625",
+   "short": "20 ILCS 625",
+   "title": "Illinois Compiled Statutes, Illinois Economic Opportunity Act (20 ILCS 625)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=254",
+   "versions": [
+    {
+     "from": "2026-07-04",
+     "units": 5,
+     "source_url": "https://web.archive.org/web/20260704042143/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=254&ChapterID=5",
+     "sha256": "915daff6e4e59cc1797190a1148027be4871966c356af3bde850ef032dfba07f"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-20-655",
+   "short": "20 ILCS 655",
+   "title": "Illinois Compiled Statutes, Illinois Enterprise Zone Act (20 ILCS 655)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=258",
+   "versions": [
+    {
+     "from": "2026-05-11",
+     "units": 36,
+     "source_url": "https://web.archive.org/web/20260511052343/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=258&ChapterID=5",
+     "sha256": "948416d18610a8194873da4136e99dcee37734f431b06585922d86b1737defe0"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-20-660",
+   "short": "20 ILCS 660",
+   "title": "Illinois Compiled Statutes, Family Farm Assistance Act (20 ILCS 660)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=259",
+   "versions": [
+    {
+     "from": "2026-03-16",
+     "units": 5,
+     "source_url": "https://web.archive.org/web/20260316085145/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=259&ChapterID=5&Chapter=EXECUTIVE%20BRANCH&MajorTopic=GOVERNMENT",
+     "sha256": "5b61f2563019bcf71cf2aa66a85ced955c70a7ae25d0d62b271cba84523eefa9"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-20-662",
+   "short": "20 ILCS 662",
+   "title": "Illinois Compiled Statutes, Local Planning Technical Assistance Act (20 ILCS 662)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=260",
+   "versions": [
+    {
+     "from": "2026-03-17",
+     "units": 13,
+     "source_url": "https://web.archive.org/web/20260317093834/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=260&ChapterID=5&Chapter=EXECUTIVE%20BRANCH&MajorTopic=GOVERNMENT",
+     "sha256": "9ca09c9f543d58f194442cc9badd032f9c91a065bf135babc804fad72b9e34d4"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-20-663",
+   "short": "20 ILCS 663",
+   "title": "Illinois Compiled Statutes, New Markets Development Program Act (20 ILCS 663)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3009",
+   "versions": [
+    {
+     "from": "2026-09-03",
+     "units": 13,
+     "source_url": "https://web.archive.org/web/20260903210756/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3009&ChapterID=5",
+     "sha256": "6ee352d8ce5c3b871a57e2ea38485a209980de3daf9411ea55991c10c3f684f9"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-20-665",
+   "short": "20 ILCS 665",
+   "title": "Illinois Compiled Statutes, Illinois Promotion Act (20 ILCS 665)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=261",
+   "versions": [
+    {
+     "from": "2026-04-16",
+     "units": 18,
+     "source_url": "https://web.archive.org/web/20260416044648/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=261&ChapterID=5",
+     "sha256": "fb827baa1e090b5efb9adec7f10ed45cfaa8aebebdeda72036ce70b0b6830f93"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-20-686",
+   "short": "20 ILCS 686",
+   "title": "Illinois Compiled Statutes, Reimagining Energy and Vehicles in Illinois Act (20 ILCS 686)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=4229",
+   "versions": [
+    {
+     "from": "2026-06-07",
+     "units": 33,
+     "source_url": "https://web.archive.org/web/20260607002125/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=4229&ChapterID=5",
+     "sha256": "6694ba7e5258e04d1217f11c91e23872e9a3466effc3d3147cee084b84112873"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-20-688",
+   "short": "20 ILCS 688",
+   "title": "Illinois Compiled Statutes, Illinois Resource Development and Energy Security Act (20 ILCS 688)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=267",
+   "versions": [
+    {
+     "from": "2026-04-30",
+     "units": 19,
+     "source_url": "https://web.archive.org/web/20260430000216/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=267&ChapterID=5",
+     "sha256": "20c2fd7e73cc6cf85d4d753c2faffc05556b802ab7fe5e847ae3e595b5a861f2"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-20-689",
+   "short": "20 ILCS 689",
+   "title": "Illinois Compiled Statutes, Illinois Renewable Fuels Development Program Act (20 ILCS 689)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2439",
+   "versions": [
+    {
+     "from": "2026-03-07",
+     "units": 10,
+     "source_url": "https://web.archive.org/web/20260307155448/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2439&ChapterID=5&Chapter=EXECUTIVE%20BRANCH&MajorTopic=GOVERNMENT",
+     "sha256": "0e58beb44881b418f127f185296314af9a265d765e405d9469d374737e2a5689"
+    }
+   ]
   }
  ]
 }
