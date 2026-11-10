@@ -503,12 +503,385 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `ilcs-30-750-article-0009` | Illinois Compiled Statutes, Build Illinois Act (30 ILCS 750), Article 9 | 1 | 2026-05-28 to 2026-05-28 |
 | `ilcs-30-750-article-0010` | Illinois Compiled Statutes, Build Illinois Act (30 ILCS 750), Article 10 | 1 | 2026-05-28 to 2026-05-28 |
 | `ilcs-30-750-article-0023` | Illinois Compiled Statutes, Build Illinois Act (30 ILCS 750), Article 23 | 1 | 2026-05-28 to 2026-05-28 |
+| `ilcs-30-790` | Illinois Compiled Statutes, Charitable Trust Stabilization Act (30 ILCS 790) | 1 | 2026-08-23 to 2026-08-23 |
+| `ilcs-35-5` | Illinois Compiled Statutes, Illinois Income Tax Act (35 ILCS 5) | 1 | 2026-03-07 to 2026-03-07 |
+| `ilcs-35-16` | Illinois Compiled Statutes, Film Production Services Tax Credit Act of 2008 (35 ILCS 16) | 1 | 2026-03-09 to 2026-03-09 |
+| `ilcs-35-18` | Illinois Compiled Statutes, Local Journalism Sustainability Act (35 ILCS 18) | 1 | 2026-03-15 to 2026-03-15 |
+| `ilcs-35-31` | Illinois Compiled Statutes, Historic Preservation Tax Credit Act (35 ILCS 31) | 1 | 2026-08-21 to 2026-08-21 |
+| `ilcs-35-55` | Illinois Compiled Statutes, Hydrogen Fuel Replacement Tax Credit Act (35 ILCS 55) | 1 | 2026-05-14 to 2026-05-14 |
+| `ilcs-35-105` | Illinois Compiled Statutes, Use Tax Act (35 ILCS 105) | 1 | 2026-05-12 to 2026-05-12 |
+| `ilcs-35-115` | Illinois Compiled Statutes, Service Occupation Tax Act (35 ILCS 115) | 1 | 2026-10-08 to 2026-10-08 |
+| `ilcs-35-120` | Illinois Compiled Statutes, Retailers' Occupation Tax Act (35 ILCS 120) | 1 | 2026-10-12 to 2026-10-12 |
+| `ilcs-35-130` | Illinois Compiled Statutes, Cigarette Tax Act (35 ILCS 130) | 1 | 2026-05-28 to 2026-05-28 |
+| `ilcs-35-145` | Illinois Compiled Statutes, Hotel Operators' Occupation Tax Act (35 ILCS 145) | 1 | 2026-05-19 to 2026-05-19 |
+| `ilcs-35-155` | Illinois Compiled Statutes, Automobile Renting Occupation and Use Tax Act (35 ILCS 155) | 1 | 2026-10-13 to 2026-10-13 |
+| `ilcs-35-157-article-0010` | Illinois Compiled Statutes, Aircraft Use Tax Law (35 ILCS 157), Article 10 | 1 | 2026-04-12 to 2026-04-12 |
+| `ilcs-35-157-article-0099` | Illinois Compiled Statutes, Aircraft Use Tax Law (35 ILCS 157), Article 99 | 1 | 2026-04-12 to 2026-04-12 |
+| `ilcs-35-160` | Illinois Compiled Statutes, Direct Pay Permit Implementation Act (35 ILCS 160) | 1 | 2026-05-21 to 2026-05-21 |
+| `ilcs-35-165` | Illinois Compiled Statutes, Governmental Tax Reform Validation Act (35 ILCS 165) | 1 | 2026-02-16 to 2026-02-16 |
+| `ilcs-35-175` | Illinois Compiled Statutes, Live Adult Entertainment Facility Surcharge Act (35 ILCS 175) | 1 | 2026-07-28 to 2026-07-28 |
+| `ilcs-35-180` | Illinois Compiled Statutes, Rental Purchase Agreement Occupation and Use Tax Act (35 ILCS 180) | 1 | 2026-06-02 to 2026-06-02 |
+| `ilcs-35-200-article-0001` | Illinois Compiled Statutes, Property Tax Code (35 ILCS 200), Article 1 | 1 | 2026-05-21 to 2026-05-21 |
+| `ilcs-35-200-article-0002` | Illinois Compiled Statutes, Property Tax Code (35 ILCS 200), Article 2 | 1 | 2026-05-21 to 2026-05-21 |
+| `ilcs-35-200-article-0003` | Illinois Compiled Statutes, Property Tax Code (35 ILCS 200), Article 3 | 1 | 2026-05-21 to 2026-05-21 |
+| `ilcs-35-200-article-0004` | Illinois Compiled Statutes, Property Tax Code (35 ILCS 200), Article 4 | 1 | 2026-05-21 to 2026-05-21 |
+| `ilcs-35-200-article-0005` | Illinois Compiled Statutes, Property Tax Code (35 ILCS 200), Article 5 | 1 | 2026-05-21 to 2026-05-21 |
+| `ilcs-35-200-article-0006` | Illinois Compiled Statutes, Property Tax Code (35 ILCS 200), Article 6 | 1 | 2026-05-21 to 2026-05-21 |
+| `ilcs-35-200-article-0007` | Illinois Compiled Statutes, Property Tax Code (35 ILCS 200), Article 7 | 1 | 2026-05-21 to 2026-05-21 |
+| `ilcs-35-200-article-0008` | Illinois Compiled Statutes, Property Tax Code (35 ILCS 200), Article 8 | 1 | 2026-05-21 to 2026-05-21 |
+| `ilcs-35-200-article-0009` | Illinois Compiled Statutes, Property Tax Code (35 ILCS 200), Article 9 | 1 | 2026-05-21 to 2026-05-21 |
+| `ilcs-35-200-article-0010` | Illinois Compiled Statutes, Property Tax Code (35 ILCS 200), Article 10 | 1 | 2026-05-21 to 2026-05-21 |
+| `ilcs-35-200-article-0011` | Illinois Compiled Statutes, Property Tax Code (35 ILCS 200), Article 11 | 1 | 2026-05-21 to 2026-05-21 |
+| `ilcs-35-200-article-0012` | Illinois Compiled Statutes, Property Tax Code (35 ILCS 200), Article 12 | 1 | 2026-05-21 to 2026-05-21 |
+| `ilcs-35-200-article-0013` | Illinois Compiled Statutes, Property Tax Code (35 ILCS 200), Article 13 | 1 | 2026-05-21 to 2026-05-21 |
+| `ilcs-35-200-article-0014` | Illinois Compiled Statutes, Property Tax Code (35 ILCS 200), Article 14 | 1 | 2026-05-21 to 2026-05-21 |
+| `ilcs-35-200-article-0015` | Illinois Compiled Statutes, Property Tax Code (35 ILCS 200), Article 15 | 1 | 2026-05-21 to 2026-05-21 |
+| `ilcs-35-200-article-0016` | Illinois Compiled Statutes, Property Tax Code (35 ILCS 200), Article 16 | 1 | 2026-05-21 to 2026-05-21 |
+| `ilcs-35-200-article-0017` | Illinois Compiled Statutes, Property Tax Code (35 ILCS 200), Article 17 | 1 | 2026-05-21 to 2026-05-21 |
+| `ilcs-35-200-article-0018` | Illinois Compiled Statutes, Property Tax Code (35 ILCS 200), Article 18 | 1 | 2026-05-21 to 2026-05-21 |
+| `ilcs-35-200-article-0019` | Illinois Compiled Statutes, Property Tax Code (35 ILCS 200), Article 19 | 1 | 2026-05-21 to 2026-05-21 |
+| `ilcs-35-200-article-0020` | Illinois Compiled Statutes, Property Tax Code (35 ILCS 200), Article 20 | 1 | 2026-05-21 to 2026-05-21 |
+| `ilcs-35-200-article-0021` | Illinois Compiled Statutes, Property Tax Code (35 ILCS 200), Article 21 | 1 | 2026-05-21 to 2026-05-21 |
+| `ilcs-35-200-article-0022` | Illinois Compiled Statutes, Property Tax Code (35 ILCS 200), Article 22 | 1 | 2026-05-21 to 2026-05-21 |
+| `ilcs-35-200-article-0023` | Illinois Compiled Statutes, Property Tax Code (35 ILCS 200), Article 23 | 1 | 2026-05-21 to 2026-05-21 |
+| `ilcs-35-200-article-0024` | Illinois Compiled Statutes, Property Tax Code (35 ILCS 200), Article 24 | 1 | 2026-05-21 to 2026-05-21 |
+| `ilcs-35-200-article-0025` | Illinois Compiled Statutes, Property Tax Code (35 ILCS 200), Article 25 | 1 | 2026-05-21 to 2026-05-21 |
+| `ilcs-35-200-article-0026` | Illinois Compiled Statutes, Property Tax Code (35 ILCS 200), Article 26 | 1 | 2026-05-21 to 2026-05-21 |
+| `ilcs-35-200-article-0027` | Illinois Compiled Statutes, Property Tax Code (35 ILCS 200), Article 27 | 1 | 2026-05-21 to 2026-05-21 |
+| `ilcs-35-200-article-0028` | Illinois Compiled Statutes, Property Tax Code (35 ILCS 200), Article 28 | 1 | 2026-05-21 to 2026-05-21 |
+| `ilcs-35-200-article-0029` | Illinois Compiled Statutes, Property Tax Code (35 ILCS 200), Article 29 | 1 | 2026-05-21 to 2026-05-21 |
+| `ilcs-35-200-article-0030` | Illinois Compiled Statutes, Property Tax Code (35 ILCS 200), Article 30 | 1 | 2026-05-21 to 2026-05-21 |
+| `ilcs-35-200-article-0031` | Illinois Compiled Statutes, Property Tax Code (35 ILCS 200), Article 31 | 1 | 2026-05-21 to 2026-05-21 |
+| `ilcs-35-200-article-0032` | Illinois Compiled Statutes, Property Tax Code (35 ILCS 200), Article 32 | 1 | 2026-05-21 to 2026-05-21 |
+| `ilcs-35-250` | Illinois Compiled Statutes, Longtime Owner-Occupant Property Tax Relief Act (35 ILCS 250) | 1 | 2026-07-29 to 2026-07-29 |
+| `ilcs-35-405` | Illinois Compiled Statutes, Illinois Estate and Generation-Skipping Transfer Tax Act (35 ILCS 405) | 1 | 2026-03-20 to 2026-03-20 |
+| `ilcs-35-505` | Illinois Compiled Statutes, Motor Fuel Tax Law (35 ILCS 505) | 1 | 2026-10-13 to 2026-10-13 |
+| `ilcs-35-510` | Illinois Compiled Statutes, Coin-Operated Amusement Device and Redemption Machine Tax Act (35 ILCS 510) | 1 | 2026-05-14 to 2026-05-14 |
+| `ilcs-35-517` | Illinois Compiled Statutes, Manufactured Home Installation Act (35 ILCS 517) | 1 | 2026-03-04 to 2026-03-04 |
+| `ilcs-35-525-article-0010` | Illinois Compiled Statutes, Parking Excise Tax Act (35 ILCS 525), Article 10 | 1 | 2026-06-16 to 2026-06-16 |
+| `ilcs-35-525-article-0015` | Illinois Compiled Statutes, Parking Excise Tax Act (35 ILCS 525), Article 15 | 1 | 2026-06-16 to 2026-06-16 |
+| `ilcs-35-525-article-0035` | Illinois Compiled Statutes, Parking Excise Tax Act (35 ILCS 525), Article 35 | 1 | 2026-06-16 to 2026-06-16 |
+| `ilcs-35-525-article-0099` | Illinois Compiled Statutes, Parking Excise Tax Act (35 ILCS 525), Article 99 | 1 | 2026-06-16 to 2026-06-16 |
+| `ilcs-35-615` | Illinois Compiled Statutes, Gas Revenue Tax Act (35 ILCS 615) | 1 | 2026-10-12 to 2026-10-12 |
+| `ilcs-35-620` | Illinois Compiled Statutes, Public Utilities Revenue Act (35 ILCS 620) | 1 | 2026-04-13 to 2026-04-13 |
+| `ilcs-35-630` | Illinois Compiled Statutes, Telecommunications Excise Tax Act (35 ILCS 630) | 1 | 2026-10-12 to 2026-10-12 |
+| `ilcs-35-635` | Illinois Compiled Statutes, Telecommunications Infrastructure Maintenance Fee Act (35 ILCS 635) | 1 | 2026-05-06 to 2026-05-06 |
+| `ilcs-35-640` | Illinois Compiled Statutes, Electricity Excise Tax Law (35 ILCS 640) | 1 | 2026-03-16 to 2026-03-16 |
+| `ilcs-35-645` | Illinois Compiled Statutes, Electricity Infrastructure Maintenance Fee Law (35 ILCS 645) | 1 | 2026-04-17 to 2026-04-17 |
+| `ilcs-35-735` | Illinois Compiled Statutes, Uniform Penalty and Interest Act (35 ILCS 735) | 1 | 2026-03-08 to 2026-03-08 |
+| `ilcs-35-815` | Illinois Compiled Statutes, Postage Stamp Vending Machine Act (35 ILCS 815) | 1 | 2026-04-21 to 2026-04-21 |
+| `ilcs-35-820` | Illinois Compiled Statutes, Stock, Commodity, or Options Transaction Tax Exemption Act (35 ILCS 820) | 1 | 2026-02-24 to 2026-02-24 |
+| `ilcs-40-5-article-0001` | Illinois Compiled Statutes, Illinois Pension Code (40 ILCS 5), Article 1 | 1 | 2026-03-10 to 2026-03-10 |
+| `ilcs-40-5-article-0001a` | Illinois Compiled Statutes, Illinois Pension Code (40 ILCS 5), Article 1A | 1 | 2026-03-10 to 2026-03-10 |
+| `ilcs-40-5-article-0002` | Illinois Compiled Statutes, Illinois Pension Code (40 ILCS 5), Article 2 | 1 | 2026-03-10 to 2026-03-10 |
+| `ilcs-40-5-article-0003` | Illinois Compiled Statutes, Illinois Pension Code (40 ILCS 5), Article 3 | 1 | 2026-03-10 to 2026-03-10 |
+| `ilcs-40-5-article-0004` | Illinois Compiled Statutes, Illinois Pension Code (40 ILCS 5), Article 4 | 1 | 2026-03-10 to 2026-03-10 |
+| `ilcs-40-5-article-0005` | Illinois Compiled Statutes, Illinois Pension Code (40 ILCS 5), Article 5 | 1 | 2026-03-10 to 2026-03-10 |
+| `ilcs-40-5-article-0006` | Illinois Compiled Statutes, Illinois Pension Code (40 ILCS 5), Article 6 | 1 | 2026-03-10 to 2026-03-10 |
+| `ilcs-40-5-article-0007` | Illinois Compiled Statutes, Illinois Pension Code (40 ILCS 5), Article 7 | 1 | 2026-03-10 to 2026-03-10 |
+| `ilcs-40-5-article-0008` | Illinois Compiled Statutes, Illinois Pension Code (40 ILCS 5), Article 8 | 1 | 2026-03-10 to 2026-03-10 |
+| `ilcs-40-5-article-0009` | Illinois Compiled Statutes, Illinois Pension Code (40 ILCS 5), Article 9 | 1 | 2026-03-10 to 2026-03-10 |
+| `ilcs-40-5-article-0010` | Illinois Compiled Statutes, Illinois Pension Code (40 ILCS 5), Article 10 | 1 | 2026-03-10 to 2026-03-10 |
+| `ilcs-40-5-article-0011` | Illinois Compiled Statutes, Illinois Pension Code (40 ILCS 5), Article 11 | 1 | 2026-03-10 to 2026-03-10 |
+| `ilcs-40-10` | Illinois Compiled Statutes, Deferred Compensation Continuing Appropriation Act (40 ILCS 10) | 1 | 2026-06-02 to 2026-06-02 |
+| `ilcs-40-15` | Illinois Compiled Statutes, State Pension Funds Continuing Appropriation Act (40 ILCS 15) | 1 | 2026-05-16 to 2026-05-16 |
+| `ilcs-45-5` | Illinois Compiled Statutes, Pest Control Compact Act (45 ILCS 5) | 1 | 2026-05-11 to 2026-05-11 |
+| `ilcs-45-10` | Illinois Compiled Statutes, Interstate Compact on Juveniles Act (45 ILCS 10) | 1 | 2026-05-11 to 2026-05-11 |
+| `ilcs-45-11` | Illinois Compiled Statutes, Interstate Compact for Juveniles Act of 2008 (45 ILCS 11) | 1 | 2026-05-16 to 2026-05-16 |
+| `ilcs-45-15` | Illinois Compiled Statutes, Interstate Compact on Placement of Children Act (45 ILCS 15) | 1 | 2026-05-11 to 2026-05-11 |
+| `ilcs-45-17-article-0005` | Illinois Compiled Statutes, Interstate Compact on Adoption Act (45 ILCS 17), Article 5 | 1 | 2026-06-11 to 2026-06-11 |
+| `ilcs-45-17-article-0010` | Illinois Compiled Statutes, Interstate Compact on Adoption Act (45 ILCS 17), Article 10 | 1 | 2026-06-11 to 2026-06-11 |
+| `ilcs-45-17-article-0090` | Illinois Compiled Statutes, Interstate Compact on Adoption Act (45 ILCS 17), Article 90 | 1 | 2026-06-11 to 2026-06-11 |
+| `ilcs-45-20` | Illinois Compiled Statutes, Interstate Agreements on Sexually Dangerous Persons Act (45 ILCS 20) | 1 | 2026-05-20 to 2026-05-20 |
+| `ilcs-45-25` | Illinois Compiled Statutes, Interstate Library Compact Act (45 ILCS 25) | 1 | 2026-05-16 to 2026-05-16 |
+| `ilcs-45-30` | Illinois Compiled Statutes, Quad Cities Interstate Metropolitan Authority Compact Act (45 ILCS 30) | 1 | 2026-06-02 to 2026-06-02 |
+| `ilcs-45-35` | Illinois Compiled Statutes, Quad Cities Interstate Metropolitan Authority Act (45 ILCS 35) | 1 | 2026-05-16 to 2026-05-16 |
+| `ilcs-45-40` | Illinois Compiled Statutes, Interstate Compact on Mental Health Act (45 ILCS 40) | 1 | 2026-05-15 to 2026-05-15 |
+| `ilcs-45-45` | Illinois Compiled Statutes, Interstate Compact on Mentally Disordered Offenders Act (45 ILCS 45) | 1 | 2026-05-28 to 2026-05-28 |
+| `ilcs-45-50` | Illinois Compiled Statutes, Interstate Mining Compact Act (45 ILCS 50) | 1 | 2026-05-11 to 2026-05-11 |
+| `ilcs-45-55` | Illinois Compiled Statutes, Interstate Compact to Conserve Oil and Gas Act (45 ILCS 55) | 1 | 2026-05-11 to 2026-05-11 |
+| `ilcs-45-60` | Illinois Compiled Statutes, Ohio River Valley Water Sanitation Compact Act (45 ILCS 60) | 1 | 2026-05-11 to 2026-05-11 |
+| `ilcs-45-70` | Illinois Compiled Statutes, Interstate Rail Compact Act (45 ILCS 70) | 1 | 2026-05-16 to 2026-05-16 |
+| `ilcs-45-77` | Illinois Compiled Statutes, Interstate Rail Passenger Network Compact Act (45 ILCS 77) | 1 | 2026-05-11 to 2026-05-11 |
+| `ilcs-45-78` | Illinois Compiled Statutes, Midwest Interstate Passenger Rail Compact Act (45 ILCS 78) | 1 | 2026-05-16 to 2026-05-16 |
+| `ilcs-45-90` | Illinois Compiled Statutes, Interstate Compact for Education Act (45 ILCS 90) | 1 | 2026-05-18 to 2026-05-18 |
+| `ilcs-45-95` | Illinois Compiled Statutes, Border State School Interstate Compact Act (45 ILCS 95) | 1 | 2026-05-11 to 2026-05-11 |
+| `ilcs-45-100` | Illinois Compiled Statutes, Bi-State Development Compact Act (45 ILCS 100) | 1 | 2026-05-16 to 2026-05-16 |
+| `ilcs-45-105` | Illinois Compiled Statutes, Bi-State Development Agency Act (45 ILCS 105) | 1 | 2026-08-05 to 2026-08-05 |
+| `ilcs-45-110` | Illinois Compiled Statutes, Bi-State Development Powers Act (45 ILCS 110) | 1 | 2026-08-01 to 2026-08-01 |
+| `ilcs-45-140` | Illinois Compiled Statutes, Central Midwest Radioactive Waste Compact Act (45 ILCS 140) | 1 | 2026-05-16 to 2026-05-16 |
+| `ilcs-45-141` | Illinois Compiled Statutes, Radioactive Waste Compact Enforcement Act (45 ILCS 141) | 1 | 2026-05-11 to 2026-05-11 |
+| `ilcs-45-145` | Illinois Compiled Statutes, Great Lakes Basin Compact Act (45 ILCS 145) | 1 | 2026-05-11 to 2026-05-11 |
+| `ilcs-45-147` | Illinois Compiled Statutes, Great Lakes-St. Lawrence River Basin Water Resources Compact Act (45 ILCS 147) | 1 | 2026-05-16 to 2026-05-16 |
+| `ilcs-45-151` | Illinois Compiled Statutes, Emergency Management Assistance Compact Act (45 ILCS 151) | 1 | 2026-07-13 to 2026-07-13 |
+| `ilcs-45-155` | Illinois Compiled Statutes, Midwestern Higher Education Compact Act (45 ILCS 155) | 1 | 2026-05-11 to 2026-05-11 |
+| `ilcs-45-160` | Illinois Compiled Statutes, Interstate Insurance Receivership Compact Act (45 ILCS 160) | 1 | 2026-06-01 to 2026-06-01 |
+| `ilcs-45-162` | Illinois Compiled Statutes, Interstate Insurance Product Regulation Compact (45 ILCS 162) | 1 | 2026-05-11 to 2026-05-11 |
+| `ilcs-45-165` | Illinois Compiled Statutes, Mid-America Port Commission Agreement Act (45 ILCS 165) | 1 | 2026-07-02 to 2026-07-02 |
+| `ilcs-45-170` | Illinois Compiled Statutes, Interstate Compact for Adult Offender Supervision (45 ILCS 170) | 1 | 2026-05-11 to 2026-05-11 |
+| `ilcs-45-180` | Illinois Compiled Statutes, Interstate Medical Licensure Compact Act (45 ILCS 180) | 1 | 2026-05-16 to 2026-05-16 |
+| `ilcs-45-190-article-0010` | Illinois Compiled Statutes, New Harmony Bridge Interstate Compact Act (45 ILCS 190), Article 10 | 1 | 2026-06-08 to 2026-06-08 |
+| `ilcs-45-190-article-0099` | Illinois Compiled Statutes, New Harmony Bridge Interstate Compact Act (45 ILCS 190), Article 99 | 1 | 2026-06-08 to 2026-06-08 |
+| `ilcs-45-195` | Illinois Compiled Statutes, Psychology Interjurisdictional Compact Act (45 ILCS 195) | 1 | 2026-05-12 to 2026-05-12 |
+| `ilcs-50-5` | Illinois Compiled Statutes, Emergency Government Relocation Act (50 ILCS 5) | 1 | 2026-02-16 to 2026-02-16 |
+| `ilcs-50-10` | Illinois Compiled Statutes, Regional Council Act (50 ILCS 10) | 1 | 2026-04-03 to 2026-04-03 |
+| `ilcs-50-15` | Illinois Compiled Statutes, Regional Planning Commission Act (50 ILCS 15) | 1 | 2026-05-20 to 2026-05-20 |
+| `ilcs-50-20` | Illinois Compiled Statutes, Public Building Commission Act (50 ILCS 20) | 1 | 2026-02-16 to 2026-02-16 |
+| `ilcs-50-25` | Illinois Compiled Statutes, Local Government Air Rights Act (50 ILCS 25) | 1 | 2026-02-16 to 2026-02-16 |
+| `ilcs-50-30` | Illinois Compiled Statutes, Exhibition Council Act (50 ILCS 30) | 1 | 2026-05-29 to 2026-05-29 |
+| `ilcs-50-35` | Illinois Compiled Statutes, Local Government Antitrust Exemption Act (50 ILCS 35) | 1 | 2026-02-17 to 2026-02-17 |
+| `ilcs-50-40` | Illinois Compiled Statutes, Foreign Trade Zones Act (50 ILCS 40) | 1 | 2026-02-16 to 2026-02-16 |
+| `ilcs-50-45` | Illinois Compiled Statutes, Local Government Taxpayers' Bill of Rights Act (50 ILCS 45) | 1 | 2026-05-27 to 2026-05-27 |
+| `ilcs-50-50` | Illinois Compiled Statutes, Property Assessed Clean Energy Act (50 ILCS 50) | 1 | 2026-05-18 to 2026-05-18 |
+| `ilcs-50-55` | Illinois Compiled Statutes, Local Government Electronic Notification Act (50 ILCS 55) | 1 | 2026-07-11 to 2026-07-11 |
+| `ilcs-50-60` | Illinois Compiled Statutes, Local Volunteer Board Member Removal Act (50 ILCS 60) | 1 | 2026-05-12 to 2026-05-12 |
+| `ilcs-50-65` | Illinois Compiled Statutes, Community Energy, Climate, and Jobs Planning Act (50 ILCS 65) | 1 | 2026-02-17 to 2026-02-17 |
+| `ilcs-50-70` | Illinois Compiled Statutes, Decennial Committees on Local Government Efficiency Act (50 ILCS 70) | 1 | 2026-06-07 to 2026-06-07 |
+| `ilcs-50-71` | Illinois Compiled Statutes, Community Partnership for Deflection and Substance Use Disorder Treatment Act (50 ILCS 71) | 1 | 2026-05-24 to 2026-05-24 |
+| `ilcs-50-105` | Illinois Compiled Statutes, Public Officer Prohibited Activities Act (50 ILCS 105) | 1 | 2026-07-14 to 2026-07-14 |
+| `ilcs-50-110` | Illinois Compiled Statutes, Public Officer Simultaneous Tenure Act (50 ILCS 110) | 1 | 2026-09-01 to 2026-09-01 |
+| `ilcs-50-115` | Illinois Compiled Statutes, Time Off for Official Meetings Act (50 ILCS 115) | 1 | 2026-02-16 to 2026-02-16 |
+| `ilcs-50-122` | Illinois Compiled Statutes, Local Government Disaster Service Volunteer Act (50 ILCS 122) | 1 | 2026-02-16 to 2026-02-16 |
+| `ilcs-50-125` | Illinois Compiled Statutes, Government Salary Withholding Act (50 ILCS 125) | 1 | 2026-09-05 to 2026-09-05 |
+| `ilcs-50-130` | Illinois Compiled Statutes, Local Historian Act (50 ILCS 130) | 1 | 2026-05-13 to 2026-05-13 |
+| `ilcs-50-135` | Illinois Compiled Statutes, Local Governmental Employees Political Rights Act (50 ILCS 135) | 1 | 2026-06-08 to 2026-06-08 |
+| `ilcs-50-145` | Illinois Compiled Statutes, Local Government Officer Compensation Act (50 ILCS 145) | 1 | 2026-02-16 to 2026-02-16 |
+| `ilcs-50-150` | Illinois Compiled Statutes, Local Government Travel Expense Control Act (50 ILCS 150) | 1 | 2026-02-17 to 2026-02-17 |
+| `ilcs-50-155` | Illinois Compiled Statutes, Local Government Wage Increase Transparency Act (50 ILCS 155) | 1 | 2026-02-17 to 2026-02-17 |
+| `ilcs-50-205` | Illinois Compiled Statutes, Local Records Act (50 ILCS 205) | 1 | 2026-04-11 to 2026-04-11 |
+| `ilcs-50-220` | Illinois Compiled Statutes, Municipal Adoption of Codes and Records Act (50 ILCS 220) | 1 | 2026-02-16 to 2026-02-16 |
+| `ilcs-50-305` | Illinois Compiled Statutes, Local Government Financial Statement Act (50 ILCS 305) | 1 | 2026-06-30 to 2026-06-30 |
+| `ilcs-50-310` | Illinois Compiled Statutes, Governmental Account Audit Act (50 ILCS 310) | 1 | 2026-04-28 to 2026-04-28 |
+| `ilcs-50-315` | Illinois Compiled Statutes, Fee Deposit Act (50 ILCS 315) | 1 | 2026-02-16 to 2026-02-16 |
+| `ilcs-50-320` | Illinois Compiled Statutes, Local Government Financial Planning and Supervision Act (50 ILCS 320) | 1 | 2026-02-16 to 2026-02-16 |
+| `ilcs-50-325` | Illinois Compiled Statutes, Relief Tax Authorization Act (50 ILCS 325) | 1 | 2026-02-16 to 2026-02-16 |
+| `ilcs-50-330` | Illinois Compiled Statutes, Illinois Municipal Budget Law (50 ILCS 330) | 1 | 2026-02-17 to 2026-02-17 |
+| `ilcs-50-335` | Illinois Compiled Statutes, Municipality and Sanitary District Mutual Expenditure Act (50 ILCS 335) | 1 | 2026-06-10 to 2026-06-10 |
+| `ilcs-50-340` | Illinois Compiled Statutes, Investment of Municipal Funds Act (50 ILCS 340) | 1 | 2026-05-12 to 2026-05-12 |
+| `ilcs-50-345` | Illinois Compiled Statutes, Local Governmental Acceptance of Credit Cards Act (50 ILCS 345) | 1 | 2026-10-08 to 2026-10-08 |
+| `ilcs-50-350` | Illinois Compiled Statutes, Community Self-Revitalization Act (50 ILCS 350) | 1 | 2026-09-01 to 2026-09-01 |
+| `ilcs-50-360` | Illinois Compiled Statutes, Local Government Billing Act (50 ILCS 360) | 1 | 2026-02-17 to 2026-02-17 |
+| `ilcs-50-405` | Illinois Compiled Statutes, Local Government Debt Limitation Act (50 ILCS 405) | 1 | 2026-02-17 to 2026-02-17 |
+| `ilcs-50-410` | Illinois Compiled Statutes, Local Government Credit Enhancement Act (50 ILCS 410) | 1 | 2026-02-17 to 2026-02-17 |
+| `ilcs-50-415` | Illinois Compiled Statutes, Local Government Defeasance of Debt Law (50 ILCS 415) | 1 | 2026-04-02 to 2026-04-02 |
+| `ilcs-50-420` | Illinois Compiled Statutes, Tax Anticipation Note Act (50 ILCS 420) | 1 | 2026-02-16 to 2026-02-16 |
+| `ilcs-50-425` | Illinois Compiled Statutes, Revenue Anticipation Act (50 ILCS 425) | 1 | 2026-02-16 to 2026-02-16 |
+| `ilcs-50-430` | Illinois Compiled Statutes, Warrants and Jurors Certificates Act (50 ILCS 430) | 1 | 2026-02-17 to 2026-02-17 |
+| `ilcs-50-440` | Illinois Compiled Statutes, Local Government Bond Validity Act (50 ILCS 440) | 1 | 2026-02-16 to 2026-02-16 |
+| `ilcs-50-445` | Illinois Compiled Statutes, Industrial Building Revenue Bond Act (50 ILCS 445) | 1 | 2026-02-16 to 2026-02-16 |
+| `ilcs-50-450` | Illinois Compiled Statutes, Medical Service Facility Act (50 ILCS 450) | 1 | 2026-02-16 to 2026-02-16 |
+| `ilcs-50-455` | Illinois Compiled Statutes, Medical Service Facility Revenue Bond Act (50 ILCS 455) | 1 | 2026-06-18 to 2026-06-18 |
+| `ilcs-50-460` | Illinois Compiled Statutes, Special Assessment Supplemental Bond and Procedures Act (50 ILCS 460) | 1 | 2026-02-17 to 2026-02-17 |
+| `ilcs-50-465` | Illinois Compiled Statutes, Local Government Housing Finance Act (50 ILCS 465) | 1 | 2026-02-16 to 2026-02-16 |
+| `ilcs-50-470` | Illinois Compiled Statutes, Innovation Development and Economy Act (50 ILCS 470) | 1 | 2026-08-08 to 2026-08-08 |
+| `ilcs-50-475` | Illinois Compiled Statutes, Statewide Innovation Development and Economy Act (50 ILCS 475) | 1 | 2026-02-16 to 2026-02-16 |
+| `ilcs-50-505` | Illinois Compiled Statutes, Local Government Prompt Payment Act (50 ILCS 505) | 1 | 2026-08-23 to 2026-08-23 |
+| `ilcs-50-510` | Illinois Compiled Statutes, Local Government Professional Services Selection Act (50 ILCS 510) | 1 | 2026-02-17 to 2026-02-17 |
+| `ilcs-50-515` | Illinois Compiled Statutes, Local Government Energy Conservation Act (50 ILCS 515) | 1 | 2026-07-13 to 2026-07-13 |
+| `ilcs-50-520` | Illinois Compiled Statutes, Soybean Ink Act (50 ILCS 520) | 1 | 2026-04-19 to 2026-04-19 |
+| `ilcs-50-525` | Illinois Compiled Statutes, Public Works Contract Change Order Act (50 ILCS 525) | 1 | 2026-02-16 to 2026-02-16 |
+| `ilcs-50-530` | Illinois Compiled Statutes, Local Government Electronic Reverse Auction Act (enacted by P.A. 96-588) (50 ILCS 530) | 1 | 2026-02-16 to 2026-02-16 |
+| `ilcs-50-605` | Illinois Compiled Statutes, Local Government Property Transfer Act (50 ILCS 605) | 1 | 2026-02-16 to 2026-02-16 |
+| `ilcs-50-610` | Illinois Compiled Statutes, Public Graveyards Act (50 ILCS 610) | 1 | 2026-05-18 to 2026-05-18 |
+| `ilcs-50-615` | Illinois Compiled Statutes, Local Government Facility Lease Act (50 ILCS 615) | 1 | 2026-02-16 to 2026-02-16 |
+| `ilcs-50-705` | Illinois Compiled Statutes, Illinois Police Training Act (50 ILCS 705) | 1 | 2026-07-09 to 2026-07-09 |
+| `ilcs-50-706-article-0010` | Illinois Compiled Statutes, Law Enforcement Officer-Worn Body Camera Act (50 ILCS 706), Article 10 | 1 | 2026-03-06 to 2026-03-06 |
+| `ilcs-50-706-article-0020` | Illinois Compiled Statutes, Law Enforcement Officer-Worn Body Camera Act (50 ILCS 706), Article 20 | 1 | 2026-03-06 to 2026-03-06 |
+| `ilcs-50-706-article-0025` | Illinois Compiled Statutes, Law Enforcement Officer-Worn Body Camera Act (50 ILCS 706), Article 25 | 1 | 2026-03-06 to 2026-03-06 |
+| `ilcs-50-707` | Illinois Compiled Statutes, Law Enforcement Camera Grant Act (50 ILCS 707) | 1 | 2026-07-04 to 2026-07-04 |
+| `ilcs-50-708` | Illinois Compiled Statutes, Law Enforcement Intern Training Act (50 ILCS 708) | 1 | 2026-05-19 to 2026-05-19 |
+| `ilcs-50-709-article-0005` | Illinois Compiled Statutes, Uniform Crime Reporting Act (50 ILCS 709), Article 5 | 1 | 2026-03-08 to 2026-03-08 |
+| `ilcs-50-709-article-0020` | Illinois Compiled Statutes, Uniform Crime Reporting Act (50 ILCS 709), Article 20 | 1 | 2026-03-08 to 2026-03-08 |
+| `ilcs-50-709-article-0025` | Illinois Compiled Statutes, Uniform Crime Reporting Act (50 ILCS 709), Article 25 | 1 | 2026-03-08 to 2026-03-08 |
+| `ilcs-50-710` | Illinois Compiled Statutes, Peace Officer and Probation Officer Firearm Training Act (50 ILCS 710) | 1 | 2026-05-19 to 2026-05-19 |
+| `ilcs-50-712` | Illinois Compiled Statutes, Law Enforcement Officer Bulletproof Vest Act (50 ILCS 712) | 1 | 2026-02-16 to 2026-02-16 |
+| `ilcs-50-715` | Illinois Compiled Statutes, Law Enforcement Salary Grant Act (50 ILCS 715) | 1 | 2026-08-25 to 2026-08-25 |
+| `ilcs-50-720` | Illinois Compiled Statutes, Intergovernmental Law Enforcement Officer's In-Service Training Act (50 ILCS 720) | 1 | 2026-04-20 to 2026-04-20 |
+| `ilcs-50-722` | Illinois Compiled Statutes, Missing Persons Identification Act (50 ILCS 722) | 1 | 2026-02-17 to 2026-02-17 |
+| `ilcs-50-725` | Illinois Compiled Statutes, Uniform Peace Officers' Disciplinary Act (50 ILCS 725) | 1 | 2026-03-06 to 2026-03-06 |
+| `ilcs-50-730` | Illinois Compiled Statutes, Parade Police Protection Charge Waiver Act (50 ILCS 730) | 1 | 2026-07-13 to 2026-07-13 |
+| `ilcs-50-740` | Illinois Compiled Statutes, Illinois Fire Protection Training Act (50 ILCS 740) | 1 | 2026-04-22 to 2026-04-22 |
+| `ilcs-50-741` | Illinois Compiled Statutes, Regional Fire Protection Agency Act (50 ILCS 741) | 1 | 2026-05-12 to 2026-05-12 |
+| `ilcs-50-742` | Illinois Compiled Statutes, Fire Department Promotion Act (50 ILCS 742) | 1 | 2026-04-11 to 2026-04-11 |
+| `ilcs-50-745` | Illinois Compiled Statutes, Firemen's Disciplinary Act (50 ILCS 745) | 1 | 2026-02-16 to 2026-02-16 |
+| `ilcs-50-748` | Illinois Compiled Statutes, Volunteer Emergency Worker Job Protection Act (50 ILCS 748) | 1 | 2026-02-16 to 2026-02-16 |
+| `ilcs-50-750` | Illinois Compiled Statutes, Emergency Telephone System Act (50 ILCS 750) | 1 | 2026-09-04 to 2026-09-04 |
+| `ilcs-50-752` | Illinois Compiled Statutes, Illinois Public Safety Agency Network Act (50 ILCS 752) | 1 | 2026-07-02 to 2026-07-02 |
+| `ilcs-50-753` | Illinois Compiled Statutes, Prepaid Wireless 9-1-1 Surcharge Act (50 ILCS 753) | 1 | 2026-08-12 to 2026-08-12 |
+| `ilcs-50-754` | Illinois Compiled Statutes, Community Emergency Services and Support Act (50 ILCS 754) | 1 | 2026-03-06 to 2026-03-06 |
+| `ilcs-50-755` | Illinois Compiled Statutes, Water Rescue Act (50 ILCS 755) | 1 | 2026-05-06 to 2026-05-06 |
+| `ilcs-50-805` | Illinois Compiled Statutes, Local Land Resource Management Planning Act (50 ILCS 805) | 1 | 2026-02-17 to 2026-02-17 |
+| `ilcs-50-810` | Illinois Compiled Statutes, Building Code Violation Notice Posting Act (50 ILCS 810) | 1 | 2026-02-16 to 2026-02-16 |
+| `ilcs-50-815` | Illinois Compiled Statutes, Flood Damage Prevention Act (50 ILCS 815) | 1 | 2026-02-16 to 2026-02-16 |
+| `ilcs-50-820` | Illinois Compiled Statutes, Bed and Breakfast Act (50 ILCS 820) | 1 | 2026-04-15 to 2026-04-15 |
+| `ilcs-50-825` | Illinois Compiled Statutes, Rent Control Preemption Act (50 ILCS 825) | 1 | 2026-10-08 to 2026-10-08 |
+| `ilcs-50-830` | Illinois Compiled Statutes, Contractor Unified License and Permit Bond Act (50 ILCS 830) | 1 | 2026-06-28 to 2026-06-28 |
+| `ilcs-50-835` | Illinois Compiled Statutes, Community Care for Persons with Developmental Disabilities Act. (Small Wireless Facilities Deployment Act moved to 50 ILCS 840/; see Section 98 of P.A. 100-1129) (50 ILCS 835) | 1 | 2026-04-14 to 2026-04-14 |
+| `ilcs-50-840` | Illinois Compiled Statutes, Small Wireless Facilities Deployment Act. (Moved from 50 ILCS 835/) (50 ILCS 840) | 1 | 2026-10-08 to 2026-10-08 |
+| `ilcs-50-845` | Illinois Compiled Statutes, People Over Parking Act (50 ILCS 845) | 1 | 2026-10-09 to 2026-10-09 |
+| `ilcs-55-5-article-0001` | Illinois Compiled Statutes, Counties Code (55 ILCS 5), Article 1 | 1 | 2026-04-27 to 2026-04-27 |
+| `ilcs-55-5-article-0002` | Illinois Compiled Statutes, Counties Code (55 ILCS 5), Article 2 | 1 | 2026-04-27 to 2026-04-27 |
+| `ilcs-55-5-article-0003` | Illinois Compiled Statutes, Counties Code (55 ILCS 5), Article 3 | 1 | 2026-04-27 to 2026-04-27 |
+| `ilcs-55-5-article-0004` | Illinois Compiled Statutes, Counties Code (55 ILCS 5), Article 4 | 1 | 2026-04-27 to 2026-04-27 |
+| `ilcs-55-5-article-0005` | Illinois Compiled Statutes, Counties Code (55 ILCS 5), Article 5 | 1 | 2026-04-27 to 2026-04-27 |
+| `ilcs-55-5-article-0006` | Illinois Compiled Statutes, Counties Code (55 ILCS 5), Article 6 | 1 | 2026-04-27 to 2026-04-27 |
+| `ilcs-55-5-article-0007` | Illinois Compiled Statutes, Counties Code (55 ILCS 5), Article 7 | 1 | 2026-04-27 to 2026-04-27 |
+| `ilcs-55-40` | Illinois Compiled Statutes, Court Costs and Sheriff Fees Transfer Act (55 ILCS 40) | 1 | 2026-04-17 to 2026-04-17 |
+| `ilcs-55-50` | Illinois Compiled Statutes, Habeas Corpus Reimbursement Act (55 ILCS 50) | 1 | 2026-04-13 to 2026-04-13 |
+| `ilcs-55-55` | Illinois Compiled Statutes, County Officer Property Sale Act (55 ILCS 55) | 1 | 2026-05-13 to 2026-05-13 |
+| `ilcs-55-60` | Illinois Compiled Statutes, County Official Bond Approval Act (55 ILCS 60) | 1 | 2026-04-15 to 2026-04-15 |
+| `ilcs-55-65` | Illinois Compiled Statutes, County Cemetery Care Act (55 ILCS 65) | 1 | 2026-05-12 to 2026-05-12 |
+| `ilcs-55-70` | Illinois Compiled Statutes, Grave and Cemetery Restoration Act (55 ILCS 70) | 1 | 2026-04-11 to 2026-04-11 |
+| `ilcs-55-75` | Illinois Compiled Statutes, County Shelter Care and Detention Home Act (55 ILCS 75) | 1 | 2026-04-10 to 2026-04-10 |
+| `ilcs-55-80` | Illinois Compiled Statutes, Children's Advocacy Center Act (55 ILCS 80) | 1 | 2026-04-30 to 2026-04-30 |
+| `ilcs-55-82` | Illinois Compiled Statutes, Neutral Site Custody Exchange Funding Act (55 ILCS 82) | 1 | 2026-05-16 to 2026-05-16 |
+| `ilcs-55-85` | Illinois Compiled Statutes, County Economic Development Project Area Property Tax Allocation Act (55 ILCS 85) | 1 | 2026-05-19 to 2026-05-19 |
+| `ilcs-55-90` | Illinois Compiled Statutes, County Economic Development Project Area Tax Increment Allocation Act of 1991 (55 ILCS 90) | 1 | 2026-05-21 to 2026-05-21 |
+| `ilcs-55-95` | Illinois Compiled Statutes, County Historical Research Act (55 ILCS 95) | 1 | 2026-05-16 to 2026-05-16 |
+| `ilcs-55-100` | Illinois Compiled Statutes, County Coal Processing Act (55 ILCS 100) | 1 | 2026-04-11 to 2026-04-11 |
+| `ilcs-55-110` | Illinois Compiled Statutes, Regional Ambulance Services Law (55 ILCS 110) | 1 | 2026-05-13 to 2026-05-13 |
+| `ilcs-55-115` | Illinois Compiled Statutes, Junior Deputy Sheriff Act (55 ILCS 115) | 1 | 2026-06-08 to 2026-06-08 |
+| `ilcs-55-120` | Illinois Compiled Statutes, Historical Document Preservation Act (55 ILCS 120) | 1 | 2026-05-12 to 2026-05-12 |
+| `ilcs-55-125` | Illinois Compiled Statutes, County Surveyors Act (55 ILCS 125) | 1 | 2026-05-11 to 2026-05-11 |
+| `ilcs-55-130` | Illinois Compiled Statutes, Drug School Act (55 ILCS 130) | 1 | 2026-05-12 to 2026-05-12 |
+| `ilcs-55-135` | Illinois Compiled Statutes, Coroner Training Board Act (55 ILCS 135) | 1 | 2026-05-11 to 2026-05-11 |
+| `ilcs-60-1-article-0001` | Illinois Compiled Statutes, Township Code (60 ILCS 1), Article 1 | 1 | 2026-03-08 to 2026-03-08 |
+| `ilcs-60-1-article-0005` | Illinois Compiled Statutes, Township Code (60 ILCS 1), Article 5 | 1 | 2026-03-08 to 2026-03-08 |
+| `ilcs-60-1-article-0007` | Illinois Compiled Statutes, Township Code (60 ILCS 1), Article 7 | 1 | 2026-03-08 to 2026-03-08 |
+| `ilcs-60-1-article-0010` | Illinois Compiled Statutes, Township Code (60 ILCS 1), Article 10 | 1 | 2026-03-08 to 2026-03-08 |
+| `ilcs-60-1-article-0015` | Illinois Compiled Statutes, Township Code (60 ILCS 1), Article 15 | 1 | 2026-03-08 to 2026-03-08 |
+| `ilcs-60-1-article-0020` | Illinois Compiled Statutes, Township Code (60 ILCS 1), Article 20 | 1 | 2026-03-08 to 2026-03-08 |
+| `ilcs-60-1-article-0022` | Illinois Compiled Statutes, Township Code (60 ILCS 1), Article 22 | 1 | 2026-03-08 to 2026-03-08 |
+| `ilcs-60-1-article-0023` | Illinois Compiled Statutes, Township Code (60 ILCS 1), Article 23 | 1 | 2026-03-08 to 2026-03-08 |
+| `ilcs-60-1-article-0024` | Illinois Compiled Statutes, Township Code (60 ILCS 1), Article 24 | 1 | 2026-03-08 to 2026-03-08 |
+| `ilcs-60-1-article-0025` | Illinois Compiled Statutes, Township Code (60 ILCS 1), Article 25 | 1 | 2026-03-08 to 2026-03-08 |
+| `ilcs-60-1-article-0027` | Illinois Compiled Statutes, Township Code (60 ILCS 1), Article 27 | 1 | 2026-03-08 to 2026-03-08 |
+| `ilcs-60-1-article-0028` | Illinois Compiled Statutes, Township Code (60 ILCS 1), Article 28 | 1 | 2026-03-08 to 2026-03-08 |
+| `ilcs-60-1-article-0029` | Illinois Compiled Statutes, Township Code (60 ILCS 1), Article 29 | 1 | 2026-03-08 to 2026-03-08 |
+| `ilcs-60-1-article-0030` | Illinois Compiled Statutes, Township Code (60 ILCS 1), Article 30 | 1 | 2026-03-08 to 2026-03-08 |
+| `ilcs-60-1-article-0035` | Illinois Compiled Statutes, Township Code (60 ILCS 1), Article 35 | 1 | 2026-03-08 to 2026-03-08 |
+| `ilcs-60-1-article-0040` | Illinois Compiled Statutes, Township Code (60 ILCS 1), Article 40 | 1 | 2026-03-08 to 2026-03-08 |
+| `ilcs-60-1-article-0045` | Illinois Compiled Statutes, Township Code (60 ILCS 1), Article 45 | 1 | 2026-03-08 to 2026-03-08 |
+| `ilcs-60-1-article-0050` | Illinois Compiled Statutes, Township Code (60 ILCS 1), Article 50 | 1 | 2026-03-08 to 2026-03-08 |
+| `ilcs-60-1-article-0055` | Illinois Compiled Statutes, Township Code (60 ILCS 1), Article 55 | 1 | 2026-03-08 to 2026-03-08 |
+| `ilcs-60-1-article-0060` | Illinois Compiled Statutes, Township Code (60 ILCS 1), Article 60 | 1 | 2026-03-08 to 2026-03-08 |
+| `ilcs-60-1-article-0065` | Illinois Compiled Statutes, Township Code (60 ILCS 1), Article 65 | 1 | 2026-03-08 to 2026-03-08 |
+| `ilcs-60-1-article-0070` | Illinois Compiled Statutes, Township Code (60 ILCS 1), Article 70 | 1 | 2026-03-08 to 2026-03-08 |
+| `ilcs-60-1-article-0073` | Illinois Compiled Statutes, Township Code (60 ILCS 1), Article 73 | 1 | 2026-03-08 to 2026-03-08 |
+| `ilcs-60-1-article-0075` | Illinois Compiled Statutes, Township Code (60 ILCS 1), Article 75 | 1 | 2026-03-08 to 2026-03-08 |
+| `ilcs-60-1-article-0077` | Illinois Compiled Statutes, Township Code (60 ILCS 1), Article 77 | 1 | 2026-03-08 to 2026-03-08 |
+| `ilcs-60-1-article-0078` | Illinois Compiled Statutes, Township Code (60 ILCS 1), Article 78 | 1 | 2026-03-08 to 2026-03-08 |
+| `ilcs-60-1-article-0080` | Illinois Compiled Statutes, Township Code (60 ILCS 1), Article 80 | 1 | 2026-03-08 to 2026-03-08 |
+| `ilcs-60-1-article-0085` | Illinois Compiled Statutes, Township Code (60 ILCS 1), Article 85 | 1 | 2026-03-08 to 2026-03-08 |
+| `ilcs-60-1-article-0090` | Illinois Compiled Statutes, Township Code (60 ILCS 1), Article 90 | 1 | 2026-03-08 to 2026-03-08 |
+| `ilcs-60-1-article-0095` | Illinois Compiled Statutes, Township Code (60 ILCS 1), Article 95 | 1 | 2026-03-08 to 2026-03-08 |
+| `ilcs-60-1-article-0100` | Illinois Compiled Statutes, Township Code (60 ILCS 1), Article 100 | 1 | 2026-03-08 to 2026-03-08 |
+| `ilcs-60-1-article-0105` | Illinois Compiled Statutes, Township Code (60 ILCS 1), Article 105 | 1 | 2026-03-08 to 2026-03-08 |
+| `ilcs-60-1-article-0110` | Illinois Compiled Statutes, Township Code (60 ILCS 1), Article 110 | 1 | 2026-03-08 to 2026-03-08 |
+| `ilcs-60-1-article-0115` | Illinois Compiled Statutes, Township Code (60 ILCS 1), Article 115 | 1 | 2026-03-08 to 2026-03-08 |
+| `ilcs-60-1-article-0120` | Illinois Compiled Statutes, Township Code (60 ILCS 1), Article 120 | 1 | 2026-03-08 to 2026-03-08 |
+| `ilcs-60-1-article-0125` | Illinois Compiled Statutes, Township Code (60 ILCS 1), Article 125 | 1 | 2026-03-08 to 2026-03-08 |
+| `ilcs-60-1-article-0130` | Illinois Compiled Statutes, Township Code (60 ILCS 1), Article 130 | 1 | 2026-03-08 to 2026-03-08 |
+| `ilcs-60-1-article-0133` | Illinois Compiled Statutes, Township Code (60 ILCS 1), Article 133 | 1 | 2026-03-08 to 2026-03-08 |
+| `ilcs-60-1-article-0135` | Illinois Compiled Statutes, Township Code (60 ILCS 1), Article 135 | 1 | 2026-03-08 to 2026-03-08 |
+| `ilcs-60-1-article-0140` | Illinois Compiled Statutes, Township Code (60 ILCS 1), Article 140 | 1 | 2026-03-08 to 2026-03-08 |
+| `ilcs-60-1-article-0145` | Illinois Compiled Statutes, Township Code (60 ILCS 1), Article 145 | 1 | 2026-03-08 to 2026-03-08 |
+| `ilcs-60-1-article-0150` | Illinois Compiled Statutes, Township Code (60 ILCS 1), Article 150 | 1 | 2026-03-08 to 2026-03-08 |
+| `ilcs-60-1-article-0153` | Illinois Compiled Statutes, Township Code (60 ILCS 1), Article 153 | 1 | 2026-03-08 to 2026-03-08 |
+| `ilcs-60-1-article-0155` | Illinois Compiled Statutes, Township Code (60 ILCS 1), Article 155 | 1 | 2026-03-08 to 2026-03-08 |
+| `ilcs-60-1-article-0160` | Illinois Compiled Statutes, Township Code (60 ILCS 1), Article 160 | 1 | 2026-03-08 to 2026-03-08 |
+| `ilcs-60-1-article-0170` | Illinois Compiled Statutes, Township Code (60 ILCS 1), Article 170 | 1 | 2026-03-08 to 2026-03-08 |
+| `ilcs-60-1-article-0175` | Illinois Compiled Statutes, Township Code (60 ILCS 1), Article 175 | 1 | 2026-03-08 to 2026-03-08 |
+| `ilcs-60-1-article-0180` | Illinois Compiled Statutes, Township Code (60 ILCS 1), Article 180 | 1 | 2026-03-08 to 2026-03-08 |
+| `ilcs-60-1-article-0182` | Illinois Compiled Statutes, Township Code (60 ILCS 1), Article 182 | 1 | 2026-03-08 to 2026-03-08 |
+| `ilcs-60-1-article-0185` | Illinois Compiled Statutes, Township Code (60 ILCS 1), Article 185 | 1 | 2026-03-08 to 2026-03-08 |
+| `ilcs-60-1-article-0190` | Illinois Compiled Statutes, Township Code (60 ILCS 1), Article 190 | 1 | 2026-03-08 to 2026-03-08 |
+| `ilcs-60-1-article-0195` | Illinois Compiled Statutes, Township Code (60 ILCS 1), Article 195 | 1 | 2026-03-08 to 2026-03-08 |
+| `ilcs-60-1-article-0200` | Illinois Compiled Statutes, Township Code (60 ILCS 1), Article 200 | 1 | 2026-03-08 to 2026-03-08 |
+| `ilcs-60-1-article-0205` | Illinois Compiled Statutes, Township Code (60 ILCS 1), Article 205 | 1 | 2026-03-08 to 2026-03-08 |
+| `ilcs-60-1-article-0207` | Illinois Compiled Statutes, Township Code (60 ILCS 1), Article 207 | 1 | 2026-03-08 to 2026-03-08 |
+| `ilcs-60-1-article-0210` | Illinois Compiled Statutes, Township Code (60 ILCS 1), Article 210 | 1 | 2026-03-08 to 2026-03-08 |
+| `ilcs-60-1-article-0215` | Illinois Compiled Statutes, Township Code (60 ILCS 1), Article 215 | 1 | 2026-03-08 to 2026-03-08 |
+| `ilcs-60-1-article-0220` | Illinois Compiled Statutes, Township Code (60 ILCS 1), Article 220 | 1 | 2026-03-08 to 2026-03-08 |
+| `ilcs-60-1-article-0225` | Illinois Compiled Statutes, Township Code (60 ILCS 1), Article 225 | 1 | 2026-03-08 to 2026-03-08 |
+| `ilcs-60-1-article-0230` | Illinois Compiled Statutes, Township Code (60 ILCS 1), Article 230 | 1 | 2026-03-08 to 2026-03-08 |
+| `ilcs-60-1-article-0235` | Illinois Compiled Statutes, Township Code (60 ILCS 1), Article 235 | 1 | 2026-03-08 to 2026-03-08 |
+| `ilcs-60-1-article-0240` | Illinois Compiled Statutes, Township Code (60 ILCS 1), Article 240 | 1 | 2026-03-08 to 2026-03-08 |
+| `ilcs-60-1-article-0245` | Illinois Compiled Statutes, Township Code (60 ILCS 1), Article 245 | 1 | 2026-03-08 to 2026-03-08 |
+| `ilcs-60-1-article-0250` | Illinois Compiled Statutes, Township Code (60 ILCS 1), Article 250 | 1 | 2026-03-08 to 2026-03-08 |
+| `ilcs-60-1-article-0255` | Illinois Compiled Statutes, Township Code (60 ILCS 1), Article 255 | 1 | 2026-03-08 to 2026-03-08 |
+| `ilcs-60-1-article-0260` | Illinois Compiled Statutes, Township Code (60 ILCS 1), Article 260 | 1 | 2026-03-08 to 2026-03-08 |
+| `ilcs-60-1-article-0265` | Illinois Compiled Statutes, Township Code (60 ILCS 1), Article 265 | 1 | 2026-03-08 to 2026-03-08 |
+| `ilcs-60-1-article-0275` | Illinois Compiled Statutes, Township Code (60 ILCS 1), Article 275 | 1 | 2026-03-08 to 2026-03-08 |
+| `ilcs-60-1-article-0280` | Illinois Compiled Statutes, Township Code (60 ILCS 1), Article 280 | 1 | 2026-03-08 to 2026-03-08 |
+| `ilcs-60-1-article-0285` | Illinois Compiled Statutes, Township Code (60 ILCS 1), Article 285 | 1 | 2026-03-08 to 2026-03-08 |
+| `ilcs-60-1-article-0290` | Illinois Compiled Statutes, Township Code (60 ILCS 1), Article 290 | 1 | 2026-03-08 to 2026-03-08 |
+| `ilcs-60-1-article-0305` | Illinois Compiled Statutes, Township Code (60 ILCS 1), Article 305 | 1 | 2026-03-08 to 2026-03-08 |
+| `ilcs-60-1-article-0310` | Illinois Compiled Statutes, Township Code (60 ILCS 1), Article 310 | 1 | 2026-03-08 to 2026-03-08 |
+| `ilcs-60-1-article-0315` | Illinois Compiled Statutes, Township Code (60 ILCS 1), Article 315 | 1 | 2026-03-08 to 2026-03-08 |
+| `ilcs-65-30` | Illinois Compiled Statutes, Village Election Validation Act (65 ILCS 30) | 1 | 2026-07-11 to 2026-07-11 |
+| `ilcs-65-50` | Illinois Compiled Statutes, Municipal Clerk Training Act (65 ILCS 50) | 1 | 2026-08-25 to 2026-08-25 |
+| `ilcs-65-60` | Illinois Compiled Statutes, Delinquent Special Assessment Act (65 ILCS 60) | 1 | 2026-06-06 to 2026-06-06 |
+| `ilcs-65-65` | Illinois Compiled Statutes, Chicago Delinquent Special Assessment Act (65 ILCS 65) | 1 | 2026-08-10 to 2026-08-10 |
+| `ilcs-65-70` | Illinois Compiled Statutes, General Assistance Tax Act (65 ILCS 70) | 1 | 2026-04-21 to 2026-04-21 |
+| `ilcs-65-75` | Illinois Compiled Statutes, Senior Citizen Property Tax Refund Act (65 ILCS 75) | 1 | 2026-08-06 to 2026-08-06 |
+| `ilcs-65-80` | Illinois Compiled Statutes, Municipal Tax Compliance Act (65 ILCS 80) | 1 | 2026-03-28 to 2026-03-28 |
+| `ilcs-65-85` | Illinois Compiled Statutes, Municipal Electric Refunding Revenue Bond Act (65 ILCS 85) | 1 | 2026-04-03 to 2026-04-03 |
+| `ilcs-65-90` | Illinois Compiled Statutes, Municipal Wastewater Disposal Zones Act (65 ILCS 90) | 1 | 2026-08-27 to 2026-08-27 |
+| `ilcs-65-110` | Illinois Compiled Statutes, Economic Development Project Area Tax Increment Allocation Act of 1995 (65 ILCS 110) | 1 | 2026-04-20 to 2026-04-20 |
+| `ilcs-65-125` | Illinois Compiled Statutes, Business Improvement District Law (65 ILCS 125) | 1 | 2026-07-12 to 2026-07-12 |
+| `ilcs-70-5` | Illinois Compiled Statutes, Airport Authorities Act (70 ILCS 5) | 1 | 2026-04-22 to 2026-04-22 |
+| `ilcs-70-10` | Illinois Compiled Statutes, Interstate Airport Authorities Act (70 ILCS 10) | 1 | 2026-04-21 to 2026-04-21 |
+| `ilcs-70-15` | Illinois Compiled Statutes, Kankakee River Valley Area Airport Authority Act (70 ILCS 15) | 1 | 2026-05-19 to 2026-05-19 |
+| `ilcs-70-105` | Illinois Compiled Statutes, Cemetery Maintenance District Act (70 ILCS 105) | 1 | 2026-04-15 to 2026-04-15 |
+| `ilcs-70-210` | Illinois Compiled Statutes, Metropolitan Pier and Exposition Authority Act (70 ILCS 210) | 1 | 2026-04-16 to 2026-04-16 |
+| `ilcs-70-215` | Illinois Compiled Statutes, Fair and Exposition Authority Reconstruction Act (70 ILCS 215) | 1 | 2026-08-15 to 2026-08-15 |
+| `ilcs-70-405` | Illinois Compiled Statutes, Soil and Water Conservation Districts Act (70 ILCS 405) | 1 | 2026-03-07 to 2026-03-07 |
+| `ilcs-70-410` | Illinois Compiled Statutes, Conservation District Act (70 ILCS 410) | 1 | 2026-05-10 to 2026-05-10 |
+| `ilcs-70-415` | Illinois Compiled Statutes, Conservation District Organization Validation Act (70 ILCS 415) | 1 | 2026-04-12 to 2026-04-12 |
+| `ilcs-70-503` | Illinois Compiled Statutes, Chanute-Rantoul National Aviation Center Redevelopment Commission Act (70 ILCS 503) | 1 | 2026-05-16 to 2026-05-16 |
+| `ilcs-70-504` | Illinois Compiled Statutes, Central Illinois Economic Development Authority Act (70 ILCS 504) | 1 | 2026-05-21 to 2026-05-21 |
+| `ilcs-70-506` | Illinois Compiled Statutes, Eastern Illinois Economic Development Authority Act (70 ILCS 506) | 1 | 2026-04-17 to 2026-04-17 |
+| `ilcs-70-507` | Illinois Compiled Statutes, Fort Sheridan Redevelopment Commission Act (70 ILCS 507) | 1 | 2026-04-15 to 2026-04-15 |
+| `ilcs-70-508` | Illinois Compiled Statutes, Joliet Arsenal Development Authority Act (70 ILCS 508) | 1 | 2026-03-11 to 2026-03-11 |
+| `ilcs-70-510` | Illinois Compiled Statutes, Quad Cities Regional Economic Development Authority Act, approved September 22, 1987 (70 ILCS 510) | 1 | 2026-04-22 to 2026-04-22 |
+| `ilcs-70-516` | Illinois Compiled Statutes, Riverdale Development Authority Act (70 ILCS 516) | 1 | 2026-02-08 to 2026-02-08 |
+| `ilcs-70-518` | Illinois Compiled Statutes, Southeastern Illinois Economic Development Authority Act (70 ILCS 518) | 1 | 2026-06-05 to 2026-06-05 |
+| `ilcs-70-520` | Illinois Compiled Statutes, Southwestern Illinois Development Authority Act (70 ILCS 520) | 1 | 2026-04-12 to 2026-04-12 |
+| `ilcs-70-525` | Illinois Compiled Statutes, Tri-County River Valley Development Authority Law (70 ILCS 525) | 1 | 2026-04-14 to 2026-04-14 |
+| `ilcs-70-530` | Illinois Compiled Statutes, Upper Illinois River Valley Development Authority Act (70 ILCS 530) | 1 | 2026-04-16 to 2026-04-16 |
+| `ilcs-70-531` | Illinois Compiled Statutes, Illinois Urban Development Authority Act (70 ILCS 531) | 1 | 2026-03-10 to 2026-03-10 |
+| `ilcs-70-532` | Illinois Compiled Statutes, Western Illinois Economic Development Authority Act (70 ILCS 532) | 1 | 2026-05-08 to 2026-05-08 |
+| `ilcs-70-535` | Illinois Compiled Statutes, Will-Kankakee Regional Development Authority Law (70 ILCS 535) | 1 | 2026-04-21 to 2026-04-21 |
+| `ilcs-70-605-article-0001` | Illinois Compiled Statutes, Illinois Drainage Code (70 ILCS 605), Article 1 | 1 | 2026-06-09 to 2026-06-09 |
+| `ilcs-70-605-article-0002` | Illinois Compiled Statutes, Illinois Drainage Code (70 ILCS 605), Article 2 | 1 | 2026-06-09 to 2026-06-09 |
+| `ilcs-70-605-article-0003` | Illinois Compiled Statutes, Illinois Drainage Code (70 ILCS 605), Article 3 | 1 | 2026-06-09 to 2026-06-09 |
+| `ilcs-70-605-article-0004` | Illinois Compiled Statutes, Illinois Drainage Code (70 ILCS 605), Article 4 | 1 | 2026-06-09 to 2026-06-09 |
+| `ilcs-70-605-article-0005` | Illinois Compiled Statutes, Illinois Drainage Code (70 ILCS 605), Article 5 | 1 | 2026-06-09 to 2026-06-09 |
+| `ilcs-70-605-article-0006` | Illinois Compiled Statutes, Illinois Drainage Code (70 ILCS 605), Article 6 | 1 | 2026-06-09 to 2026-06-09 |
+| `ilcs-70-605-article-0007` | Illinois Compiled Statutes, Illinois Drainage Code (70 ILCS 605), Article 7 | 1 | 2026-06-09 to 2026-06-09 |
+| `ilcs-70-605-article-0008` | Illinois Compiled Statutes, Illinois Drainage Code (70 ILCS 605), Article 8 | 1 | 2026-06-09 to 2026-06-09 |
+| `ilcs-70-605-article-0009` | Illinois Compiled Statutes, Illinois Drainage Code (70 ILCS 605), Article 9 | 1 | 2026-06-09 to 2026-06-09 |
+| `ilcs-70-605-article-0010` | Illinois Compiled Statutes, Illinois Drainage Code (70 ILCS 605), Article 10 | 1 | 2026-06-09 to 2026-06-09 |
+| `ilcs-70-605-article-0011` | Illinois Compiled Statutes, Illinois Drainage Code (70 ILCS 605), Article 11 | 1 | 2026-06-09 to 2026-06-09 |
+| `ilcs-70-605-article-0012` | Illinois Compiled Statutes, Illinois Drainage Code (70 ILCS 605), Article 12 | 1 | 2026-06-09 to 2026-06-09 |
+| `ilcs-70-610` | Illinois Compiled Statutes, Drainage District Pollution Abatement Act (70 ILCS 610) | 1 | 2026-03-16 to 2026-03-16 |
+| `ilcs-70-615` | Illinois Compiled Statutes, Chicago Drainage District Act (70 ILCS 615) | 1 | 2026-03-13 to 2026-03-13 |
+| `ilcs-70-705` | Illinois Compiled Statutes, Fire Protection District Act (70 ILCS 705) | 1 | 2026-07-23 to 2026-07-23 |
+| `ilcs-70-710` | Illinois Compiled Statutes, Fire Protection District Validation Act (70 ILCS 710) | 1 | 2026-04-21 to 2026-04-21 |
+| `ilcs-70-715` | Illinois Compiled Statutes, Fire Protection of Unprotected Area Act (70 ILCS 715) | 1 | 2026-05-09 to 2026-05-09 |
+| `ilcs-70-750` | Illinois Compiled Statutes, Flood Prevention District Act (70 ILCS 750) | 1 | 2026-05-13 to 2026-05-13 |
+| `ilcs-70-755` | Illinois Compiled Statutes, Beardstown Regional Flood Prevention District Act (70 ILCS 755) | 1 | 2026-04-22 to 2026-04-22 |
+| `ilcs-70-805` | Illinois Compiled Statutes, Downstate Forest Preserve District Act (70 ILCS 805) | 1 | 2026-05-10 to 2026-05-10 |
+| `ilcs-70-810` | Illinois Compiled Statutes, Cook County Forest Preserve District Act (70 ILCS 810) | 1 | 2026-05-13 to 2026-05-13 |
+| `ilcs-70-815` | Illinois Compiled Statutes, Forest Preserve District Defective Bond Repayment Act (70 ILCS 815) | 1 | 2026-04-21 to 2026-04-21 |
+| `ilcs-70-820` | Illinois Compiled Statutes, Forest Preserve District Refunding Bond Act (70 ILCS 820) | 1 | 2026-04-19 to 2026-04-19 |
 
-The build made 488 commits:
+The build made 861 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 488 | first version of an act |
+| 861 | first version of an act |
 | 0 | one law on its in-force day |
 | 0 | changes no amendment note explains, credited to the publisher |
 
@@ -516,7 +889,7 @@ Other counts:
 - 0 commits on the branch `future`: laws not yet in force on 2026-11-10.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
 - 0 laws in the record.
-- 488 tags.
+- 861 tags.
 
 ## Dates
 
@@ -528,7 +901,7 @@ When a law gives no date of its own, the default rule applies: No dated history 
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `e1f9338bf66ec40110cd85490e2d9a5abed1dbef321e6e3282392eb66a0b7617` (11986502 bytes).
+- Corpus: sha256 `8fbfda767e6d1b74f80c3a8759690de9ac437f0e18aadf0a72e21d1d9b3111f3` (22605613 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `3024ff164c261807dfc4d5b7b1b4a2cde4357da1`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.12.10; git version 2.46.0.windows.1.
 
