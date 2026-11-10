@@ -1423,12 +1423,267 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `ilcs-225-125` | Illinois Compiled Statutes, Perfusionist Practice Act (225 ILCS 125) | 1 | 2026-08-15 to 2026-08-15 |
 | `ilcs-225-130` | Illinois Compiled Statutes, Registered Surgical Assistant and Registered Surgical Technologist Title Protection Act (225 ILCS 130) | 1 | 2026-04-22 to 2026-04-22 |
 | `ilcs-225-135` | Illinois Compiled Statutes, Genetic Counselor Licensing Act (225 ILCS 135) | 1 | 2026-04-13 to 2026-04-13 |
+| `ilcs-225-145` | Illinois Compiled Statutes, Truth in Health Care Professional Services Act (225 ILCS 145) | 1 | 2026-03-12 to 2026-03-12 |
+| `ilcs-225-150` | Illinois Compiled Statutes, Telehealth Act (225 ILCS 150) | 1 | 2026-04-28 to 2026-04-28 |
+| `ilcs-225-155` | Illinois Compiled Statutes, Wellness and Oversight for Psychological Resources Act (225 ILCS 155) | 1 | 2026-09-10 to 2026-09-10 |
+| `ilcs-225-203` | Illinois Compiled Statutes, Boiler and Pressure Vessel Repairer Regulation Act (225 ILCS 203) | 1 | 2026-08-28 to 2026-08-28 |
+| `ilcs-225-205` | Illinois Compiled Statutes, Carnival Regulation Act (225 ILCS 205) | 1 | 2026-03-12 to 2026-03-12 |
+| `ilcs-225-207` | Illinois Compiled Statutes, Commercial and Public Building Asbestos Abatement Act (225 ILCS 207) | 1 | 2026-08-05 to 2026-08-05 |
+| `ilcs-225-225` | Illinois Compiled Statutes, Private Sewage Disposal Licensing Act (225 ILCS 225) | 1 | 2026-06-27 to 2026-06-27 |
+| `ilcs-225-227` | Illinois Compiled Statutes, Pyrotechnic Distributor and Operator Licensing Act (225 ILCS 227) | 1 | 2026-08-15 to 2026-08-15 |
+| `ilcs-225-230` | Illinois Compiled Statutes, Solid Waste Site Operator Certification Law (225 ILCS 230) | 1 | 2026-06-21 to 2026-06-21 |
+| `ilcs-225-235` | Illinois Compiled Statutes, Structural Pest Control Act (225 ILCS 235) | 1 | 2026-06-14 to 2026-06-14 |
+| `ilcs-225-305` | Illinois Compiled Statutes, Illinois Architecture Practice Act of 1989 (225 ILCS 305) | 1 | 2026-03-10 to 2026-03-10 |
+| `ilcs-225-310` | Illinois Compiled Statutes, Registered Interior Designers Act (225 ILCS 310) | 1 | 2026-02-13 to 2026-02-13 |
+| `ilcs-225-312` | Illinois Compiled Statutes, Elevator Safety and Regulation Act (225 ILCS 312) | 1 | 2026-04-22 to 2026-04-22 |
+| `ilcs-225-316` | Illinois Compiled Statutes, Landscape Architecture Registration Act (225 ILCS 316) | 1 | 2026-08-25 to 2026-08-25 |
+| `ilcs-225-317` | Illinois Compiled Statutes, Fire Sprinkler Contractor Licensing Act (225 ILCS 317) | 1 | 2026-05-11 to 2026-05-11 |
+| `ilcs-225-320` | Illinois Compiled Statutes, Illinois Plumbing License Law (225 ILCS 320) | 1 | 2026-04-12 to 2026-04-12 |
+| `ilcs-225-325` | Illinois Compiled Statutes, Professional Engineering Practice Act of 1989 (225 ILCS 325) | 1 | 2026-05-23 to 2026-05-23 |
+| `ilcs-225-330` | Illinois Compiled Statutes, Illinois Professional Land Surveyor Act of 1989 (225 ILCS 330) | 1 | 2026-04-12 to 2026-04-12 |
+| `ilcs-225-335` | Illinois Compiled Statutes, Illinois Roofing Industry Licensing Act (225 ILCS 335) | 1 | 2026-10-08 to 2026-10-08 |
+| `ilcs-225-340` | Illinois Compiled Statutes, Structural Engineering Practice Act of 1989 (225 ILCS 340) | 1 | 2026-04-13 to 2026-04-13 |
+| `ilcs-225-345` | Illinois Compiled Statutes, Water Well and Pump Installation Contractor's License Act (225 ILCS 345) | 1 | 2026-04-22 to 2026-04-22 |
+| `ilcs-225-405` | Illinois Compiled Statutes, Art Auction House Act (225 ILCS 405) | 1 | 2026-03-06 to 2026-03-06 |
+| `ilcs-225-410-article-0001` | Illinois Compiled Statutes, Barber, Cosmetology, Esthetics, Hair Braiding, and Nail Technology Act of 1985 (225 ILCS 410), Article 1 | 1 | 2026-03-11 to 2026-03-11 |
+| `ilcs-225-410-article-0002` | Illinois Compiled Statutes, Barber, Cosmetology, Esthetics, Hair Braiding, and Nail Technology Act of 1985 (225 ILCS 410), Article 2 | 1 | 2026-03-11 to 2026-03-11 |
+| `ilcs-225-410-article-0003` | Illinois Compiled Statutes, Barber, Cosmetology, Esthetics, Hair Braiding, and Nail Technology Act of 1985 (225 ILCS 410), Article 3 | 1 | 2026-03-11 to 2026-03-11 |
+| `ilcs-225-410-article-0003a` | Illinois Compiled Statutes, Barber, Cosmetology, Esthetics, Hair Braiding, and Nail Technology Act of 1985 (225 ILCS 410), Article 3A | 1 | 2026-03-11 to 2026-03-11 |
+| `ilcs-225-410-article-0003b` | Illinois Compiled Statutes, Barber, Cosmetology, Esthetics, Hair Braiding, and Nail Technology Act of 1985 (225 ILCS 410), Article 3B | 1 | 2026-03-11 to 2026-03-11 |
+| `ilcs-225-410-article-0003c` | Illinois Compiled Statutes, Barber, Cosmetology, Esthetics, Hair Braiding, and Nail Technology Act of 1985 (225 ILCS 410), Article 3C | 1 | 2026-03-11 to 2026-03-11 |
+| `ilcs-225-410-article-0003d` | Illinois Compiled Statutes, Barber, Cosmetology, Esthetics, Hair Braiding, and Nail Technology Act of 1985 (225 ILCS 410), Article 3D | 1 | 2026-03-11 to 2026-03-11 |
+| `ilcs-225-410-article-0003e` | Illinois Compiled Statutes, Barber, Cosmetology, Esthetics, Hair Braiding, and Nail Technology Act of 1985 (225 ILCS 410), Article 3E | 1 | 2026-03-11 to 2026-03-11 |
+| `ilcs-225-410-article-0004` | Illinois Compiled Statutes, Barber, Cosmetology, Esthetics, Hair Braiding, and Nail Technology Act of 1985 (225 ILCS 410), Article 4 | 1 | 2026-03-11 to 2026-03-11 |
+| `ilcs-225-411-article-0005` | Illinois Compiled Statutes, Cemetery Oversight Act (225 ILCS 411), Article 5 | 1 | 2026-03-05 to 2026-03-05 |
+| `ilcs-225-411-article-0010` | Illinois Compiled Statutes, Cemetery Oversight Act (225 ILCS 411), Article 10 | 1 | 2026-03-05 to 2026-03-05 |
+| `ilcs-225-411-article-0020` | Illinois Compiled Statutes, Cemetery Oversight Act (225 ILCS 411), Article 20 | 1 | 2026-03-05 to 2026-03-05 |
+| `ilcs-225-411-article-0025` | Illinois Compiled Statutes, Cemetery Oversight Act (225 ILCS 411), Article 25 | 1 | 2026-03-05 to 2026-03-05 |
+| `ilcs-225-411-article-0035` | Illinois Compiled Statutes, Cemetery Oversight Act (225 ILCS 411), Article 35 | 1 | 2026-03-05 to 2026-03-05 |
+| `ilcs-225-411-article-0075` | Illinois Compiled Statutes, Cemetery Oversight Act (225 ILCS 411), Article 75 | 1 | 2026-03-05 to 2026-03-05 |
+| `ilcs-225-411-article-0090` | Illinois Compiled Statutes, Cemetery Oversight Act (225 ILCS 411), Article 90 | 1 | 2026-03-05 to 2026-03-05 |
+| `ilcs-225-411-article-0900` | Illinois Compiled Statutes, Cemetery Oversight Act (225 ILCS 411), Article 900 | 1 | 2026-03-05 to 2026-03-05 |
+| `ilcs-225-411-article-0999` | Illinois Compiled Statutes, Cemetery Oversight Act (225 ILCS 411), Article 999 | 1 | 2026-03-05 to 2026-03-05 |
+| `ilcs-225-412` | Illinois Compiled Statutes, Electrologist Licensing Act (225 ILCS 412) | 1 | 2026-04-26 to 2026-04-26 |
+| `ilcs-225-415` | Illinois Compiled Statutes, Illinois Certified Shorthand Reporters Act of 1984 (225 ILCS 415) | 1 | 2026-04-12 to 2026-04-12 |
+| `ilcs-225-420` | Illinois Compiled Statutes, Child Protective Investigator and Child Welfare Specialist Certification Act of 1987 (225 ILCS 420) | 1 | 2026-09-08 to 2026-09-08 |
+| `ilcs-225-422` | Illinois Compiled Statutes, Collateral Recovery Act (225 ILCS 422) | 1 | 2026-02-18 to 2026-02-18 |
+| `ilcs-225-427` | Illinois Compiled Statutes, Community Association Manager Licensing and Disciplinary Act (225 ILCS 427) | 1 | 2026-04-13 to 2026-04-13 |
+| `ilcs-225-429` | Illinois Compiled Statutes, Debt Settlement Consumer Protection Act (225 ILCS 429) | 1 | 2026-03-11 to 2026-03-11 |
+| `ilcs-225-430` | Illinois Compiled Statutes, Detection of Deception Examiners Act (225 ILCS 430) | 1 | 2026-05-14 to 2026-05-14 |
+| `ilcs-225-435` | Illinois Compiled Statutes, Ferries Act (225 ILCS 435) | 1 | 2026-04-14 to 2026-04-14 |
+| `ilcs-225-440` | Illinois Compiled Statutes, Highway Advertising Control Act of 1971 (225 ILCS 440) | 1 | 2026-04-19 to 2026-04-19 |
+| `ilcs-225-441-article-0001` | Illinois Compiled Statutes, Home Inspector License Act (225 ILCS 441), Article 1 | 1 | 2026-03-10 to 2026-03-10 |
+| `ilcs-225-441-article-0005` | Illinois Compiled Statutes, Home Inspector License Act (225 ILCS 441), Article 5 | 1 | 2026-03-10 to 2026-03-10 |
+| `ilcs-225-441-article-0010` | Illinois Compiled Statutes, Home Inspector License Act (225 ILCS 441), Article 10 | 1 | 2026-03-10 to 2026-03-10 |
+| `ilcs-225-441-article-0015` | Illinois Compiled Statutes, Home Inspector License Act (225 ILCS 441), Article 15 | 1 | 2026-03-10 to 2026-03-10 |
+| `ilcs-225-441-article-0020` | Illinois Compiled Statutes, Home Inspector License Act (225 ILCS 441), Article 20 | 1 | 2026-03-10 to 2026-03-10 |
+| `ilcs-225-441-article-0025` | Illinois Compiled Statutes, Home Inspector License Act (225 ILCS 441), Article 25 | 1 | 2026-03-10 to 2026-03-10 |
+| `ilcs-225-441-article-0950` | Illinois Compiled Statutes, Home Inspector License Act (225 ILCS 441), Article 950 | 1 | 2026-03-10 to 2026-03-10 |
+| `ilcs-225-441-article-0999` | Illinois Compiled Statutes, Home Inspector License Act (225 ILCS 441), Article 999 | 1 | 2026-03-10 to 2026-03-10 |
+| `ilcs-225-443` | Illinois Compiled Statutes, Interpreter for the Deaf Licensure Act of 2007 (225 ILCS 443) | 1 | 2026-04-20 to 2026-04-20 |
+| `ilcs-225-447-article-0005` | Illinois Compiled Statutes, Private Detective, Private Alarm, Private Security, Fingerprint Vendor, and Locksmith Act of 2004 (225 ILCS 447), Article 5 | 1 | 2026-10-20 to 2026-10-20 |
+| `ilcs-225-447-article-0010` | Illinois Compiled Statutes, Private Detective, Private Alarm, Private Security, Fingerprint Vendor, and Locksmith Act of 2004 (225 ILCS 447), Article 10 | 1 | 2026-10-20 to 2026-10-20 |
+| `ilcs-225-447-article-0015` | Illinois Compiled Statutes, Private Detective, Private Alarm, Private Security, Fingerprint Vendor, and Locksmith Act of 2004 (225 ILCS 447), Article 15 | 1 | 2026-10-20 to 2026-10-20 |
+| `ilcs-225-447-article-0020` | Illinois Compiled Statutes, Private Detective, Private Alarm, Private Security, Fingerprint Vendor, and Locksmith Act of 2004 (225 ILCS 447), Article 20 | 1 | 2026-10-20 to 2026-10-20 |
+| `ilcs-225-447-article-0025` | Illinois Compiled Statutes, Private Detective, Private Alarm, Private Security, Fingerprint Vendor, and Locksmith Act of 2004 (225 ILCS 447), Article 25 | 1 | 2026-10-20 to 2026-10-20 |
+| `ilcs-225-447-article-0030` | Illinois Compiled Statutes, Private Detective, Private Alarm, Private Security, Fingerprint Vendor, and Locksmith Act of 2004 (225 ILCS 447), Article 30 | 1 | 2026-10-20 to 2026-10-20 |
+| `ilcs-225-447-article-0031` | Illinois Compiled Statutes, Private Detective, Private Alarm, Private Security, Fingerprint Vendor, and Locksmith Act of 2004 (225 ILCS 447), Article 31 | 1 | 2026-10-20 to 2026-10-20 |
+| `ilcs-225-447-article-0035` | Illinois Compiled Statutes, Private Detective, Private Alarm, Private Security, Fingerprint Vendor, and Locksmith Act of 2004 (225 ILCS 447), Article 35 | 1 | 2026-10-20 to 2026-10-20 |
+| `ilcs-225-447-article-0040` | Illinois Compiled Statutes, Private Detective, Private Alarm, Private Security, Fingerprint Vendor, and Locksmith Act of 2004 (225 ILCS 447), Article 40 | 1 | 2026-10-20 to 2026-10-20 |
+| `ilcs-225-447-article-0045` | Illinois Compiled Statutes, Private Detective, Private Alarm, Private Security, Fingerprint Vendor, and Locksmith Act of 2004 (225 ILCS 447), Article 45 | 1 | 2026-10-20 to 2026-10-20 |
+| `ilcs-225-447-article-0050` | Illinois Compiled Statutes, Private Detective, Private Alarm, Private Security, Fingerprint Vendor, and Locksmith Act of 2004 (225 ILCS 447), Article 50 | 1 | 2026-10-20 to 2026-10-20 |
+| `ilcs-225-447-article-0090` | Illinois Compiled Statutes, Private Detective, Private Alarm, Private Security, Fingerprint Vendor, and Locksmith Act of 2004 (225 ILCS 447), Article 90 | 1 | 2026-10-20 to 2026-10-20 |
+| `ilcs-225-447-article-0099` | Illinois Compiled Statutes, Private Detective, Private Alarm, Private Security, Fingerprint Vendor, and Locksmith Act of 2004 (225 ILCS 447), Article 99 | 1 | 2026-10-20 to 2026-10-20 |
+| `ilcs-225-450` | Illinois Compiled Statutes, Illinois Public Accounting Act (225 ILCS 450) | 1 | 2026-05-13 to 2026-05-13 |
+| `ilcs-225-454-article-0001` | Illinois Compiled Statutes, Real Estate License Act of 2000 (225 ILCS 454), Article 1 | 1 | 2026-04-17 to 2026-04-17 |
+| `ilcs-225-454-article-0005` | Illinois Compiled Statutes, Real Estate License Act of 2000 (225 ILCS 454), Article 5 | 1 | 2026-04-17 to 2026-04-17 |
+| `ilcs-225-454-article-0010` | Illinois Compiled Statutes, Real Estate License Act of 2000 (225 ILCS 454), Article 10 | 1 | 2026-04-17 to 2026-04-17 |
+| `ilcs-225-454-article-0015` | Illinois Compiled Statutes, Real Estate License Act of 2000 (225 ILCS 454), Article 15 | 1 | 2026-04-17 to 2026-04-17 |
+| `ilcs-225-454-article-0020` | Illinois Compiled Statutes, Real Estate License Act of 2000 (225 ILCS 454), Article 20 | 1 | 2026-04-17 to 2026-04-17 |
+| `ilcs-225-454-article-0025` | Illinois Compiled Statutes, Real Estate License Act of 2000 (225 ILCS 454), Article 25 | 1 | 2026-04-17 to 2026-04-17 |
+| `ilcs-225-454-article-0030` | Illinois Compiled Statutes, Real Estate License Act of 2000 (225 ILCS 454), Article 30 | 1 | 2026-04-17 to 2026-04-17 |
+| `ilcs-225-454-article-0035` | Illinois Compiled Statutes, Real Estate License Act of 2000 (225 ILCS 454), Article 35 | 1 | 2026-04-17 to 2026-04-17 |
+| `ilcs-225-454-article-0905` | Illinois Compiled Statutes, Real Estate License Act of 2000 (225 ILCS 454), Article 905 | 1 | 2026-04-17 to 2026-04-17 |
+| `ilcs-225-454-article-0990` | Illinois Compiled Statutes, Real Estate License Act of 2000 (225 ILCS 454), Article 990 | 1 | 2026-04-17 to 2026-04-17 |
+| `ilcs-225-454-article-0999` | Illinois Compiled Statutes, Real Estate License Act of 2000 (225 ILCS 454), Article 999 | 1 | 2026-04-17 to 2026-04-17 |
+| `ilcs-225-458-article-0001` | Illinois Compiled Statutes, Real Estate Appraiser Licensing Act of 2002 (225 ILCS 458), Article 1 | 1 | 2026-03-15 to 2026-03-15 |
+| `ilcs-225-458-article-0005` | Illinois Compiled Statutes, Real Estate Appraiser Licensing Act of 2002 (225 ILCS 458), Article 5 | 1 | 2026-03-15 to 2026-03-15 |
+| `ilcs-225-458-article-0010` | Illinois Compiled Statutes, Real Estate Appraiser Licensing Act of 2002 (225 ILCS 458), Article 10 | 1 | 2026-03-15 to 2026-03-15 |
+| `ilcs-225-458-article-0015` | Illinois Compiled Statutes, Real Estate Appraiser Licensing Act of 2002 (225 ILCS 458), Article 15 | 1 | 2026-03-15 to 2026-03-15 |
+| `ilcs-225-458-article-0020` | Illinois Compiled Statutes, Real Estate Appraiser Licensing Act of 2002 (225 ILCS 458), Article 20 | 1 | 2026-03-15 to 2026-03-15 |
+| `ilcs-225-458-article-0025` | Illinois Compiled Statutes, Real Estate Appraiser Licensing Act of 2002 (225 ILCS 458), Article 25 | 1 | 2026-03-15 to 2026-03-15 |
+| `ilcs-225-458-article-0030` | Illinois Compiled Statutes, Real Estate Appraiser Licensing Act of 2002 (225 ILCS 458), Article 30 | 1 | 2026-03-15 to 2026-03-15 |
+| `ilcs-225-458-article-0950` | Illinois Compiled Statutes, Real Estate Appraiser Licensing Act of 2002 (225 ILCS 458), Article 950 | 1 | 2026-03-15 to 2026-03-15 |
+| `ilcs-225-458-article-0999` | Illinois Compiled Statutes, Real Estate Appraiser Licensing Act of 2002 (225 ILCS 458), Article 999 | 1 | 2026-03-15 to 2026-03-15 |
+| `ilcs-225-459` | Illinois Compiled Statutes, Appraisal Management Company Registration Act (225 ILCS 459) | 1 | 2026-04-23 to 2026-04-23 |
+| `ilcs-225-460` | Illinois Compiled Statutes, Solicitation for Charity Act (225 ILCS 460) | 1 | 2026-10-13 to 2026-10-13 |
+| `ilcs-225-465` | Illinois Compiled Statutes, Transient Merchant Act of 1987 (225 ILCS 465) | 1 | 2026-04-17 to 2026-04-17 |
+| `ilcs-225-470` | Illinois Compiled Statutes, Weights and Measures Act (225 ILCS 470) | 1 | 2026-05-23 to 2026-05-23 |
+| `ilcs-225-510` | Illinois Compiled Statutes, Nurse Agency Licensing Act (225 ILCS 510) | 1 | 2026-06-30 to 2026-06-30 |
+| `ilcs-225-515` | Illinois Compiled Statutes, Private Employment Agency Act (225 ILCS 515) | 1 | 2026-06-01 to 2026-06-01 |
+| `ilcs-225-605` | Illinois Compiled Statutes, Animal Welfare Act (225 ILCS 605) | 1 | 2026-05-20 to 2026-05-20 |
+| `ilcs-225-610` | Illinois Compiled Statutes, Animal Mortality Act (225 ILCS 610) | 1 | 2026-05-21 to 2026-05-21 |
+| `ilcs-225-620` | Illinois Compiled Statutes, Illinois Feeder Swine Dealer Licensing Act (225 ILCS 620) | 1 | 2026-04-19 to 2026-04-19 |
+| `ilcs-225-635` | Illinois Compiled Statutes, Illinois Horse Meat Act (225 ILCS 635) | 1 | 2026-05-16 to 2026-05-16 |
+| `ilcs-225-640` | Illinois Compiled Statutes, Livestock Auction Market Law (225 ILCS 640) | 1 | 2026-05-14 to 2026-05-14 |
+| `ilcs-225-645` | Illinois Compiled Statutes, Illinois Livestock Dealer Licensing Act (225 ILCS 645) | 1 | 2026-05-20 to 2026-05-20 |
+| `ilcs-225-650` | Illinois Compiled Statutes, Meat and Poultry Inspection Act (225 ILCS 650) | 1 | 2026-04-12 to 2026-04-12 |
+| `ilcs-225-715` | Illinois Compiled Statutes, Surface-Mined Land Conservation and Reclamation Act (225 ILCS 715) | 1 | 2026-05-26 to 2026-05-26 |
+| `ilcs-225-725` | Illinois Compiled Statutes, Illinois Oil and Gas Act (225 ILCS 725) | 1 | 2026-05-02 to 2026-05-02 |
+| `ilcs-225-728` | Illinois Compiled Statutes, Illinois Petroleum Education and Marketing Act (225 ILCS 728) | 1 | 2026-05-12 to 2026-05-12 |
+| `ilcs-225-729` | Illinois Compiled Statutes, Petroleum Equipment Contractors Licensing Act (225 ILCS 729) | 1 | 2026-04-19 to 2026-04-19 |
+| `ilcs-225-730` | Illinois Compiled Statutes, Well Abandonment Act (225 ILCS 730) | 1 | 2026-04-20 to 2026-04-20 |
+| `ilcs-225-732-article-0001` | Illinois Compiled Statutes, Hydraulic Fracturing Regulatory Act (225 ILCS 732), Article 1 | 1 | 2026-05-21 to 2026-05-21 |
+| `ilcs-225-732-article-0099` | Illinois Compiled Statutes, Hydraulic Fracturing Regulatory Act (225 ILCS 732), Article 99 | 1 | 2026-05-21 to 2026-05-21 |
+| `ilcs-225-740` | Illinois Compiled Statutes, Timber Transportation Act (225 ILCS 740) | 1 | 2026-04-22 to 2026-04-22 |
+| `ilcs-225-745` | Illinois Compiled Statutes, Professional Geologist Licensing Act (225 ILCS 745) | 1 | 2026-03-12 to 2026-03-12 |
+| `ilcs-230-5` | Illinois Compiled Statutes, Illinois Horse Racing Act of 1975 (230 ILCS 5) | 1 | 2026-04-11 to 2026-04-11 |
+| `ilcs-230-10` | Illinois Compiled Statutes, Illinois Gambling Act (230 ILCS 10) | 1 | 2026-05-12 to 2026-05-12 |
+| `ilcs-230-15` | Illinois Compiled Statutes, Raffles and Poker Runs Act (230 ILCS 15) | 1 | 2026-05-18 to 2026-05-18 |
+| `ilcs-230-20` | Illinois Compiled Statutes, Illinois Pull Tabs and Jar Games Act (230 ILCS 20) | 1 | 2026-08-08 to 2026-08-08 |
+| `ilcs-230-25` | Illinois Compiled Statutes, Bingo License and Tax Act (230 ILCS 25) | 1 | 2026-05-11 to 2026-05-11 |
+| `ilcs-230-30` | Illinois Compiled Statutes, Charitable Games Act (230 ILCS 30) | 1 | 2026-03-24 to 2026-03-24 |
+| `ilcs-230-35` | Illinois Compiled Statutes, Native American Gaming Compact Act (230 ILCS 35) | 1 | 2026-04-11 to 2026-04-11 |
+| `ilcs-230-40` | Illinois Compiled Statutes, Video Gaming Act (230 ILCS 40) | 1 | 2026-05-12 to 2026-05-12 |
+| `ilcs-235-5-article-0001` | Illinois Compiled Statutes, Liquor Control Act of 1934 (235 ILCS 5), Article 1 | 1 | 2026-03-25 to 2026-03-25 |
+| `ilcs-235-5-article-0002` | Illinois Compiled Statutes, Liquor Control Act of 1934 (235 ILCS 5), Article 2 | 1 | 2026-03-25 to 2026-03-25 |
+| `ilcs-235-5-article-0003` | Illinois Compiled Statutes, Liquor Control Act of 1934 (235 ILCS 5), Article 3 | 1 | 2026-03-25 to 2026-03-25 |
+| `ilcs-235-5-article-0004` | Illinois Compiled Statutes, Liquor Control Act of 1934 (235 ILCS 5), Article 4 | 1 | 2026-03-25 to 2026-03-25 |
+| `ilcs-235-5-article-0005` | Illinois Compiled Statutes, Liquor Control Act of 1934 (235 ILCS 5), Article 5 | 1 | 2026-03-25 to 2026-03-25 |
+| `ilcs-235-5-article-0006` | Illinois Compiled Statutes, Liquor Control Act of 1934 (235 ILCS 5), Article 6 | 1 | 2026-03-25 to 2026-03-25 |
+| `ilcs-235-5-article-0007` | Illinois Compiled Statutes, Liquor Control Act of 1934 (235 ILCS 5), Article 7 | 1 | 2026-03-25 to 2026-03-25 |
+| `ilcs-235-5-article-0007a` | Illinois Compiled Statutes, Liquor Control Act of 1934 (235 ILCS 5), Article 7A | 1 | 2026-03-25 to 2026-03-25 |
+| `ilcs-235-5-article-0008` | Illinois Compiled Statutes, Liquor Control Act of 1934 (235 ILCS 5), Article 8 | 1 | 2026-03-25 to 2026-03-25 |
+| `ilcs-235-5-article-0009` | Illinois Compiled Statutes, Liquor Control Act of 1934 (235 ILCS 5), Article 9 | 1 | 2026-03-25 to 2026-03-25 |
+| `ilcs-235-5-article-0010` | Illinois Compiled Statutes, Liquor Control Act of 1934 (235 ILCS 5), Article 10 | 1 | 2026-03-25 to 2026-03-25 |
+| `ilcs-235-5-article-0011` | Illinois Compiled Statutes, Liquor Control Act of 1934 (235 ILCS 5), Article 11 | 1 | 2026-03-25 to 2026-03-25 |
+| `ilcs-240-5` | Illinois Compiled Statutes, Safety Deposit License Act (240 ILCS 5) | 1 | 2026-07-29 to 2026-07-29 |
+| `ilcs-240-10` | Illinois Compiled Statutes, Personal Property Storage Act (240 ILCS 10) | 1 | 2026-08-21 to 2026-08-21 |
+| `ilcs-240-20` | Illinois Compiled Statutes, Grain Storage Warning Sign Act (240 ILCS 20) | 1 | 2026-05-09 to 2026-05-09 |
+| `ilcs-240-30` | Illinois Compiled Statutes, Salvage Warehouse and Salvage Warehouse Store Act (240 ILCS 30) | 1 | 2026-04-16 to 2026-04-16 |
+| `ilcs-240-35` | Illinois Compiled Statutes, Illinois Refrigerated Warehouses Act (240 ILCS 35) | 1 | 2026-04-19 to 2026-04-19 |
+| `ilcs-240-45` | Illinois Compiled Statutes, Warehouse Tornado Preparedness Act (240 ILCS 45) | 1 | 2026-02-05 to 2026-02-05 |
+| `ilcs-305-5-article-0001` | Illinois Compiled Statutes, Illinois Public Aid Code (305 ILCS 5), Article 1 | 1 | 2026-05-13 to 2026-05-13 |
+| `ilcs-305-5-article-0002` | Illinois Compiled Statutes, Illinois Public Aid Code (305 ILCS 5), Article 2 | 1 | 2026-05-13 to 2026-05-13 |
+| `ilcs-305-5-article-0003` | Illinois Compiled Statutes, Illinois Public Aid Code (305 ILCS 5), Article 3 | 1 | 2026-05-13 to 2026-05-13 |
+| `ilcs-305-5-article-0004` | Illinois Compiled Statutes, Illinois Public Aid Code (305 ILCS 5), Article 4 | 1 | 2026-05-13 to 2026-05-13 |
+| `ilcs-305-5-article-0005` | Illinois Compiled Statutes, Illinois Public Aid Code (305 ILCS 5), Article 5 | 1 | 2026-05-13 to 2026-05-13 |
+| `ilcs-305-5-article-0005a` | Illinois Compiled Statutes, Illinois Public Aid Code (305 ILCS 5), Article 5A | 1 | 2026-05-13 to 2026-05-13 |
+| `ilcs-305-5-article-0005b` | Illinois Compiled Statutes, Illinois Public Aid Code (305 ILCS 5), Article 5B | 1 | 2026-05-13 to 2026-05-13 |
+| `ilcs-305-5-article-0005c` | Illinois Compiled Statutes, Illinois Public Aid Code (305 ILCS 5), Article 5C | 1 | 2026-05-13 to 2026-05-13 |
+| `ilcs-305-5-article-0005d` | Illinois Compiled Statutes, Illinois Public Aid Code (305 ILCS 5), Article 5D | 1 | 2026-05-13 to 2026-05-13 |
+| `ilcs-305-5-article-0005f` | Illinois Compiled Statutes, Illinois Public Aid Code (305 ILCS 5), Article 5F | 1 | 2026-05-13 to 2026-05-13 |
+| `ilcs-305-5-article-0005h` | Illinois Compiled Statutes, Illinois Public Aid Code (305 ILCS 5), Article 5H | 1 | 2026-05-13 to 2026-05-13 |
+| `ilcs-305-5-article-0006` | Illinois Compiled Statutes, Illinois Public Aid Code (305 ILCS 5), Article 6 | 1 | 2026-05-13 to 2026-05-13 |
+| `ilcs-305-5-article-0008a` | Illinois Compiled Statutes, Illinois Public Aid Code (305 ILCS 5), Article 8A | 1 | 2026-05-13 to 2026-05-13 |
+| `ilcs-305-5-article-0009` | Illinois Compiled Statutes, Illinois Public Aid Code (305 ILCS 5), Article 9 | 1 | 2026-05-13 to 2026-05-13 |
+| `ilcs-305-5-article-0009a` | Illinois Compiled Statutes, Illinois Public Aid Code (305 ILCS 5), Article 9A | 1 | 2026-05-13 to 2026-05-13 |
+| `ilcs-305-5-article-0010` | Illinois Compiled Statutes, Illinois Public Aid Code (305 ILCS 5), Article 10 | 1 | 2026-05-13 to 2026-05-13 |
+| `ilcs-305-5-article-0011` | Illinois Compiled Statutes, Illinois Public Aid Code (305 ILCS 5), Article 11 | 1 | 2026-05-13 to 2026-05-13 |
+| `ilcs-305-5-article-0012` | Illinois Compiled Statutes, Illinois Public Aid Code (305 ILCS 5), Article 12 | 1 | 2026-05-13 to 2026-05-13 |
+| `ilcs-305-5-article-0013` | Illinois Compiled Statutes, Illinois Public Aid Code (305 ILCS 5), Article 13 | 1 | 2026-05-13 to 2026-05-13 |
+| `ilcs-305-5-article-0014` | Illinois Compiled Statutes, Illinois Public Aid Code (305 ILCS 5), Article 14 | 1 | 2026-05-13 to 2026-05-13 |
+| `ilcs-305-5-article-0015` | Illinois Compiled Statutes, Illinois Public Aid Code (305 ILCS 5), Article 15 | 1 | 2026-05-13 to 2026-05-13 |
+| `ilcs-305-5-article-0016` | Illinois Compiled Statutes, Illinois Public Aid Code (305 ILCS 5), Article 16 | 1 | 2026-05-13 to 2026-05-13 |
+| `ilcs-305-20` | Illinois Compiled Statutes, Energy Assistance Act (305 ILCS 20) | 1 | 2026-07-31 to 2026-07-31 |
+| `ilcs-305-23` | Illinois Compiled Statutes, Illinois Broadband Adoption Fund Act (305 ILCS 23) | 1 | 2026-04-18 to 2026-04-18 |
+| `ilcs-305-25` | Illinois Compiled Statutes, State Blind or Deaf School Transportation Act (305 ILCS 25) | 1 | 2026-06-04 to 2026-06-04 |
+| `ilcs-305-30` | Illinois Compiled Statutes, Family Resource Development Act (305 ILCS 30) | 1 | 2026-02-18 to 2026-02-18 |
+| `ilcs-305-35-article-0001` | Illinois Compiled Statutes, Medicaid Revenue Act (305 ILCS 35), Article 1 | 1 | 2026-04-20 to 2026-04-20 |
+| `ilcs-305-35-article-0006` | Illinois Compiled Statutes, Medicaid Revenue Act (305 ILCS 35), Article 6 | 1 | 2026-04-20 to 2026-04-20 |
+| `ilcs-305-42` | Illinois Compiled Statutes, Nutrition Outreach and Public Education Act (305 ILCS 42) | 1 | 2026-03-17 to 2026-03-17 |
+| `ilcs-305-44` | Illinois Compiled Statutes, Illinois Farm to Food Bank Program Act (305 ILCS 44) | 1 | 2026-04-16 to 2026-04-16 |
+| `ilcs-305-50` | Illinois Compiled Statutes, Scientific Job Training Evaluation Act (305 ILCS 50) | 1 | 2026-05-09 to 2026-05-09 |
+| `ilcs-305-65` | Illinois Compiled Statutes, Early Mental Health and Addictions Treatment Act (305 ILCS 65) | 1 | 2026-08-01 to 2026-08-01 |
+| `ilcs-305-70-article-0025` | Illinois Compiled Statutes, Intergenerational Poverty Act (305 ILCS 70), Article 25 | 1 | 2026-04-21 to 2026-04-21 |
+| `ilcs-305-70-article-0095` | Illinois Compiled Statutes, Intergenerational Poverty Act (305 ILCS 70), Article 95 | 1 | 2026-04-21 to 2026-04-21 |
+| `ilcs-305-70-article-0099` | Illinois Compiled Statutes, Intergenerational Poverty Act (305 ILCS 70), Article 99 | 1 | 2026-04-21 to 2026-04-21 |
+| `ilcs-305-80` | Illinois Compiled Statutes, Murdered Children Funeral and Burial Assistance Act (305 ILCS 80) | 1 | 2026-03-31 to 2026-03-31 |
+| `ilcs-305-85` | Illinois Compiled Statutes, Medical Debt Relief Act (305 ILCS 85) | 1 | 2026-06-14 to 2026-06-14 |
+| `ilcs-305-90` | Illinois Compiled Statutes, Certified Family Health Aide Program for Children and Adults Act (305 ILCS 90) | 1 | 2026-03-14 to 2026-03-14 |
+| `ilcs-310-5` | Illinois Compiled Statutes, State Housing Act (310 ILCS 5) | 1 | 2026-04-19 to 2026-04-19 |
+| `ilcs-310-10` | Illinois Compiled Statutes, Housing Authorities Act (310 ILCS 10) | 1 | 2026-03-11 to 2026-03-11 |
+| `ilcs-310-15` | Illinois Compiled Statutes, Housing Cooperation Law (310 ILCS 15) | 1 | 2026-05-04 to 2026-05-04 |
+| `ilcs-310-20` | Illinois Compiled Statutes, Housing Development and Construction Act (310 ILCS 20) | 1 | 2026-05-23 to 2026-05-23 |
+| `ilcs-310-30` | Illinois Compiled Statutes, Redevelopment Project Rehousing and Capital Improvements Act (310 ILCS 30) | 1 | 2026-08-23 to 2026-08-23 |
+| `ilcs-310-50` | Illinois Compiled Statutes, Abandoned Housing Rehabilitation Act (310 ILCS 50) | 1 | 2026-02-07 to 2026-02-07 |
+| `ilcs-310-60` | Illinois Compiled Statutes, Federally Assisted Housing Preservation Act (310 ILCS 60) | 1 | 2026-05-20 to 2026-05-20 |
+| `ilcs-310-65` | Illinois Compiled Statutes, Illinois Affordable Housing Act (310 ILCS 65) | 1 | 2026-05-03 to 2026-05-03 |
+| `ilcs-310-67` | Illinois Compiled Statutes, Affordable Housing Planning and Appeal Act (310 ILCS 67) | 1 | 2026-05-11 to 2026-05-11 |
+| `ilcs-310-70` | Illinois Compiled Statutes, Homelessness Prevention Act (310 ILCS 70) | 1 | 2026-03-16 to 2026-03-16 |
+| `ilcs-310-75` | Illinois Compiled Statutes, Subsidized Housing Joint Occupancy Act (310 ILCS 75) | 1 | 2026-03-25 to 2026-03-25 |
+| `ilcs-310-80` | Illinois Compiled Statutes, Shelter Residents Protection Act (310 ILCS 80) | 1 | 2026-07-05 to 2026-07-05 |
+| `ilcs-310-85` | Illinois Compiled Statutes, Homeless Family Placement Act (310 ILCS 85) | 1 | 2026-07-21 to 2026-07-21 |
+| `ilcs-310-90` | Illinois Compiled Statutes, HOME Investment Trust Fund Act (310 ILCS 90) | 1 | 2026-08-13 to 2026-08-13 |
+| `ilcs-310-95` | Illinois Compiled Statutes, Accessible Housing Demonstration Grant Program Act (310 ILCS 95) | 1 | 2026-05-25 to 2026-05-25 |
+| `ilcs-310-100` | Illinois Compiled Statutes, Prevention of Unnecessary Institutionalization Act (310 ILCS 100) | 1 | 2026-08-25 to 2026-08-25 |
+| `ilcs-310-105` | Illinois Compiled Statutes, Rental Housing Support Program Act (310 ILCS 105) | 1 | 2026-05-18 to 2026-05-18 |
+| `ilcs-310-110` | Illinois Compiled Statutes, Comprehensive Housing Planning Act (310 ILCS 110) | 1 | 2026-08-05 to 2026-08-05 |
+| `ilcs-310-115` | Illinois Compiled Statutes, Teacher Homebuyer Assistance Act (310 ILCS 115) | 1 | 2026-03-07 to 2026-03-07 |
+| `ilcs-310-120` | Illinois Compiled Statutes, Assistance Animal Integrity Act (310 ILCS 120) | 1 | 2026-05-16 to 2026-05-16 |
+| `ilcs-310-125` | Illinois Compiled Statutes, COVID-19 Federal Emergency Rental Assistance Program Act (310 ILCS 125) | 1 | 2026-05-23 to 2026-05-23 |
+| `ilcs-320-5` | Illinois Compiled Statutes, Senior Citizens on State Boards and Commissions Act (320 ILCS 5) | 1 | 2026-06-05 to 2026-06-05 |
+| `ilcs-320-10` | Illinois Compiled Statutes, Respite Program Act (320 ILCS 10) | 1 | 2026-04-20 to 2026-04-20 |
+| `ilcs-320-20` | Illinois Compiled Statutes, Adult Protective Services Act (320 ILCS 20) | 1 | 2026-04-21 to 2026-04-21 |
+| `ilcs-320-25` | Illinois Compiled Statutes, Senior Citizens and Persons with Disabilities Property Tax Relief Act (320 ILCS 25) | 1 | 2026-07-15 to 2026-07-15 |
+| `ilcs-320-42` | Illinois Compiled Statutes, Older Adult Services Act (320 ILCS 42) | 1 | 2026-05-19 to 2026-05-19 |
+| `ilcs-320-50` | Illinois Compiled Statutes, Senior Pharmaceutical Assistance Act (320 ILCS 50) | 1 | 2026-08-16 to 2026-08-16 |
+| `ilcs-320-65` | Illinois Compiled Statutes, Family Caregiver Act (320 ILCS 65) | 1 | 2026-03-07 to 2026-03-07 |
+| `ilcs-325-2` | Illinois Compiled Statutes, Abandoned Newborn Infant Protection Act (325 ILCS 2) | 1 | 2026-10-01 to 2026-10-01 |
+| `ilcs-325-3` | Illinois Compiled Statutes, Department of Early Childhood Act (325 ILCS 3) | 1 | 2026-03-06 to 2026-03-06 |
+| `ilcs-325-5` | Illinois Compiled Statutes, Abused and Neglected Child Reporting Act (325 ILCS 5) | 1 | 2026-08-21 to 2026-08-21 |
+| `ilcs-325-6` | Illinois Compiled Statutes, Child Abuse Notice Act (325 ILCS 6) | 1 | 2026-05-13 to 2026-05-13 |
+| `ilcs-325-15` | Illinois Compiled Statutes, Child Sexual Abuse Prevention Act (325 ILCS 15) | 1 | 2026-05-10 to 2026-05-10 |
+| `ilcs-325-20` | Illinois Compiled Statutes, Early Intervention Services System Act (325 ILCS 20) | 1 | 2026-06-09 to 2026-06-09 |
+| `ilcs-325-21-article-0145` | Illinois Compiled Statutes, Early Education Act (325 ILCS 21), Article 145 | 1 | 2026-02-08 to 2026-02-08 |
+| `ilcs-325-21-article-0999` | Illinois Compiled Statutes, Early Education Act (325 ILCS 21), Article 999 | 1 | 2026-02-08 to 2026-02-08 |
+| `ilcs-325-25` | Illinois Compiled Statutes, High Risk Youth Career Development Act (325 ILCS 25) | 1 | 2026-06-07 to 2026-06-07 |
+| `ilcs-325-30` | Illinois Compiled Statutes, Family Support Demonstration Project (325 ILCS 30) | 1 | 2026-04-15 to 2026-04-15 |
+| `ilcs-325-40` | Illinois Compiled Statutes, Intergovernmental Missing Child Recovery Act of 1984 (325 ILCS 40) | 1 | 2026-05-06 to 2026-05-06 |
+| `ilcs-325-42` | Illinois Compiled Statutes, Kinship Navigator Act (325 ILCS 42) | 1 | 2026-05-15 to 2026-05-15 |
+| `ilcs-325-47` | Illinois Compiled Statutes, Illinois Child Online Exploitation Reporting Act (325 ILCS 47) | 1 | 2026-05-10 to 2026-05-10 |
+| `ilcs-325-57` | Illinois Compiled Statutes, Find Our Children Act (325 ILCS 57) | 1 | 2026-04-04 to 2026-04-04 |
+| `ilcs-325-58` | Illinois Compiled Statutes, Safeguard Our Children Act (325 ILCS 58) | 1 | 2026-10-16 to 2026-10-16 |
+| `ilcs-325-65` | Illinois Compiled Statutes, Online Child Safety Act (325 ILCS 65) | 1 | 2026-06-06 to 2026-06-06 |
+| `ilcs-330-32` | Illinois Compiled Statutes, War on Terrorism Compensation Act (330 ILCS 32) | 1 | 2026-09-02 to 2026-09-02 |
+| `ilcs-330-40` | Illinois Compiled Statutes, War Bonus Extension Act (330 ILCS 40) | 1 | 2026-06-06 to 2026-06-06 |
+| `ilcs-330-45` | Illinois Compiled Statutes, Military Veterans Assistance Act (330 ILCS 45) | 1 | 2026-04-22 to 2026-04-22 |
+| `ilcs-330-65` | Illinois Compiled Statutes, Housing for Veterans with Disabilities Act (330 ILCS 65) | 1 | 2026-02-07 to 2026-02-07 |
+| `ilcs-330-100` | Illinois Compiled Statutes, Survivors Compensation Act (330 ILCS 100) | 1 | 2026-08-14 to 2026-08-14 |
+| `ilcs-330-111` | Illinois Compiled Statutes, Veterans' Monument Protection Act (330 ILCS 111) | 1 | 2026-08-31 to 2026-08-31 |
+| `ilcs-330-115` | Illinois Compiled Statutes, Soldiers Memorial Hall Act (330 ILCS 115) | 1 | 2026-04-22 to 2026-04-22 |
+| `ilcs-330-120` | Illinois Compiled Statutes, Veterans Advisory Council Act (330 ILCS 120) | 1 | 2026-08-02 to 2026-08-02 |
+| `ilcs-330-126` | Illinois Compiled Statutes, Veterans' Health Insurance Program Act of 2008 (330 ILCS 126) | 1 | 2026-09-03 to 2026-09-03 |
+| `ilcs-405-5-article-0001` | Illinois Compiled Statutes, Mental Health and Developmental Disabilities Code (405 ILCS 5), Article 1 | 1 | 2026-04-12 to 2026-04-12 |
+| `ilcs-405-5-article-0002` | Illinois Compiled Statutes, Mental Health and Developmental Disabilities Code (405 ILCS 5), Article 2 | 1 | 2026-04-12 to 2026-04-12 |
+| `ilcs-405-5-article-0003` | Illinois Compiled Statutes, Mental Health and Developmental Disabilities Code (405 ILCS 5), Article 3 | 1 | 2026-04-12 to 2026-04-12 |
+| `ilcs-405-5-article-0004` | Illinois Compiled Statutes, Mental Health and Developmental Disabilities Code (405 ILCS 5), Article 4 | 1 | 2026-04-12 to 2026-04-12 |
+| `ilcs-405-5-article-0005` | Illinois Compiled Statutes, Mental Health and Developmental Disabilities Code (405 ILCS 5), Article 5 | 1 | 2026-04-12 to 2026-04-12 |
+| `ilcs-405-5-article-0006` | Illinois Compiled Statutes, Mental Health and Developmental Disabilities Code (405 ILCS 5), Article 6 | 1 | 2026-04-12 to 2026-04-12 |
+| `ilcs-405-20` | Illinois Compiled Statutes, Community Mental Health Act (405 ILCS 20) | 1 | 2026-03-06 to 2026-03-06 |
+| `ilcs-405-22` | Illinois Compiled Statutes, Community Mental Health Services Act (405 ILCS 22) | 1 | 2026-06-16 to 2026-06-16 |
+| `ilcs-405-48` | Illinois Compiled Statutes, Youth Mental Health Protection Act (405 ILCS 48) | 1 | 2026-05-19 to 2026-05-19 |
+| `ilcs-410-1` | Illinois Compiled Statutes, Antifreeze Bittering Act (410 ILCS 1) | 1 | 2026-03-17 to 2026-03-17 |
+| `ilcs-410-2` | Illinois Compiled Statutes, Arthritis Prevention, Control, and Cure Act (410 ILCS 2) | 1 | 2026-04-13 to 2026-04-13 |
+| `ilcs-410-3` | Illinois Compiled Statutes, Atherosclerosis Prevention Act (410 ILCS 3) | 1 | 2026-05-09 to 2026-05-09 |
+| `ilcs-410-4` | Illinois Compiled Statutes, Automated External Defibrillator Act (410 ILCS 4) | 1 | 2026-05-09 to 2026-05-09 |
+| `ilcs-410-5` | Illinois Compiled Statutes, Burial of Dead Bodies Act (410 ILCS 5) | 1 | 2026-05-09 to 2026-05-09 |
+| `ilcs-410-10` | Illinois Compiled Statutes, Choke-Saving Methods Act (410 ILCS 10) | 1 | 2026-03-07 to 2026-03-07 |
+| `ilcs-410-15` | Illinois Compiled Statutes, Coal Mine Medical Emergencies Act (410 ILCS 15) | 1 | 2026-06-14 to 2026-06-14 |
+| `ilcs-410-18` | Illinois Compiled Statutes, Crematory Regulation Act (410 ILCS 18) | 1 | 2026-10-08 to 2026-10-08 |
+| `ilcs-410-20` | Illinois Compiled Statutes, DES Act (410 ILCS 20) | 1 | 2026-05-12 to 2026-05-12 |
+| `ilcs-410-22` | Illinois Compiled Statutes, End-of-Life Options for Terminally Ill Patients Act (410 ILCS 22) | 1 | 2026-05-20 to 2026-05-20 |
+| `ilcs-410-25` | Illinois Compiled Statutes, Environmental Barriers Act (410 ILCS 25) | 1 | 2026-04-22 to 2026-04-22 |
+| `ilcs-410-27` | Illinois Compiled Statutes, Epinephrine Injector Act (410 ILCS 27) | 1 | 2026-05-18 to 2026-05-18 |
+| `ilcs-410-30` | Illinois Compiled Statutes, Elevator Tactile Identification Act (410 ILCS 30) | 1 | 2026-05-15 to 2026-05-15 |
+| `ilcs-410-34` | Illinois Compiled Statutes, Equitable Health Outcomes Act (410 ILCS 34) | 1 | 2026-05-18 to 2026-05-18 |
+| `ilcs-410-35` | Illinois Compiled Statutes, Equitable Restrooms Act (410 ILCS 35) | 1 | 2026-09-09 to 2026-09-09 |
 
-The build made 1408 commits:
+The build made 1663 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 1408 | first version of an act |
+| 1663 | first version of an act |
 | 0 | one law on its in-force day |
 | 0 | changes no amendment note explains, credited to the publisher |
 
@@ -1436,7 +1691,7 @@ Other counts:
 - 0 commits on the branch `future`: laws not yet in force on 2026-11-10.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
 - 0 laws in the record.
-- 1408 tags.
+- 1663 tags.
 
 ## Dates
 
@@ -1448,7 +1703,7 @@ When a law gives no date of its own, the default rule applies: No dated history 
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `6d1f9367e0fcfcfa228b0e6deaca7868363fb1bcd077bfd6fa1e60727c45c344` (38848013 bytes).
+- Corpus: sha256 `3a9a728a17f1a2e6f0066f51c0bcc6fd602e404752b4a133e1953ae770a43322` (44887748 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `3024ff164c261807dfc4d5b7b1b4a2cde4357da1`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.12.10; git version 2.46.0.windows.1.
 

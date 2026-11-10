@@ -1,0 +1,65 @@
+# Illinois Compiled Statutes, Weights and Measures Act (225 ILCS 470)
+
+225 ILCS 470 · 1 versions, from 2026-05-23 (latest in force: 2026-05-23) · <https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1371>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| 225 ILCS 470/1 | [sec-0001.md](sec-0001.md) | 0 |  |
+| 225 ILCS 470/2 | [sec-0002.md](sec-0002.md) | 0 |  |
+| 225 ILCS 470/3 | [sec-0003.md](sec-0003.md) | 0 |  |
+| 225 ILCS 470/4 | [sec-0004.md](sec-0004.md) | 0 |  |
+| 225 ILCS 470/5 | [sec-0005.md](sec-0005.md) | 0 |  |
+| 225 ILCS 470/6 | [sec-0006.md](sec-0006.md) | 0 |  |
+| 225 ILCS 470/7 | [sec-0007.md](sec-0007.md) | 0 |  |
+| 225 ILCS 470/8 | [sec-0008.md](sec-0008.md) | 0 |  |
+| 225 ILCS 470/8.1 | [sec-0008-0001.md](sec-0008-0001.md) | 0 |  |
+| 225 ILCS 470/9 | [sec-0009.md](sec-0009.md) | 0 |  |
+| 225 ILCS 470/10 | [sec-0010.md](sec-0010.md) | 0 |  |
+| 225 ILCS 470/11 | [sec-0011.md](sec-0011.md) | 0 |  |
+| 225 ILCS 470/12 | [sec-0012.md](sec-0012.md) | 0 |  |
+| 225 ILCS 470/13 | [sec-0013.md](sec-0013.md) | 0 |  |
+| 225 ILCS 470/14 | [sec-0014.md](sec-0014.md) | 0 |  |
+| 225 ILCS 470/15 | [sec-0015.md](sec-0015.md) | 0 |  |
+| 225 ILCS 470/16 | [sec-0016.md](sec-0016.md) | 0 |  |
+| 225 ILCS 470/17 | [sec-0017.md](sec-0017.md) | 0 |  |
+| 225 ILCS 470/19 | [sec-0019.md](sec-0019.md) | 0 |  |
+| 225 ILCS 470/20 | [sec-0020.md](sec-0020.md) | 0 |  |
+| 225 ILCS 470/21 | [sec-0021.md](sec-0021.md) | 0 |  |
+| 225 ILCS 470/22 | [sec-0022.md](sec-0022.md) | 0 |  |
+| 225 ILCS 470/23 | [sec-0023.md](sec-0023.md) | 0 |  |
+| 225 ILCS 470/24 | [sec-0024.md](sec-0024.md) | 0 |  |
+| 225 ILCS 470/25 | [sec-0025.md](sec-0025.md) | 0 |  |
+| 225 ILCS 470/26 | [sec-0026.md](sec-0026.md) | 0 |  |
+| 225 ILCS 470/27 | [sec-0027.md](sec-0027.md) | 0 |  |
+| 225 ILCS 470/28 | [sec-0028.md](sec-0028.md) | 0 |  |
+| 225 ILCS 470/29 | [sec-0029.md](sec-0029.md) | 0 |  |
+| 225 ILCS 470/30 | [sec-0030.md](sec-0030.md) | 0 |  |
+| 225 ILCS 470/32 | [sec-0032.md](sec-0032.md) | 0 |  |
+| 225 ILCS 470/33 | [sec-0033.md](sec-0033.md) | 0 |  |
+| 225 ILCS 470/36 | [sec-0036.md](sec-0036.md) | 0 |  |
+| 225 ILCS 470/37 | [sec-0037.md](sec-0037.md) | 0 |  |
+| 225 ILCS 470/39 | [sec-0039.md](sec-0039.md) | 0 |  |
+| 225 ILCS 470/40 | [sec-0040.md](sec-0040.md) | 0 |  |
+| 225 ILCS 470/41 | [sec-0041.md](sec-0041.md) | 0 |  |
+| 225 ILCS 470/42 | [sec-0042.md](sec-0042.md) | 0 |  |
+| 225 ILCS 470/42.5 | [sec-0042-0005.md](sec-0042-0005.md) | 0 |  |
+| 225 ILCS 470/43 | [sec-0043.md](sec-0043.md) | 0 |  |
+| 225 ILCS 470/44 | [sec-0044.md](sec-0044.md) | 0 |  |
+| 225 ILCS 470/45 | [sec-0045.md](sec-0045.md) | 0 |  |
+| 225 ILCS 470/46 | [sec-0046.md](sec-0046.md) | 0 |  |
+| 225 ILCS 470/47 | [sec-0047.md](sec-0047.md) | 0 |  |
+| 225 ILCS 470/48 | [sec-0048.md](sec-0048.md) | 0 |  |
+| 225 ILCS 470/49 | [sec-0049.md](sec-0049.md) | 0 |  |
+| 225 ILCS 470/50 | [sec-0050.md](sec-0050.md) | 0 |  |
+| 225 ILCS 470/51 | [sec-0051.md](sec-0051.md) | 0 |  |
+| 225 ILCS 470/52 | [sec-0052.md](sec-0052.md) | 0 |  |
+| 225 ILCS 470/53 | [sec-0053.md](sec-0053.md) | 0 |  |
+| 225 ILCS 470/54 | [sec-0054.md](sec-0054.md) | 0 |  |
+| 225 ILCS 470/55 | [sec-0055.md](sec-0055.md) | 0 |  |
+| 225 ILCS 470/56 | [sec-0056.md](sec-0056.md) | 0 |  |
+| 225 ILCS 470/56.1 | [sec-0056-0001.md](sec-0056-0001.md) | 0 |  |
+| 225 ILCS 470/56.2 | [sec-0056-0002.md](sec-0056-0002.md) | 0 |  |
+| 225 ILCS 470/58 | [sec-0058.md](sec-0058.md) | 0 |  |
+| 225 ILCS 470/59 | [sec-0059.md](sec-0059.md) | 0 |  |
+| 225 ILCS 470/60 | [sec-0060.md](sec-0060.md) | 0 |  |
+| 225 ILCS 470/61 | [sec-0061.md](sec-0061.md) | 0 |  |
