@@ -1,0 +1,18 @@
+# Illinois Compiled Statutes, Illinois Freedom Trails Commission Act (20 ILCS 864)
+
+20 ILCS 864 · 1 versions, from 2026-05-15 (latest in force: 2026-05-15) · <https://www.ilga.gov/Legislation/ILCS/Articles?ActID=4611>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| 20 ILCS 864/1 | [sec-0001.md](sec-0001.md) | 0 |  |
+| 20 ILCS 864/5 | [sec-0005.md](sec-0005.md) | 0 |  |
+| 20 ILCS 864/10 | [sec-0010.md](sec-0010.md) | 0 |  |
+| 20 ILCS 864/15 | [sec-0015.md](sec-0015.md) | 0 |  |
+| 20 ILCS 864/20 | [sec-0020.md](sec-0020.md) | 0 |  |
+| 20 ILCS 864/25 | [sec-0025.md](sec-0025.md) | 0 |  |
+| 20 ILCS 864/30 | [sec-0030.md](sec-0030.md) | 0 |  |
+| 20 ILCS 864/35 | [sec-0035.md](sec-0035.md) | 0 |  |
+| 20 ILCS 864/40 | [sec-0040.md](sec-0040.md) | 0 |  |
+| 20 ILCS 864/45 | [sec-0045.md](sec-0045.md) | 0 |  |
+| 20 ILCS 864/90 | [sec-0090.md](sec-0090.md) | 0 |  |
+| 20 ILCS 864/99 | [sec-0099.md](sec-0099.md) | 0 |  |
