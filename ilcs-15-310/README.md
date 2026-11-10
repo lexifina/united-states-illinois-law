@@ -1,0 +1,67 @@
+# Illinois Compiled Statutes, Secretary of State Merit Employment Code (15 ILCS 310)
+
+15 ILCS 310 · 1 versions, from 2026-05-07 (latest in force: 2026-05-07) · <https://www.ilga.gov/Legislation/ILCS/Articles?ActID=198>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| 15 ILCS 310/1 | [sec-0001.md](sec-0001.md) | 0 |  |
+| 15 ILCS 310/2 | [sec-0002.md](sec-0002.md) | 0 |  |
+| 15 ILCS 310/3 | [sec-0003.md](sec-0003.md) | 0 |  |
+| 15 ILCS 310/4 | [sec-0004.md](sec-0004.md) | 0 |  |
+| 15 ILCS 310/5 | [sec-0005.md](sec-0005.md) | 0 |  |
+| 15 ILCS 310/5a | [sec-0005a.md](sec-0005a.md) | 0 |  |
+| 15 ILCS 310/5b | [sec-0005b.md](sec-0005b.md) | 0 |  |
+| 15 ILCS 310/5c | [sec-0005c.md](sec-0005c.md) | 0 |  |
+| 15 ILCS 310/5d | [sec-0005d.md](sec-0005d.md) | 0 |  |
+| 15 ILCS 310/6 | [sec-0006.md](sec-0006.md) | 0 |  |
+| 15 ILCS 310/6a | [sec-0006a.md](sec-0006a.md) | 0 |  |
+| 15 ILCS 310/6b | [sec-0006b.md](sec-0006b.md) | 0 |  |
+| 15 ILCS 310/7 | [sec-0007.md](sec-0007.md) | 0 |  |
+| 15 ILCS 310/7a | [sec-0007a.md](sec-0007a.md) | 0 |  |
+| 15 ILCS 310/7b | [sec-0007b.md](sec-0007b.md) | 0 |  |
+| 15 ILCS 310/7c | [sec-0007c.md](sec-0007c.md) | 0 |  |
+| 15 ILCS 310/8 | [sec-0008.md](sec-0008.md) | 0 |  |
+| 15 ILCS 310/8a | [sec-0008a.md](sec-0008a.md) | 0 |  |
+| 15 ILCS 310/8b | [sec-0008b.md](sec-0008b.md) | 0 |  |
+| 15 ILCS 310/8c | [sec-0008c.md](sec-0008c.md) | 0 |  |
+| 15 ILCS 310/9 | [sec-0009.md](sec-0009.md) | 0 |  |
+| 15 ILCS 310/9a | [sec-0009a.md](sec-0009a.md) | 0 |  |
+| 15 ILCS 310/9b | [sec-0009b.md](sec-0009b.md) | 0 |  |
+| 15 ILCS 310/9c | [sec-0009c.md](sec-0009c.md) | 0 |  |
+| 15 ILCS 310/10 | [sec-0010.md](sec-0010.md) | 0 |  |
+| 15 ILCS 310/10a | [sec-0010a.md](sec-0010a.md) | 0 |  |
+| 15 ILCS 310/10b | [sec-0010b.md](sec-0010b.md) | 0 |  |
+| 15 ILCS 310/10b.1 | [sec-0010b-0001.md](sec-0010b-0001.md) | 0 |  |
+| 15 ILCS 310/10b.2 | [sec-0010b-0002.md](sec-0010b-0002.md) | 0 |  |
+| 15 ILCS 310/10b.3 | [sec-0010b-0003.md](sec-0010b-0003.md) | 0 |  |
+| 15 ILCS 310/10b.4 | [sec-0010b-0004.md](sec-0010b-0004.md) | 0 |  |
+| 15 ILCS 310/10b.5 | [sec-0010b-0005.md](sec-0010b-0005.md) | 0 |  |
+| 15 ILCS 310/10b.6 | [sec-0010b-0006.md](sec-0010b-0006.md) | 0 |  |
+| 15 ILCS 310/10b.7 | [sec-0010b-0007.md](sec-0010b-0007.md) | 0 |  |
+| 15 ILCS 310/10b.8 | [sec-0010b-0008.md](sec-0010b-0008.md) | 0 |  |
+| 15 ILCS 310/10b.9 | [sec-0010b-0009.md](sec-0010b-0009.md) | 0 |  |
+| 15 ILCS 310/10b.10 | [sec-0010b-0010.md](sec-0010b-0010.md) | 0 |  |
+| 15 ILCS 310/10b.11 | [sec-0010b-0011.md](sec-0010b-0011.md) | 0 |  |
+| 15 ILCS 310/10b.12 | [sec-0010b-0012.md](sec-0010b-0012.md) | 0 |  |
+| 15 ILCS 310/10b.13 | [sec-0010b-0013.md](sec-0010b-0013.md) | 0 |  |
+| 15 ILCS 310/10b.14 | [sec-0010b-0014.md](sec-0010b-0014.md) | 0 |  |
+| 15 ILCS 310/10b.15 | [sec-0010b-0015.md](sec-0010b-0015.md) | 0 |  |
+| 15 ILCS 310/10b.16 | [sec-0010b-0016.md](sec-0010b-0016.md) | 0 |  |
+| 15 ILCS 310/10b.17 | [sec-0010b-0017.md](sec-0010b-0017.md) | 0 |  |
+| 15 ILCS 310/10b.18 | [sec-0010b-0018.md](sec-0010b-0018.md) | 0 |  |
+| 15 ILCS 310/10c | [sec-0010c.md](sec-0010c.md) | 0 |  |
+| 15 ILCS 310/10d | [sec-0010d.md](sec-0010d.md) | 0 |  |
+| 15 ILCS 310/10e | [sec-0010e.md](sec-0010e.md) | 0 |  |
+| 15 ILCS 310/11 | [sec-0011.md](sec-0011.md) | 0 |  |
+| 15 ILCS 310/12 | [sec-0012.md](sec-0012.md) | 0 |  |
+| 15 ILCS 310/13 | [sec-0013.md](sec-0013.md) | 0 |  |
+| 15 ILCS 310/14 | [sec-0014.md](sec-0014.md) | 0 |  |
+| 15 ILCS 310/15 | [sec-0015.md](sec-0015.md) | 0 |  |
+| 15 ILCS 310/16 | [sec-0016.md](sec-0016.md) | 0 |  |
+| 15 ILCS 310/17 | [sec-0017.md](sec-0017.md) | 0 |  |
+| 15 ILCS 310/17.5 | [sec-0017-0005.md](sec-0017-0005.md) | 0 |  |
+| 15 ILCS 310/18 | [sec-0018.md](sec-0018.md) | 0 |  |
+| 15 ILCS 310/18a | [sec-0018a.md](sec-0018a.md) | 0 |  |
+| 15 ILCS 310/18b | [sec-0018b.md](sec-0018b.md) | 0 |  |
+| 15 ILCS 310/18c | [sec-0018c.md](sec-0018c.md) | 0 |  |
+| 15 ILCS 310/19 | [sec-0019.md](sec-0019.md) | 0 |  |

@@ -1,0 +1,10 @@
+# Illinois Compiled Statutes, State Officials and Employees Ethics Act (5 ILCS 430), Article 10
+
+5 ILCS 430 art. 10 · 1 versions, from 2026-08-12 (latest in force: 2026-08-12) · <https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2529>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| 5 ILCS 430/10-10 | [sec-0010-0010.md](sec-0010-0010.md) | 0 |  |
+| 5 ILCS 430/10-15 | [sec-0010-0015.md](sec-0010-0015.md) | 0 |  |
+| 5 ILCS 430/10-30 | [sec-0010-0030.md](sec-0010-0030.md) | 0 |  |
+| 5 ILCS 430/10-40 | [sec-0010-0040.md](sec-0010-0040.md) | 0 |  |

@@ -1260,6 +1260,2512 @@
      "sha256": "8f54fc4959220ba0b015c5e132781e147df8a4292d69fe00046b4013d0573520"
     }
    ]
+  },
+  {
+   "slug": "ilcs-5-380",
+   "short": "5 ILCS 380",
+   "title": "Illinois Compiled Statutes, State Employee Job Sharing Act (5 ILCS 380)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=121",
+   "versions": [
+    {
+     "from": "2026-07-08",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20260708030346/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=121&ChapterID=2",
+     "sha256": "8ca3326d560f1e6fd6b6ab5b57755735e3682043a3d2d90de7bf9abb8e7050e9"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-5-385",
+   "short": "5 ILCS 385",
+   "title": "Illinois Compiled Statutes, Educational Loan Default Act (5 ILCS 385)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=122",
+   "versions": [
+    {
+     "from": "2026-02-07",
+     "units": 4,
+     "source_url": "https://web.archive.org/web/20260207012918/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=122&ChapterID=2&Chapter=GENERAL%20PROVISIONS&MajorTopic=GOVERNMENT",
+     "sha256": "4eb5391dd53b239b5e6f84cbe32ea388aab1f553bc7d196f53ea50d257a923c7"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-5-400",
+   "short": "5 ILCS 400",
+   "title": "Illinois Compiled Statutes, Sick Leave Bank Act (5 ILCS 400)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=125",
+   "versions": [
+    {
+     "from": "2026-02-18",
+     "units": 9,
+     "source_url": "https://web.archive.org/web/20260218212522/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=125&ChapterID=2&Chapter=GENERAL%20PROVISIONS&MajorTopic=GOVERNMENT",
+     "sha256": "d1a8922cdb451ae3b1930a775ee040a81bde42521a6c34da203ec488c3f261ab"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-5-415",
+   "short": "5 ILCS 415",
+   "title": "Illinois Compiled Statutes, Government Severance Pay Act (5 ILCS 415)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3891",
+   "versions": [
+    {
+     "from": "2026-02-18",
+     "units": 3,
+     "source_url": "https://web.archive.org/web/20260218205349/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3891&ChapterID=2&Chapter=GENERAL%20PROVISIONS&MajorTopic=GOVERNMENT",
+     "sha256": "cc901bddd7ff5d8f5b10751b81a75c83ee38bc82dcb3832751e243c452e28604"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-5-420-article-0001",
+   "short": "5 ILCS 420 art. 1",
+   "title": "Illinois Compiled Statutes, Illinois Governmental Ethics Act (5 ILCS 420), Article 1",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=129",
+   "versions": [
+    {
+     "from": "2026-03-11",
+     "units": 29,
+     "source_url": "https://web.archive.org/web/20260311110644/https://www.ilga.gov/legislation/ILCS/details?MajorTopic=&Chapter=&ActName=Illinois%20Governmental%20Ethics%20Act.&ActID=129&ChapterID=2&SeqStart=&&ChapAct=FullText",
+     "sha256": "93cbddcbdaa82961c92c7281541a6fd61728f04dc1983877b570fc6dc0669de3"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-5-420-article-0002",
+   "short": "5 ILCS 420 art. 2",
+   "title": "Illinois Compiled Statutes, Illinois Governmental Ethics Act (5 ILCS 420), Article 2",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=129",
+   "versions": [
+    {
+     "from": "2026-03-11",
+     "units": 4,
+     "source_url": "https://web.archive.org/web/20260311110644/https://www.ilga.gov/legislation/ILCS/details?MajorTopic=&Chapter=&ActName=Illinois%20Governmental%20Ethics%20Act.&ActID=129&ChapterID=2&SeqStart=&&ChapAct=FullText",
+     "sha256": "93cbddcbdaa82961c92c7281541a6fd61728f04dc1983877b570fc6dc0669de3"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-5-420-article-0003",
+   "short": "5 ILCS 420 art. 3",
+   "title": "Illinois Compiled Statutes, Illinois Governmental Ethics Act (5 ILCS 420), Article 3",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=129",
+   "versions": [
+    {
+     "from": "2026-03-11",
+     "units": 17,
+     "source_url": "https://web.archive.org/web/20260311110644/https://www.ilga.gov/legislation/ILCS/details?MajorTopic=&Chapter=&ActName=Illinois%20Governmental%20Ethics%20Act.&ActID=129&ChapterID=2&SeqStart=&&ChapAct=FullText",
+     "sha256": "93cbddcbdaa82961c92c7281541a6fd61728f04dc1983877b570fc6dc0669de3"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-5-420-article-0003a",
+   "short": "5 ILCS 420 art. 3A",
+   "title": "Illinois Compiled Statutes, Illinois Governmental Ethics Act (5 ILCS 420), Article 3A",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=129",
+   "versions": [
+    {
+     "from": "2026-03-11",
+     "units": 10,
+     "source_url": "https://web.archive.org/web/20260311110644/https://www.ilga.gov/legislation/ILCS/details?MajorTopic=&Chapter=&ActName=Illinois%20Governmental%20Ethics%20Act.&ActID=129&ChapterID=2&SeqStart=&&ChapAct=FullText",
+     "sha256": "93cbddcbdaa82961c92c7281541a6fd61728f04dc1983877b570fc6dc0669de3"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-5-420-article-0003b",
+   "short": "5 ILCS 420 art. 3B",
+   "title": "Illinois Compiled Statutes, Illinois Governmental Ethics Act (5 ILCS 420), Article 3B",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=129",
+   "versions": [
+    {
+     "from": "2026-03-11",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20260311110644/https://www.ilga.gov/legislation/ILCS/details?MajorTopic=&Chapter=&ActName=Illinois%20Governmental%20Ethics%20Act.&ActID=129&ChapterID=2&SeqStart=&&ChapAct=FullText",
+     "sha256": "93cbddcbdaa82961c92c7281541a6fd61728f04dc1983877b570fc6dc0669de3"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-5-420-article-0004a",
+   "short": "5 ILCS 420 art. 4A",
+   "title": "Illinois Compiled Statutes, Illinois Governmental Ethics Act (5 ILCS 420), Article 4A",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=129",
+   "versions": [
+    {
+     "from": "2026-03-11",
+     "units": 11,
+     "source_url": "https://web.archive.org/web/20260311110644/https://www.ilga.gov/legislation/ILCS/details?MajorTopic=&Chapter=&ActName=Illinois%20Governmental%20Ethics%20Act.&ActID=129&ChapterID=2&SeqStart=&&ChapAct=FullText",
+     "sha256": "93cbddcbdaa82961c92c7281541a6fd61728f04dc1983877b570fc6dc0669de3"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-5-420-article-0008",
+   "short": "5 ILCS 420 art. 8",
+   "title": "Illinois Compiled Statutes, Illinois Governmental Ethics Act (5 ILCS 420), Article 8",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=129",
+   "versions": [
+    {
+     "from": "2026-03-11",
+     "units": 1,
+     "source_url": "https://web.archive.org/web/20260311110644/https://www.ilga.gov/legislation/ILCS/details?MajorTopic=&Chapter=&ActName=Illinois%20Governmental%20Ethics%20Act.&ActID=129&ChapterID=2&SeqStart=&&ChapAct=FullText",
+     "sha256": "93cbddcbdaa82961c92c7281541a6fd61728f04dc1983877b570fc6dc0669de3"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-5-430-article-0001",
+   "short": "5 ILCS 430 art. 1",
+   "title": "Illinois Compiled Statutes, State Officials and Employees Ethics Act (5 ILCS 430), Article 1",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2529",
+   "versions": [
+    {
+     "from": "2026-08-12",
+     "units": 3,
+     "source_url": "https://web.archive.org/web/20260812142053/https://www.ilga.gov/legislation/ILCS/details?MajorTopic=&Chapter=&ActName=State%20Officials%20and%20Employees%20Ethics%20Act.&ActID=2529&ChapterID=2&SeqStart=&&ChapAct=FullText",
+     "sha256": "feba86f1ef4a4d2a2cb7092435a69d6ddf1ad1cdc12b640c49b02e12db6b8c80"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-5-430-article-0005",
+   "short": "5 ILCS 430 art. 5",
+   "title": "Illinois Compiled Statutes, State Officials and Employees Ethics Act (5 ILCS 430), Article 5",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2529",
+   "versions": [
+    {
+     "from": "2026-08-12",
+     "units": 13,
+     "source_url": "https://web.archive.org/web/20260812142053/https://www.ilga.gov/legislation/ILCS/details?MajorTopic=&Chapter=&ActName=State%20Officials%20and%20Employees%20Ethics%20Act.&ActID=2529&ChapterID=2&SeqStart=&&ChapAct=FullText",
+     "sha256": "feba86f1ef4a4d2a2cb7092435a69d6ddf1ad1cdc12b640c49b02e12db6b8c80"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-5-430-article-0010",
+   "short": "5 ILCS 430 art. 10",
+   "title": "Illinois Compiled Statutes, State Officials and Employees Ethics Act (5 ILCS 430), Article 10",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2529",
+   "versions": [
+    {
+     "from": "2026-08-12",
+     "units": 4,
+     "source_url": "https://web.archive.org/web/20260812142053/https://www.ilga.gov/legislation/ILCS/details?MajorTopic=&Chapter=&ActName=State%20Officials%20and%20Employees%20Ethics%20Act.&ActID=2529&ChapterID=2&SeqStart=&&ChapAct=FullText",
+     "sha256": "feba86f1ef4a4d2a2cb7092435a69d6ddf1ad1cdc12b640c49b02e12db6b8c80"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-5-430-article-0015",
+   "short": "5 ILCS 430 art. 15",
+   "title": "Illinois Compiled Statutes, State Officials and Employees Ethics Act (5 ILCS 430), Article 15",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2529",
+   "versions": [
+    {
+     "from": "2026-08-12",
+     "units": 6,
+     "source_url": "https://web.archive.org/web/20260812142053/https://www.ilga.gov/legislation/ILCS/details?MajorTopic=&Chapter=&ActName=State%20Officials%20and%20Employees%20Ethics%20Act.&ActID=2529&ChapterID=2&SeqStart=&&ChapAct=FullText",
+     "sha256": "feba86f1ef4a4d2a2cb7092435a69d6ddf1ad1cdc12b640c49b02e12db6b8c80"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-5-430-article-0020",
+   "short": "5 ILCS 430 art. 20",
+   "title": "Illinois Compiled Statutes, State Officials and Employees Ethics Act (5 ILCS 430), Article 20",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2529",
+   "versions": [
+    {
+     "from": "2026-08-12",
+     "units": 23,
+     "source_url": "https://web.archive.org/web/20260812142053/https://www.ilga.gov/legislation/ILCS/details?MajorTopic=&Chapter=&ActName=State%20Officials%20and%20Employees%20Ethics%20Act.&ActID=2529&ChapterID=2&SeqStart=&&ChapAct=FullText",
+     "sha256": "feba86f1ef4a4d2a2cb7092435a69d6ddf1ad1cdc12b640c49b02e12db6b8c80"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-5-430-article-0025",
+   "short": "5 ILCS 430 art. 25",
+   "title": "Illinois Compiled Statutes, State Officials and Employees Ethics Act (5 ILCS 430), Article 25",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2529",
+   "versions": [
+    {
+     "from": "2026-08-12",
+     "units": 24,
+     "source_url": "https://web.archive.org/web/20260812142053/https://www.ilga.gov/legislation/ILCS/details?MajorTopic=&Chapter=&ActName=State%20Officials%20and%20Employees%20Ethics%20Act.&ActID=2529&ChapterID=2&SeqStart=&&ChapAct=FullText",
+     "sha256": "feba86f1ef4a4d2a2cb7092435a69d6ddf1ad1cdc12b640c49b02e12db6b8c80"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-5-430-article-0030",
+   "short": "5 ILCS 430 art. 30",
+   "title": "Illinois Compiled Statutes, State Officials and Employees Ethics Act (5 ILCS 430), Article 30",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2529",
+   "versions": [
+    {
+     "from": "2026-08-12",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20260812142053/https://www.ilga.gov/legislation/ILCS/details?MajorTopic=&Chapter=&ActName=State%20Officials%20and%20Employees%20Ethics%20Act.&ActID=2529&ChapterID=2&SeqStart=&&ChapAct=FullText",
+     "sha256": "feba86f1ef4a4d2a2cb7092435a69d6ddf1ad1cdc12b640c49b02e12db6b8c80"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-5-430-article-0035",
+   "short": "5 ILCS 430 art. 35",
+   "title": "Illinois Compiled Statutes, State Officials and Employees Ethics Act (5 ILCS 430), Article 35",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2529",
+   "versions": [
+    {
+     "from": "2026-08-12",
+     "units": 1,
+     "source_url": "https://web.archive.org/web/20260812142053/https://www.ilga.gov/legislation/ILCS/details?MajorTopic=&Chapter=&ActName=State%20Officials%20and%20Employees%20Ethics%20Act.&ActID=2529&ChapterID=2&SeqStart=&&ChapAct=FullText",
+     "sha256": "feba86f1ef4a4d2a2cb7092435a69d6ddf1ad1cdc12b640c49b02e12db6b8c80"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-5-430-article-0050",
+   "short": "5 ILCS 430 art. 50",
+   "title": "Illinois Compiled Statutes, State Officials and Employees Ethics Act (5 ILCS 430), Article 50",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2529",
+   "versions": [
+    {
+     "from": "2026-08-12",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20260812142053/https://www.ilga.gov/legislation/ILCS/details?MajorTopic=&Chapter=&ActName=State%20Officials%20and%20Employees%20Ethics%20Act.&ActID=2529&ChapterID=2&SeqStart=&&ChapAct=FullText",
+     "sha256": "feba86f1ef4a4d2a2cb7092435a69d6ddf1ad1cdc12b640c49b02e12db6b8c80"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-5-430-article-0070",
+   "short": "5 ILCS 430 art. 70",
+   "title": "Illinois Compiled Statutes, State Officials and Employees Ethics Act (5 ILCS 430), Article 70",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2529",
+   "versions": [
+    {
+     "from": "2026-08-12",
+     "units": 4,
+     "source_url": "https://web.archive.org/web/20260812142053/https://www.ilga.gov/legislation/ILCS/details?MajorTopic=&Chapter=&ActName=State%20Officials%20and%20Employees%20Ethics%20Act.&ActID=2529&ChapterID=2&SeqStart=&&ChapAct=FullText",
+     "sha256": "feba86f1ef4a4d2a2cb7092435a69d6ddf1ad1cdc12b640c49b02e12db6b8c80"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-5-430-article-0075",
+   "short": "5 ILCS 430 art. 75",
+   "title": "Illinois Compiled Statutes, State Officials and Employees Ethics Act (5 ILCS 430), Article 75",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2529",
+   "versions": [
+    {
+     "from": "2026-08-12",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20260812142053/https://www.ilga.gov/legislation/ILCS/details?MajorTopic=&Chapter=&ActName=State%20Officials%20and%20Employees%20Ethics%20Act.&ActID=2529&ChapterID=2&SeqStart=&&ChapAct=FullText",
+     "sha256": "feba86f1ef4a4d2a2cb7092435a69d6ddf1ad1cdc12b640c49b02e12db6b8c80"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-5-430-article-0090",
+   "short": "5 ILCS 430 art. 90",
+   "title": "Illinois Compiled Statutes, State Officials and Employees Ethics Act (5 ILCS 430), Article 90",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2529",
+   "versions": [
+    {
+     "from": "2026-08-12",
+     "units": 13,
+     "source_url": "https://web.archive.org/web/20260812142053/https://www.ilga.gov/legislation/ILCS/details?MajorTopic=&Chapter=&ActName=State%20Officials%20and%20Employees%20Ethics%20Act.&ActID=2529&ChapterID=2&SeqStart=&&ChapAct=FullText",
+     "sha256": "feba86f1ef4a4d2a2cb7092435a69d6ddf1ad1cdc12b640c49b02e12db6b8c80"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-5-430-article-0099",
+   "short": "5 ILCS 430 art. 99",
+   "title": "Illinois Compiled Statutes, State Officials and Employees Ethics Act (5 ILCS 430), Article 99",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2529",
+   "versions": [
+    {
+     "from": "2026-08-12",
+     "units": 3,
+     "source_url": "https://web.archive.org/web/20260812142053/https://www.ilga.gov/legislation/ILCS/details?MajorTopic=&Chapter=&ActName=State%20Officials%20and%20Employees%20Ethics%20Act.&ActID=2529&ChapterID=2&SeqStart=&&ChapAct=FullText",
+     "sha256": "feba86f1ef4a4d2a2cb7092435a69d6ddf1ad1cdc12b640c49b02e12db6b8c80"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-5-440",
+   "short": "5 ILCS 440",
+   "title": "Illinois Compiled Statutes, Time Standardization Act (5 ILCS 440)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=131",
+   "versions": [
+    {
+     "from": "2026-07-22",
+     "units": 5,
+     "source_url": "https://web.archive.org/web/20260722095221/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=131&ChapterID=2",
+     "sha256": "36d1bfbd50f26c2e39b5cc86ed2848ed3b9bfe40493d8c0b338f2097d531ca40"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-5-460",
+   "short": "5 ILCS 460",
+   "title": "Illinois Compiled Statutes, State Designations Act (5 ILCS 460)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=132",
+   "versions": [
+    {
+     "from": "2026-10-11",
+     "units": 41,
+     "source_url": "https://web.archive.org/web/20261011083135/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=132&ChapterID=2&Chapter=GENERAL+PROVISIONS&MajorTopic=GOVERNMENT",
+     "sha256": "1f20707b964d024a55f2c0c278b7967807520da2c171a500659742a44e68d9cb"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-5-465",
+   "short": "5 ILCS 465",
+   "title": "Illinois Compiled Statutes, Flag Display Act (5 ILCS 465)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=133",
+   "versions": [
+    {
+     "from": "2026-05-17",
+     "units": 12,
+     "source_url": "https://web.archive.org/web/20260517090743/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=133&ChapAct=5%26nbsp%3BILCS%26nbsp%3B465/&ChapterID=2&ChapterName=GENERAL+PROVISIONS&ActName=Flag+Display+Act",
+     "sha256": "f8ebc726df68c737939951a8234031526f1f17adfcd0d02a915b9375e69617a4"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-5-470",
+   "short": "5 ILCS 470",
+   "title": "Illinois Compiled Statutes, Official United States Flag Act (5 ILCS 470)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3134",
+   "versions": [
+    {
+     "from": "2026-02-07",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20260207013518/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3134&ChapterID=2&Chapter=GENERAL%20PROVISIONS&MajorTopic=GOVERNMENT",
+     "sha256": "6d8e64469743160cab0a7978c3a6728a9134dddca7737da5ac623e9483b62e76"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-5-490",
+   "short": "5 ILCS 490",
+   "title": "Illinois Compiled Statutes, State Commemorative Dates Act (5 ILCS 490)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=134",
+   "versions": [
+    {
+     "from": "2026-10-10",
+     "units": 77,
+     "source_url": "https://web.archive.org/web/20261010124121/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=134&ChapterID=2",
+     "sha256": "ac85b96adcfa0f8ddd08bd707d52cedf61b216b366cc623de7514f5872e37ff7"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-5-510",
+   "short": "5 ILCS 510",
+   "title": "Illinois Compiled Statutes, National Home for Disabled Volunteer Soldiers Land Cession Act (5 ILCS 510)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=135",
+   "versions": [
+    {
+     "from": "2026-02-18",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20260218214721/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=135&ChapterID=2&Chapter=GENERAL%20PROVISIONS&MajorTopic=GOVERNMENT",
+     "sha256": "600c8af2606fbe47e2129ec8d2361dbed4a4799427387d57cebfb76a47199c4c"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-5-515",
+   "short": "5 ILCS 515",
+   "title": "Illinois Compiled Statutes, Chicago Land Cession Act (5 ILCS 515)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=136",
+   "versions": [
+    {
+     "from": "2026-02-18",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20260218214829/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=136&ChapterID=2&Chapter=GENERAL%20PROVISIONS&MajorTopic=GOVERNMENT",
+     "sha256": "b31286a99b07ecfead553de23147e47834e245cf362964d52d35f3603dcee342"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-5-520",
+   "short": "5 ILCS 520",
+   "title": "Illinois Compiled Statutes, St. Clair Land Cession Act (5 ILCS 520)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=138",
+   "versions": [
+    {
+     "from": "2026-02-18",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20260218214859/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=138&ChapterID=2&Chapter=GENERAL%20PROVISIONS&MajorTopic=GOVERNMENT",
+     "sha256": "9426ec3f84a6d82dd898168b306f64c3bd08cc59dda00c34249196e12ad22161"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-5-525",
+   "short": "5 ILCS 525",
+   "title": "Illinois Compiled Statutes, Champaign Land Cession Act (5 ILCS 525)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=139",
+   "versions": [
+    {
+     "from": "2026-02-18",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20260218214926/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=139&ChapterID=2&Chapter=GENERAL%20PROVISIONS&MajorTopic=GOVERNMENT",
+     "sha256": "1b03da42ed771548f8f1193b9a9eda6eaa0f516d160cf9c0feede5f05630ca06"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-5-530",
+   "short": "5 ILCS 530",
+   "title": "Illinois Compiled Statutes, Chicago U. S. Courthouse Cession Act (5 ILCS 530)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=140",
+   "versions": [
+    {
+     "from": "2026-06-01",
+     "units": 4,
+     "source_url": "https://web.archive.org/web/20260601014257/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=140&ChapterID=2",
+     "sha256": "4ccd874e49419fcd1898cf8c9f1d148e2f73ac0d5fc4927e3b9c7386401f7524"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-5-532",
+   "short": "5 ILCS 532",
+   "title": "Illinois Compiled Statutes, Thomson United States Penitentiary Cession Act (5 ILCS 532)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3498",
+   "versions": [
+    {
+     "from": "2026-09-04",
+     "units": 5,
+     "source_url": "https://web.archive.org/web/20260904145829/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3498&ChapterID=2",
+     "sha256": "d79c8557e2508b6100b14dc7d9dffccfddf79391420922bfc9773b7d16421051"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-5-535",
+   "short": "5 ILCS 535",
+   "title": "Illinois Compiled Statutes, Lake County Land Cession Act (5 ILCS 535)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=141",
+   "versions": [
+    {
+     "from": "2026-02-18",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20260218220018/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=141&ChapterID=2&Chapter=GENERAL%20PROVISIONS&MajorTopic=GOVERNMENT",
+     "sha256": "1008f80f247ecfba2269e1e35ee7972ea1e327fb084961016002b309f5c07dfe"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-5-540",
+   "short": "5 ILCS 540",
+   "title": "Illinois Compiled Statutes, Fort Sheridan Retrocession Act (5 ILCS 540)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=144",
+   "versions": [
+    {
+     "from": "2026-02-16",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20260216120426/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=144&ChapterID=2&Chapter=GENERAL%20PROVISIONS&MajorTopic=GOVERNMENT",
+     "sha256": "6a39c7aedf2fd34b3d33625825d65b2785987a325a29904b167752ffcfe5fee5"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-5-541",
+   "short": "5 ILCS 541",
+   "title": "Illinois Compiled Statutes, Fort Sheridan Retrocession Law of 1992 (5 ILCS 541)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=145",
+   "versions": [
+    {
+     "from": "2026-02-18",
+     "units": 5,
+     "source_url": "https://web.archive.org/web/20260218220148/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=145&ChapterID=2&Chapter=GENERAL%20PROVISIONS&MajorTopic=GOVERNMENT",
+     "sha256": "c9eb58ed13f37a00071f3a31c61dc664c72dfb816bb39675c3364d9a55732950"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-5-544",
+   "short": "5 ILCS 544",
+   "title": "Illinois Compiled Statutes, O'Hare IAP Air Reserve Station Retrocession Act (5 ILCS 544)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=147",
+   "versions": [
+    {
+     "from": "2026-02-18",
+     "units": 11,
+     "source_url": "https://web.archive.org/web/20260218220322/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=147&ChapterID=2&Chapter=GENERAL%20PROVISIONS&MajorTopic=GOVERNMENT",
+     "sha256": "a343f39c79dc71ff380cedbecac4c302552b3a2e2ca42fef509bb7a10aa37f19"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-5-545",
+   "short": "5 ILCS 545",
+   "title": "Illinois Compiled Statutes, Higgins Road Retrocession Act (5 ILCS 545)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=148",
+   "versions": [
+    {
+     "from": "2026-04-20",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20260420231122/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=148&ChapterID=2",
+     "sha256": "3e53f3a29706e81ff995b6df5f8bf71b1b2bfe0ebb8e1ca7b1b486b99ea87dc8"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-5-547",
+   "short": "5 ILCS 547",
+   "title": "Illinois Compiled Statutes, Joliet Army Ammunition Plant Retrocession Law (5 ILCS 547)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=149",
+   "versions": [
+    {
+     "from": "2026-02-18",
+     "units": 5,
+     "source_url": "https://web.archive.org/web/20260218220353/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=149&ChapterID=2&Chapter=GENERAL%20PROVISIONS&MajorTopic=GOVERNMENT",
+     "sha256": "d8f6d119d33fe35b35d64893da38b080edd2e70827ad83c19a264edba47e6fb2"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-5-550",
+   "short": "5 ILCS 550",
+   "title": "Illinois Compiled Statutes, Boesche's Division Retrocession Act (5 ILCS 550)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=150",
+   "versions": [
+    {
+     "from": "2026-05-26",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20260526195554/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=150&ChapterID=18&SeqStart=1&SeqEnd=50",
+     "sha256": "c4efb47927a36486eb5fc1736ed1156baca69e89e7dd4527314fea2ddb77dd81"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-5-555",
+   "short": "5 ILCS 555",
+   "title": "Illinois Compiled Statutes, Crab Orchard Retrocession Act (5 ILCS 555)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=151",
+   "versions": [
+    {
+     "from": "2026-02-07",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20260207021707/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=151&ChapterID=2&Chapter=GENERAL%20PROVISIONS&MajorTopic=GOVERNMENT",
+     "sha256": "b657f8f45298301287317a9619098ceec7207fb5ae49c11133d7e2a224e29635"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-5-560",
+   "short": "5 ILCS 560",
+   "title": "Illinois Compiled Statutes, Veteran's Administration Retrocession Act (5 ILCS 560)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=152",
+   "versions": [
+    {
+     "from": "2026-02-07",
+     "units": 3,
+     "source_url": "https://web.archive.org/web/20260207021741/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=152&ChapterID=2&Chapter=GENERAL%20PROVISIONS&MajorTopic=GOVERNMENT",
+     "sha256": "cb116489c6ae3b68eaaf6617cee9b9c8d254c41c32fb5950f1a3ae9d7518be43"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-5-565",
+   "short": "5 ILCS 565",
+   "title": "Illinois Compiled Statutes, Chain of Rocks Retrocession Act (5 ILCS 565)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=153",
+   "versions": [
+    {
+     "from": "2026-02-07",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20260207021823/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=153&ChapterID=2&Chapter=GENERAL%20PROVISIONS&MajorTopic=GOVERNMENT",
+     "sha256": "9afc389ffd0e39ed56d0c416c34cbbef14b123f475386601ab53f72e79a44122"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-5-570",
+   "short": "5 ILCS 570",
+   "title": "Illinois Compiled Statutes, Granite City Depot Retrocession Act (5 ILCS 570)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=154",
+   "versions": [
+    {
+     "from": "2026-04-22",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20260422041914/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=154&ChapterID=2",
+     "sha256": "8bc770b9514ca106f41c5fc224cce9e1fde4b603c0902bc4a748493a7d7b1b81"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-5-571",
+   "short": "5 ILCS 571",
+   "title": "Illinois Compiled Statutes, Savanna Army Depot Retrocession Law (5 ILCS 571)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=155",
+   "versions": [
+    {
+     "from": "2026-05-30",
+     "units": 3,
+     "source_url": "https://web.archive.org/web/20260530061843/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=155&ChapterID=3&SeqStart=1&SeqEnd=50",
+     "sha256": "cdfdc454a04d58608ff3e1c7abcb4bfd970a0c9eb80c7d49cb5196ffd74329d9"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-5-575",
+   "short": "5 ILCS 575",
+   "title": "Illinois Compiled Statutes, Upper Mississippi Land Acquisition Act (5 ILCS 575)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=157",
+   "versions": [
+    {
+     "from": "2026-02-18",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20260218221958/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=157&ChapterID=2&Chapter=GENERAL%20PROVISIONS&MajorTopic=GOVERNMENT",
+     "sha256": "157f66e60467b5247073f782a22f53581e9291c15d49895337791d362772fcf9"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-5-580",
+   "short": "5 ILCS 580",
+   "title": "Illinois Compiled Statutes, Bird Preserve Land Acquisition Act (5 ILCS 580)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=158",
+   "versions": [
+    {
+     "from": "2026-02-18",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20260218222040/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=158&ChapterID=2&Chapter=GENERAL%20PROVISIONS&MajorTopic=GOVERNMENT",
+     "sha256": "47d11ca82edc4b99004a54e91bd32c832770b4af3ac7a9e80409ab3762fcbdad"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-5-585",
+   "short": "5 ILCS 585",
+   "title": "Illinois Compiled Statutes, National Forest Land Act (5 ILCS 585)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=159",
+   "versions": [
+    {
+     "from": "2026-02-18",
+     "units": 3,
+     "source_url": "https://web.archive.org/web/20260218222104/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=159&ChapterID=2&Chapter=GENERAL%20PROVISIONS&MajorTopic=GOVERNMENT",
+     "sha256": "30a1e3f20d04ef923a3b6b151c2ad89863d551bb430c272428a47472b1a00666"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-5-590",
+   "short": "5 ILCS 590",
+   "title": "Illinois Compiled Statutes, Federal and State Land Jurisdiction Act of 1991 (5 ILCS 590)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=160",
+   "versions": [
+    {
+     "from": "2026-07-19",
+     "units": 6,
+     "source_url": "https://web.archive.org/web/20260719072814/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=160&ChapterID=2",
+     "sha256": "de5f9348a29208001f2d990f36824909ec32f17f686c8b5f72dfa5815063e87e"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-5-595",
+   "short": "5 ILCS 595",
+   "title": "Illinois Compiled Statutes, Great Lakes Naval Base Jurisdiction Act (5 ILCS 595)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=161",
+   "versions": [
+    {
+     "from": "2026-02-18",
+     "units": 3,
+     "source_url": "https://web.archive.org/web/20260218202519/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=161&ChapterID=2&Chapter=GENERAL%20PROVISIONS&MajorTopic=GOVERNMENT",
+     "sha256": "7863bda00cbc90e711d37afea2b4637fe58801c6420870c4b1e35cdd10c3b4c2"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-5-600",
+   "short": "5 ILCS 600",
+   "title": "Illinois Compiled Statutes, Lincoln Home Jurisdiction Act (5 ILCS 600)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=162",
+   "versions": [
+    {
+     "from": "2026-02-07",
+     "units": 5,
+     "source_url": "https://web.archive.org/web/20260207003949/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=162&ChapterID=2&Chapter=GENERAL%20PROVISIONS&MajorTopic=GOVERNMENT",
+     "sha256": "6dd835e16260ad12b726b4fcfc3628a6d5197d0092ca32246b566f3b850ecf41"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-5-605",
+   "short": "5 ILCS 605",
+   "title": "Illinois Compiled Statutes, Submerged Lands Act (5 ILCS 605)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=163",
+   "versions": [
+    {
+     "from": "2026-05-18",
+     "units": 3,
+     "source_url": "https://web.archive.org/web/20260518085912/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=163&ChapterID=2",
+     "sha256": "b8e8d12c0d3e49b9f37692e6469e6adde81a3071e30be4ecf76a5033ae2a0df8"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-5-610",
+   "short": "5 ILCS 610",
+   "title": "Illinois Compiled Statutes, Wallace-Dickey Burial Plot Act (5 ILCS 610)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=164",
+   "versions": [
+    {
+     "from": "2026-02-16",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20260216104637/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=164&ChapterID=2&Chapter=GENERAL%20PROVISIONS&MajorTopic=GOVERNMENT",
+     "sha256": "914025e665efdac32294d220622c5a5cd60f2f8a6bc93b44d1975e4332468c59"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-5-615",
+   "short": "5 ILCS 615",
+   "title": "Illinois Compiled Statutes, Oil and Gas Wells on Public Lands Act (5 ILCS 615)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=165",
+   "versions": [
+    {
+     "from": "2026-08-08",
+     "units": 25,
+     "source_url": "https://web.archive.org/web/20260808040248/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=165&ChapterID=2",
+     "sha256": "264b4c06b8fb0f95ce50e2b5a740ff540bc4cb1fc8b6706d4a527b1069f62d80"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-5-625",
+   "short": "5 ILCS 625",
+   "title": "Illinois Compiled Statutes, Momence Dam Transfer Act (5 ILCS 625)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=167",
+   "versions": [
+    {
+     "from": "2026-02-07",
+     "units": 4,
+     "source_url": "https://web.archive.org/web/20260207004517/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=167&ChapterID=2&Chapter=GENERAL%20PROVISIONS&MajorTopic=GOVERNMENT",
+     "sha256": "5558efc0496838089b3ba9259e3ca73ddfb2a849ac7d7f8c3039f62266fb722f"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-5-630",
+   "short": "5 ILCS 630",
+   "title": "Illinois Compiled Statutes, Gulf War Veterans Act (5 ILCS 630)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=168",
+   "versions": [
+    {
+     "from": "2026-02-16",
+     "units": 3,
+     "source_url": "https://web.archive.org/web/20260216104828/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=168&ChapterID=2&Chapter=GENERAL%20PROVISIONS&MajorTopic=GOVERNMENT",
+     "sha256": "473018f7c137b059892ba624601710b365205d9b7e3b73799e8f2f986462c32d"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-5-635",
+   "short": "5 ILCS 635",
+   "title": "Illinois Compiled Statutes, War on Terrorism Veterans Act (5 ILCS 635)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2993",
+   "versions": [
+    {
+     "from": "2026-02-18",
+     "units": 3,
+     "source_url": "https://web.archive.org/web/20260218213709/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2993&ChapterID=2&Chapter=GENERAL%20PROVISIONS&MajorTopic=GOVERNMENT",
+     "sha256": "dc576d539452e0bc76ebeb428f75db7bad8912c49a2011873a2da85480e243ec"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-5-805",
+   "short": "5 ILCS 805",
+   "title": "Illinois Compiled Statutes, Illinois TRUST Act (5 ILCS 805)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3818",
+   "versions": [
+    {
+     "from": "2026-05-14",
+     "units": 8,
+     "source_url": "https://web.archive.org/web/20260514074354/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3818&ChapterID=2",
+     "sha256": "3cf44c1fd947e3bd15face9c7adfbeaa290f3f0d1bc206056795feed42f41e8a"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-5-810",
+   "short": "5 ILCS 810",
+   "title": "Illinois Compiled Statutes, Seizure and Forfeiture Reporting Act (5 ILCS 810)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3825",
+   "versions": [
+    {
+     "from": "2026-02-16",
+     "units": 27,
+     "source_url": "https://web.archive.org/web/20260216120119/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3825&ChapterID=2&Chapter=GENERAL%20PROVISIONS&MajorTopic=GOVERNMENT",
+     "sha256": "ef1c2099d942f1f8c4fad84fdd3a4ec5ae284e4c0a3991956a529cbca0016ba0"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-5-812",
+   "short": "5 ILCS 812",
+   "title": "Illinois Compiled Statutes, Prostitution Investigation Act (5 ILCS 812)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=4564",
+   "versions": [
+    {
+     "from": "2026-02-18",
+     "units": 21,
+     "source_url": "https://web.archive.org/web/20260218205755/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=4564&ChapterID=2&Chapter=GENERAL%20PROVISIONS&MajorTopic=GOVERNMENT",
+     "sha256": "664e0493315fd978de34293492f988b5b269cfeddc55d693b5ad996deceeebb9"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-5-815",
+   "short": "5 ILCS 815",
+   "title": "Illinois Compiled Statutes, Law Enforcement Criminal Sexual Assault Investigation Act (5 ILCS 815)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3826",
+   "versions": [
+    {
+     "from": "2026-02-07",
+     "units": 6,
+     "source_url": "https://web.archive.org/web/20260207021324/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3826&ChapterID=2&Chapter=GENERAL%20PROVISIONS&MajorTopic=GOVERNMENT",
+     "sha256": "1a9b80bc47e36e6058f80a7872c2a0bcb2bc504881efdf5312ead47e57a7c7b8"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-5-825",
+   "short": "5 ILCS 825",
+   "title": "Illinois Compiled Statutes, Voices of Immigrant Communities Empowering Survivors (VOICES) Act (5 ILCS 825)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3916",
+   "versions": [
+    {
+     "from": "2026-03-09",
+     "units": 8,
+     "source_url": "https://web.archive.org/web/20260309123531/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3916&ChapterID=2",
+     "sha256": "fc1278c351433eabb71e899ed747a84b7207f40458403ebc069c73a5b30a1d29"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-5-835",
+   "short": "5 ILCS 835",
+   "title": "Illinois Compiled Statutes, Keep Illinois Families Together Act (5 ILCS 835)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3989",
+   "versions": [
+    {
+     "from": "2026-07-14",
+     "units": 4,
+     "source_url": "https://web.archive.org/web/20260714084209/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3989&ChapterID=2",
+     "sha256": "ffb35d95cf117662053f4fe966a45088dd8c4e9515df837cd3fbdb294c14c55d"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-5-840",
+   "short": "5 ILCS 840",
+   "title": "Illinois Compiled Statutes, First Responders Suicide Prevention Act (5 ILCS 840)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=4020",
+   "versions": [
+    {
+     "from": "2026-02-18",
+     "units": 16,
+     "source_url": "https://web.archive.org/web/20260218220539/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=4020&ChapterID=2&Chapter=GENERAL%20PROVISIONS&MajorTopic=GOVERNMENT",
+     "sha256": "6ad2262df1407ce6cf333c177042135924e92e899159296e376a36f245e389ce"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-5-845",
+   "short": "5 ILCS 845",
+   "title": "Illinois Compiled Statutes, Statewide Use of Force Standardization Act (5 ILCS 845)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=4072",
+   "versions": [
+    {
+     "from": "2026-02-18",
+     "units": 70,
+     "source_url": "https://web.archive.org/web/20260218204536/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=4072&ChapterID=2&Chapter=GENERAL%20PROVISIONS&MajorTopic=GOVERNMENT",
+     "sha256": "a98e7ae0ab0323ce6ff3ed13ffb7b93036980372dfc772e4bf8aa65aecf9e997"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-5-850",
+   "short": "5 ILCS 850",
+   "title": "Illinois Compiled Statutes, Empowering Public Participation Act (5 ILCS 850)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=4190",
+   "versions": [
+    {
+     "from": "2026-02-18",
+     "units": 5,
+     "source_url": "https://web.archive.org/web/20260218222733/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=4190&ChapterID=2&Chapter=GENERAL%20PROVISIONS&MajorTopic=GOVERNMENT",
+     "sha256": "e8cc0a9d9eda2f8543381d873d50926dec73e1b42abc7bf6fa53b81e2a837cea"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-5-855",
+   "short": "5 ILCS 855",
+   "title": "Illinois Compiled Statutes, Protecting Household Privacy Act (5 ILCS 855)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=4212",
+   "versions": [
+    {
+     "from": "2026-05-06",
+     "units": 12,
+     "source_url": "https://web.archive.org/web/20260506081839/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=4212&ChapterID=2",
+     "sha256": "d70b282392f7b1b2453c7c2055586d7fd1aedd8a72873e4aed772c3596a5eedc"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-5-860",
+   "short": "5 ILCS 860",
+   "title": "Illinois Compiled Statutes, Student Confidential Reporting Act (5 ILCS 860)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=4288",
+   "versions": [
+    {
+     "from": "2026-02-18",
+     "units": 14,
+     "source_url": "https://web.archive.org/web/20260218211015/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=4288&ChapterID=2&Chapter=GENERAL%20PROVISIONS&MajorTopic=GOVERNMENT",
+     "sha256": "6fa81fc15c3097d2fa0634728943ef45055a597f65259a915e10baa200d66bce"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-5-865",
+   "short": "5 ILCS 865",
+   "title": "Illinois Compiled Statutes, Law Enforcement Gang Database Information Act (5 ILCS 865)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=4416",
+   "versions": [
+    {
+     "from": "2026-02-18",
+     "units": 5,
+     "source_url": "https://web.archive.org/web/20260218210906/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=4416&ChapterID=2&Chapter=GENERAL%20PROVISIONS&MajorTopic=GOVERNMENT",
+     "sha256": "4f19b8b510333203b42c2b823a4f27bc06b40875e848544ba51f47003e14e9db"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-10-5-article-0001",
+   "short": "10 ILCS 5 art. 1",
+   "title": "Illinois Compiled Statutes, Election Code (10 ILCS 5), Article 1",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=170",
+   "versions": [
+    {
+     "from": "2026-10-09",
+     "units": 29,
+     "source_url": "https://web.archive.org/web/20261009175510/https://www.ilga.gov/legislation/ILCS/details?MajorTopic=&Chapter=&ActName=Election%20Code.&ActID=170&ChapterID=3&SeqStart=&&ChapAct=FullText",
+     "sha256": "966bc50c0726bf22ff072ac97915809f95a1b87c022a82c832ed0ee1f00467ae"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-10-5-article-0001a",
+   "short": "10 ILCS 5 art. 1A",
+   "title": "Illinois Compiled Statutes, Election Code (10 ILCS 5), Article 1A",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=170",
+   "versions": [
+    {
+     "from": "2026-10-09",
+     "units": 39,
+     "source_url": "https://web.archive.org/web/20261009175510/https://www.ilga.gov/legislation/ILCS/details?MajorTopic=&Chapter=&ActName=Election%20Code.&ActID=170&ChapterID=3&SeqStart=&&ChapAct=FullText",
+     "sha256": "966bc50c0726bf22ff072ac97915809f95a1b87c022a82c832ed0ee1f00467ae"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-10-5-article-0002a",
+   "short": "10 ILCS 5 art. 2A",
+   "title": "Illinois Compiled Statutes, Election Code (10 ILCS 5), Article 2A",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=170",
+   "versions": [
+    {
+     "from": "2026-10-09",
+     "units": 61,
+     "source_url": "https://web.archive.org/web/20261009175510/https://www.ilga.gov/legislation/ILCS/details?MajorTopic=&Chapter=&ActName=Election%20Code.&ActID=170&ChapterID=3&SeqStart=&&ChapAct=FullText",
+     "sha256": "966bc50c0726bf22ff072ac97915809f95a1b87c022a82c832ed0ee1f00467ae"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-10-5-article-0003",
+   "short": "10 ILCS 5 art. 3",
+   "title": "Illinois Compiled Statutes, Election Code (10 ILCS 5), Article 3",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=170",
+   "versions": [
+    {
+     "from": "2026-10-09",
+     "units": 9,
+     "source_url": "https://web.archive.org/web/20261009175510/https://www.ilga.gov/legislation/ILCS/details?MajorTopic=&Chapter=&ActName=Election%20Code.&ActID=170&ChapterID=3&SeqStart=&&ChapAct=FullText",
+     "sha256": "966bc50c0726bf22ff072ac97915809f95a1b87c022a82c832ed0ee1f00467ae"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-10-5-article-0004",
+   "short": "10 ILCS 5 art. 4",
+   "title": "Illinois Compiled Statutes, Election Code (10 ILCS 5), Article 4",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=170",
+   "versions": [
+    {
+     "from": "2026-10-09",
+     "units": 43,
+     "source_url": "https://web.archive.org/web/20261009175510/https://www.ilga.gov/legislation/ILCS/details?MajorTopic=&Chapter=&ActName=Election%20Code.&ActID=170&ChapterID=3&SeqStart=&&ChapAct=FullText",
+     "sha256": "966bc50c0726bf22ff072ac97915809f95a1b87c022a82c832ed0ee1f00467ae"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-10-5-article-0005",
+   "short": "10 ILCS 5 art. 5",
+   "title": "Illinois Compiled Statutes, Election Code (10 ILCS 5), Article 5",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=170",
+   "versions": [
+    {
+     "from": "2026-10-09",
+     "units": 52,
+     "source_url": "https://web.archive.org/web/20261009175510/https://www.ilga.gov/legislation/ILCS/details?MajorTopic=&Chapter=&ActName=Election%20Code.&ActID=170&ChapterID=3&SeqStart=&&ChapAct=FullText",
+     "sha256": "966bc50c0726bf22ff072ac97915809f95a1b87c022a82c832ed0ee1f00467ae"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-10-5-article-0006",
+   "short": "10 ILCS 5 art. 6",
+   "title": "Illinois Compiled Statutes, Election Code (10 ILCS 5), Article 6",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=170",
+   "versions": [
+    {
+     "from": "2026-10-09",
+     "units": 93,
+     "source_url": "https://web.archive.org/web/20261009175510/https://www.ilga.gov/legislation/ILCS/details?MajorTopic=&Chapter=&ActName=Election%20Code.&ActID=170&ChapterID=3&SeqStart=&&ChapAct=FullText",
+     "sha256": "966bc50c0726bf22ff072ac97915809f95a1b87c022a82c832ed0ee1f00467ae"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-10-5-article-0006a",
+   "short": "10 ILCS 5 art. 6A",
+   "title": "Illinois Compiled Statutes, Election Code (10 ILCS 5), Article 6A",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=170",
+   "versions": [
+    {
+     "from": "2026-10-09",
+     "units": 7,
+     "source_url": "https://web.archive.org/web/20261009175510/https://www.ilga.gov/legislation/ILCS/details?MajorTopic=&Chapter=&ActName=Election%20Code.&ActID=170&ChapterID=3&SeqStart=&&ChapAct=FullText",
+     "sha256": "966bc50c0726bf22ff072ac97915809f95a1b87c022a82c832ed0ee1f00467ae"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-10-5-article-0007",
+   "short": "10 ILCS 5 art. 7",
+   "title": "Illinois Compiled Statutes, Election Code (10 ILCS 5), Article 7",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=170",
+   "versions": [
+    {
+     "from": "2026-10-09",
+     "units": 85,
+     "source_url": "https://web.archive.org/web/20261009175510/https://www.ilga.gov/legislation/ILCS/details?MajorTopic=&Chapter=&ActName=Election%20Code.&ActID=170&ChapterID=3&SeqStart=&&ChapAct=FullText",
+     "sha256": "966bc50c0726bf22ff072ac97915809f95a1b87c022a82c832ed0ee1f00467ae"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-10-5-article-0007a",
+   "short": "10 ILCS 5 art. 7A",
+   "title": "Illinois Compiled Statutes, Election Code (10 ILCS 5), Article 7A",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=170",
+   "versions": [
+    {
+     "from": "2026-10-09",
+     "units": 1,
+     "source_url": "https://web.archive.org/web/20261009175510/https://www.ilga.gov/legislation/ILCS/details?MajorTopic=&Chapter=&ActName=Election%20Code.&ActID=170&ChapterID=3&SeqStart=&&ChapAct=FullText",
+     "sha256": "966bc50c0726bf22ff072ac97915809f95a1b87c022a82c832ed0ee1f00467ae"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-10-5-article-0008",
+   "short": "10 ILCS 5 art. 8",
+   "title": "Illinois Compiled Statutes, Election Code (10 ILCS 5), Article 8",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=170",
+   "versions": [
+    {
+     "from": "2026-10-09",
+     "units": 18,
+     "source_url": "https://web.archive.org/web/20261009175510/https://www.ilga.gov/legislation/ILCS/details?MajorTopic=&Chapter=&ActName=Election%20Code.&ActID=170&ChapterID=3&SeqStart=&&ChapAct=FullText",
+     "sha256": "966bc50c0726bf22ff072ac97915809f95a1b87c022a82c832ed0ee1f00467ae"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-10-5-article-0009",
+   "short": "10 ILCS 5 art. 9",
+   "title": "Illinois Compiled Statutes, Election Code (10 ILCS 5), Article 9",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=170",
+   "versions": [
+    {
+     "from": "2026-10-09",
+     "units": 60,
+     "source_url": "https://web.archive.org/web/20261009175510/https://www.ilga.gov/legislation/ILCS/details?MajorTopic=&Chapter=&ActName=Election%20Code.&ActID=170&ChapterID=3&SeqStart=&&ChapAct=FullText",
+     "sha256": "966bc50c0726bf22ff072ac97915809f95a1b87c022a82c832ed0ee1f00467ae"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-10-5-article-0010",
+   "short": "10 ILCS 5 art. 10",
+   "title": "Illinois Compiled Statutes, Election Code (10 ILCS 5), Article 10",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=170",
+   "versions": [
+    {
+     "from": "2026-10-09",
+     "units": 22,
+     "source_url": "https://web.archive.org/web/20261009175510/https://www.ilga.gov/legislation/ILCS/details?MajorTopic=&Chapter=&ActName=Election%20Code.&ActID=170&ChapterID=3&SeqStart=&&ChapAct=FullText",
+     "sha256": "966bc50c0726bf22ff072ac97915809f95a1b87c022a82c832ed0ee1f00467ae"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-10-5-article-0011",
+   "short": "10 ILCS 5 art. 11",
+   "title": "Illinois Compiled Statutes, Election Code (10 ILCS 5), Article 11",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=170",
+   "versions": [
+    {
+     "from": "2026-10-09",
+     "units": 13,
+     "source_url": "https://web.archive.org/web/20261009175510/https://www.ilga.gov/legislation/ILCS/details?MajorTopic=&Chapter=&ActName=Election%20Code.&ActID=170&ChapterID=3&SeqStart=&&ChapAct=FullText",
+     "sha256": "966bc50c0726bf22ff072ac97915809f95a1b87c022a82c832ed0ee1f00467ae"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-10-5-article-0012",
+   "short": "10 ILCS 5 art. 12",
+   "title": "Illinois Compiled Statutes, Election Code (10 ILCS 5), Article 12",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=170",
+   "versions": [
+    {
+     "from": "2026-10-09",
+     "units": 5,
+     "source_url": "https://web.archive.org/web/20261009175510/https://www.ilga.gov/legislation/ILCS/details?MajorTopic=&Chapter=&ActName=Election%20Code.&ActID=170&ChapterID=3&SeqStart=&&ChapAct=FullText",
+     "sha256": "966bc50c0726bf22ff072ac97915809f95a1b87c022a82c832ed0ee1f00467ae"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-10-5-article-0012a",
+   "short": "10 ILCS 5 art. 12A",
+   "title": "Illinois Compiled Statutes, Election Code (10 ILCS 5), Article 12A",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=170",
+   "versions": [
+    {
+     "from": "2026-10-09",
+     "units": 9,
+     "source_url": "https://web.archive.org/web/20261009175510/https://www.ilga.gov/legislation/ILCS/details?MajorTopic=&Chapter=&ActName=Election%20Code.&ActID=170&ChapterID=3&SeqStart=&&ChapAct=FullText",
+     "sha256": "966bc50c0726bf22ff072ac97915809f95a1b87c022a82c832ed0ee1f00467ae"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-10-5-article-0013",
+   "short": "10 ILCS 5 art. 13",
+   "title": "Illinois Compiled Statutes, Election Code (10 ILCS 5), Article 13",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=170",
+   "versions": [
+    {
+     "from": "2026-10-09",
+     "units": 20,
+     "source_url": "https://web.archive.org/web/20261009175510/https://www.ilga.gov/legislation/ILCS/details?MajorTopic=&Chapter=&ActName=Election%20Code.&ActID=170&ChapterID=3&SeqStart=&&ChapAct=FullText",
+     "sha256": "966bc50c0726bf22ff072ac97915809f95a1b87c022a82c832ed0ee1f00467ae"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-10-5-article-0014",
+   "short": "10 ILCS 5 art. 14",
+   "title": "Illinois Compiled Statutes, Election Code (10 ILCS 5), Article 14",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=170",
+   "versions": [
+    {
+     "from": "2026-10-09",
+     "units": 13,
+     "source_url": "https://web.archive.org/web/20261009175510/https://www.ilga.gov/legislation/ILCS/details?MajorTopic=&Chapter=&ActName=Election%20Code.&ActID=170&ChapterID=3&SeqStart=&&ChapAct=FullText",
+     "sha256": "966bc50c0726bf22ff072ac97915809f95a1b87c022a82c832ed0ee1f00467ae"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-10-5-article-0015",
+   "short": "10 ILCS 5 art. 15",
+   "title": "Illinois Compiled Statutes, Election Code (10 ILCS 5), Article 15",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=170",
+   "versions": [
+    {
+     "from": "2026-10-09",
+     "units": 5,
+     "source_url": "https://web.archive.org/web/20261009175510/https://www.ilga.gov/legislation/ILCS/details?MajorTopic=&Chapter=&ActName=Election%20Code.&ActID=170&ChapterID=3&SeqStart=&&ChapAct=FullText",
+     "sha256": "966bc50c0726bf22ff072ac97915809f95a1b87c022a82c832ed0ee1f00467ae"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-10-5-article-0016",
+   "short": "10 ILCS 5 art. 16",
+   "title": "Illinois Compiled Statutes, Election Code (10 ILCS 5), Article 16",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=170",
+   "versions": [
+    {
+     "from": "2026-10-09",
+     "units": 11,
+     "source_url": "https://web.archive.org/web/20261009175510/https://www.ilga.gov/legislation/ILCS/details?MajorTopic=&Chapter=&ActName=Election%20Code.&ActID=170&ChapterID=3&SeqStart=&&ChapAct=FullText",
+     "sha256": "966bc50c0726bf22ff072ac97915809f95a1b87c022a82c832ed0ee1f00467ae"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-10-5-article-0017",
+   "short": "10 ILCS 5 art. 17",
+   "title": "Illinois Compiled Statutes, Election Code (10 ILCS 5), Article 17",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=170",
+   "versions": [
+    {
+     "from": "2026-10-09",
+     "units": 39,
+     "source_url": "https://web.archive.org/web/20261009175510/https://www.ilga.gov/legislation/ILCS/details?MajorTopic=&Chapter=&ActName=Election%20Code.&ActID=170&ChapterID=3&SeqStart=&&ChapAct=FullText",
+     "sha256": "966bc50c0726bf22ff072ac97915809f95a1b87c022a82c832ed0ee1f00467ae"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-10-5-article-0018",
+   "short": "10 ILCS 5 art. 18",
+   "title": "Illinois Compiled Statutes, Election Code (10 ILCS 5), Article 18",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=170",
+   "versions": [
+    {
+     "from": "2026-10-09",
+     "units": 22,
+     "source_url": "https://web.archive.org/web/20261009175510/https://www.ilga.gov/legislation/ILCS/details?MajorTopic=&Chapter=&ActName=Election%20Code.&ActID=170&ChapterID=3&SeqStart=&&ChapAct=FullText",
+     "sha256": "966bc50c0726bf22ff072ac97915809f95a1b87c022a82c832ed0ee1f00467ae"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-10-5-article-0018a",
+   "short": "10 ILCS 5 art. 18A",
+   "title": "Illinois Compiled Statutes, Election Code (10 ILCS 5), Article 18A",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=170",
+   "versions": [
+    {
+     "from": "2026-10-09",
+     "units": 10,
+     "source_url": "https://web.archive.org/web/20261009175510/https://www.ilga.gov/legislation/ILCS/details?MajorTopic=&Chapter=&ActName=Election%20Code.&ActID=170&ChapterID=3&SeqStart=&&ChapAct=FullText",
+     "sha256": "966bc50c0726bf22ff072ac97915809f95a1b87c022a82c832ed0ee1f00467ae"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-10-5-article-0019",
+   "short": "10 ILCS 5 art. 19",
+   "title": "Illinois Compiled Statutes, Election Code (10 ILCS 5), Article 19",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=170",
+   "versions": [
+    {
+     "from": "2026-10-09",
+     "units": 25,
+     "source_url": "https://web.archive.org/web/20261009175510/https://www.ilga.gov/legislation/ILCS/details?MajorTopic=&Chapter=&ActName=Election%20Code.&ActID=170&ChapterID=3&SeqStart=&&ChapAct=FullText",
+     "sha256": "966bc50c0726bf22ff072ac97915809f95a1b87c022a82c832ed0ee1f00467ae"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-10-5-article-0019a",
+   "short": "10 ILCS 5 art. 19A",
+   "title": "Illinois Compiled Statutes, Election Code (10 ILCS 5), Article 19A",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=170",
+   "versions": [
+    {
+     "from": "2026-10-09",
+     "units": 18,
+     "source_url": "https://web.archive.org/web/20261009175510/https://www.ilga.gov/legislation/ILCS/details?MajorTopic=&Chapter=&ActName=Election%20Code.&ActID=170&ChapterID=3&SeqStart=&&ChapAct=FullText",
+     "sha256": "966bc50c0726bf22ff072ac97915809f95a1b87c022a82c832ed0ee1f00467ae"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-10-5-article-0020",
+   "short": "10 ILCS 5 art. 20",
+   "title": "Illinois Compiled Statutes, Election Code (10 ILCS 5), Article 20",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=170",
+   "versions": [
+    {
+     "from": "2026-10-09",
+     "units": 22,
+     "source_url": "https://web.archive.org/web/20261009175510/https://www.ilga.gov/legislation/ILCS/details?MajorTopic=&Chapter=&ActName=Election%20Code.&ActID=170&ChapterID=3&SeqStart=&&ChapAct=FullText",
+     "sha256": "966bc50c0726bf22ff072ac97915809f95a1b87c022a82c832ed0ee1f00467ae"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-10-5-article-0021",
+   "short": "10 ILCS 5 art. 21",
+   "title": "Illinois Compiled Statutes, Election Code (10 ILCS 5), Article 21",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=170",
+   "versions": [
+    {
+     "from": "2026-10-09",
+     "units": 5,
+     "source_url": "https://web.archive.org/web/20261009175510/https://www.ilga.gov/legislation/ILCS/details?MajorTopic=&Chapter=&ActName=Election%20Code.&ActID=170&ChapterID=3&SeqStart=&&ChapAct=FullText",
+     "sha256": "966bc50c0726bf22ff072ac97915809f95a1b87c022a82c832ed0ee1f00467ae"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-10-5-article-0022",
+   "short": "10 ILCS 5 art. 22",
+   "title": "Illinois Compiled Statutes, Election Code (10 ILCS 5), Article 22",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=170",
+   "versions": [
+    {
+     "from": "2026-10-09",
+     "units": 19,
+     "source_url": "https://web.archive.org/web/20261009175510/https://www.ilga.gov/legislation/ILCS/details?MajorTopic=&Chapter=&ActName=Election%20Code.&ActID=170&ChapterID=3&SeqStart=&&ChapAct=FullText",
+     "sha256": "966bc50c0726bf22ff072ac97915809f95a1b87c022a82c832ed0ee1f00467ae"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-10-5-article-0023",
+   "short": "10 ILCS 5 art. 23",
+   "title": "Illinois Compiled Statutes, Election Code (10 ILCS 5), Article 23",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=170",
+   "versions": [
+    {
+     "from": "2026-10-09",
+     "units": 42,
+     "source_url": "https://web.archive.org/web/20261009175510/https://www.ilga.gov/legislation/ILCS/details?MajorTopic=&Chapter=&ActName=Election%20Code.&ActID=170&ChapterID=3&SeqStart=&&ChapAct=FullText",
+     "sha256": "966bc50c0726bf22ff072ac97915809f95a1b87c022a82c832ed0ee1f00467ae"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-10-5-article-0024",
+   "short": "10 ILCS 5 art. 24",
+   "title": "Illinois Compiled Statutes, Election Code (10 ILCS 5), Article 24",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=170",
+   "versions": [
+    {
+     "from": "2026-10-09",
+     "units": 25,
+     "source_url": "https://web.archive.org/web/20261009175510/https://www.ilga.gov/legislation/ILCS/details?MajorTopic=&Chapter=&ActName=Election%20Code.&ActID=170&ChapterID=3&SeqStart=&&ChapAct=FullText",
+     "sha256": "966bc50c0726bf22ff072ac97915809f95a1b87c022a82c832ed0ee1f00467ae"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-10-5-article-0024a",
+   "short": "10 ILCS 5 art. 24A",
+   "title": "Illinois Compiled Statutes, Election Code (10 ILCS 5), Article 24A",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=170",
+   "versions": [
+    {
+     "from": "2026-10-09",
+     "units": 28,
+     "source_url": "https://web.archive.org/web/20261009175510/https://www.ilga.gov/legislation/ILCS/details?MajorTopic=&Chapter=&ActName=Election%20Code.&ActID=170&ChapterID=3&SeqStart=&&ChapAct=FullText",
+     "sha256": "966bc50c0726bf22ff072ac97915809f95a1b87c022a82c832ed0ee1f00467ae"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-10-5-article-0024b",
+   "short": "10 ILCS 5 art. 24B",
+   "title": "Illinois Compiled Statutes, Election Code (10 ILCS 5), Article 24B",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=170",
+   "versions": [
+    {
+     "from": "2026-10-09",
+     "units": 28,
+     "source_url": "https://web.archive.org/web/20261009175510/https://www.ilga.gov/legislation/ILCS/details?MajorTopic=&Chapter=&ActName=Election%20Code.&ActID=170&ChapterID=3&SeqStart=&&ChapAct=FullText",
+     "sha256": "966bc50c0726bf22ff072ac97915809f95a1b87c022a82c832ed0ee1f00467ae"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-10-5-article-0024c",
+   "short": "10 ILCS 5 art. 24C",
+   "title": "Illinois Compiled Statutes, Election Code (10 ILCS 5), Article 24C",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=170",
+   "versions": [
+    {
+     "from": "2026-10-09",
+     "units": 26,
+     "source_url": "https://web.archive.org/web/20261009175510/https://www.ilga.gov/legislation/ILCS/details?MajorTopic=&Chapter=&ActName=Election%20Code.&ActID=170&ChapterID=3&SeqStart=&&ChapAct=FullText",
+     "sha256": "966bc50c0726bf22ff072ac97915809f95a1b87c022a82c832ed0ee1f00467ae"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-10-5-article-0025",
+   "short": "10 ILCS 5 art. 25",
+   "title": "Illinois Compiled Statutes, Election Code (10 ILCS 5), Article 25",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=170",
+   "versions": [
+    {
+     "from": "2026-10-09",
+     "units": 11,
+     "source_url": "https://web.archive.org/web/20261009175510/https://www.ilga.gov/legislation/ILCS/details?MajorTopic=&Chapter=&ActName=Election%20Code.&ActID=170&ChapterID=3&SeqStart=&&ChapAct=FullText",
+     "sha256": "966bc50c0726bf22ff072ac97915809f95a1b87c022a82c832ed0ee1f00467ae"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-10-5-article-0028",
+   "short": "10 ILCS 5 art. 28",
+   "title": "Illinois Compiled Statutes, Election Code (10 ILCS 5), Article 28",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=170",
+   "versions": [
+    {
+     "from": "2026-10-09",
+     "units": 14,
+     "source_url": "https://web.archive.org/web/20261009175510/https://www.ilga.gov/legislation/ILCS/details?MajorTopic=&Chapter=&ActName=Election%20Code.&ActID=170&ChapterID=3&SeqStart=&&ChapAct=FullText",
+     "sha256": "966bc50c0726bf22ff072ac97915809f95a1b87c022a82c832ed0ee1f00467ae"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-10-5-article-0029",
+   "short": "10 ILCS 5 art. 29",
+   "title": "Illinois Compiled Statutes, Election Code (10 ILCS 5), Article 29",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=170",
+   "versions": [
+    {
+     "from": "2026-10-09",
+     "units": 20,
+     "source_url": "https://web.archive.org/web/20261009175510/https://www.ilga.gov/legislation/ILCS/details?MajorTopic=&Chapter=&ActName=Election%20Code.&ActID=170&ChapterID=3&SeqStart=&&ChapAct=FullText",
+     "sha256": "966bc50c0726bf22ff072ac97915809f95a1b87c022a82c832ed0ee1f00467ae"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-10-5-article-0029b",
+   "short": "10 ILCS 5 art. 29B",
+   "title": "Illinois Compiled Statutes, Election Code (10 ILCS 5), Article 29B",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=170",
+   "versions": [
+    {
+     "from": "2026-10-09",
+     "units": 7,
+     "source_url": "https://web.archive.org/web/20261009175510/https://www.ilga.gov/legislation/ILCS/details?MajorTopic=&Chapter=&ActName=Election%20Code.&ActID=170&ChapterID=3&SeqStart=&&ChapAct=FullText",
+     "sha256": "966bc50c0726bf22ff072ac97915809f95a1b87c022a82c832ed0ee1f00467ae"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-10-5-article-0029c",
+   "short": "10 ILCS 5 art. 29C",
+   "title": "Illinois Compiled Statutes, Election Code (10 ILCS 5), Article 29C",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=170",
+   "versions": [
+    {
+     "from": "2026-10-09",
+     "units": 3,
+     "source_url": "https://web.archive.org/web/20261009175510/https://www.ilga.gov/legislation/ILCS/details?MajorTopic=&Chapter=&ActName=Election%20Code.&ActID=170&ChapterID=3&SeqStart=&&ChapAct=FullText",
+     "sha256": "966bc50c0726bf22ff072ac97915809f95a1b87c022a82c832ed0ee1f00467ae"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-10-5-article-0030",
+   "short": "10 ILCS 5 art. 30",
+   "title": "Illinois Compiled Statutes, Election Code (10 ILCS 5), Article 30",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=170",
+   "versions": [
+    {
+     "from": "2026-10-09",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20261009175510/https://www.ilga.gov/legislation/ILCS/details?MajorTopic=&Chapter=&ActName=Election%20Code.&ActID=170&ChapterID=3&SeqStart=&&ChapAct=FullText",
+     "sha256": "966bc50c0726bf22ff072ac97915809f95a1b87c022a82c832ed0ee1f00467ae"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-10-20",
+   "short": "10 ILCS 20",
+   "title": "Illinois Compiled Statutes, Agreement Among the States to Elect the President by National Popular Vote Act (10 ILCS 20)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2963",
+   "versions": [
+    {
+     "from": "2026-05-14",
+     "units": 3,
+     "source_url": "https://web.archive.org/web/20260514021556/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2963&ChapterID=3&Chapter=ELECTIONS&MajorTopic=GOVERNMENT",
+     "sha256": "0d979be5151f355efbf6fc73e3e7bc5b075798255c046618b56a94bb50c7016a"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-10-77",
+   "short": "10 ILCS 77",
+   "title": "Illinois Compiled Statutes, Illinois Congressional Redistricting Act of 2011 (10 ILCS 77)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3345",
+   "versions": [
+    {
+     "from": "2026-04-11",
+     "units": 16,
+     "source_url": "https://web.archive.org/web/20260411043945/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3345&ChapterID=3&Chapter=ELECTIONS&MajorTopic=GOVERNMENT",
+     "sha256": "3863049ebe20efea31343793ec34feda5f81889dcc580ca25ab91b61c41d1a61"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-10-91",
+   "short": "10 ILCS 91",
+   "title": "Illinois Compiled Statutes, General Assembly Redistricting Act of 2011 (10 ILCS 91)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3339",
+   "versions": [
+    {
+     "from": "2026-05-12",
+     "units": 186,
+     "source_url": "https://web.archive.org/web/20260512141354/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3339&ChapterID=3",
+     "sha256": "f815410f66a9af451028d1d9263209f4ce9db00bc8cae0ec0df4f5bff73a083d"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-10-92",
+   "short": "10 ILCS 92",
+   "title": "Illinois Compiled Statutes, General Assembly Redistricting Act of 2021 (10 ILCS 92)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=4136",
+   "versions": [
+    {
+     "from": "2026-07-02",
+     "units": 10,
+     "source_url": "https://web.archive.org/web/20260702085654/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=4136&ChapterID=3",
+     "sha256": "44366792f070259fe3b3c3b0c767add39e36cebc9ca0ddc22b5e427363df0b80"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-10-107",
+   "short": "10 ILCS 107",
+   "title": "Illinois Compiled Statutes, Cook County Board of Review Redistricting Act of 2011 (10 ILCS 107)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3346",
+   "versions": [
+    {
+     "from": "2026-05-09",
+     "units": 8,
+     "source_url": "https://web.archive.org/web/20260509135100/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3346&ChapterID=3&Chapter=ELECTIONS&MajorTopic=GOVERNMENT",
+     "sha256": "65bc1595e502724840a576439da1f719fce54ebc396a06da0db083a71076944e"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-10-108",
+   "short": "10 ILCS 108",
+   "title": "Illinois Compiled Statutes, Cook County Board of Review Redistricting Act of 2021 (10 ILCS 108)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=4137",
+   "versions": [
+    {
+     "from": "2026-08-12",
+     "units": 9,
+     "source_url": "https://web.archive.org/web/20260812094231/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=4137&ChapterID=18",
+     "sha256": "a5045806758ee792d3ecf646737f4669e35f5a569b56635d1744dda53d9d857e"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-10-120-article-0005",
+   "short": "10 ILCS 120 art. 5",
+   "title": "Illinois Compiled Statutes, Illinois Voting Rights Act of 2011 (10 ILCS 120), Article 5",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3298",
+   "versions": [
+    {
+     "from": "2026-05-17",
+     "units": 4,
+     "source_url": "https://web.archive.org/web/20260517043419/https://www.ilga.gov/legislation/ILCS/details?MajorTopic=GOVERNMENT&Chapter=ELECTIONS&ActName=Illinois%20Voting%20Rights%20Act%20of%202011.&ActID=3298&ChapterID=3&SeqStart=&&ChapAct=FullText",
+     "sha256": "99bc1b91daf7fb4c496580524f6a6bce39418b093cb88c1e23ea12f67a06b815"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-10-120-article-0099",
+   "short": "10 ILCS 120 art. 99",
+   "title": "Illinois Compiled Statutes, Illinois Voting Rights Act of 2011 (10 ILCS 120), Article 99",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3298",
+   "versions": [
+    {
+     "from": "2026-05-17",
+     "units": 1,
+     "source_url": "https://web.archive.org/web/20260517043419/https://www.ilga.gov/legislation/ILCS/details?MajorTopic=GOVERNMENT&Chapter=ELECTIONS&ActName=Illinois%20Voting%20Rights%20Act%20of%202011.&ActID=3298&ChapterID=3&SeqStart=&&ChapAct=FullText",
+     "sha256": "99bc1b91daf7fb4c496580524f6a6bce39418b093cb88c1e23ea12f67a06b815"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-10-125-article-0010",
+   "short": "10 ILCS 125 art. 10",
+   "title": "Illinois Compiled Statutes, Redistricting Transparency and Public Participation Act (10 ILCS 125), Article 10",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3299",
+   "versions": [
+    {
+     "from": "2026-02-15",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20260215012845/https://www.ilga.gov/legislation/ILCS/details?MajorTopic=GOVERNMENT&Chapter=ELECTIONS&ActName=Redistricting%20Transparency%20and%20Public%20Participation%20Act.&ActID=3299&ChapterID=3&SeqStart=&&ChapAct=FullText",
+     "sha256": "abad0ddd0d4140446fba21490b79d955ab6194b038434be68e300e41f61d42ff"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-10-125-article-0099",
+   "short": "10 ILCS 125 art. 99",
+   "title": "Illinois Compiled Statutes, Redistricting Transparency and Public Participation Act (10 ILCS 125), Article 99",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3299",
+   "versions": [
+    {
+     "from": "2026-02-15",
+     "units": 1,
+     "source_url": "https://web.archive.org/web/20260215012845/https://www.ilga.gov/legislation/ILCS/details?MajorTopic=GOVERNMENT&Chapter=ELECTIONS&ActName=Redistricting%20Transparency%20and%20Public%20Participation%20Act.&ActID=3299&ChapterID=3&SeqStart=&&ChapAct=FullText",
+     "sha256": "abad0ddd0d4140446fba21490b79d955ab6194b038434be68e300e41f61d42ff"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-15-5",
+   "short": "15 ILCS 5",
+   "title": "Illinois Compiled Statutes, Governor Succession Act (15 ILCS 5)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=183",
+   "versions": [
+    {
+     "from": "2026-06-06",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20260606223710/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=183&ChapterID=4",
+     "sha256": "43b2694cf8d93010f9e503b56d809bcb40fe6216d4e73b88811715bdd5996849"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-15-30",
+   "short": "15 ILCS 30",
+   "title": "Illinois Compiled Statutes, Disaster Relief Act (15 ILCS 30)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=188",
+   "versions": [
+    {
+     "from": "2026-04-16",
+     "units": 3,
+     "source_url": "https://web.archive.org/web/20260416222248/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=188&ChapterID=4",
+     "sha256": "78f9f42bc90e8d91690e7514dd4294cf19ea6da11a504edc2d155400f82634ab"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-15-55",
+   "short": "15 ILCS 55",
+   "title": "Illinois Compiled Statutes, Governor's Office of New Americans Act (15 ILCS 55)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3514",
+   "versions": [
+    {
+     "from": "2026-09-01",
+     "units": 3,
+     "source_url": "https://web.archive.org/web/20260901033132/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3514&ChapterID=4",
+     "sha256": "5321b5efbee1fa3b96193dbb786e5473aecbc06175200ba27728611e4c1216ff"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-15-56",
+   "short": "15 ILCS 56",
+   "title": "Illinois Compiled Statutes, Language Equity and Access Act (15 ILCS 56)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=4526",
+   "versions": [
+    {
+     "from": "2026-04-25",
+     "units": 9,
+     "source_url": "https://web.archive.org/web/20260425090704/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=4526&ChapterID=4",
+     "sha256": "d50a722dec43e5aaaddb01e01b9debbc9c07b1ed33b350d394e6c0dcedc717c6"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-15-60",
+   "short": "15 ILCS 60",
+   "title": "Illinois Compiled Statutes, Youth Homelessness Prevention Subcommittee Act (15 ILCS 60)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=4004",
+   "versions": [
+    {
+     "from": "2026-02-14",
+     "units": 9,
+     "source_url": "https://web.archive.org/web/20260214172129/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=4004&ChapterID=4&Chapter=EXECUTIVE%20OFFICERS&MajorTopic=GOVERNMENT",
+     "sha256": "8703554e383c33498105b55adb8080043f376912a03add53d9db52ea330d2861"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-15-205",
+   "short": "15 ILCS 205",
+   "title": "Illinois Compiled Statutes, Attorney General Act (15 ILCS 205)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=193",
+   "versions": [
+    {
+     "from": "2026-05-13",
+     "units": 19,
+     "source_url": "https://web.archive.org/web/20260513002137/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=193&ChapterID=4",
+     "sha256": "62fd357e29b76f0d840a678f5c94d7e241bb1ffa5e8eca9f1a11736182d3e1ee"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-15-210",
+   "short": "15 ILCS 210",
+   "title": "Illinois Compiled Statutes, Civil and Equal Rights Enforcement Act (15 ILCS 210)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=194",
+   "versions": [
+    {
+     "from": "2026-06-28",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20260628225452/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=194&ChapterID=4",
+     "sha256": "9ef9905be34e26344a83920055d8d1174e928a1c108713765494319e177844ed"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-15-305",
+   "short": "15 ILCS 305",
+   "title": "Illinois Compiled Statutes, Secretary of State Act (15 ILCS 305)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=197",
+   "versions": [
+    {
+     "from": "2026-05-28",
+     "units": 36,
+     "source_url": "https://web.archive.org/web/20260528113347/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=197&ChapterID=4",
+     "sha256": "6b465b35b0539229e56850a18bb7dea1f6619e34bac96902d2592401b433882b"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-15-310",
+   "short": "15 ILCS 310",
+   "title": "Illinois Compiled Statutes, Secretary of State Merit Employment Code (15 ILCS 310)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=198",
+   "versions": [
+    {
+     "from": "2026-05-07",
+     "units": 61,
+     "source_url": "https://web.archive.org/web/20260507045307/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=198&ChapterID=4",
+     "sha256": "6a1db079bd3689309caea36232f8c78b65172be3e85efd45f96bc40c94522aff"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-15-320",
+   "short": "15 ILCS 320",
+   "title": "Illinois Compiled Statutes, State Library Act (15 ILCS 320)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=200",
+   "versions": [
+    {
+     "from": "2026-10-10",
+     "units": 19,
+     "source_url": "https://web.archive.org/web/20261010000322/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=200&ChapterID=4",
+     "sha256": "7717cd133248450d4c36610bffede5067bbc7336aeb3c6513a6e55442fd248ea"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-15-322",
+   "short": "15 ILCS 322",
+   "title": "Illinois Compiled Statutes, Illinois Literacy Act (15 ILCS 322)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=201",
+   "versions": [
+    {
+     "from": "2026-06-13",
+     "units": 10,
+     "source_url": "https://web.archive.org/web/20260613110954/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=201&ChapterID=4",
+     "sha256": "766e1637008cf359b3d41852fd9f71d6b20e0cd76e59e7fcd6cc7f5ba1df5225"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-15-323",
+   "short": "15 ILCS 323",
+   "title": "Illinois Compiled Statutes, Accessible Electronic Information Act (15 ILCS 323)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2588",
+   "versions": [
+    {
+     "from": "2026-05-02",
+     "units": 8,
+     "source_url": "https://web.archive.org/web/20260502223127/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2588&ChapterID=4",
+     "sha256": "41fdb15549f8fb81b7623e1b6d8f40f47a2cbe936f9009e09c627596f161828e"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-15-420",
+   "short": "15 ILCS 420",
+   "title": "Illinois Compiled Statutes, State Officer Salary Payment Act (15 ILCS 420)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=208",
+   "versions": [
+    {
+     "from": "2026-03-08",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20260308032031/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=208&ChapterID=4",
+     "sha256": "43ef0425038f7526b2a782ca40510a9b2e0607eb328ed9618d44c82214a8890f"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-15-425",
+   "short": "15 ILCS 425",
+   "title": "Illinois Compiled Statutes, Local Government Accounting Systems Act (15 ILCS 425)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=209",
+   "versions": [
+    {
+     "from": "2026-07-15",
+     "units": 3,
+     "source_url": "https://web.archive.org/web/20260715013251/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=209&ChapterID=4",
+     "sha256": "81a582e6f0156fe540dd12350f078d1f277bad80260021cc19981cddf5e2d2a9"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-15-510",
+   "short": "15 ILCS 510",
+   "title": "Illinois Compiled Statutes, State Treasurer Employment Code (15 ILCS 510)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=211",
+   "versions": [
+    {
+     "from": "2026-07-02",
+     "units": 37,
+     "source_url": "https://web.archive.org/web/20260702055727/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=211&ChapterID=4",
+     "sha256": "7f9e425fedb9178c380bcf3952f9f8518eff50500f4b1c81d2aba7697f10290b"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-15-516",
+   "short": "15 ILCS 516",
+   "title": "Illinois Compiled Statutes, Community Development Loan Guarantee Act (15 ILCS 516)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=4085",
+   "versions": [
+    {
+     "from": "2026-03-26",
+     "units": 11,
+     "source_url": "https://web.archive.org/web/20260326084441/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=4085&ChapterID=4",
+     "sha256": "76b3c6bd7edf05526f76fcce2b66340a5bf48a8988d4b9c6444abe95058692d6"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-15-520",
+   "short": "15 ILCS 520",
+   "title": "Illinois Compiled Statutes, Deposit of State Moneys Act (15 ILCS 520)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=213",
+   "versions": [
+    {
+     "from": "2026-05-19",
+     "units": 34,
+     "source_url": "https://web.archive.org/web/20260519143958/https://ilga.gov/Legislation/ILCS/Articles?ActID=213&ChapterID=4",
+     "sha256": "86d8ee7c37475d46d60014273bfa223707556df48d342bbae9384d32b6d4367e"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-15-530",
+   "short": "15 ILCS 530",
+   "title": "Illinois Compiled Statutes, Destruction of Indebtedness Certificates Act (15 ILCS 530)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=215",
+   "versions": [
+    {
+     "from": "2026-05-05",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20260505052832/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=215&ChapterID=4",
+     "sha256": "5d8a037090ad7cf484a715afb2f66ac9aaed456d57f986ec73d67c2af07d05c4"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-15-535",
+   "short": "15 ILCS 535",
+   "title": "Illinois Compiled Statutes, Mutilated Evidence of Indebtedness Act (15 ILCS 535)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=216",
+   "versions": [
+    {
+     "from": "2026-04-25",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20260425221156/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=216&ChapterID=4",
+     "sha256": "5616b08a879e8a3e8e0d8fab19f3c2637a40f57e26086563918ad37769cea990"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-15-555",
+   "short": "15 ILCS 555",
+   "title": "Illinois Compiled Statutes, Commemorative Medallions Act (15 ILCS 555)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=220",
+   "versions": [
+    {
+     "from": "2026-05-24",
+     "units": 5,
+     "source_url": "https://web.archive.org/web/20260524052351/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=220&ChapterID=4",
+     "sha256": "a2a829b4c50c7442803558de75ae0540d53221acf38967d0b878214f527bb223"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-15-560",
+   "short": "15 ILCS 560",
+   "title": "Illinois Compiled Statutes, Infrastructure Development Act (15 ILCS 560)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=4174",
+   "versions": [
+    {
+     "from": "2026-06-15",
+     "units": 7,
+     "source_url": "https://web.archive.org/web/20260615045046/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=4174&Chapter=EXECUTIVE+OFFICERS&ChapterID=4&MajorTopic=GOVERNMENT&",
+     "sha256": "5e405dd9ebe874a7264f2ec4e14c18605efbab771c0106be6eefa3fd53226d93"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-20-15",
+   "short": "20 ILCS 15",
+   "title": "Illinois Compiled Statutes, State Agency Entity Creation Act (20 ILCS 15)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=223",
+   "versions": [
+    {
+     "from": "2026-04-21",
+     "units": 4,
+     "source_url": "https://web.archive.org/web/20260421155411/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=223&ChapterID=5&Chapter=EXECUTIVE%20BRANCH&MajorTopic=GOVERNMENT",
+     "sha256": "a10ef2f10c0a9bea5ac0dc51e22b1e1ac29bd865737b6444560f660a293b4e43"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-20-20",
+   "short": "20 ILCS 20",
+   "title": "Illinois Compiled Statutes, Agency Energy Efficiency Act (20 ILCS 20)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2940",
+   "versions": [
+    {
+     "from": "2026-08-11",
+     "units": 6,
+     "source_url": "https://web.archive.org/web/20260811104602/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2940&ChapterID=5",
+     "sha256": "9a64c0f9c368f228b733321b75a489e55fe66bdf5cdef0bbd34344ba7a84643b"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-20-25",
+   "short": "20 ILCS 25",
+   "title": "Illinois Compiled Statutes, H+T Affordability Index Act (20 ILCS 25)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3259",
+   "versions": [
+    {
+     "from": "2026-02-08",
+     "units": 6,
+     "source_url": "https://web.archive.org/web/20260208054047/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3259&ChapterID=5&Chapter=EXECUTIVE%20BRANCH&MajorTopic=GOVERNMENT",
+     "sha256": "1fe8f54818f3b6ddb077acedf2470f675e3bd060b87204c7298a777584d239a2"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-20-30",
+   "short": "20 ILCS 30",
+   "title": "Illinois Compiled Statutes, African American Employment Plan Act (20 ILCS 30)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3265",
+   "versions": [
+    {
+     "from": "2026-05-21",
+     "units": 9,
+     "source_url": "https://web.archive.org/web/20260521211426/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3265&ChapterID=5&Chapter=EXECUTIVE%20BRANCH&MajorTopic=GOVERNMENT",
+     "sha256": "d4c4ec3611d5b6b53b245fa1be6cf7785dae90b732d324347c4888ec04358077"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-20-35",
+   "short": "20 ILCS 35",
+   "title": "Illinois Compiled Statutes, Government Electronic Records Act (20 ILCS 35)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3275",
+   "versions": [
+    {
+     "from": "2026-04-21",
+     "units": 11,
+     "source_url": "https://web.archive.org/web/20260421193412/https://www.ilga.gov/Legislation/ILCS/Articles?actid=3275&chapterid=5",
+     "sha256": "ea8c3eaa3d9b5b0b891e034feb241485f09b17c4df24d4ef6d12984697d4d867"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-20-40",
+   "short": "20 ILCS 40",
+   "title": "Illinois Compiled Statutes, Illinois Employment First Act (20 ILCS 40)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3499",
+   "versions": [
+    {
+     "from": "2026-03-31",
+     "units": 6,
+     "source_url": "https://web.archive.org/web/20260331140632/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3499&ChapterID=5",
+     "sha256": "4b4d3012af30e7d784b72bc869df6202a5e715890da0056501ab1566b936642a"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-20-65",
+   "short": "20 ILCS 65",
+   "title": "Illinois Compiled Statutes, Data Governance and Organization to Support Equity and Racial Justice Act (20 ILCS 65)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=4079",
+   "versions": [
+    {
+     "from": "2026-07-31",
+     "units": 6,
+     "source_url": "https://web.archive.org/web/20260731043210/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=4079&ChapterID=5",
+     "sha256": "19e13d3e5e486755f761521441446c91e7f622fbff8c3e504421ecfd164f78e3"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-20-105",
+   "short": "20 ILCS 105",
+   "title": "Illinois Compiled Statutes, Illinois Act on the Aging (20 ILCS 105)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=224",
+   "versions": [
+    {
+     "from": "2026-05-15",
+     "units": 82,
+     "source_url": "https://web.archive.org/web/20260515100718/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=224&ChapterID=5&Chapter=EXECUTIVE%20BRANCH&MajorTopic=GOVERNMENT",
+     "sha256": "74f4f67a16e5897c81f555de4fff91fdf05baac6ec393d76ac812fb611b4c190"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-20-110",
+   "short": "20 ILCS 110",
+   "title": "Illinois Compiled Statutes, Civil Administrative Code of Illinois. (Department on Aging Law) (20 ILCS 110)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=225",
+   "versions": [
+    {
+     "from": "2026-02-08",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20260208010047/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=225&ChapterID=5&Chapter=EXECUTIVE%20BRANCH&MajorTopic=GOVERNMENT",
+     "sha256": "5514a9331a30c26310f467ac9291198d177c0a9b10466c8ef48ecf08490b62fb"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-20-230",
+   "short": "20 ILCS 230",
+   "title": "Illinois Compiled Statutes, Biotechnology Sector Development Act (20 ILCS 230)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=231",
+   "versions": [
+    {
+     "from": "2026-05-15",
+     "units": 6,
+     "source_url": "https://web.archive.org/web/20260515115505/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=231&ChapterID=5",
+     "sha256": "988bf2b25f0f1d2f38596ad8a348b3f1b4a5348e936ea81fd925d83bc2d1be45"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-20-235",
+   "short": "20 ILCS 235",
+   "title": "Illinois Compiled Statutes, Illinois AgrAbility Act (20 ILCS 235)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2711",
+   "versions": [
+    {
+     "from": "2026-06-08",
+     "units": 9,
+     "source_url": "https://web.archive.org/web/20260608205037/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2711&ChapterID=5",
+     "sha256": "114ca2459197e0863d95af533e90c22efb0974d67ffd69657a96ee88660ecdc1"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-20-301-article-0001",
+   "short": "20 ILCS 301 art. 1",
+   "title": "Illinois Compiled Statutes, Substance Use Disorder Act (20 ILCS 301), Article 1",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=232",
+   "versions": [
+    {
+     "from": "2026-02-13",
+     "units": 3,
+     "source_url": "https://web.archive.org/web/20260213071206/https://www.ilga.gov/legislation/ILCS/details?MajorTopic=&Chapter=&ActName=Substance%20Use%20Disorder%20Act.&ActID=232&ChapterID=5&SeqStart=&&ChapAct=FullText",
+     "sha256": "557ff7adfdd2cb62ef808e65cf91b051cbbbb65ad5dd5a44d713e2b2c3d37adc"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-20-301-article-0005",
+   "short": "20 ILCS 301 art. 5",
+   "title": "Illinois Compiled Statutes, Substance Use Disorder Act (20 ILCS 301), Article 5",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=232",
+   "versions": [
+    {
+     "from": "2026-02-13",
+     "units": 8,
+     "source_url": "https://web.archive.org/web/20260213071206/https://www.ilga.gov/legislation/ILCS/details?MajorTopic=&Chapter=&ActName=Substance%20Use%20Disorder%20Act.&ActID=232&ChapterID=5&SeqStart=&&ChapAct=FullText",
+     "sha256": "557ff7adfdd2cb62ef808e65cf91b051cbbbb65ad5dd5a44d713e2b2c3d37adc"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-20-301-article-0010",
+   "short": "20 ILCS 301 art. 10",
+   "title": "Illinois Compiled Statutes, Substance Use Disorder Act (20 ILCS 301), Article 10",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=232",
+   "versions": [
+    {
+     "from": "2026-02-13",
+     "units": 12,
+     "source_url": "https://web.archive.org/web/20260213071206/https://www.ilga.gov/legislation/ILCS/details?MajorTopic=&Chapter=&ActName=Substance%20Use%20Disorder%20Act.&ActID=232&ChapterID=5&SeqStart=&&ChapAct=FullText",
+     "sha256": "557ff7adfdd2cb62ef808e65cf91b051cbbbb65ad5dd5a44d713e2b2c3d37adc"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-20-301-article-0015",
+   "short": "20 ILCS 301 art. 15",
+   "title": "Illinois Compiled Statutes, Substance Use Disorder Act (20 ILCS 301), Article 15",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=232",
+   "versions": [
+    {
+     "from": "2026-02-13",
+     "units": 9,
+     "source_url": "https://web.archive.org/web/20260213071206/https://www.ilga.gov/legislation/ILCS/details?MajorTopic=&Chapter=&ActName=Substance%20Use%20Disorder%20Act.&ActID=232&ChapterID=5&SeqStart=&&ChapAct=FullText",
+     "sha256": "557ff7adfdd2cb62ef808e65cf91b051cbbbb65ad5dd5a44d713e2b2c3d37adc"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-20-301-article-0020",
+   "short": "20 ILCS 301 art. 20",
+   "title": "Illinois Compiled Statutes, Substance Use Disorder Act (20 ILCS 301), Article 20",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=232",
+   "versions": [
+    {
+     "from": "2026-02-13",
+     "units": 6,
+     "source_url": "https://web.archive.org/web/20260213071206/https://www.ilga.gov/legislation/ILCS/details?MajorTopic=&Chapter=&ActName=Substance%20Use%20Disorder%20Act.&ActID=232&ChapterID=5&SeqStart=&&ChapAct=FullText",
+     "sha256": "557ff7adfdd2cb62ef808e65cf91b051cbbbb65ad5dd5a44d713e2b2c3d37adc"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-20-301-article-0025",
+   "short": "20 ILCS 301 art. 25",
+   "title": "Illinois Compiled Statutes, Substance Use Disorder Act (20 ILCS 301), Article 25",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=232",
+   "versions": [
+    {
+     "from": "2026-02-13",
+     "units": 4,
+     "source_url": "https://web.archive.org/web/20260213071206/https://www.ilga.gov/legislation/ILCS/details?MajorTopic=&Chapter=&ActName=Substance%20Use%20Disorder%20Act.&ActID=232&ChapterID=5&SeqStart=&&ChapAct=FullText",
+     "sha256": "557ff7adfdd2cb62ef808e65cf91b051cbbbb65ad5dd5a44d713e2b2c3d37adc"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-20-301-article-0030",
+   "short": "20 ILCS 301 art. 30",
+   "title": "Illinois Compiled Statutes, Substance Use Disorder Act (20 ILCS 301), Article 30",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=232",
+   "versions": [
+    {
+     "from": "2026-02-13",
+     "units": 1,
+     "source_url": "https://web.archive.org/web/20260213071206/https://www.ilga.gov/legislation/ILCS/details?MajorTopic=&Chapter=&ActName=Substance%20Use%20Disorder%20Act.&ActID=232&ChapterID=5&SeqStart=&&ChapAct=FullText",
+     "sha256": "557ff7adfdd2cb62ef808e65cf91b051cbbbb65ad5dd5a44d713e2b2c3d37adc"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-20-301-article-0035",
+   "short": "20 ILCS 301 art. 35",
+   "title": "Illinois Compiled Statutes, Substance Use Disorder Act (20 ILCS 301), Article 35",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=232",
+   "versions": [
+    {
+     "from": "2026-02-13",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20260213071206/https://www.ilga.gov/legislation/ILCS/details?MajorTopic=&Chapter=&ActName=Substance%20Use%20Disorder%20Act.&ActID=232&ChapterID=5&SeqStart=&&ChapAct=FullText",
+     "sha256": "557ff7adfdd2cb62ef808e65cf91b051cbbbb65ad5dd5a44d713e2b2c3d37adc"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-20-301-article-0040",
+   "short": "20 ILCS 301 art. 40",
+   "title": "Illinois Compiled Statutes, Substance Use Disorder Act (20 ILCS 301), Article 40",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=232",
+   "versions": [
+    {
+     "from": "2026-02-13",
+     "units": 4,
+     "source_url": "https://web.archive.org/web/20260213071206/https://www.ilga.gov/legislation/ILCS/details?MajorTopic=&Chapter=&ActName=Substance%20Use%20Disorder%20Act.&ActID=232&ChapterID=5&SeqStart=&&ChapAct=FullText",
+     "sha256": "557ff7adfdd2cb62ef808e65cf91b051cbbbb65ad5dd5a44d713e2b2c3d37adc"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-20-301-article-0045",
+   "short": "20 ILCS 301 art. 45",
+   "title": "Illinois Compiled Statutes, Substance Use Disorder Act (20 ILCS 301), Article 45",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=232",
+   "versions": [
+    {
+     "from": "2026-02-13",
+     "units": 11,
+     "source_url": "https://web.archive.org/web/20260213071206/https://www.ilga.gov/legislation/ILCS/details?MajorTopic=&Chapter=&ActName=Substance%20Use%20Disorder%20Act.&ActID=232&ChapterID=5&SeqStart=&&ChapAct=FullText",
+     "sha256": "557ff7adfdd2cb62ef808e65cf91b051cbbbb65ad5dd5a44d713e2b2c3d37adc"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-20-301-article-0050",
+   "short": "20 ILCS 301 art. 50",
+   "title": "Illinois Compiled Statutes, Substance Use Disorder Act (20 ILCS 301), Article 50",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=232",
+   "versions": [
+    {
+     "from": "2026-02-13",
+     "units": 7,
+     "source_url": "https://web.archive.org/web/20260213071206/https://www.ilga.gov/legislation/ILCS/details?MajorTopic=&Chapter=&ActName=Substance%20Use%20Disorder%20Act.&ActID=232&ChapterID=5&SeqStart=&&ChapAct=FullText",
+     "sha256": "557ff7adfdd2cb62ef808e65cf91b051cbbbb65ad5dd5a44d713e2b2c3d37adc"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-20-301-article-0055",
+   "short": "20 ILCS 301 art. 55",
+   "title": "Illinois Compiled Statutes, Substance Use Disorder Act (20 ILCS 301), Article 55",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=232",
+   "versions": [
+    {
+     "from": "2026-02-13",
+     "units": 10,
+     "source_url": "https://web.archive.org/web/20260213071206/https://www.ilga.gov/legislation/ILCS/details?MajorTopic=&Chapter=&ActName=Substance%20Use%20Disorder%20Act.&ActID=232&ChapterID=5&SeqStart=&&ChapAct=FullText",
+     "sha256": "557ff7adfdd2cb62ef808e65cf91b051cbbbb65ad5dd5a44d713e2b2c3d37adc"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-20-301-article-0090",
+   "short": "20 ILCS 301 art. 90",
+   "title": "Illinois Compiled Statutes, Substance Use Disorder Act (20 ILCS 301), Article 90",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=232",
+   "versions": [
+    {
+     "from": "2026-02-13",
+     "units": 1,
+     "source_url": "https://web.archive.org/web/20260213071206/https://www.ilga.gov/legislation/ILCS/details?MajorTopic=&Chapter=&ActName=Substance%20Use%20Disorder%20Act.&ActID=232&ChapterID=5&SeqStart=&&ChapAct=FullText",
+     "sha256": "557ff7adfdd2cb62ef808e65cf91b051cbbbb65ad5dd5a44d713e2b2c3d37adc"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-20-301-article-0095",
+   "short": "20 ILCS 301 art. 95",
+   "title": "Illinois Compiled Statutes, Substance Use Disorder Act (20 ILCS 301), Article 95",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=232",
+   "versions": [
+    {
+     "from": "2026-02-13",
+     "units": 1,
+     "source_url": "https://web.archive.org/web/20260213071206/https://www.ilga.gov/legislation/ILCS/details?MajorTopic=&Chapter=&ActName=Substance%20Use%20Disorder%20Act.&ActID=232&ChapterID=5&SeqStart=&&ChapAct=FullText",
+     "sha256": "557ff7adfdd2cb62ef808e65cf91b051cbbbb65ad5dd5a44d713e2b2c3d37adc"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-20-301-article-0099",
+   "short": "20 ILCS 301 art. 99",
+   "title": "Illinois Compiled Statutes, Substance Use Disorder Act (20 ILCS 301), Article 99",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=232",
+   "versions": [
+    {
+     "from": "2026-02-13",
+     "units": 1,
+     "source_url": "https://web.archive.org/web/20260213071206/https://www.ilga.gov/legislation/ILCS/details?MajorTopic=&Chapter=&ActName=Substance%20Use%20Disorder%20Act.&ActID=232&ChapterID=5&SeqStart=&&ChapAct=FullText",
+     "sha256": "557ff7adfdd2cb62ef808e65cf91b051cbbbb65ad5dd5a44d713e2b2c3d37adc"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-20-415",
+   "short": "20 ILCS 415",
+   "title": "Illinois Compiled Statutes, Personnel Code (20 ILCS 415)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=236",
+   "versions": [
+    {
+     "from": "2026-06-11",
+     "units": 70,
+     "source_url": "https://web.archive.org/web/20260611000450/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=236&ChapterID=5",
+     "sha256": "e1ad4141415c3a6f5b63dceb081e690e3de899d6e74165c1ac68cd9166504ab4"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-20-420",
+   "short": "20 ILCS 420",
+   "title": "Illinois Compiled Statutes, Local Personnel Program Assistance Act (20 ILCS 420)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=237",
+   "versions": [
+    {
+     "from": "2026-02-11",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20260211212042/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=237&ChapterID=5&Chapter=EXECUTIVE%20BRANCH&MajorTopic=GOVERNMENT",
+     "sha256": "b5d044a3fc28ce40fa0d34cc92b1e8dd053151f25187cef627679f64d66b4813"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-20-430",
+   "short": "20 ILCS 430",
+   "title": "Illinois Compiled Statutes, Federal Surplus Property Act (20 ILCS 430)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=238",
+   "versions": [
+    {
+     "from": "2026-05-13",
+     "units": 5,
+     "source_url": "https://web.archive.org/web/20260513154221/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=238&ChapterID=5&Chapter=EXECUTIVE%20BRANCH&MajorTopic=GOVERNMENT",
+     "sha256": "a55c6053be4b8871d5c800dfd0973d751b9a145f992359cf32e58748529a5f75"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-20-505",
+   "short": "20 ILCS 505",
+   "title": "Illinois Compiled Statutes, Children and Family Services Act (20 ILCS 505)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=242",
+   "versions": [
+    {
+     "from": "2026-05-15",
+     "units": 147,
+     "source_url": "https://web.archive.org/web/20260515012431/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=242&ChapterID=5&utm_source=chatgpt.com",
+     "sha256": "ba04b843097cac1363fab475cfe0ddc5ba3db7ec4bbe2136070ba3bf3f98cb47"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-20-510",
+   "short": "20 ILCS 510",
+   "title": "Illinois Compiled Statutes, Civil Administrative Code of Illinois. (Department of Children and Family Services Powers Law) (20 ILCS 510)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=243",
+   "versions": [
+    {
+     "from": "2026-06-02",
+     "units": 11,
+     "source_url": "https://web.archive.org/web/20260602223100/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=243&ChapterID=5",
+     "sha256": "de692c2672f789b3d89a43165030cc1a7677652644366b2305248abffdd39321"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-20-515",
+   "short": "20 ILCS 515",
+   "title": "Illinois Compiled Statutes, Child Death Review Team Act (20 ILCS 515)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=244",
+   "versions": [
+    {
+     "from": "2026-07-14",
+     "units": 20,
+     "source_url": "https://web.archive.org/web/20260714142348/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=244&ChapterID=5",
+     "sha256": "f8543feec37e04376dbf9f4b774d53a3ed75cb71942a0eb22beb8cf91b14ecb4"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-20-521",
+   "short": "20 ILCS 521",
+   "title": "Illinois Compiled Statutes, Foster Children's Bill of Rights Act (20 ILCS 521)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3658",
+   "versions": [
+    {
+     "from": "2026-04-26",
+     "units": 3,
+     "source_url": "https://web.archive.org/web/20260426151246/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3658&ChapterID=5",
+     "sha256": "c79d602fa616e59fab69fdb085047166f54a9c2e497158ef6f0ea298f0995fb7"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-20-522",
+   "short": "20 ILCS 522",
+   "title": "Illinois Compiled Statutes, Child Welfare Disclosure to Parents Act (20 ILCS 522)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=4622",
+   "versions": [
+    {
+     "from": "2026-05-12",
+     "units": 3,
+     "source_url": "https://web.archive.org/web/20260512092006/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=4622&ChapterID=5&Chapter=EXECUTIVE%20BRANCH&MajorTopic=GOVERNMENT",
+     "sha256": "a0ba91a3b8b65212f7d1702388db3169ad004eeb84db67336fb7448b04fd8367"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-20-527",
+   "short": "20 ILCS 527",
+   "title": "Illinois Compiled Statutes, Department of Children and Family Services Statewide Youth Advisory Board Act (20 ILCS 527)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3568",
+   "versions": [
+    {
+     "from": "2026-04-13",
+     "units": 9,
+     "source_url": "https://web.archive.org/web/20260413120828/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3568&ChapterID=5&Chapter=EXECUTIVE%20BRANCH&MajorTopic=GOVERNMENT",
+     "sha256": "3d1683a76f861ab0566459b54219216e701f7a95ad0a8b8d6b76c289c2643e39"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-20-530",
+   "short": "20 ILCS 530",
+   "title": "Illinois Compiled Statutes, DCFS Residential Services Construction Grant Program Act (20 ILCS 530)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3254",
+   "versions": [
+    {
+     "from": "2026-04-02",
+     "units": 7,
+     "source_url": "https://web.archive.org/web/20260402135301/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3254&ChapterID=5",
+     "sha256": "d932aef524f25e32113734f8859d76ff2b38c57f5b4482cb500ebc2b763987b8"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-20-535",
+   "short": "20 ILCS 535",
+   "title": "Illinois Compiled Statutes, Administration of Psychotropic Medications to Children Act (20 ILCS 535)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3357",
+   "versions": [
+    {
+     "from": "2026-03-15",
+     "units": 6,
+     "source_url": "https://web.archive.org/web/20260315141044/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3357&ChapterID=5&Chapter=EXECUTIVE%20BRANCH&MajorTopic=GOVERNMENT",
+     "sha256": "4baa4dbc5e2cde3a5a34ebd4dcf6fcf0e715a847bf005f9daab5fee2eaa6c9e4"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-20-540",
+   "short": "20 ILCS 540",
+   "title": "Illinois Compiled Statutes, Custody Relinquishment Prevention Act (20 ILCS 540)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3569",
+   "versions": [
+    {
+     "from": "2026-05-09",
+     "units": 8,
+     "source_url": "https://web.archive.org/web/20260509231552/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3569&ChapterID=5",
+     "sha256": "1b70aa5c9b5514f5f0228ba18b5be3632554db21faa119f8dfaba8f3005cb583"
+    }
+   ]
   }
  ]
 }

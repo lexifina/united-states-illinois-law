@@ -1,0 +1,67 @@
+# Illinois Compiled Statutes, Election Code (10 ILCS 5), Article 2A
+
+10 ILCS 5 art. 2A · 1 versions, from 2026-10-09 (latest in force: 2026-10-09) · <https://www.ilga.gov/Legislation/ILCS/Articles?ActID=170>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| 10 ILCS 5/2A-1 | [sec-0002a-0001.md](sec-0002a-0001.md) | 0 |  |
+| 10 ILCS 5/2A-1.1 | [sec-0002a-0001-0001.md](sec-0002a-0001-0001.md) | 0 |  |
+| 10 ILCS 5/2A-1.1a | [sec-0002a-0001-0001a.md](sec-0002a-0001-0001a.md) | 0 |  |
+| 10 ILCS 5/2A-1.1b | [sec-0002a-0001-0001b.md](sec-0002a-0001-0001b.md) | 0 |  |
+| 10 ILCS 5/2A-1.1c | [sec-0002a-0001-0001c.md](sec-0002a-0001-0001c.md) | 0 |  |
+| 10 ILCS 5/2A-1.2 | [sec-0002a-0001-0002.md](sec-0002a-0001-0002.md) | 0 |  |
+| 10 ILCS 5/2A-1.3 | [sec-0002a-0001-0003.md](sec-0002a-0001-0003.md) | 0 |  |
+| 10 ILCS 5/2A-1.4 | [sec-0002a-0001-0004.md](sec-0002a-0001-0004.md) | 0 |  |
+| 10 ILCS 5/2A-2 | [sec-0002a-0002.md](sec-0002a-0002.md) | 0 |  |
+| 10 ILCS 5/2A-3 | [sec-0002a-0003.md](sec-0002a-0003.md) | 0 |  |
+| 10 ILCS 5/2A-4 | [sec-0002a-0004.md](sec-0002a-0004.md) | 0 |  |
+| 10 ILCS 5/2A-5 | [sec-0002a-0005.md](sec-0002a-0005.md) | 0 |  |
+| 10 ILCS 5/2A-6 | [sec-0002a-0006.md](sec-0002a-0006.md) | 0 |  |
+| 10 ILCS 5/2A-7 | [sec-0002a-0007.md](sec-0002a-0007.md) | 0 |  |
+| 10 ILCS 5/2A-8 | [sec-0002a-0008.md](sec-0002a-0008.md) | 0 |  |
+| 10 ILCS 5/2A-9 | [sec-0002a-0009.md](sec-0002a-0009.md) | 0 |  |
+| 10 ILCS 5/2A-10 | [sec-0002a-0010.md](sec-0002a-0010.md) | 0 |  |
+| 10 ILCS 5/2A-10.1 | [sec-0002a-0010-0001.md](sec-0002a-0010-0001.md) | 0 |  |
+| 10 ILCS 5/2A-11 | [sec-0002a-0011.md](sec-0002a-0011.md) | 0 |  |
+| 10 ILCS 5/2A-12 | [sec-0002a-0012.md](sec-0002a-0012.md) | 0 |  |
+| 10 ILCS 5/2A-13 | [sec-0002a-0013.md](sec-0002a-0013.md) | 0 |  |
+| 10 ILCS 5/2A-14 | [sec-0002a-0014.md](sec-0002a-0014.md) | 0 |  |
+| 10 ILCS 5/2A-15 | [sec-0002a-0015.md](sec-0002a-0015.md) | 0 |  |
+| 10 ILCS 5/2A-16 | [sec-0002a-0016.md](sec-0002a-0016.md) | 0 |  |
+| 10 ILCS 5/2A-17 | [sec-0002a-0017.md](sec-0002a-0017.md) | 0 |  |
+| 10 ILCS 5/2A-18 | [sec-0002a-0018.md](sec-0002a-0018.md) | 0 |  |
+| 10 ILCS 5/2A-19 | [sec-0002a-0019.md](sec-0002a-0019.md) | 0 |  |
+| 10 ILCS 5/2A-20 | [sec-0002a-0020.md](sec-0002a-0020.md) | 0 |  |
+| 10 ILCS 5/2A-21 | [sec-0002a-0021.md](sec-0002a-0021.md) | 0 |  |
+| 10 ILCS 5/2A-22 | [sec-0002a-0022.md](sec-0002a-0022.md) | 0 |  |
+| 10 ILCS 5/2A-23 | [sec-0002a-0023.md](sec-0002a-0023.md) | 0 |  |
+| 10 ILCS 5/2A-24 | [sec-0002a-0024.md](sec-0002a-0024.md) | 0 |  |
+| 10 ILCS 5/2A-25 | [sec-0002a-0025.md](sec-0002a-0025.md) | 0 |  |
+| 10 ILCS 5/2A-26 | [sec-0002a-0026.md](sec-0002a-0026.md) | 0 |  |
+| 10 ILCS 5/2A-27 | [sec-0002a-0027.md](sec-0002a-0027.md) | 0 |  |
+| 10 ILCS 5/2A-28 | [sec-0002a-0028.md](sec-0002a-0028.md) | 0 |  |
+| 10 ILCS 5/2A-29 | [sec-0002a-0029.md](sec-0002a-0029.md) | 0 |  |
+| 10 ILCS 5/2A-30 | [sec-0002a-0030.md](sec-0002a-0030.md) | 0 |  |
+| 10 ILCS 5/2A-30a | [sec-0002a-0030a.md](sec-0002a-0030a.md) | 0 |  |
+| 10 ILCS 5/2A-31 | [sec-0002a-0031.md](sec-0002a-0031.md) | 0 |  |
+| 10 ILCS 5/2A-32 | [sec-0002a-0032.md](sec-0002a-0032.md) | 0 |  |
+| 10 ILCS 5/2A-33 | [sec-0002a-0033.md](sec-0002a-0033.md) | 0 |  |
+| 10 ILCS 5/2A-34 | [sec-0002a-0034.md](sec-0002a-0034.md) | 0 |  |
+| 10 ILCS 5/2A-36 | [sec-0002a-0036.md](sec-0002a-0036.md) | 0 |  |
+| 10 ILCS 5/2A-37 | [sec-0002a-0037.md](sec-0002a-0037.md) | 0 |  |
+| 10 ILCS 5/2A-38 | [sec-0002a-0038.md](sec-0002a-0038.md) | 0 |  |
+| 10 ILCS 5/2A-39 | [sec-0002a-0039.md](sec-0002a-0039.md) | 0 |  |
+| 10 ILCS 5/2A-40 | [sec-0002a-0040.md](sec-0002a-0040.md) | 0 |  |
+| 10 ILCS 5/2A-41 | [sec-0002a-0041.md](sec-0002a-0041.md) | 0 |  |
+| 10 ILCS 5/2A-43 | [sec-0002a-0043.md](sec-0002a-0043.md) | 0 |  |
+| 10 ILCS 5/2A-44 | [sec-0002a-0044.md](sec-0002a-0044.md) | 0 |  |
+| 10 ILCS 5/2A-45 | [sec-0002a-0045.md](sec-0002a-0045.md) | 0 |  |
+| 10 ILCS 5/2A-46 | [sec-0002a-0046.md](sec-0002a-0046.md) | 0 |  |
+| 10 ILCS 5/2A-48 | [sec-0002a-0048.md](sec-0002a-0048.md) | 0 |  |
+| 10 ILCS 5/2A-49 | [sec-0002a-0049.md](sec-0002a-0049.md) | 0 |  |
+| 10 ILCS 5/2A-50 | [sec-0002a-0050.md](sec-0002a-0050.md) | 0 |  |
+| 10 ILCS 5/2A-51 | [sec-0002a-0051.md](sec-0002a-0051.md) | 0 |  |
+| 10 ILCS 5/2A-52 | [sec-0002a-0052.md](sec-0002a-0052.md) | 0 |  |
+| 10 ILCS 5/2A-53 | [sec-0002a-0053.md](sec-0002a-0053.md) | 0 |  |
+| 10 ILCS 5/2A-54 | [sec-0002a-0054.md](sec-0002a-0054.md) | 0 |  |
+| 10 ILCS 5/2A-55 | [sec-0002a-0055.md](sec-0002a-0055.md) | 0 |  |
