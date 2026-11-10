@@ -47,6 +47,10 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `ilcs-5-80` | Illinois Compiled Statutes, Regulatory Sunset Act (5 ILCS 80) | 1 | 2026-06-16 to 2026-06-16 |
 | `ilcs-5-85` | Illinois Compiled Statutes, Statutes Savings (1874) Act (5 ILCS 85) | 1 | 2026-06-16 to 2026-06-16 |
 | `ilcs-5-90` | Illinois Compiled Statutes, Gender-Neutral Statutes Commission Act (5 ILCS 90) | 1 | 2026-02-18 to 2026-02-18 |
+| `ilcs-5-100-article-0001` | Illinois Compiled Statutes, Illinois Administrative Procedure Act (5 ILCS 100), Article 1 | 1 | 2026-03-03 to 2026-03-03 |
+| `ilcs-5-100-article-0005` | Illinois Compiled Statutes, Illinois Administrative Procedure Act (5 ILCS 100), Article 5 | 1 | 2026-03-03 to 2026-03-03 |
+| `ilcs-5-100-article-0010` | Illinois Compiled Statutes, Illinois Administrative Procedure Act (5 ILCS 100), Article 10 | 1 | 2026-03-03 to 2026-03-03 |
+| `ilcs-5-100-article-0015` | Illinois Compiled Statutes, Illinois Administrative Procedure Act (5 ILCS 100), Article 15 | 1 | 2026-03-03 to 2026-03-03 |
 | `ilcs-5-120` | Illinois Compiled Statutes, Open Meetings Act (5 ILCS 120) | 1 | 2026-10-14 to 2026-10-14 |
 | `ilcs-5-140` | Illinois Compiled Statutes, Freedom of Information Act (5 ILCS 140) | 1 | 2026-10-22 to 2026-10-22 |
 | `ilcs-5-160` | Illinois Compiled Statutes, State Records Act (5 ILCS 160) | 1 | 2026-06-11 to 2026-06-11 |
@@ -74,12 +78,39 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `ilcs-5-283` | Illinois Compiled Statutes, Public Corruption Profit Forfeiture Act (5 ILCS 283) | 1 | 2026-02-18 to 2026-02-18 |
 | `ilcs-5-285` | Illinois Compiled Statutes, Employee Rights Violation Act (5 ILCS 285) | 1 | 2026-06-22 to 2026-06-22 |
 | `ilcs-5-290` | Illinois Compiled Statutes, Salaries Act (5 ILCS 290) | 1 | 2026-02-07 to 2026-02-07 |
+| `ilcs-5-295` | Illinois Compiled Statutes, Assigned Appellate Judges Salary Act (5 ILCS 295) | 1 | 2026-08-03 to 2026-08-03 |
+| `ilcs-5-300` | Illinois Compiled Statutes, Circuit Court Judges Travel Expense Act (5 ILCS 300) | 1 | 2026-02-18 to 2026-02-18 |
+| `ilcs-5-305` | Illinois Compiled Statutes, Employment of Detectives by Public Officials Act (5 ILCS 305) | 1 | 2026-04-12 to 2026-04-12 |
+| `ilcs-5-308` | Illinois Compiled Statutes, Human Voice Contact Act (5 ILCS 308) | 1 | 2026-09-02 to 2026-09-02 |
+| `ilcs-5-310` | Illinois Compiled Statutes, Gender Balanced Appointments Act (5 ILCS 310) | 1 | 2026-02-18 to 2026-02-18 |
+| `ilcs-5-312-article-0001` | Illinois Compiled Statutes, Illinois Notary Public Act (5 ILCS 312), Article 1 | 1 | 2026-03-15 to 2026-03-15 |
+| `ilcs-5-312-article-0002` | Illinois Compiled Statutes, Illinois Notary Public Act (5 ILCS 312), Article 2 | 1 | 2026-03-15 to 2026-03-15 |
+| `ilcs-5-312-article-0003` | Illinois Compiled Statutes, Illinois Notary Public Act (5 ILCS 312), Article 3 | 1 | 2026-03-15 to 2026-03-15 |
+| `ilcs-5-312-article-0004` | Illinois Compiled Statutes, Illinois Notary Public Act (5 ILCS 312), Article 4 | 1 | 2026-03-15 to 2026-03-15 |
+| `ilcs-5-312-article-0005` | Illinois Compiled Statutes, Illinois Notary Public Act (5 ILCS 312), Article 5 | 1 | 2026-03-15 to 2026-03-15 |
+| `ilcs-5-312-article-0006` | Illinois Compiled Statutes, Illinois Notary Public Act (5 ILCS 312), Article 6 | 1 | 2026-03-15 to 2026-03-15 |
+| `ilcs-5-312-article-0006a` | Illinois Compiled Statutes, Illinois Notary Public Act (5 ILCS 312), Article 6A | 1 | 2026-03-15 to 2026-03-15 |
+| `ilcs-5-312-article-0007` | Illinois Compiled Statutes, Illinois Notary Public Act (5 ILCS 312), Article 7 | 1 | 2026-03-15 to 2026-03-15 |
+| `ilcs-5-312-article-0008` | Illinois Compiled Statutes, Illinois Notary Public Act (5 ILCS 312), Article 8 | 1 | 2026-03-15 to 2026-03-15 |
+| `ilcs-5-315` | Illinois Compiled Statutes, Illinois Public Labor Relations Act (5 ILCS 315) | 1 | 2026-02-18 to 2026-02-18 |
+| `ilcs-5-323` | Illinois Compiled Statutes, Firefighter Training Leave of Absence Act (5 ILCS 323) | 1 | 2026-07-06 to 2026-07-06 |
+| `ilcs-5-327` | Illinois Compiled Statutes, Organ Donor Leave Act (5 ILCS 327) | 1 | 2026-02-16 to 2026-02-16 |
+| `ilcs-5-335` | Illinois Compiled Statutes, Disaster Service Volunteer Leave Act (5 ILCS 335) | 1 | 2026-07-19 to 2026-07-19 |
+| `ilcs-5-340` | Illinois Compiled Statutes, Voluntary Payroll Deductions Act of 1983 (5 ILCS 340) | 1 | 2026-02-07 to 2026-02-07 |
+| `ilcs-5-345` | Illinois Compiled Statutes, Public Employee Disability Act (5 ILCS 345) | 1 | 2026-03-15 to 2026-03-15 |
+| `ilcs-5-347` | Illinois Compiled Statutes, Public Official Safety and Privacy Act (5 ILCS 347) | 1 | 2026-02-18 to 2026-02-18 |
+| `ilcs-5-350` | Illinois Compiled Statutes, State Employee Indemnification Act (5 ILCS 350) | 1 | 2026-09-26 to 2026-09-26 |
+| `ilcs-5-360` | Illinois Compiled Statutes, State Employee Vacation Time Act (5 ILCS 360) | 1 | 2026-02-18 to 2026-02-18 |
+| `ilcs-5-365` | Illinois Compiled Statutes, State Salary and Annuity Withholding Act (5 ILCS 365) | 1 | 2026-06-06 to 2026-06-06 |
+| `ilcs-5-370` | Illinois Compiled Statutes, State Employee Prevailing Wage Act (5 ILCS 370) | 1 | 2026-07-08 to 2026-07-08 |
+| `ilcs-5-375` | Illinois Compiled Statutes, State Employees Group Insurance Act of 1971 (5 ILCS 375) | 1 | 2026-02-18 to 2026-02-18 |
+| `ilcs-5-377` | Illinois Compiled Statutes, State Employee Health Savings Account Law (5 ILCS 377) | 1 | 2026-03-07 to 2026-03-07 |
 
-The build made 59 commits:
+The build made 90 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 59 | first version of an act |
+| 90 | first version of an act |
 | 0 | one law on its in-force day |
 | 0 | changes no amendment note explains, credited to the publisher |
 
@@ -87,7 +118,7 @@ Other counts:
 - 0 commits on the branch `future`: laws not yet in force on 2026-11-10.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
 - 0 laws in the record.
-- 59 tags.
+- 90 tags.
 
 ## Dates
 
@@ -99,7 +130,7 @@ When a law gives no date of its own, the default rule applies: No dated history 
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `ed3ae1301ab4b7241f092f41749cecadf4ec65a08bf9315f6d9af6920618d54b` (631534 bytes).
+- Corpus: sha256 `9f74b91f425aac0c4d689ff105e7ea2d7d6d87a73a5219b480bce31f8e782107` (1132046 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `3024ff164c261807dfc4d5b7b1b4a2cde4357da1`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.12.10; git version 2.46.0.windows.1.
 

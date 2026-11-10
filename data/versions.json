@@ -450,6 +450,62 @@
    ]
   },
   {
+   "slug": "ilcs-5-100-article-0001",
+   "short": "5 ILCS 100 art. 1",
+   "title": "Illinois Compiled Statutes, Illinois Administrative Procedure Act (5 ILCS 100), Article 1",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=83",
+   "versions": [
+    {
+     "from": "2026-03-03",
+     "units": 19,
+     "source_url": "https://web.archive.org/web/20260303033251/https://www.ilga.gov/legislation/ILCS/details?MajorTopic=GOVERNMENT&Chapter=GENERAL%20PROVISIONS&ActName=Illinois%20Administrative%20Procedure%20Act.&ActID=83&ChapterID=2&SeqStart=&&ChapAct=FullText",
+     "sha256": "ee2554797ab73e5a2c32918faca85fba152e6e1a4e22cf1c5ea5b3f3a2002690"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-5-100-article-0005",
+   "short": "5 ILCS 100 art. 5",
+   "title": "Illinois Compiled Statutes, Illinois Administrative Procedure Act (5 ILCS 100), Article 5",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=83",
+   "versions": [
+    {
+     "from": "2026-03-03",
+     "units": 102,
+     "source_url": "https://web.archive.org/web/20260303033251/https://www.ilga.gov/legislation/ILCS/details?MajorTopic=GOVERNMENT&Chapter=GENERAL%20PROVISIONS&ActName=Illinois%20Administrative%20Procedure%20Act.&ActID=83&ChapterID=2&SeqStart=&&ChapAct=FullText",
+     "sha256": "ee2554797ab73e5a2c32918faca85fba152e6e1a4e22cf1c5ea5b3f3a2002690"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-5-100-article-0010",
+   "short": "5 ILCS 100 art. 10",
+   "title": "Illinois Compiled Statutes, Illinois Administrative Procedure Act (5 ILCS 100), Article 10",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=83",
+   "versions": [
+    {
+     "from": "2026-03-03",
+     "units": 17,
+     "source_url": "https://web.archive.org/web/20260303033251/https://www.ilga.gov/legislation/ILCS/details?MajorTopic=GOVERNMENT&Chapter=GENERAL%20PROVISIONS&ActName=Illinois%20Administrative%20Procedure%20Act.&ActID=83&ChapterID=2&SeqStart=&&ChapAct=FullText",
+     "sha256": "ee2554797ab73e5a2c32918faca85fba152e6e1a4e22cf1c5ea5b3f3a2002690"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-5-100-article-0015",
+   "short": "5 ILCS 100 art. 15",
+   "title": "Illinois Compiled Statutes, Illinois Administrative Procedure Act (5 ILCS 100), Article 15",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=83",
+   "versions": [
+    {
+     "from": "2026-03-03",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20260303033251/https://www.ilga.gov/legislation/ILCS/details?MajorTopic=GOVERNMENT&Chapter=GENERAL%20PROVISIONS&ActName=Illinois%20Administrative%20Procedure%20Act.&ActID=83&ChapterID=2&SeqStart=&&ChapAct=FullText",
+     "sha256": "ee2554797ab73e5a2c32918faca85fba152e6e1a4e22cf1c5ea5b3f3a2002690"
+    }
+   ]
+  },
+  {
    "slug": "ilcs-5-120",
    "short": "5 ILCS 120",
    "title": "Illinois Compiled Statutes, Open Meetings Act (5 ILCS 120)",
@@ -824,6 +880,384 @@
      "units": 11,
      "source_url": "https://web.archive.org/web/20260207004933/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=102&ChapterID=2&Chapter=GENERAL%20PROVISIONS&MajorTopic=GOVERNMENT",
      "sha256": "10d8fbcddb2b500bd337598449e4c6712764efc47f2530bfab68b70ecc715479"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-5-295",
+   "short": "5 ILCS 295",
+   "title": "Illinois Compiled Statutes, Assigned Appellate Judges Salary Act (5 ILCS 295)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=103",
+   "versions": [
+    {
+     "from": "2026-08-03",
+     "units": 3,
+     "source_url": "https://web.archive.org/web/20260803182431/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=103&ChapterID=2",
+     "sha256": "19833a988f68e87ebd56aceefaccd8734579d3064005baa69320a87009e68878"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-5-300",
+   "short": "5 ILCS 300",
+   "title": "Illinois Compiled Statutes, Circuit Court Judges Travel Expense Act (5 ILCS 300)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=104",
+   "versions": [
+    {
+     "from": "2026-02-18",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20260218204358/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=104&ChapterID=2&Chapter=GENERAL%20PROVISIONS&MajorTopic=GOVERNMENT",
+     "sha256": "797207946d2c3ec4f65d6910169b65c5ed60a563b0da114340a73393ee28501e"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-5-305",
+   "short": "5 ILCS 305",
+   "title": "Illinois Compiled Statutes, Employment of Detectives by Public Officials Act (5 ILCS 305)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=105",
+   "versions": [
+    {
+     "from": "2026-04-12",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20260412063611/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=105&ChapterID=2",
+     "sha256": "962e7107e49ae15ab718f8df2538a76d43599e2495167f786176a03db16daf25"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-5-308",
+   "short": "5 ILCS 308",
+   "title": "Illinois Compiled Statutes, Human Voice Contact Act (5 ILCS 308)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2740",
+   "versions": [
+    {
+     "from": "2026-09-02",
+     "units": 5,
+     "source_url": "https://web.archive.org/web/20260902163328/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2740&ChapterID=2",
+     "sha256": "8c00ef222c86a230ff5c0560418fd034d89423283c69e4a3295e2da6ff954bd0"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-5-310",
+   "short": "5 ILCS 310",
+   "title": "Illinois Compiled Statutes, Gender Balanced Appointments Act (5 ILCS 310)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=106",
+   "versions": [
+    {
+     "from": "2026-02-18",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20260218204616/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=106&ChapterID=2&Chapter=GENERAL%20PROVISIONS&MajorTopic=GOVERNMENT",
+     "sha256": "d0cc70062a1508767c8e8542eccbf4cd3a7627a397f34579dc3a8a4aa0d3d496"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-5-312-article-0001",
+   "short": "5 ILCS 312 art. 1",
+   "title": "Illinois Compiled Statutes, Illinois Notary Public Act (5 ILCS 312), Article 1",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=107",
+   "versions": [
+    {
+     "from": "2026-03-15",
+     "units": 6,
+     "source_url": "https://web.archive.org/web/20260315052304/https://www.ilga.gov/legislation/ILCS/details?MajorTopic=GOVERNMENT&Chapter=GENERAL%20PROVISIONS&ActName=Illinois%20Notary%20Public%20Act.&ActID=107&ChapterID=2&SeqStart=&&ChapAct=FullText",
+     "sha256": "00de6fbe287a357df3c60229910e1ab241893e11fe8dd0e287cdaf15e11fe58b"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-5-312-article-0002",
+   "short": "5 ILCS 312 art. 2",
+   "title": "Illinois Compiled Statutes, Illinois Notary Public Act (5 ILCS 312), Article 2",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=107",
+   "versions": [
+    {
+     "from": "2026-03-15",
+     "units": 11,
+     "source_url": "https://web.archive.org/web/20260315052304/https://www.ilga.gov/legislation/ILCS/details?MajorTopic=GOVERNMENT&Chapter=GENERAL%20PROVISIONS&ActName=Illinois%20Notary%20Public%20Act.&ActID=107&ChapterID=2&SeqStart=&&ChapAct=FullText",
+     "sha256": "00de6fbe287a357df3c60229910e1ab241893e11fe8dd0e287cdaf15e11fe58b"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-5-312-article-0003",
+   "short": "5 ILCS 312 art. 3",
+   "title": "Illinois Compiled Statutes, Illinois Notary Public Act (5 ILCS 312), Article 3",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=107",
+   "versions": [
+    {
+     "from": "2026-03-15",
+     "units": 8,
+     "source_url": "https://web.archive.org/web/20260315052304/https://www.ilga.gov/legislation/ILCS/details?MajorTopic=GOVERNMENT&Chapter=GENERAL%20PROVISIONS&ActName=Illinois%20Notary%20Public%20Act.&ActID=107&ChapterID=2&SeqStart=&&ChapAct=FullText",
+     "sha256": "00de6fbe287a357df3c60229910e1ab241893e11fe8dd0e287cdaf15e11fe58b"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-5-312-article-0004",
+   "short": "5 ILCS 312 art. 4",
+   "title": "Illinois Compiled Statutes, Illinois Notary Public Act (5 ILCS 312), Article 4",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=107",
+   "versions": [
+    {
+     "from": "2026-03-15",
+     "units": 1,
+     "source_url": "https://web.archive.org/web/20260315052304/https://www.ilga.gov/legislation/ILCS/details?MajorTopic=GOVERNMENT&Chapter=GENERAL%20PROVISIONS&ActName=Illinois%20Notary%20Public%20Act.&ActID=107&ChapterID=2&SeqStart=&&ChapAct=FullText",
+     "sha256": "00de6fbe287a357df3c60229910e1ab241893e11fe8dd0e287cdaf15e11fe58b"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-5-312-article-0005",
+   "short": "5 ILCS 312 art. 5",
+   "title": "Illinois Compiled Statutes, Illinois Notary Public Act (5 ILCS 312), Article 5",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=107",
+   "versions": [
+    {
+     "from": "2026-03-15",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20260315052304/https://www.ilga.gov/legislation/ILCS/details?MajorTopic=GOVERNMENT&Chapter=GENERAL%20PROVISIONS&ActName=Illinois%20Notary%20Public%20Act.&ActID=107&ChapterID=2&SeqStart=&&ChapAct=FullText",
+     "sha256": "00de6fbe287a357df3c60229910e1ab241893e11fe8dd0e287cdaf15e11fe58b"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-5-312-article-0006",
+   "short": "5 ILCS 312 art. 6",
+   "title": "Illinois Compiled Statutes, Illinois Notary Public Act (5 ILCS 312), Article 6",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=107",
+   "versions": [
+    {
+     "from": "2026-03-15",
+     "units": 6,
+     "source_url": "https://web.archive.org/web/20260315052304/https://www.ilga.gov/legislation/ILCS/details?MajorTopic=GOVERNMENT&Chapter=GENERAL%20PROVISIONS&ActName=Illinois%20Notary%20Public%20Act.&ActID=107&ChapterID=2&SeqStart=&&ChapAct=FullText",
+     "sha256": "00de6fbe287a357df3c60229910e1ab241893e11fe8dd0e287cdaf15e11fe58b"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-5-312-article-0006a",
+   "short": "5 ILCS 312 art. 6A",
+   "title": "Illinois Compiled Statutes, Illinois Notary Public Act (5 ILCS 312), Article 6A",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=107",
+   "versions": [
+    {
+     "from": "2026-03-15",
+     "units": 6,
+     "source_url": "https://web.archive.org/web/20260315052304/https://www.ilga.gov/legislation/ILCS/details?MajorTopic=GOVERNMENT&Chapter=GENERAL%20PROVISIONS&ActName=Illinois%20Notary%20Public%20Act.&ActID=107&ChapterID=2&SeqStart=&&ChapAct=FullText",
+     "sha256": "00de6fbe287a357df3c60229910e1ab241893e11fe8dd0e287cdaf15e11fe58b"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-5-312-article-0007",
+   "short": "5 ILCS 312 art. 7",
+   "title": "Illinois Compiled Statutes, Illinois Notary Public Act (5 ILCS 312), Article 7",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=107",
+   "versions": [
+    {
+     "from": "2026-03-15",
+     "units": 10,
+     "source_url": "https://web.archive.org/web/20260315052304/https://www.ilga.gov/legislation/ILCS/details?MajorTopic=GOVERNMENT&Chapter=GENERAL%20PROVISIONS&ActName=Illinois%20Notary%20Public%20Act.&ActID=107&ChapterID=2&SeqStart=&&ChapAct=FullText",
+     "sha256": "00de6fbe287a357df3c60229910e1ab241893e11fe8dd0e287cdaf15e11fe58b"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-5-312-article-0008",
+   "short": "5 ILCS 312 art. 8",
+   "title": "Illinois Compiled Statutes, Illinois Notary Public Act (5 ILCS 312), Article 8",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=107",
+   "versions": [
+    {
+     "from": "2026-03-15",
+     "units": 4,
+     "source_url": "https://web.archive.org/web/20260315052304/https://www.ilga.gov/legislation/ILCS/details?MajorTopic=GOVERNMENT&Chapter=GENERAL%20PROVISIONS&ActName=Illinois%20Notary%20Public%20Act.&ActID=107&ChapterID=2&SeqStart=&&ChapAct=FullText",
+     "sha256": "00de6fbe287a357df3c60229910e1ab241893e11fe8dd0e287cdaf15e11fe58b"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-5-315",
+   "short": "5 ILCS 315",
+   "title": "Illinois Compiled Statutes, Illinois Public Labor Relations Act (5 ILCS 315)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=108",
+   "versions": [
+    {
+     "from": "2026-02-18",
+     "units": 34,
+     "source_url": "https://web.archive.org/web/20260218204931/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=108&ChapterID=2&Chapter=GENERAL%20PROVISIONS&MajorTopic=GOVERNMENT",
+     "sha256": "809de06a15e144e7a11e8798a8ac68118e9e09951ec6beefbd4ee01b1c358360"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-5-323",
+   "short": "5 ILCS 323",
+   "title": "Illinois Compiled Statutes, Firefighter Training Leave of Absence Act (5 ILCS 323)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=4418",
+   "versions": [
+    {
+     "from": "2026-07-06",
+     "units": 4,
+     "source_url": "https://web.archive.org/web/20260706015651/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=4418&ChapterID=2",
+     "sha256": "93456b7a82a774947823053490471224fddc22902f0a9160fd3e21976bd7b005"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-5-327",
+   "short": "5 ILCS 327",
+   "title": "Illinois Compiled Statutes, Organ Donor Leave Act (5 ILCS 327)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=111",
+   "versions": [
+    {
+     "from": "2026-02-16",
+     "units": 5,
+     "source_url": "https://web.archive.org/web/20260216110850/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=111&ChapterID=2&Chapter=GENERAL%20PROVISIONS&MajorTopic=GOVERNMENT",
+     "sha256": "0a01d2902b3dbecc3ad45434c108b1bc9e4def5b5e31942144cea83c557d302e"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-5-335",
+   "short": "5 ILCS 335",
+   "title": "Illinois Compiled Statutes, Disaster Service Volunteer Leave Act (5 ILCS 335)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=113",
+   "versions": [
+    {
+     "from": "2026-07-19",
+     "units": 3,
+     "source_url": "https://web.archive.org/web/20260719133953/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=113&ChapterID=2",
+     "sha256": "620efe2249f523a5f12f4530213b10d4d4ef97cc41fea7f2f9161e33561cfece"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-5-340",
+   "short": "5 ILCS 340",
+   "title": "Illinois Compiled Statutes, Voluntary Payroll Deductions Act of 1983 (5 ILCS 340)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=114",
+   "versions": [
+    {
+     "from": "2026-02-07",
+     "units": 9,
+     "source_url": "https://web.archive.org/web/20260207011212/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=114&ChapterID=2&Chapter=GENERAL%20PROVISIONS&MajorTopic=GOVERNMENT",
+     "sha256": "ff72ab6545f4f20105e052d4db912b65d0e030234f7a20f39bc0243fbe2b6312"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-5-345",
+   "short": "5 ILCS 345",
+   "title": "Illinois Compiled Statutes, Public Employee Disability Act (5 ILCS 345)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=115",
+   "versions": [
+    {
+     "from": "2026-03-15",
+     "units": 3,
+     "source_url": "https://web.archive.org/web/20260315051030/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=115&ChapterID=2",
+     "sha256": "c7aa0d573e6b246219550ce3c00ee8f830dca6382848823f8fcf00224dcfdedc"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-5-347",
+   "short": "5 ILCS 347",
+   "title": "Illinois Compiled Statutes, Public Official Safety and Privacy Act (5 ILCS 347)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=4647",
+   "versions": [
+    {
+     "from": "2026-02-18",
+     "units": 16,
+     "source_url": "https://web.archive.org/web/20260218220604/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=4647&ChapterID=2&Chapter=GENERAL%20PROVISIONS&MajorTopic=GOVERNMENT",
+     "sha256": "3cda5fc23632395d980cd79e5e156ba516f7f78088e055363fa46cb385264d66"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-5-350",
+   "short": "5 ILCS 350",
+   "title": "Illinois Compiled Statutes, State Employee Indemnification Act (5 ILCS 350)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=116",
+   "versions": [
+    {
+     "from": "2026-09-26",
+     "units": 4,
+     "source_url": "https://web.archive.org/web/20260926054900/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=116&ChapterID=2&Chapter=GENERAL%20PROVISIONS&MajorTopic=GOVERNMENT",
+     "sha256": "cc789e20ab12bb389e43435f1aea2c796d20cc93a321af17ede6062b8eaeeedc"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-5-360",
+   "short": "5 ILCS 360",
+   "title": "Illinois Compiled Statutes, State Employee Vacation Time Act (5 ILCS 360)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=117",
+   "versions": [
+    {
+     "from": "2026-02-18",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20260218210544/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=117&ChapterID=2&Chapter=GENERAL%20PROVISIONS&MajorTopic=GOVERNMENT",
+     "sha256": "8bc591be601cd8f3121900dca5e88309c6682e32cfe14858b2da9e284ce043c2"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-5-365",
+   "short": "5 ILCS 365",
+   "title": "Illinois Compiled Statutes, State Salary and Annuity Withholding Act (5 ILCS 365)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=118",
+   "versions": [
+    {
+     "from": "2026-06-06",
+     "units": 10,
+     "source_url": "https://web.archive.org/web/20260606133109/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=118&ChapterID=2",
+     "sha256": "cf3000e19876b1520e1aeca74eb090131332896f4397cd7d36725c08097f7e26"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-5-370",
+   "short": "5 ILCS 370",
+   "title": "Illinois Compiled Statutes, State Employee Prevailing Wage Act (5 ILCS 370)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=119",
+   "versions": [
+    {
+     "from": "2026-07-08",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20260708184526/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=119&ChapterID=2",
+     "sha256": "0192fb4e927fb2db5d17961fc5e36a09c62ee6df587c98aefd8685ba17adb4e1"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-5-375",
+   "short": "5 ILCS 375",
+   "title": "Illinois Compiled Statutes, State Employees Group Insurance Act of 1971 (5 ILCS 375)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=120",
+   "versions": [
+    {
+     "from": "2026-02-18",
+     "units": 45,
+     "source_url": "https://web.archive.org/web/20260218211833/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=120&ChapterID=2&Chapter=GENERAL%20PROVISIONS&MajorTopic=GOVERNMENT",
+     "sha256": "55518be7c7d5e0da69d5ae342a4a8f0d887e6e9731a013965f457d94b9f3b85d"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-5-377",
+   "short": "5 ILCS 377",
+   "title": "Illinois Compiled Statutes, State Employee Health Savings Account Law (5 ILCS 377)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3351",
+   "versions": [
+    {
+     "from": "2026-03-07",
+     "units": 5,
+     "source_url": "https://web.archive.org/web/20260307155033/https://www.ilga.gov/legislation/ILCS/details?MajorTopic=GOVERNMENT&Chapter=GENERAL%20PROVISIONS&ActName=State%20Employee%20Health%20Savings%20Account%20Law.&ActID=3351&ChapterID=2&SeqStart=&&ChapAct=FullText",
+     "sha256": "8f54fc4959220ba0b015c5e132781e147df8a4292d69fe00046b4013d0573520"
     }
    ]
   }
