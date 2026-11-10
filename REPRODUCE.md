@@ -399,12 +399,116 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `ilcs-20-3953` | Illinois Compiled Statutes, Government Buildings Energy Cost Reduction Act of 1991 (20 ILCS 3953) | 1 | 2026-04-10 to 2026-04-10 |
 | `ilcs-20-3955` | Illinois Compiled Statutes, Guardianship and Advocacy Act (20 ILCS 3955) | 1 | 2026-08-01 to 2026-08-01 |
 | `ilcs-20-3960` | Illinois Compiled Statutes, Illinois Health Facilities Planning Act (20 ILCS 3960) | 1 | 2026-06-13 to 2026-06-13 |
+| `ilcs-20-3988` | Illinois Compiled Statutes, Local Legacy Act (20 ILCS 3988) | 1 | 2026-04-16 to 2026-04-16 |
+| `ilcs-20-4007` | Illinois Compiled Statutes, Persons with Disabilities on State Agency Boards Act (20 ILCS 4007) | 1 | 2026-04-15 to 2026-04-15 |
+| `ilcs-20-4028` | Illinois Compiled Statutes, Violence Prevention Task Force Act (20 ILCS 4028) | 1 | 2026-04-19 to 2026-04-19 |
+| `ilcs-20-4040` | Illinois Compiled Statutes, Social Security Number Protection Task Force Act (20 ILCS 4040) | 1 | 2026-02-08 to 2026-02-08 |
+| `ilcs-20-4050` | Illinois Compiled Statutes, Hospital Basic Services Preservation Act (20 ILCS 4050) | 1 | 2026-03-10 to 2026-03-10 |
+| `ilcs-20-4085` | Illinois Compiled Statutes, Commission to Study Disproportionate Justice Impact Act (20 ILCS 4085) | 1 | 2026-06-05 to 2026-06-05 |
+| `ilcs-20-4090` | Illinois Compiled Statutes, Illinois Plain Language Task Force Act (20 ILCS 4090) | 1 | 2026-08-21 to 2026-08-21 |
+| `ilcs-20-4095` | Illinois Compiled Statutes, Employment and Economic Opportunity for Persons with Disabilities Task Force Act (20 ILCS 4095) | 1 | 2026-08-15 to 2026-08-15 |
+| `ilcs-20-4100` | Illinois Compiled Statutes, Resentencing Task Force Act (20 ILCS 4100) | 1 | 2026-02-14 to 2026-02-14 |
+| `ilcs-20-4106` | Illinois Compiled Statutes, Domestic Violence Task Force Act (20 ILCS 4106) | 1 | 2026-08-02 to 2026-08-02 |
+| `ilcs-20-4109` | Illinois Compiled Statutes, Commission on Equitable Public University Funding Act (20 ILCS 4109) | 1 | 2026-05-17 to 2026-05-17 |
+| `ilcs-20-4113` | Illinois Compiled Statutes, Real Estate Valuation Task Force Act (20 ILCS 4113) | 1 | 2026-05-13 to 2026-05-13 |
+| `ilcs-20-4115` | Illinois Compiled Statutes, Agriculture Equity Commission Act (20 ILCS 4115) | 1 | 2026-04-16 to 2026-04-16 |
+| `ilcs-20-4116` | Illinois Compiled Statutes, Blue-Ribbon Commission on Transportation Infrastructure Funding and Policy Act (20 ILCS 4116) | 1 | 2026-07-05 to 2026-07-05 |
+| `ilcs-20-4118` | Illinois Compiled Statutes, Renewable Energy Component Recycling Task Force Act (20 ILCS 4118) | 1 | 2026-08-21 to 2026-08-21 |
+| `ilcs-20-4119` | Illinois Compiled Statutes, Task Force on Missing and Murdered Chicago Women Act (20 ILCS 4119) | 1 | 2026-08-02 to 2026-08-02 |
+| `ilcs-20-4120` | Illinois Compiled Statutes, Illinois South Asian American Advisory Council Act (20 ILCS 4120) | 1 | 2026-07-21 to 2026-07-21 |
+| `ilcs-20-4122` | Illinois Compiled Statutes, Hydrogen Economy Act (20 ILCS 4122) | 1 | 2026-05-30 to 2026-05-30 |
+| `ilcs-20-4126` | Illinois Compiled Statutes, Community Land Trust Task Force Act (20 ILCS 4126) | 1 | 2026-02-24 to 2026-02-24 |
+| `ilcs-20-4129` | Illinois Compiled Statutes, Task Force for a Healing-Centered Illinois Act (20 ILCS 4129) | 1 | 2026-03-27 to 2026-03-27 |
+| `ilcs-20-4130` | Illinois Compiled Statutes, Legacy Tree Program Task Force Act (20 ILCS 4130) | 1 | 2026-06-17 to 2026-06-17 |
+| `ilcs-20-4131` | Illinois Compiled Statutes, Increasing Representation of Women in Technology Task Force Act (20 ILCS 4131) | 1 | 2026-02-15 to 2026-02-15 |
+| `ilcs-20-4133` | Illinois Compiled Statutes, Family Recovery Plans Implementation Task Force Act (20 ILCS 4133) | 1 | 2026-05-13 to 2026-05-13 |
+| `ilcs-20-4134` | Illinois Compiled Statutes, Community-Based Corrections Task Force Act (20 ILCS 4134) | 1 | 2026-03-31 to 2026-03-31 |
+| `ilcs-20-4139` | Illinois Compiled Statutes, Task Force on Eliminating Food Deserts Act (20 ILCS 4139) | 1 | 2026-02-16 to 2026-02-16 |
+| `ilcs-20-4140` | Illinois Compiled Statutes, Interagency Coordinating Committee on Transit Innovation, Integration, and Reform Act (20 ILCS 4140) | 1 | 2026-02-16 to 2026-02-16 |
+| `ilcs-20-5015` | Illinois Compiled Statutes, Commission to End Hunger Act (20 ILCS 5015) | 1 | 2026-04-16 to 2026-04-16 |
+| `ilcs-20-5040` | Illinois Compiled Statutes, Statewide Centralized Abuse, Neglect, Financial Exploitation, and Self-Neglect Hotline Act (20 ILCS 5040) | 1 | 2026-09-05 to 2026-09-05 |
+| `ilcs-20-5060` | Illinois Compiled Statutes, Women's Business Ownership Act of 2015 (20 ILCS 5060) | 1 | 2026-05-12 to 2026-05-12 |
+| `ilcs-20-5110` | Illinois Compiled Statutes, Illinois Muslim American Advisory Council Act (20 ILCS 5110) | 1 | 2026-10-22 to 2026-10-22 |
+| `ilcs-20-5145` | Illinois Compiled Statutes, Task Force on Infant and Maternal Mortality Among African Americans Act (20 ILCS 5145) | 1 | 2026-08-10 to 2026-08-10 |
+| `ilcs-20-5170` | Illinois Compiled Statutes, Special Commission on Gynecologic Cancers Act (20 ILCS 5170) | 1 | 2026-04-23 to 2026-04-23 |
+| `ilcs-25-50` | Illinois Compiled Statutes, Fiscal Note Act (25 ILCS 50) | 1 | 2026-05-22 to 2026-05-22 |
+| `ilcs-25-55` | Illinois Compiled Statutes, Pension Impact Note Act (25 ILCS 55) | 1 | 2026-06-16 to 2026-06-16 |
+| `ilcs-25-60` | Illinois Compiled Statutes, Judicial Note Act (25 ILCS 60) | 1 | 2026-05-15 to 2026-05-15 |
+| `ilcs-25-75` | Illinois Compiled Statutes, Home Rule Note Act (25 ILCS 75) | 1 | 2026-09-04 to 2026-09-04 |
+| `ilcs-25-85` | Illinois Compiled Statutes, Legislative Commission Hearing Act (25 ILCS 85) | 1 | 2026-02-03 to 2026-02-03 |
+| `ilcs-25-150` | Illinois Compiled Statutes, Legislative Audit Commission Act (25 ILCS 150) | 1 | 2026-04-17 to 2026-04-17 |
+| `ilcs-25-155` | Illinois Compiled Statutes, Commission on Government Forecasting and Accountability Act (25 ILCS 155) | 1 | 2026-07-26 to 2026-07-26 |
+| `ilcs-25-170` | Illinois Compiled Statutes, Lobbyist Registration Act (25 ILCS 170) | 1 | 2026-04-25 to 2026-04-25 |
+| `ilcs-30-5-article-0001` | Illinois Compiled Statutes, Illinois State Auditing Act (30 ILCS 5), Article 1 | 1 | 2026-03-05 to 2026-03-05 |
+| `ilcs-30-5-article-0002` | Illinois Compiled Statutes, Illinois State Auditing Act (30 ILCS 5), Article 2 | 1 | 2026-03-05 to 2026-03-05 |
+| `ilcs-30-5-article-0003` | Illinois Compiled Statutes, Illinois State Auditing Act (30 ILCS 5), Article 3 | 1 | 2026-03-05 to 2026-03-05 |
+| `ilcs-30-5-article-0006` | Illinois Compiled Statutes, Illinois State Auditing Act (30 ILCS 5), Article 6 | 1 | 2026-03-05 to 2026-03-05 |
+| `ilcs-30-10` | Illinois Compiled Statutes, Fiscal Control and Internal Auditing Act (30 ILCS 10) | 1 | 2026-06-10 to 2026-06-10 |
+| `ilcs-30-105` | Illinois Compiled Statutes, State Finance Act (30 ILCS 105) | 1 | 2026-05-08 to 2026-05-08 |
+| `ilcs-30-110` | Illinois Compiled Statutes, Gifts and Grants to Government Act (30 ILCS 110) | 1 | 2026-08-21 to 2026-08-21 |
+| `ilcs-30-120` | Illinois Compiled Statutes, Agricultural Fair Act (30 ILCS 120) | 1 | 2026-08-28 to 2026-08-28 |
+| `ilcs-30-122` | Illinois Compiled Statutes, Budget Stabilization Act (30 ILCS 122) | 1 | 2026-03-31 to 2026-03-31 |
+| `ilcs-30-125` | Illinois Compiled Statutes, Environmental Protection Trust Fund Act (30 ILCS 125) | 1 | 2026-04-09 to 2026-04-09 |
+| `ilcs-30-150` | Illinois Compiled Statutes, Natural Heritage Fund Act (30 ILCS 150) | 1 | 2026-04-18 to 2026-04-18 |
+| `ilcs-30-160` | Illinois Compiled Statutes, Public Use Trust Act (30 ILCS 160) | 1 | 2026-05-20 to 2026-05-20 |
+| `ilcs-30-167` | Illinois Compiled Statutes, Tobacco Products Manufacturers' Escrow Enforcement Act of 2003 (30 ILCS 167) | 1 | 2026-02-06 to 2026-02-06 |
+| `ilcs-30-188-article-0001` | Illinois Compiled Statutes, FY2011 Budget Implementation (Finance) Act (30 ILCS 188), Article 1 | 1 | 2026-02-10 to 2026-02-10 |
+| `ilcs-30-188-article-0095` | Illinois Compiled Statutes, FY2011 Budget Implementation (Finance) Act (30 ILCS 188), Article 95 | 1 | 2026-02-10 to 2026-02-10 |
+| `ilcs-30-188-article-0099` | Illinois Compiled Statutes, FY2011 Budget Implementation (Finance) Act (30 ILCS 188), Article 99 | 1 | 2026-02-10 to 2026-02-10 |
+| `ilcs-30-212` | Illinois Compiled Statutes, State Treasurer's Bank Services Trust Fund Act (30 ILCS 212) | 1 | 2026-05-14 to 2026-05-14 |
+| `ilcs-30-230` | Illinois Compiled Statutes, State Officers and Employees Money Disposition Act (30 ILCS 230) | 1 | 2026-08-04 to 2026-08-04 |
+| `ilcs-30-238` | Illinois Compiled Statutes, Illinois Sustainable Investing Act (30 ILCS 238) | 1 | 2026-05-14 to 2026-05-14 |
+| `ilcs-30-245` | Illinois Compiled Statutes, Payments for Governmental Services Act (30 ILCS 245) | 1 | 2026-04-15 to 2026-04-15 |
+| `ilcs-30-255` | Illinois Compiled Statutes, Federal Commodity Disbursement Act (30 ILCS 255) | 1 | 2026-05-26 to 2026-05-26 |
+| `ilcs-30-260` | Illinois Compiled Statutes, State Employee Illinois Workers' Compensation Commission Awards Act (30 ILCS 260) | 1 | 2026-07-28 to 2026-07-28 |
+| `ilcs-30-310` | Illinois Compiled Statutes, Registered Bond Act (30 ILCS 310) | 1 | 2026-05-14 to 2026-05-14 |
+| `ilcs-30-320` | Illinois Compiled Statutes, Uniform Facsimile Signature of Public Officials Act (30 ILCS 320) | 1 | 2026-07-26 to 2026-07-26 |
+| `ilcs-30-345` | Illinois Compiled Statutes, Illinois Private Activity Bond Allocation Act (30 ILCS 345) | 1 | 2026-08-30 to 2026-08-30 |
+| `ilcs-30-346` | Illinois Compiled Statutes, Private Activity Bond Approval Act (30 ILCS 346) | 1 | 2026-02-28 to 2026-02-28 |
+| `ilcs-30-350` | Illinois Compiled Statutes, Local Government Debt Reform Act (30 ILCS 350) | 1 | 2026-06-23 to 2026-06-23 |
+| `ilcs-30-365` | Illinois Compiled Statutes, Revenue Producing Commercial Paper Act (30 ILCS 365) | 1 | 2026-05-23 to 2026-05-23 |
+| `ilcs-30-385` | Illinois Compiled Statutes, Motor Fuel Tax Fund Bond Act (30 ILCS 385) | 1 | 2026-04-09 to 2026-04-09 |
+| `ilcs-30-390` | Illinois Compiled Statutes, School Construction Bond Act (30 ILCS 390) | 1 | 2026-04-23 to 2026-04-23 |
+| `ilcs-30-430` | Illinois Compiled Statutes, Retirement Savings Act (30 ILCS 430) | 1 | 2026-08-19 to 2026-08-19 |
+| `ilcs-30-520` | Illinois Compiled Statutes, Public Purchases in Other States Act (30 ILCS 520) | 1 | 2026-05-09 to 2026-05-09 |
+| `ilcs-30-525` | Illinois Compiled Statutes, Governmental Joint Purchasing Act (30 ILCS 525) | 1 | 2026-05-21 to 2026-05-21 |
+| `ilcs-30-532` | Illinois Compiled Statutes, Government Zero-Emission Vehicle Act (30 ILCS 532) | 1 | 2026-04-25 to 2026-04-25 |
+| `ilcs-30-535` | Illinois Compiled Statutes, Architectural, Engineering, and Land Surveying Qualifications Based Selection Act (30 ILCS 535) | 1 | 2026-06-07 to 2026-06-07 |
+| `ilcs-30-538` | Illinois Compiled Statutes, Progressive Design-Build Pilot Program Act (30 ILCS 538) | 1 | 2026-05-21 to 2026-05-21 |
+| `ilcs-30-550` | Illinois Compiled Statutes, Public Construction Bond Act (30 ILCS 550) | 1 | 2026-04-20 to 2026-04-20 |
+| `ilcs-30-561` | Illinois Compiled Statutes, Airport and Correctional Facility Land Disclosure Act (30 ILCS 561) | 1 | 2026-04-06 to 2026-04-06 |
+| `ilcs-30-562` | Illinois Compiled Statutes, State Real Property Leasing Act (30 ILCS 562) | 1 | 2026-04-16 to 2026-04-16 |
+| `ilcs-30-570` | Illinois Compiled Statutes, Employment of Illinois Workers on Public Works Act (30 ILCS 570) | 1 | 2026-06-01 to 2026-06-01 |
+| `ilcs-30-571` | Illinois Compiled Statutes, Project Labor Agreements Act (30 ILCS 571) | 1 | 2026-08-14 to 2026-08-14 |
+| `ilcs-30-574` | Illinois Compiled Statutes, Commission on Equity and Inclusion Act (30 ILCS 574) | 1 | 2026-03-14 to 2026-03-14 |
+| `ilcs-30-575` | Illinois Compiled Statutes, Business Enterprise for Minorities, Women, and Persons with Disabilities Act (30 ILCS 575) | 1 | 2026-04-12 to 2026-04-12 |
+| `ilcs-30-577-article-0035` | Illinois Compiled Statutes, State Construction Minority and Female Building Trades Act (30 ILCS 577), Article 35 | 1 | 2026-06-01 to 2026-06-01 |
+| `ilcs-30-577-article-0099` | Illinois Compiled Statutes, State Construction Minority and Female Building Trades Act (30 ILCS 577), Article 99 | 1 | 2026-06-01 to 2026-06-01 |
+| `ilcs-30-583` | Illinois Compiled Statutes, State Prohibition of Goods from Forced Labor Act (30 ILCS 583) | 1 | 2026-04-30 to 2026-04-30 |
+| `ilcs-30-584` | Illinois Compiled Statutes, State Prohibition of Goods from Child Labor Act (30 ILCS 584) | 1 | 2026-04-30 to 2026-04-30 |
+| `ilcs-30-587` | Illinois Compiled Statutes, Information Technology Accessibility Act (30 ILCS 587) | 1 | 2026-09-15 to 2026-09-15 |
+| `ilcs-30-590` | Illinois Compiled Statutes, State Agency Employees Child Care Services Act (30 ILCS 590) | 1 | 2026-08-24 to 2026-08-24 |
+| `ilcs-30-595` | Illinois Compiled Statutes, Local Food, Farms, and Jobs Act (30 ILCS 595) | 1 | 2026-05-16 to 2026-05-16 |
+| `ilcs-30-596` | Illinois Compiled Statutes, Social Services Contract Notice Act (30 ILCS 596) | 1 | 2026-07-10 to 2026-07-10 |
+| `ilcs-30-610` | Illinois Compiled Statutes, State Vehicle Identification Act (30 ILCS 610) | 1 | 2026-06-13 to 2026-06-13 |
+| `ilcs-30-617` | Illinois Compiled Statutes, State Vehicle Use Act (30 ILCS 617) | 1 | 2026-02-01 to 2026-02-01 |
+| `ilcs-30-705` | Illinois Compiled Statutes, Illinois Grant Funds Recovery Act (30 ILCS 705) | 1 | 2026-08-11 to 2026-08-11 |
+| `ilcs-30-708` | Illinois Compiled Statutes, Grant Accountability and Transparency Act (30 ILCS 708) | 1 | 2026-05-18 to 2026-05-18 |
+| `ilcs-30-709` | Illinois Compiled Statutes, Illinois Creative Recovery Grant Program Act (30 ILCS 709) | 1 | 2026-08-26 to 2026-08-26 |
+| `ilcs-30-725` | Illinois Compiled Statutes, Comprehensive Solar Energy Act of 1977 (30 ILCS 725) | 1 | 2026-07-12 to 2026-07-12 |
+| `ilcs-30-732` | Illinois Compiled Statutes, Community Behavioral Health Center Infrastructure Act (30 ILCS 732) | 1 | 2026-09-07 to 2026-09-07 |
+| `ilcs-30-737` | Illinois Compiled Statutes, Green Neighborhood Grant Act (30 ILCS 737) | 1 | 2026-06-11 to 2026-06-11 |
+| `ilcs-30-750-article-0001` | Illinois Compiled Statutes, Build Illinois Act (30 ILCS 750), Article 1 | 1 | 2026-05-28 to 2026-05-28 |
+| `ilcs-30-750-article-0008` | Illinois Compiled Statutes, Build Illinois Act (30 ILCS 750), Article 8 | 1 | 2026-05-28 to 2026-05-28 |
+| `ilcs-30-750-article-0009` | Illinois Compiled Statutes, Build Illinois Act (30 ILCS 750), Article 9 | 1 | 2026-05-28 to 2026-05-28 |
+| `ilcs-30-750-article-0010` | Illinois Compiled Statutes, Build Illinois Act (30 ILCS 750), Article 10 | 1 | 2026-05-28 to 2026-05-28 |
+| `ilcs-30-750-article-0023` | Illinois Compiled Statutes, Build Illinois Act (30 ILCS 750), Article 23 | 1 | 2026-05-28 to 2026-05-28 |
 
-The build made 384 commits:
+The build made 488 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 384 | first version of an act |
+| 488 | first version of an act |
 | 0 | one law on its in-force day |
 | 0 | changes no amendment note explains, credited to the publisher |
 
@@ -412,7 +516,7 @@ Other counts:
 - 0 commits on the branch `future`: laws not yet in force on 2026-11-10.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
 - 0 laws in the record.
-- 384 tags.
+- 488 tags.
 
 ## Dates
 
@@ -424,7 +528,7 @@ When a law gives no date of its own, the default rule applies: No dated history 
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `fe508c55f00954583fe21fe1fa2af61ca2404f937cccaebd500db755b6aa9d39` (10308722 bytes).
+- Corpus: sha256 `e1f9338bf66ec40110cd85490e2d9a5abed1dbef321e6e3282392eb66a0b7617` (11986502 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `3024ff164c261807dfc4d5b7b1b4a2cde4357da1`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.12.10; git version 2.46.0.windows.1.
 
