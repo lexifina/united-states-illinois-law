@@ -1,0 +1,64 @@
+# Illinois Compiled Statutes, Illinois Natural Areas Preservation Act (525 ILCS 30)
+
+525 ILCS 30 · 1 versions, from 2026-05-17 (latest in force: 2026-05-17) · <https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1739>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| 525 ILCS 30/1 | [sec-0001.md](sec-0001.md) | 0 |  |
+| 525 ILCS 30/2 | [sec-0002.md](sec-0002.md) | 0 |  |
+| 525 ILCS 30/3 | [sec-0003.md](sec-0003.md) | 0 |  |
+| 525 ILCS 30/3.01 | [sec-0003-0001.md](sec-0003-0001.md) | 0 |  |
+| 525 ILCS 30/3.02 | [sec-0003-0002.md](sec-0003-0002.md) | 0 |  |
+| 525 ILCS 30/3.03 | [sec-0003-0003.md](sec-0003-0003.md) | 0 |  |
+| 525 ILCS 30/3.04 | [sec-0003-0004.md](sec-0003-0004.md) | 0 |  |
+| 525 ILCS 30/3.05 | [sec-0003-0005.md](sec-0003-0005.md) | 0 |  |
+| 525 ILCS 30/3.06 | [sec-0003-0006.md](sec-0003-0006.md) | 0 |  |
+| 525 ILCS 30/3.07 | [sec-0003-0007.md](sec-0003-0007.md) | 0 |  |
+| 525 ILCS 30/3.08 | [sec-0003-0008.md](sec-0003-0008.md) | 0 |  |
+| 525 ILCS 30/3.09 | [sec-0003-0009.md](sec-0003-0009.md) | 0 |  |
+| 525 ILCS 30/3.10 | [sec-0003-0010.md](sec-0003-0010.md) | 0 |  |
+| 525 ILCS 30/3.11 | [sec-0003-0011.md](sec-0003-0011.md) | 0 |  |
+| 525 ILCS 30/3.12 | [sec-0003-0012.md](sec-0003-0012.md) | 0 |  |
+| 525 ILCS 30/3.13 | [sec-0003-0013.md](sec-0003-0013.md) | 0 |  |
+| 525 ILCS 30/3.14 | [sec-0003-0014.md](sec-0003-0014.md) | 0 |  |
+| 525 ILCS 30/3.15 | [sec-0003-0015.md](sec-0003-0015.md) | 0 |  |
+| 525 ILCS 30/3.16 | [sec-0003-0016.md](sec-0003-0016.md) | 0 |  |
+| 525 ILCS 30/4 | [sec-0004.md](sec-0004.md) | 0 |  |
+| 525 ILCS 30/5 | [sec-0005.md](sec-0005.md) | 0 |  |
+| 525 ILCS 30/6 | [sec-0006.md](sec-0006.md) | 0 |  |
+| 525 ILCS 30/6.01 | [sec-0006-0001.md](sec-0006-0001.md) | 0 |  |
+| 525 ILCS 30/6.02 | [sec-0006-0002.md](sec-0006-0002.md) | 0 |  |
+| 525 ILCS 30/6.03 | [sec-0006-0003.md](sec-0006-0003.md) | 0 |  |
+| 525 ILCS 30/6.04 | [sec-0006-0004.md](sec-0006-0004.md) | 0 |  |
+| 525 ILCS 30/6.05 | [sec-0006-0005.md](sec-0006-0005.md) | 0 |  |
+| 525 ILCS 30/6.06 | [sec-0006-0006.md](sec-0006-0006.md) | 0 |  |
+| 525 ILCS 30/6.07 | [sec-0006-0007.md](sec-0006-0007.md) | 0 |  |
+| 525 ILCS 30/6.08 | [sec-0006-0008.md](sec-0006-0008.md) | 0 |  |
+| 525 ILCS 30/6.09 | [sec-0006-0009.md](sec-0006-0009.md) | 0 |  |
+| 525 ILCS 30/7 | [sec-0007.md](sec-0007.md) | 0 |  |
+| 525 ILCS 30/7.01 | [sec-0007-0001.md](sec-0007-0001.md) | 0 |  |
+| 525 ILCS 30/7.02 | [sec-0007-0002.md](sec-0007-0002.md) | 0 |  |
+| 525 ILCS 30/7.03 | [sec-0007-0003.md](sec-0007-0003.md) | 0 |  |
+| 525 ILCS 30/7.04 | [sec-0007-0004.md](sec-0007-0004.md) | 0 |  |
+| 525 ILCS 30/7.05 | [sec-0007-0005.md](sec-0007-0005.md) | 0 |  |
+| 525 ILCS 30/7.05a | [sec-0007-0005a.md](sec-0007-0005a.md) | 0 |  |
+| 525 ILCS 30/7.06 | [sec-0007-0006.md](sec-0007-0006.md) | 0 |  |
+| 525 ILCS 30/8 | [sec-0008.md](sec-0008.md) | 0 |  |
+| 525 ILCS 30/9 | [sec-0009.md](sec-0009.md) | 0 |  |
+| 525 ILCS 30/10 | [sec-0010.md](sec-0010.md) | 0 |  |
+| 525 ILCS 30/11 | [sec-0011.md](sec-0011.md) | 0 |  |
+| 525 ILCS 30/12 | [sec-0012.md](sec-0012.md) | 0 |  |
+| 525 ILCS 30/13 | [sec-0013.md](sec-0013.md) | 0 |  |
+| 525 ILCS 30/14 | [sec-0014.md](sec-0014.md) | 0 |  |
+| 525 ILCS 30/15 | [sec-0015.md](sec-0015.md) | 0 |  |
+| 525 ILCS 30/16 | [sec-0016.md](sec-0016.md) | 0 |  |
+| 525 ILCS 30/17 | [sec-0017.md](sec-0017.md) | 0 |  |
+| 525 ILCS 30/18 | [sec-0018.md](sec-0018.md) | 0 |  |
+| 525 ILCS 30/19 | [sec-0019.md](sec-0019.md) | 0 |  |
+| 525 ILCS 30/20 | [sec-0020.md](sec-0020.md) | 0 |  |
+| 525 ILCS 30/21 | [sec-0021.md](sec-0021.md) | 0 |  |
+| 525 ILCS 30/22 | [sec-0022.md](sec-0022.md) | 0 |  |
+| 525 ILCS 30/23 | [sec-0023.md](sec-0023.md) | 0 |  |
+| 525 ILCS 30/24 | [sec-0024.md](sec-0024.md) | 0 |  |
+| 525 ILCS 30/25 | [sec-0025.md](sec-0025.md) | 0 |  |
+| 525 ILCS 30/26 | [sec-0026.md](sec-0026.md) | 0 |  |

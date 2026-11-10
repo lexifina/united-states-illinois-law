@@ -1886,12 +1886,205 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `ilcs-430-95` | Illinois Compiled Statutes, Release of Genetically Engineered Organisms Act (430 ILCS 95) | 1 | 2026-05-17 to 2026-05-17 |
 | `ilcs-430-100` | Illinois Compiled Statutes, Illinois Emergency Planning and Community Right to Know Act (430 ILCS 100) | 1 | 2026-03-08 to 2026-03-08 |
 | `ilcs-430-110` | Illinois Compiled Statutes, Eyeglass Frame and Lens Act (430 ILCS 110) | 1 | 2026-03-08 to 2026-03-08 |
+| `ilcs-430-115` | Illinois Compiled Statutes, Illinois Modular Dwelling and Mobile Structure Safety Act (430 ILCS 115) | 1 | 2026-05-08 to 2026-05-08 |
+| `ilcs-430-117` | Illinois Compiled Statutes, Manufactured Home Quality Assurance Act (430 ILCS 117) | 1 | 2026-03-12 to 2026-03-12 |
+| `ilcs-430-120` | Illinois Compiled Statutes, Illinois Manufactured Home Installers Act (430 ILCS 120) | 1 | 2026-03-08 to 2026-03-08 |
+| `ilcs-430-125` | Illinois Compiled Statutes, Children's Product Safety Act (430 ILCS 125) | 1 | 2026-04-20 to 2026-04-20 |
+| `ilcs-430-130` | Illinois Compiled Statutes, Emergency Evacuation Plan for People with Disabilities Act (430 ILCS 130) | 1 | 2026-03-13 to 2026-03-13 |
+| `ilcs-430-132` | Illinois Compiled Statutes, Illinois Premise Alert Program (PAP) Act (430 ILCS 132) | 1 | 2026-05-14 to 2026-05-14 |
+| `ilcs-430-135` | Illinois Compiled Statutes, Carbon Monoxide Alarm Detector Act (430 ILCS 135) | 1 | 2026-06-12 to 2026-06-12 |
+| `ilcs-430-140` | Illinois Compiled Statutes, Cadmium-Safe Kids Act (430 ILCS 140) | 1 | 2026-03-13 to 2026-03-13 |
+| `ilcs-430-145` | Illinois Compiled Statutes, Movable Soccer Goal Safety Act (aka Zach's Law) (430 ILCS 145) | 1 | 2026-03-13 to 2026-03-13 |
+| `ilcs-430-150` | Illinois Compiled Statutes, Abandoned Refrigerator Act (430 ILCS 150) | 1 | 2026-07-15 to 2026-07-15 |
+| `ilcs-430-155` | Illinois Compiled Statutes, Outdoor Lighting Installation Act (430 ILCS 155) | 1 | 2026-08-12 to 2026-08-12 |
+| `ilcs-430-160` | Illinois Compiled Statutes, Peephole Installation Act (430 ILCS 160) | 1 | 2026-03-13 to 2026-03-13 |
+| `ilcs-430-165` | Illinois Compiled Statutes, Excavation Fence Act (430 ILCS 165) | 1 | 2026-04-23 to 2026-04-23 |
+| `ilcs-430-170` | Illinois Compiled Statutes, First Informer Broadcasters Act (430 ILCS 170) | 1 | 2026-05-04 to 2026-05-04 |
+| `ilcs-430-175` | Illinois Compiled Statutes, Lake Michigan Rescue Equipment Act (430 ILCS 175) | 1 | 2026-06-08 to 2026-06-08 |
+| `ilcs-430-180` | Illinois Compiled Statutes, Rooftop Safety for First Responders Act (430 ILCS 180) | 1 | 2026-03-13 to 2026-03-13 |
+| `ilcs-505-5` | Illinois Compiled Statutes, Agricultural Areas Conservation and Protection Act (505 ILCS 5) | 1 | 2026-05-26 to 2026-05-26 |
+| `ilcs-505-10` | Illinois Compiled Statutes, Agricultural Experiences Act (505 ILCS 10) | 1 | 2026-04-03 to 2026-04-03 |
+| `ilcs-505-15` | Illinois Compiled Statutes, Agricultural Statistics Act (505 ILCS 15) | 1 | 2026-08-04 to 2026-08-04 |
+| `ilcs-505-17` | Illinois Compiled Statutes, Agricultural Production Contract Code (505 ILCS 17) | 1 | 2026-06-18 to 2026-06-18 |
+| `ilcs-505-25` | Illinois Compiled Statutes, Beef Market Development Act (505 ILCS 25) | 1 | 2026-03-08 to 2026-03-08 |
+| `ilcs-505-30` | Illinois Compiled Statutes, Illinois Commercial Feed Act of 1961 (505 ILCS 30) | 1 | 2026-03-06 to 2026-03-06 |
+| `ilcs-505-40` | Illinois Compiled Statutes, Illinois Corn Marketing Act (505 ILCS 40) | 1 | 2026-05-23 to 2026-05-23 |
+| `ilcs-505-45` | Illinois Compiled Statutes, County Cooperative Extension Law (505 ILCS 45) | 1 | 2026-05-14 to 2026-05-14 |
+| `ilcs-505-57` | Illinois Compiled Statutes, Illinois Family Farmer Support Act (505 ILCS 57) | 1 | 2026-07-15 to 2026-07-15 |
+| `ilcs-505-60` | Illinois Compiled Statutes, Farm Names Act (505 ILCS 60) | 1 | 2026-03-08 to 2026-03-08 |
+| `ilcs-505-70` | Illinois Compiled Statutes, Farm Products Marketing Act (505 ILCS 70) | 1 | 2026-04-15 to 2026-04-15 |
+| `ilcs-505-72` | Illinois Compiled Statutes, Farmer Equity Act (505 ILCS 72) | 1 | 2026-06-23 to 2026-06-23 |
+| `ilcs-505-75` | Illinois Compiled Statutes, Farmland Preservation Act (505 ILCS 75) | 1 | 2026-04-20 to 2026-04-20 |
+| `ilcs-505-80` | Illinois Compiled Statutes, Illinois Fertilizer Act of 1961 (505 ILCS 80) | 1 | 2026-04-21 to 2026-04-21 |
+| `ilcs-505-82` | Illinois Compiled Statutes, Food and Agriculture Research Act (505 ILCS 82) | 1 | 2026-08-29 to 2026-08-29 |
+| `ilcs-505-85` | Illinois Compiled Statutes, Illinois Grain Quality Program Act of 1988 (505 ILCS 85) | 1 | 2026-05-25 to 2026-05-25 |
+| `ilcs-505-86` | Illinois Compiled Statutes, Grain Coloring Act (505 ILCS 86) | 1 | 2026-06-29 to 2026-06-29 |
+| `ilcs-505-87` | Illinois Compiled Statutes, Garden Act (505 ILCS 87) | 1 | 2026-05-27 to 2026-05-27 |
+| `ilcs-505-90` | Illinois Compiled Statutes, Insect Pest and Plant Disease Act (505 ILCS 90) | 1 | 2026-03-08 to 2026-03-08 |
+| `ilcs-505-92` | Illinois Compiled Statutes, Local Food Infrastructure Grant Act (505 ILCS 92) | 1 | 2026-05-27 to 2026-05-27 |
+| `ilcs-505-95` | Illinois Compiled Statutes, Illinois Milk Promotion Act (505 ILCS 95) | 1 | 2026-03-06 to 2026-03-06 |
+| `ilcs-505-100` | Illinois Compiled Statutes, Illinois Noxious Weed Law (505 ILCS 100) | 1 | 2026-03-06 to 2026-03-06 |
+| `ilcs-505-106` | Illinois Compiled Statutes, Illinois Rivers-Friendly Farmer Program Act (505 ILCS 106) | 1 | 2026-03-08 to 2026-03-08 |
+| `ilcs-505-110` | Illinois Compiled Statutes, Illinois Seed Law (505 ILCS 110) | 1 | 2026-06-04 to 2026-06-04 |
+| `ilcs-505-115` | Illinois Compiled Statutes, Illinois Sheep and Wool Production Development and Marketing Act (505 ILCS 115) | 1 | 2026-05-13 to 2026-05-13 |
+| `ilcs-505-120` | Illinois Compiled Statutes, Soil Amendment Act (505 ILCS 120) | 1 | 2026-05-09 to 2026-05-09 |
+| `ilcs-505-125` | Illinois Compiled Statutes, Soil Conservation Domestic Allotment Act (505 ILCS 125) | 1 | 2026-05-27 to 2026-05-27 |
+| `ilcs-505-130` | Illinois Compiled Statutes, Soybean Marketing Act (505 ILCS 130) | 1 | 2026-05-15 to 2026-05-15 |
+| `ilcs-505-135` | Illinois Compiled Statutes, Sustainable Agriculture Act (505 ILCS 135) | 1 | 2026-05-27 to 2026-05-27 |
+| `ilcs-505-140` | Illinois Compiled Statutes, Watershed Improvement Act (505 ILCS 140) | 1 | 2026-06-27 to 2026-06-27 |
+| `ilcs-505-145` | Illinois Compiled Statutes, Wheat Development Act (505 ILCS 145) | 1 | 2026-03-06 to 2026-03-06 |
+| `ilcs-505-147` | Illinois Compiled Statutes, Renewable Energy Facilities Agricultural Impact Mitigation Act (505 ILCS 147) | 1 | 2026-05-24 to 2026-05-24 |
+| `ilcs-505-150` | Illinois Compiled Statutes, Promote Illinois Ethanol and Biodiesel Act (505 ILCS 150) | 1 | 2026-05-17 to 2026-05-17 |
+| `ilcs-510-5` | Illinois Compiled Statutes, Animal Control Act (510 ILCS 5) | 1 | 2026-05-20 to 2026-05-20 |
+| `ilcs-510-10` | Illinois Compiled Statutes, Animal Disease Laboratories Act (510 ILCS 10) | 1 | 2026-06-07 to 2026-06-07 |
+| `ilcs-510-15` | Illinois Compiled Statutes, Animal Gastroenteritis Act (510 ILCS 15) | 1 | 2026-06-10 to 2026-06-10 |
+| `ilcs-510-20` | Illinois Compiled Statutes, Bees and Apiaries Act (510 ILCS 20) | 1 | 2026-06-10 to 2026-06-10 |
+| `ilcs-510-30` | Illinois Compiled Statutes, Illinois Bovine Brucellosis Eradication Act (510 ILCS 30) | 1 | 2026-06-07 to 2026-06-07 |
+| `ilcs-510-35` | Illinois Compiled Statutes, Illinois Bovidae and Cervidae Tuberculosis Eradication Act (510 ILCS 35) | 1 | 2026-06-10 to 2026-06-10 |
+| `ilcs-510-40` | Illinois Compiled Statutes, Illinois Brand Act (510 ILCS 40) | 1 | 2026-08-12 to 2026-08-12 |
+| `ilcs-510-45` | Illinois Compiled Statutes, Carrier, Racing, Hobby, and Show Pigeon Act of 1993 (510 ILCS 45) | 1 | 2026-06-10 to 2026-06-10 |
+| `ilcs-510-50` | Illinois Compiled Statutes, Illinois Diseased Animals Act (510 ILCS 50) | 1 | 2026-06-11 to 2026-06-11 |
+| `ilcs-510-55` | Illinois Compiled Statutes, Illinois Domestic Animals Running At Large Act (510 ILCS 55) | 1 | 2026-09-18 to 2026-09-18 |
+| `ilcs-510-60` | Illinois Compiled Statutes, Domesticated Wild Animals Act (510 ILCS 60) | 1 | 2026-06-10 to 2026-06-10 |
+| `ilcs-510-65` | Illinois Compiled Statutes, Illinois Equine Infectious Anemia Control Act (510 ILCS 65) | 1 | 2026-06-07 to 2026-06-07 |
+| `ilcs-510-67` | Illinois Compiled Statutes, Illinois Equine Research and Promotion Act (510 ILCS 67) | 1 | 2026-06-10 to 2026-06-10 |
+| `ilcs-510-70` | Illinois Compiled Statutes, Humane Care for Animals Act (510 ILCS 70) | 1 | 2026-10-27 to 2026-10-27 |
+| `ilcs-510-72` | Illinois Compiled Statutes, Humane Euthanasia in Animal Shelters Act (510 ILCS 72) | 1 | 2026-06-07 to 2026-06-07 |
+| `ilcs-510-75` | Illinois Compiled Statutes, Humane Slaughter of Livestock Act (510 ILCS 75) | 1 | 2026-06-10 to 2026-06-10 |
+| `ilcs-510-77` | Illinois Compiled Statutes, Livestock Management Facilities Act (510 ILCS 77) | 1 | 2026-09-18 to 2026-09-18 |
+| `ilcs-510-81` | Illinois Compiled Statutes, Care for Retired Police Dogs Program Act (510 ILCS 81) | 1 | 2026-06-10 to 2026-06-10 |
+| `ilcs-510-82` | Illinois Compiled Statutes, Police Dog Retirement Act (510 ILCS 82) | 1 | 2026-06-10 to 2026-06-10 |
+| `ilcs-510-83` | Illinois Compiled Statutes, Police Service Dog Protection Act (510 ILCS 83) | 1 | 2026-06-10 to 2026-06-10 |
+| `ilcs-510-85` | Illinois Compiled Statutes, Poultry Inspection Act (510 ILCS 85) | 1 | 2026-06-10 to 2026-06-10 |
+| `ilcs-510-87` | Illinois Compiled Statutes, Protection of Dogs and Cats from Unnecessary Testing Act (510 ILCS 87) | 1 | 2026-09-07 to 2026-09-07 |
+| `ilcs-510-90` | Illinois Compiled Statutes, Illinois Pseudorabies Control Act (510 ILCS 90) | 1 | 2026-08-26 to 2026-08-26 |
+| `ilcs-510-92` | Illinois Compiled Statutes, Illinois Public Health and Safety Animal Population Control Act (510 ILCS 92) | 1 | 2026-06-10 to 2026-06-10 |
+| `ilcs-510-93` | Illinois Compiled Statutes, Research Dogs and Cats Adoption Act (510 ILCS 93) | 1 | 2026-06-10 to 2026-06-10 |
+| `ilcs-510-95` | Illinois Compiled Statutes, Illinois Swine Brucellosis Eradication Act (510 ILCS 95) | 1 | 2026-06-10 to 2026-06-10 |
+| `ilcs-510-100` | Illinois Compiled Statutes, Illinois Swine Disease Control and Eradication Act (510 ILCS 100) | 1 | 2026-09-18 to 2026-09-18 |
+| `ilcs-510-101` | Illinois Compiled Statutes, Illinois Swine Market Development Act (510 ILCS 101) | 1 | 2026-06-10 to 2026-06-10 |
+| `ilcs-515-5-article-0001` | Illinois Compiled Statutes, Fish and Aquatic Life Code (515 ILCS 5), Article 1 | 1 | 2026-06-11 to 2026-06-11 |
+| `ilcs-515-5-article-0005` | Illinois Compiled Statutes, Fish and Aquatic Life Code (515 ILCS 5), Article 5 | 1 | 2026-06-11 to 2026-06-11 |
+| `ilcs-515-5-article-0010` | Illinois Compiled Statutes, Fish and Aquatic Life Code (515 ILCS 5), Article 10 | 1 | 2026-06-11 to 2026-06-11 |
+| `ilcs-515-5-article-0015` | Illinois Compiled Statutes, Fish and Aquatic Life Code (515 ILCS 5), Article 15 | 1 | 2026-06-11 to 2026-06-11 |
+| `ilcs-515-5-article-0020` | Illinois Compiled Statutes, Fish and Aquatic Life Code (515 ILCS 5), Article 20 | 1 | 2026-06-11 to 2026-06-11 |
+| `ilcs-515-5-article-0025` | Illinois Compiled Statutes, Fish and Aquatic Life Code (515 ILCS 5), Article 25 | 1 | 2026-06-11 to 2026-06-11 |
+| `ilcs-515-5-article-0030` | Illinois Compiled Statutes, Fish and Aquatic Life Code (515 ILCS 5), Article 30 | 1 | 2026-06-11 to 2026-06-11 |
+| `ilcs-515-5-article-0035` | Illinois Compiled Statutes, Fish and Aquatic Life Code (515 ILCS 5), Article 35 | 1 | 2026-06-11 to 2026-06-11 |
+| `ilcs-515-5-article-0040` | Illinois Compiled Statutes, Fish and Aquatic Life Code (515 ILCS 5), Article 40 | 1 | 2026-06-11 to 2026-06-11 |
+| `ilcs-515-5-article-0045` | Illinois Compiled Statutes, Fish and Aquatic Life Code (515 ILCS 5), Article 45 | 1 | 2026-06-11 to 2026-06-11 |
+| `ilcs-515-5-article-0050` | Illinois Compiled Statutes, Fish and Aquatic Life Code (515 ILCS 5), Article 50 | 1 | 2026-06-11 to 2026-06-11 |
+| `ilcs-520-5` | Illinois Compiled Statutes, Wildlife Code (520 ILCS 5) | 1 | 2026-07-17 to 2026-07-17 |
+| `ilcs-520-10` | Illinois Compiled Statutes, Illinois Endangered Species Protection Act (520 ILCS 10) | 1 | 2026-04-13 to 2026-04-13 |
+| `ilcs-520-15` | Illinois Compiled Statutes, Wildlife Restoration Cooperation Act (520 ILCS 15) | 1 | 2026-05-16 to 2026-05-16 |
+| `ilcs-520-20` | Illinois Compiled Statutes, Wildlife Habitat Management Areas Act (520 ILCS 20) | 1 | 2026-03-08 to 2026-03-08 |
+| `ilcs-520-25` | Illinois Compiled Statutes, Habitat Endowment Act (520 ILCS 25) | 1 | 2026-04-19 to 2026-04-19 |
+| `ilcs-520-30` | Illinois Compiled Statutes, Illinois Hunting Heritage Protection Act (520 ILCS 30) | 1 | 2026-07-02 to 2026-07-02 |
+| `ilcs-520-35` | Illinois Compiled Statutes, Wild Animal Public Safety Act (520 ILCS 35) | 1 | 2026-03-11 to 2026-03-11 |
+| `ilcs-525-5` | Illinois Compiled Statutes, Cave Protection Act (525 ILCS 5) | 1 | 2026-06-13 to 2026-06-13 |
+| `ilcs-525-10` | Illinois Compiled Statutes, Illinois Exotic Weed Act (525 ILCS 10) | 1 | 2026-08-28 to 2026-08-28 |
+| `ilcs-525-15` | Illinois Compiled Statutes, Illinois Forestry Development Act (525 ILCS 15) | 1 | 2026-04-16 to 2026-04-16 |
+| `ilcs-525-20` | Illinois Compiled Statutes, Ginseng Harvesting Act (525 ILCS 20) | 1 | 2026-04-16 to 2026-04-16 |
+| `ilcs-525-22` | Illinois Compiled Statutes, Healthy Forests, Wetlands, and Prairies Act (525 ILCS 22) | 1 | 2026-04-16 to 2026-04-16 |
+| `ilcs-525-25` | Illinois Compiled Statutes, Illinois Lake Management Program Act (525 ILCS 25) | 1 | 2026-08-23 to 2026-08-23 |
+| `ilcs-525-27` | Illinois Compiled Statutes, Native Prairie and Forage Preference Act (525 ILCS 27) | 1 | 2026-07-22 to 2026-07-22 |
+| `ilcs-525-30` | Illinois Compiled Statutes, Illinois Natural Areas Preservation Act (525 ILCS 30) | 1 | 2026-05-17 to 2026-05-17 |
+| `ilcs-525-33` | Illinois Compiled Statutes, Illinois Open Land Trust Act (525 ILCS 33) | 1 | 2026-08-10 to 2026-08-10 |
+| `ilcs-525-35` | Illinois Compiled Statutes, Open Space Lands Acquisition and Development Act (525 ILCS 35) | 1 | 2026-05-16 to 2026-05-16 |
+| `ilcs-525-37` | Illinois Compiled Statutes, Illinois Prescribed Burning Act (525 ILCS 37) | 1 | 2026-04-16 to 2026-04-16 |
+| `ilcs-525-40` | Illinois Compiled Statutes, State Forest Act (525 ILCS 40) | 1 | 2026-05-26 to 2026-05-26 |
+| `ilcs-525-45` | Illinois Compiled Statutes, Water Use Act of 1983 (525 ILCS 45) | 1 | 2026-10-23 to 2026-10-23 |
+| `ilcs-525-47` | Illinois Compiled Statutes, Wild Plant Conservation Act (525 ILCS 47) | 1 | 2026-07-05 to 2026-07-05 |
+| `ilcs-525-50` | Illinois Compiled Statutes, Illinois Veteran, Youth, and Young Adult Conservation Jobs Act (525 ILCS 50) | 1 | 2026-04-16 to 2026-04-16 |
+| `ilcs-525-55` | Illinois Compiled Statutes, Pollinator-Friendly Solar Site Act (525 ILCS 55) | 1 | 2026-04-16 to 2026-04-16 |
+| `ilcs-525-60` | Illinois Compiled Statutes, Youth and Young Adult Conservation Education Act (525 ILCS 60) | 1 | 2026-09-08 to 2026-09-08 |
+| `ilcs-605-20` | Illinois Compiled Statutes, Peerson Memorial Highway Act (605 ILCS 20) | 1 | 2026-04-21 to 2026-04-21 |
+| `ilcs-605-30` | Illinois Compiled Statutes, Bikeway Act (605 ILCS 30) | 1 | 2026-06-04 to 2026-06-04 |
+| `ilcs-605-130` | Illinois Compiled Statutes, Public Private Agreements for the Illiana Expressway Act (605 ILCS 130) | 1 | 2026-05-24 to 2026-05-24 |
+| `ilcs-605-140` | Illinois Compiled Statutes, Expressway Camera Act (605 ILCS 140) | 1 | 2026-09-30 to 2026-09-30 |
+| `ilcs-610-5` | Illinois Compiled Statutes, Railroad Incorporation Act (610 ILCS 5) | 1 | 2026-03-11 to 2026-03-11 |
+| `ilcs-610-10` | Illinois Compiled Statutes, Railroad Company Charter Change Act (610 ILCS 10) | 1 | 2026-05-15 to 2026-05-15 |
+| `ilcs-610-15` | Illinois Compiled Statutes, Railroad Stock Transfer Act (610 ILCS 15) | 1 | 2026-03-25 to 2026-03-25 |
+| `ilcs-610-20` | Illinois Compiled Statutes, Railroad Borrowing Act (610 ILCS 20) | 1 | 2026-04-13 to 2026-04-13 |
+| `ilcs-610-25` | Illinois Compiled Statutes, Railroad Consolidation Act (610 ILCS 25) | 1 | 2026-04-12 to 2026-04-12 |
+| `ilcs-610-30` | Illinois Compiled Statutes, Railroad Interstate Line Consolidation Act (610 ILCS 30) | 1 | 2026-02-17 to 2026-02-17 |
+| `ilcs-610-35` | Illinois Compiled Statutes, Railroad Operative Contract Act (610 ILCS 35) | 1 | 2026-06-14 to 2026-06-14 |
+| `ilcs-610-40` | Illinois Compiled Statutes, Railroad Bridge Act (610 ILCS 40) | 1 | 2026-04-21 to 2026-04-21 |
+| `ilcs-610-50` | Illinois Compiled Statutes, Railroad Water Craft Act (610 ILCS 50) | 1 | 2026-05-06 to 2026-05-06 |
+| `ilcs-610-60` | Illinois Compiled Statutes, Railroad Motor and Aerial Transport Act (610 ILCS 60) | 1 | 2026-03-12 to 2026-03-12 |
+| `ilcs-610-65` | Illinois Compiled Statutes, Railroad Bond Guarantee Act (610 ILCS 65) | 1 | 2026-05-12 to 2026-05-12 |
+| `ilcs-610-70` | Illinois Compiled Statutes, Railroad Powers Act (610 ILCS 70) | 1 | 2026-03-27 to 2026-03-27 |
+| `ilcs-610-85` | Illinois Compiled Statutes, Railroad Sanitation Act (610 ILCS 85) | 1 | 2026-07-09 to 2026-07-09 |
+| `ilcs-610-95` | Illinois Compiled Statutes, Railroad Obstruction Act (610 ILCS 95) | 1 | 2026-05-18 to 2026-05-18 |
+| `ilcs-610-105` | Illinois Compiled Statutes, Railway Employees Water Act (610 ILCS 105) | 1 | 2026-03-11 to 2026-03-11 |
+| `ilcs-610-110` | Illinois Compiled Statutes, Bulk Grain Act (610 ILCS 110) | 1 | 2026-06-03 to 2026-06-03 |
+| `ilcs-610-115` | Illinois Compiled Statutes, Street Railroad Right of Way Act (610 ILCS 115) | 1 | 2026-03-07 to 2026-03-07 |
+| `ilcs-610-120` | Illinois Compiled Statutes, Street Railroad Bridge Act (610 ILCS 120) | 1 | 2026-04-21 to 2026-04-21 |
+| `ilcs-610-125` | Illinois Compiled Statutes, Street Railroad Vestibule Act (610 ILCS 125) | 1 | 2026-06-08 to 2026-06-08 |
+| `ilcs-610-135` | Illinois Compiled Statutes, Springfield High Speed Railroad Community Advisory Act (610 ILCS 135) | 1 | 2026-02-09 to 2026-02-09 |
+| `ilcs-610-140` | Illinois Compiled Statutes, Railroad Supplier Diversity Act (610 ILCS 140) | 1 | 2026-02-13 to 2026-02-13 |
+| `ilcs-615-5` | Illinois Compiled Statutes, Rivers, Lakes, and Streams Act (615 ILCS 5) | 1 | 2026-10-23 to 2026-10-23 |
+| `ilcs-615-50` | Illinois Compiled Statutes, Level of Lake Michigan Act (615 ILCS 50) | 1 | 2026-10-23 to 2026-10-23 |
+| `ilcs-620-5` | Illinois Compiled Statutes, Illinois Aeronautics Act (620 ILCS 5) | 1 | 2026-04-08 to 2026-04-08 |
+| `ilcs-625-5-article-0001` | Illinois Compiled Statutes, Illinois Vehicle Code (625 ILCS 5), Article 1 | 1 | 2026-09-09 to 2026-09-09 |
+| `ilcs-625-5-article-0002` | Illinois Compiled Statutes, Illinois Vehicle Code (625 ILCS 5), Article 2 | 1 | 2026-09-09 to 2026-09-09 |
+| `ilcs-625-5-article-0003` | Illinois Compiled Statutes, Illinois Vehicle Code (625 ILCS 5), Article 3 | 1 | 2026-09-09 to 2026-09-09 |
+| `ilcs-625-5-article-0004` | Illinois Compiled Statutes, Illinois Vehicle Code (625 ILCS 5), Article 4 | 1 | 2026-09-09 to 2026-09-09 |
+| `ilcs-625-5-article-0005` | Illinois Compiled Statutes, Illinois Vehicle Code (625 ILCS 5), Article 5 | 1 | 2026-09-09 to 2026-09-09 |
+| `ilcs-625-5-article-0006` | Illinois Compiled Statutes, Illinois Vehicle Code (625 ILCS 5), Article 6 | 1 | 2026-09-09 to 2026-09-09 |
+| `ilcs-625-5-article-0007` | Illinois Compiled Statutes, Illinois Vehicle Code (625 ILCS 5), Article 7 | 1 | 2026-09-09 to 2026-09-09 |
+| `ilcs-625-5-article-0008` | Illinois Compiled Statutes, Illinois Vehicle Code (625 ILCS 5), Article 8 | 1 | 2026-09-09 to 2026-09-09 |
+| `ilcs-625-5-article-0009` | Illinois Compiled Statutes, Illinois Vehicle Code (625 ILCS 5), Article 9 | 1 | 2026-09-09 to 2026-09-09 |
+| `ilcs-625-5-article-0010` | Illinois Compiled Statutes, Illinois Vehicle Code (625 ILCS 5), Article 10 | 1 | 2026-09-09 to 2026-09-09 |
+| `ilcs-625-5-article-0011` | Illinois Compiled Statutes, Illinois Vehicle Code (625 ILCS 5), Article 11 | 1 | 2026-09-09 to 2026-09-09 |
+| `ilcs-625-5-article-0012` | Illinois Compiled Statutes, Illinois Vehicle Code (625 ILCS 5), Article 12 | 1 | 2026-09-09 to 2026-09-09 |
+| `ilcs-625-5-article-0013` | Illinois Compiled Statutes, Illinois Vehicle Code (625 ILCS 5), Article 13 | 1 | 2026-09-09 to 2026-09-09 |
+| `ilcs-625-5-article-0013c` | Illinois Compiled Statutes, Illinois Vehicle Code (625 ILCS 5), Article 13C | 1 | 2026-09-09 to 2026-09-09 |
+| `ilcs-625-5-article-0015` | Illinois Compiled Statutes, Illinois Vehicle Code (625 ILCS 5), Article 15 | 1 | 2026-09-09 to 2026-09-09 |
+| `ilcs-625-5-article-0016` | Illinois Compiled Statutes, Illinois Vehicle Code (625 ILCS 5), Article 16 | 1 | 2026-09-09 to 2026-09-09 |
+| `ilcs-625-5-article-0017` | Illinois Compiled Statutes, Illinois Vehicle Code (625 ILCS 5), Article 17 | 1 | 2026-09-09 to 2026-09-09 |
+| `ilcs-625-5-article-0018a` | Illinois Compiled Statutes, Illinois Vehicle Code (625 ILCS 5), Article 18a | 1 | 2026-09-09 to 2026-09-09 |
+| `ilcs-625-5-article-0018b` | Illinois Compiled Statutes, Illinois Vehicle Code (625 ILCS 5), Article 18b | 1 | 2026-09-09 to 2026-09-09 |
+| `ilcs-625-5-article-0018c` | Illinois Compiled Statutes, Illinois Vehicle Code (625 ILCS 5), Article 18c | 1 | 2026-09-09 to 2026-09-09 |
+| `ilcs-625-5-article-0018d` | Illinois Compiled Statutes, Illinois Vehicle Code (625 ILCS 5), Article 18d | 1 | 2026-09-09 to 2026-09-09 |
+| `ilcs-625-5-article-0020` | Illinois Compiled Statutes, Illinois Vehicle Code (625 ILCS 5), Article 20 | 1 | 2026-09-09 to 2026-09-09 |
+| `ilcs-625-7` | Illinois Compiled Statutes, Automated Traffic Control Systems in Highway Construction or Maintenance Zones Act (625 ILCS 7) | 1 | 2026-03-17 to 2026-03-17 |
+| `ilcs-625-10` | Illinois Compiled Statutes, Motor Vehicle Theft Reporting Act (625 ILCS 10) | 1 | 2026-03-06 to 2026-03-06 |
+| `ilcs-625-15` | Illinois Compiled Statutes, China Affairs Council Act (625 ILCS 15) | 1 | 2026-09-09 to 2026-09-09 |
+| `ilcs-625-25` | Illinois Compiled Statutes, Child Passenger Protection Act (625 ILCS 25) | 1 | 2026-10-02 to 2026-10-02 |
+| `ilcs-625-27` | Illinois Compiled Statutes, Renter's Financial Responsibility and Protection Act (625 ILCS 27) | 1 | 2026-09-09 to 2026-09-09 |
+| `ilcs-625-30` | Illinois Compiled Statutes, Ridesharing Arrangements Act (625 ILCS 30) | 1 | 2026-09-09 to 2026-09-09 |
+| `ilcs-625-33` | Illinois Compiled Statutes, Voluntary Employee Commute Options Emission Reduction Credit Act (625 ILCS 33) | 1 | 2026-04-13 to 2026-04-13 |
+| `ilcs-625-35` | Illinois Compiled Statutes, Cycle Rider Safety Training Act (625 ILCS 35) | 1 | 2026-03-08 to 2026-03-08 |
+| `ilcs-625-50` | Illinois Compiled Statutes, Public Conveyance Notice Act (625 ILCS 50) | 1 | 2026-08-27 to 2026-08-27 |
+| `ilcs-625-57` | Illinois Compiled Statutes, Transportation Network Providers Act (625 ILCS 57) | 1 | 2026-07-28 to 2026-07-28 |
+| `ilcs-625-60` | Illinois Compiled Statutes, Pedestrians with Disabilities Safety Act (625 ILCS 60) | 1 | 2026-04-22 to 2026-04-22 |
+| `ilcs-625-70` | Illinois Compiled Statutes, DUI Prevention and Education Commission Act (625 ILCS 70) | 1 | 2026-09-09 to 2026-09-09 |
+| `ilcs-625-75` | Illinois Compiled Statutes, Tow Notice Act (625 ILCS 75) | 1 | 2026-01-31 to 2026-01-31 |
+| `ilcs-705-20` | Illinois Compiled Statutes, Judicial Districts Act (705 ILCS 20) | 1 | 2026-06-26 to 2026-06-26 |
+| `ilcs-705-25` | Illinois Compiled Statutes, Appellate Court Act (705 ILCS 25) | 1 | 2026-07-04 to 2026-07-04 |
+| `ilcs-705-30` | Illinois Compiled Statutes, Appellate Court Law Clerk and Secretary Act (705 ILCS 30) | 1 | 2026-07-11 to 2026-07-11 |
+| `ilcs-705-45` | Illinois Compiled Statutes, Associate Judges Act (705 ILCS 45) | 1 | 2026-03-10 to 2026-03-10 |
+| `ilcs-705-55` | Illinois Compiled Statutes, Compulsory Retirement of Judges Act (705 ILCS 55) | 1 | 2026-03-31 to 2026-03-31 |
+| `ilcs-705-65` | Illinois Compiled Statutes, Official Court Reports Act (705 ILCS 65) | 1 | 2026-05-22 to 2026-05-22 |
+| `ilcs-705-70` | Illinois Compiled Statutes, Court Reporters Act (705 ILCS 70) | 1 | 2026-07-26 to 2026-07-26 |
+| `ilcs-705-75` | Illinois Compiled Statutes, Court Reporter Transcript Act (705 ILCS 75) | 1 | 2026-07-03 to 2026-07-03 |
+| `ilcs-705-80` | Illinois Compiled Statutes, Child Witness Trauma Reduction Act (705 ILCS 80) | 1 | 2026-04-21 to 2026-04-21 |
+| `ilcs-705-85` | Illinois Compiled Statutes, Court Records Restoration Act (705 ILCS 85) | 1 | 2026-05-05 to 2026-05-05 |
+| `ilcs-705-86` | Illinois Compiled Statutes, Court Record and Document Accessibility Act (705 ILCS 86) | 1 | 2026-04-19 to 2026-04-19 |
+| `ilcs-705-96` | Illinois Compiled Statutes, Court Access, Safety, and Participation Act (705 ILCS 96) | 1 | 2026-04-05 to 2026-04-05 |
+| `ilcs-705-105` | Illinois Compiled Statutes, Clerks of Courts Act (705 ILCS 105) | 1 | 2026-07-28 to 2026-07-28 |
+| `ilcs-705-110` | Illinois Compiled Statutes, Circuit Court Clerk Regulation Act (705 ILCS 110) | 1 | 2026-05-14 to 2026-05-14 |
+| `ilcs-705-115` | Illinois Compiled Statutes, Fee Bill Act (705 ILCS 115) | 1 | 2026-07-06 to 2026-07-06 |
+| `ilcs-705-120` | Illinois Compiled Statutes, Record on Appeal Fee Act (705 ILCS 120) | 1 | 2026-07-30 to 2026-07-30 |
+| `ilcs-705-125` | Illinois Compiled Statutes, Court Statistics Act (705 ILCS 125) | 1 | 2026-05-17 to 2026-05-17 |
+| `ilcs-705-130` | Illinois Compiled Statutes, Domestic Relations Legal Funding Act (705 ILCS 130) | 1 | 2026-04-05 to 2026-04-05 |
 
-The build made 1871 commits:
+The build made 2064 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 1871 | first version of an act |
+| 2064 | first version of an act |
 | 0 | one law on its in-force day |
 | 0 | changes no amendment note explains, credited to the publisher |
 
@@ -1899,7 +2092,7 @@ Other counts:
 - 0 commits on the branch `future`: laws not yet in force on 2026-11-10.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
 - 0 laws in the record.
-- 1871 tags.
+- 2064 tags.
 
 ## Dates
 
@@ -1911,7 +2104,7 @@ When a law gives no date of its own, the default rule applies: No dated history 
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `b7b98a7af2cb02a6d0376953bd67bcddcb3ba13a991985036fb5ac0e40acc3ea` (47350525 bytes).
+- Corpus: sha256 `b6d3730f65110359ba3cf6be370fdec4805d64116faaa56c1b054098d2e8ade2` (51673385 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `3024ff164c261807dfc4d5b7b1b4a2cde4357da1`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.12.10; git version 2.46.0.windows.1.
 

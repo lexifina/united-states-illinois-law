@@ -26194,6 +26194,2708 @@
      "sha256": "5051347cfed416777391fcfeed3ca6b40e2de244468de88e0877195da5ab0e73"
     }
    ]
+  },
+  {
+   "slug": "ilcs-430-115",
+   "short": "430 ILCS 115",
+   "title": "Illinois Compiled Statutes, Illinois Modular Dwelling and Mobile Structure Safety Act (430 ILCS 115)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1667",
+   "versions": [
+    {
+     "from": "2026-05-08",
+     "units": 18,
+     "source_url": "https://web.archive.org/web/20260508112759/https://ilga.gov/Legislation/ILCS/Articles?ActID=1667&ChapterID=39",
+     "sha256": "afe2dbcd5b4ab3ec0ccd1f24a5eb2d13ecd5be214aee6a503cd5a8b7f9b5a4c1"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-430-117",
+   "short": "430 ILCS 117",
+   "title": "Illinois Compiled Statutes, Manufactured Home Quality Assurance Act (430 ILCS 117)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1668",
+   "versions": [
+    {
+     "from": "2026-03-12",
+     "units": 15,
+     "source_url": "https://web.archive.org/web/20260312054430/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1668&ChapterID=39&Chapter=PUBLIC%20SAFETY&MajorTopic=HEALTH%20AND%20SAFETY",
+     "sha256": "8d7d20106e035bf95e4c4aa5e2f1343935ff73f9d3f3beeb618af4cdcb76f9f3"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-430-120",
+   "short": "430 ILCS 120",
+   "title": "Illinois Compiled Statutes, Illinois Manufactured Home Installers Act (430 ILCS 120)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1669",
+   "versions": [
+    {
+     "from": "2026-03-08",
+     "units": 6,
+     "source_url": "https://web.archive.org/web/20260308070109/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1669&ChapterID=39&Chapter=PUBLIC%20SAFETY&MajorTopic=HEALTH%20AND%20SAFETY",
+     "sha256": "8a16376a3d3ff1ac7affea739d0b186a33dca580dc9569fbf67f826b5c964a36"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-430-125",
+   "short": "430 ILCS 125",
+   "title": "Illinois Compiled Statutes, Children's Product Safety Act (430 ILCS 125)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1670",
+   "versions": [
+    {
+     "from": "2026-04-20",
+     "units": 11,
+     "source_url": "https://web.archive.org/web/20260420102545/https://www.ilga.gov/Legislation/ILCS/Articles?actid=1670&chapact=430%26nbsp%3Bilcs%26nbsp%3B125/&chapterid=39&chaptername=public%2Bsafety&actname=children%27s%2Bproduct%2Bsafety%2Bact.",
+     "sha256": "496d3eab61059b0fe6a3309b9353d2f6936e7036cad838a8cd5f717aa7270f36"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-430-130",
+   "short": "430 ILCS 130",
+   "title": "Illinois Compiled Statutes, Emergency Evacuation Plan for People with Disabilities Act (430 ILCS 130)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1671",
+   "versions": [
+    {
+     "from": "2026-03-13",
+     "units": 8,
+     "source_url": "https://web.archive.org/web/20260313023142/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1671&ChapterID=39&Chapter=PUBLIC%20SAFETY&MajorTopic=HEALTH%20AND%20SAFETY",
+     "sha256": "2687627dd13320d409e1d8b4fb44a039687863d7c6f1c36441394008dac63b1c"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-430-132",
+   "short": "430 ILCS 132",
+   "title": "Illinois Compiled Statutes, Illinois Premise Alert Program (PAP) Act (430 ILCS 132)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3159",
+   "versions": [
+    {
+     "from": "2026-05-14",
+     "units": 11,
+     "source_url": "https://web.archive.org/web/20260514113939/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3159&ChapterID=39",
+     "sha256": "93748323c95bf25f04259e687d83c1bf625e2eac3c7fc4a905221e875f909d24"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-430-135",
+   "short": "430 ILCS 135",
+   "title": "Illinois Compiled Statutes, Carbon Monoxide Alarm Detector Act (430 ILCS 135)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2786",
+   "versions": [
+    {
+     "from": "2026-06-12",
+     "units": 5,
+     "source_url": "https://web.archive.org/web/20260612080633/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2786&ChapterID=39",
+     "sha256": "e26927daf05f2067064f8e25064f156e8c535c579c5a9d471060639f05509763"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-430-140",
+   "short": "430 ILCS 140",
+   "title": "Illinois Compiled Statutes, Cadmium-Safe Kids Act (430 ILCS 140)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3270",
+   "versions": [
+    {
+     "from": "2026-03-13",
+     "units": 9,
+     "source_url": "https://web.archive.org/web/20260313014023/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3270&ChapterID=39&Chapter=PUBLIC%20SAFETY&MajorTopic=HEALTH%20AND%20SAFETY",
+     "sha256": "af590fbc2f7645d931aad645c6305ade8daaf235b42b2cd1fce933de4d3f43a6"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-430-145",
+   "short": "430 ILCS 145",
+   "title": "Illinois Compiled Statutes, Movable Soccer Goal Safety Act (aka Zach's Law) (430 ILCS 145)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3355",
+   "versions": [
+    {
+     "from": "2026-03-13",
+     "units": 6,
+     "source_url": "https://web.archive.org/web/20260313012802/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3355&ChapterID=39&Chapter=PUBLIC%20SAFETY&MajorTopic=HEALTH%20AND%20SAFETY",
+     "sha256": "02bbbf9e01d0cfef8208729be54cef48a7b95aec4f682ec1a3198e19c02298c4"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-430-150",
+   "short": "430 ILCS 150",
+   "title": "Illinois Compiled Statutes, Abandoned Refrigerator Act (430 ILCS 150)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3447",
+   "versions": [
+    {
+     "from": "2026-07-15",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20260715072152/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3447&ChapterID=39",
+     "sha256": "298d2aee25dceb67e76b8f4245fb0c780a10cc1c02dae681d1e2b08972a1bc79"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-430-155",
+   "short": "430 ILCS 155",
+   "title": "Illinois Compiled Statutes, Outdoor Lighting Installation Act (430 ILCS 155)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3450",
+   "versions": [
+    {
+     "from": "2026-08-12",
+     "units": 4,
+     "source_url": "https://web.archive.org/web/20260812051940/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3450&ChapterID=39",
+     "sha256": "ab20825e9bed69df3350092c7f4969b8018b36c73e0f26a23874ba324f764362"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-430-160",
+   "short": "430 ILCS 160",
+   "title": "Illinois Compiled Statutes, Peephole Installation Act (430 ILCS 160)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3451",
+   "versions": [
+    {
+     "from": "2026-03-13",
+     "units": 4,
+     "source_url": "https://web.archive.org/web/20260313022155/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3451&ChapterID=39&Chapter=PUBLIC%20SAFETY&MajorTopic=HEALTH%20AND%20SAFETY",
+     "sha256": "8100b4cb98c7b12d4d68720d9302bbfd1447212b618acf858a792d984cedcdb5"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-430-165",
+   "short": "430 ILCS 165",
+   "title": "Illinois Compiled Statutes, Excavation Fence Act (430 ILCS 165)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3448",
+   "versions": [
+    {
+     "from": "2026-04-23",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20260423143013/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3448&ChapterID=39",
+     "sha256": "4546db9ea51fc109159efca2193c781b0c350c3eeac52cb9be7e15395a0c2b1d"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-430-170",
+   "short": "430 ILCS 170",
+   "title": "Illinois Compiled Statutes, First Informer Broadcasters Act (430 ILCS 170)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3462",
+   "versions": [
+    {
+     "from": "2026-05-04",
+     "units": 5,
+     "source_url": "https://web.archive.org/web/20260504045059/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3462&ChapterID=39",
+     "sha256": "1ead6c435baf6173eafbc9d10c0f231764f78a5ea30259142172cb49dea0cc06"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-430-175",
+   "short": "430 ILCS 175",
+   "title": "Illinois Compiled Statutes, Lake Michigan Rescue Equipment Act (430 ILCS 175)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=4315",
+   "versions": [
+    {
+     "from": "2026-06-08",
+     "units": 7,
+     "source_url": "https://web.archive.org/web/20260608122321/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=4315&ChapterID=39",
+     "sha256": "575d443d3697fc3ffe0f0cc075fb96730664945f643e5a1acea6086d5a1dd818"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-430-180",
+   "short": "430 ILCS 180",
+   "title": "Illinois Compiled Statutes, Rooftop Safety for First Responders Act (430 ILCS 180)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=4612",
+   "versions": [
+    {
+     "from": "2026-03-13",
+     "units": 4,
+     "source_url": "https://web.archive.org/web/20260313014149/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=4612&ChapterID=39&Chapter=PUBLIC%20SAFETY&MajorTopic=HEALTH%20AND%20SAFETY",
+     "sha256": "0dfecf756624cba21e347207d82ca78141e52c73a16d07e8aa6f9447b6ac2902"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-505-5",
+   "short": "505 ILCS 5",
+   "title": "Illinois Compiled Statutes, Agricultural Areas Conservation and Protection Act (505 ILCS 5)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1672",
+   "versions": [
+    {
+     "from": "2026-05-26",
+     "units": 31,
+     "source_url": "https://web.archive.org/web/20260526062837/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1672&ChapterID=40",
+     "sha256": "01f3989e151aa2d189f3f5c2909601c193459f39284abab68c5d4e9bfdb110d0"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-505-10",
+   "short": "505 ILCS 10",
+   "title": "Illinois Compiled Statutes, Agricultural Experiences Act (505 ILCS 10)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=4202",
+   "versions": [
+    {
+     "from": "2026-04-03",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20260403232510/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=4202&ChapterID=40",
+     "sha256": "5832870b91dfdd98d8b3429bc9ead225b6b2435df5601026bfa1ca61a41204b9"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-505-15",
+   "short": "505 ILCS 15",
+   "title": "Illinois Compiled Statutes, Agricultural Statistics Act (505 ILCS 15)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1673",
+   "versions": [
+    {
+     "from": "2026-08-04",
+     "units": 4,
+     "source_url": "https://web.archive.org/web/20260804134729/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1673&ChapterID=40",
+     "sha256": "9597c08c9e47c14a585acbd253afa57f44ef80e03d7ef33338620792372cd785"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-505-17",
+   "short": "505 ILCS 17",
+   "title": "Illinois Compiled Statutes, Agricultural Production Contract Code (505 ILCS 17)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2485",
+   "versions": [
+    {
+     "from": "2026-06-18",
+     "units": 15,
+     "source_url": "https://web.archive.org/web/20260618134654/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2485&ChapterID=40",
+     "sha256": "e9e360545ba5959c9b195cd8a301272b7935d48860ccf67ab6c7898bc72156e3"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-505-25",
+   "short": "505 ILCS 25",
+   "title": "Illinois Compiled Statutes, Beef Market Development Act (505 ILCS 25)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1676",
+   "versions": [
+    {
+     "from": "2026-03-08",
+     "units": 14,
+     "source_url": "https://web.archive.org/web/20260308082112/https://ilga.gov/Legislation/ILCS/Articles?ActID=1676&ChapterID=40&Chapter=AGRICULTURE&MajorTopic=AGRICULTURE%20AND%20CONSERVATION",
+     "sha256": "484ebdf9eb8aa7930dd82961d86efed40899ba9ba3c1cc1206ed84dd1703f907"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-505-30",
+   "short": "505 ILCS 30",
+   "title": "Illinois Compiled Statutes, Illinois Commercial Feed Act of 1961 (505 ILCS 30)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1677",
+   "versions": [
+    {
+     "from": "2026-03-06",
+     "units": 20,
+     "source_url": "https://web.archive.org/web/20260306030525/https://ilga.gov/Legislation/ILCS/Articles?ActID=1677&ChapterID=40&Chapter=AGRICULTURE&MajorTopic=AGRICULTURE%20AND%20CONSERVATION",
+     "sha256": "1d54aa8573e09fbb097d0a451497e36c2f90ab2bfcbf14a04940536e2db02d39"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-505-40",
+   "short": "505 ILCS 40",
+   "title": "Illinois Compiled Statutes, Illinois Corn Marketing Act (505 ILCS 40)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1679",
+   "versions": [
+    {
+     "from": "2026-05-23",
+     "units": 23,
+     "source_url": "https://web.archive.org/web/20260523173907/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1679&ChapterID=40",
+     "sha256": "4cb7e5a4070ee45c88eeede0a9a0c23a5e4924a2f6a81ecfaefb1910e9340375"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-505-45",
+   "short": "505 ILCS 45",
+   "title": "Illinois Compiled Statutes, County Cooperative Extension Law (505 ILCS 45)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1680",
+   "versions": [
+    {
+     "from": "2026-05-14",
+     "units": 13,
+     "source_url": "https://web.archive.org/web/20260514101213/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1680&ChapterID=40",
+     "sha256": "8e382be75b582145a35856ddafad309d74ae2f1350bc453dc3e724bcaee6abe1"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-505-57",
+   "short": "505 ILCS 57",
+   "title": "Illinois Compiled Statutes, Illinois Family Farmer Support Act (505 ILCS 57)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1683",
+   "versions": [
+    {
+     "from": "2026-07-15",
+     "units": 4,
+     "source_url": "https://web.archive.org/web/20260715010244/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1683&ChapterID=40",
+     "sha256": "9b11701baa6daf00f43105484f709f7dce1b6776ac8fbae6ac10a0b93cebd5e3"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-505-60",
+   "short": "505 ILCS 60",
+   "title": "Illinois Compiled Statutes, Farm Names Act (505 ILCS 60)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1684",
+   "versions": [
+    {
+     "from": "2026-03-08",
+     "units": 5,
+     "source_url": "https://web.archive.org/web/20260308112224/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1684&ChapterID=40",
+     "sha256": "a7a1b2cf62166c2696061dac0a1d1541680c8c661f9e4249b73e13ac135bdcf9"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-505-70",
+   "short": "505 ILCS 70",
+   "title": "Illinois Compiled Statutes, Farm Products Marketing Act (505 ILCS 70)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1686",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20260415161831/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1686&ChapterID=40",
+     "sha256": "2beb2272874522fbb0dd36657649273315f02ca54c5a54cc56c6ff3848df89ed"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-505-72",
+   "short": "505 ILCS 72",
+   "title": "Illinois Compiled Statutes, Farmer Equity Act (505 ILCS 72)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3905",
+   "versions": [
+    {
+     "from": "2026-06-23",
+     "units": 7,
+     "source_url": "https://web.archive.org/web/20260623040424/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3905&ChapterID=40",
+     "sha256": "15cc12345c8fc639f6593186ef4fc41711e5f4774adeedd141c1ac9f7fd8d0c4"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-505-75",
+   "short": "505 ILCS 75",
+   "title": "Illinois Compiled Statutes, Farmland Preservation Act (505 ILCS 75)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1687",
+   "versions": [
+    {
+     "from": "2026-04-20",
+     "units": 8,
+     "source_url": "https://web.archive.org/web/20260420151819/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1687&ChapterID=40&Chapter=AGRICULTURE&MajorTopic=AGRICULTURE%20AND%20CONSERVATION",
+     "sha256": "2e7bcace034e56a650a7bdf75cf6e897563679e91eeae869037b63bf7e892429"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-505-80",
+   "short": "505 ILCS 80",
+   "title": "Illinois Compiled Statutes, Illinois Fertilizer Act of 1961 (505 ILCS 80)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1688",
+   "versions": [
+    {
+     "from": "2026-04-21",
+     "units": 27,
+     "source_url": "https://web.archive.org/web/20260421163322/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1688&ChapterID=40&Chapter=AGRICULTURE&MajorTopic=AGRICULTURE%20AND%20CONSERVATION",
+     "sha256": "c7602b2042bc479be7f79c585aa7ae45d752a53a4334734e503747770b45249b"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-505-82",
+   "short": "505 ILCS 82",
+   "title": "Illinois Compiled Statutes, Food and Agriculture Research Act (505 ILCS 82)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1689",
+   "versions": [
+    {
+     "from": "2026-08-29",
+     "units": 8,
+     "source_url": "https://web.archive.org/web/20260829091340/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1689&ChapterID=40",
+     "sha256": "472b2243cb67c9ea925553c834fbd74574087619abdfdf93c871cbe45873fa01"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-505-85",
+   "short": "505 ILCS 85",
+   "title": "Illinois Compiled Statutes, Illinois Grain Quality Program Act of 1988 (505 ILCS 85)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1690",
+   "versions": [
+    {
+     "from": "2026-05-25",
+     "units": 4,
+     "source_url": "https://web.archive.org/web/20260525132430/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1690&ChapterID=40",
+     "sha256": "4c167e98c15f1518a130e90af4fbcd024408caa652025215fd98b7bc5632d186"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-505-86",
+   "short": "505 ILCS 86",
+   "title": "Illinois Compiled Statutes, Grain Coloring Act (505 ILCS 86)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3446",
+   "versions": [
+    {
+     "from": "2026-06-29",
+     "units": 4,
+     "source_url": "https://web.archive.org/web/20260629070615/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3446&ChapterID=40",
+     "sha256": "625b3f90423c7f1b184dfb1124d7c808d5c642afd7b2040a19eb8305c1b5e6d6"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-505-87",
+   "short": "505 ILCS 87",
+   "title": "Illinois Compiled Statutes, Garden Act (505 ILCS 87)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=4180",
+   "versions": [
+    {
+     "from": "2026-05-27",
+     "units": 6,
+     "source_url": "https://web.archive.org/web/20260527150302/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=4180&ChapterID=40",
+     "sha256": "661f32da91fed613c22146c1786219e6c57b1526562137547eb6f9925fe2ac1d"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-505-90",
+   "short": "505 ILCS 90",
+   "title": "Illinois Compiled Statutes, Insect Pest and Plant Disease Act (505 ILCS 90)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1691",
+   "versions": [
+    {
+     "from": "2026-03-08",
+     "units": 32,
+     "source_url": "https://web.archive.org/web/20260308080021/https://ilga.gov/Legislation/ILCS/Articles?ActID=1691&ChapterID=40&Chapter=AGRICULTURE&MajorTopic=AGRICULTURE%20AND%20CONSERVATION",
+     "sha256": "223cbc1049090815d105c40fc86bde5ef1e8f1d132badeed8997270594f72747"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-505-92",
+   "short": "505 ILCS 92",
+   "title": "Illinois Compiled Statutes, Local Food Infrastructure Grant Act (505 ILCS 92)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=4527",
+   "versions": [
+    {
+     "from": "2026-05-27",
+     "units": 12,
+     "source_url": "https://web.archive.org/web/20260527150207/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=4527&ChapterID=40",
+     "sha256": "de85a98494dd1c9c7041a3e31567136b47ea76cd370769007fd28e3664412b22"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-505-95",
+   "short": "505 ILCS 95",
+   "title": "Illinois Compiled Statutes, Illinois Milk Promotion Act (505 ILCS 95)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1692",
+   "versions": [
+    {
+     "from": "2026-03-06",
+     "units": 21,
+     "source_url": "https://web.archive.org/web/20260306020246/https://ilga.gov/Legislation/ILCS/Articles?ActID=1692&ChapterID=40&Chapter=AGRICULTURE&MajorTopic=AGRICULTURE%20AND%20CONSERVATION",
+     "sha256": "eefcba94df7a4feb04bdc8124deeb53528c0424e9bdc846e9625809307ff6052"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-505-100",
+   "short": "505 ILCS 100",
+   "title": "Illinois Compiled Statutes, Illinois Noxious Weed Law (505 ILCS 100)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1693",
+   "versions": [
+    {
+     "from": "2026-03-06",
+     "units": 22,
+     "source_url": "https://web.archive.org/web/20260306031727/https://ilga.gov/Legislation/ILCS/Articles?ActID=1693&ChapterID=40&Chapter=AGRICULTURE&MajorTopic=AGRICULTURE%20AND%20CONSERVATION",
+     "sha256": "0a557a4277b562a993d03a83e9ee953de05cfb74d3943d7cdc68ba96fb135163"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-505-106",
+   "short": "505 ILCS 106",
+   "title": "Illinois Compiled Statutes, Illinois Rivers-Friendly Farmer Program Act (505 ILCS 106)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1695",
+   "versions": [
+    {
+     "from": "2026-03-08",
+     "units": 7,
+     "source_url": "https://web.archive.org/web/20260308081357/https://ilga.gov/Legislation/ILCS/Articles?ActID=1695&ChapterID=40&Chapter=AGRICULTURE&MajorTopic=AGRICULTURE%20AND%20CONSERVATION",
+     "sha256": "27ecfadf5e9375e2ca9ed49640ad79670e6d8897708f908642173b7106277889"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-505-110",
+   "short": "505 ILCS 110",
+   "title": "Illinois Compiled Statutes, Illinois Seed Law (505 ILCS 110)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1696",
+   "versions": [
+    {
+     "from": "2026-06-04",
+     "units": 75,
+     "source_url": "https://web.archive.org/web/20260604004357/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1696&ChapterID=40",
+     "sha256": "1f578991af7e5e9a4a2f0cedd6608e410c28d58a017f5fd5ccbd92f1b8a3898c"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-505-115",
+   "short": "505 ILCS 115",
+   "title": "Illinois Compiled Statutes, Illinois Sheep and Wool Production Development and Marketing Act (505 ILCS 115)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1697",
+   "versions": [
+    {
+     "from": "2026-05-13",
+     "units": 23,
+     "source_url": "https://web.archive.org/web/20260513095052/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1697&ChapterID=40",
+     "sha256": "2625a061b7ce355e1c162c26e6940536b1f72e1751a33402ae67c9735f121311"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-505-120",
+   "short": "505 ILCS 120",
+   "title": "Illinois Compiled Statutes, Soil Amendment Act (505 ILCS 120)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1698",
+   "versions": [
+    {
+     "from": "2026-05-09",
+     "units": 15,
+     "source_url": "https://web.archive.org/web/20260509232548/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1698&ChapterID=40",
+     "sha256": "d3fb81319f7dd8a29b7917ddc0eb7d72b671822a85f431b60c0341670d0cb89e"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-505-125",
+   "short": "505 ILCS 125",
+   "title": "Illinois Compiled Statutes, Soil Conservation Domestic Allotment Act (505 ILCS 125)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1699",
+   "versions": [
+    {
+     "from": "2026-05-27",
+     "units": 8,
+     "source_url": "https://web.archive.org/web/20260527150125/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1699&ChapterID=40",
+     "sha256": "5e2d44b5c24871eed92fe82707ffbd809f080c1d0acd9df9a576260fb60e4f18"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-505-130",
+   "short": "505 ILCS 130",
+   "title": "Illinois Compiled Statutes, Soybean Marketing Act (505 ILCS 130)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1700",
+   "versions": [
+    {
+     "from": "2026-05-15",
+     "units": 26,
+     "source_url": "https://web.archive.org/web/20260515080629/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1700&ChapterID=40",
+     "sha256": "f44d5b41db776ed30d23d1fc2c8a2603d8532474e507342f2ee100e23d37b877"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-505-135",
+   "short": "505 ILCS 135",
+   "title": "Illinois Compiled Statutes, Sustainable Agriculture Act (505 ILCS 135)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1701",
+   "versions": [
+    {
+     "from": "2026-05-27",
+     "units": 6,
+     "source_url": "https://web.archive.org/web/20260527150039/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1701&ChapterID=40",
+     "sha256": "68a52166eec2a0d37524b1d6ab954227b1cdcfe69e877877de8c4f600d4dfc15"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-505-140",
+   "short": "505 ILCS 140",
+   "title": "Illinois Compiled Statutes, Watershed Improvement Act (505 ILCS 140)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1702",
+   "versions": [
+    {
+     "from": "2026-06-27",
+     "units": 4,
+     "source_url": "https://web.archive.org/web/20260627184026/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1702&ChapterID=40",
+     "sha256": "ab5236ed6cff6958683a7add33b374e0ed04fc27e0cc9195473bca6b600fe40e"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-505-145",
+   "short": "505 ILCS 145",
+   "title": "Illinois Compiled Statutes, Wheat Development Act (505 ILCS 145)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1703",
+   "versions": [
+    {
+     "from": "2026-03-06",
+     "units": 24,
+     "source_url": "https://web.archive.org/web/20260306023540/https://ilga.gov/Legislation/ILCS/Articles?ActID=1703&ChapterID=40&Chapter=AGRICULTURE&MajorTopic=AGRICULTURE%20AND%20CONSERVATION",
+     "sha256": "42ff726190d74498a20726f2db36c67f713951241e6c3f6342178c3cffe5180f"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-505-147",
+   "short": "505 ILCS 147",
+   "title": "Illinois Compiled Statutes, Renewable Energy Facilities Agricultural Impact Mitigation Act (505 ILCS 147)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3642",
+   "versions": [
+    {
+     "from": "2026-05-24",
+     "units": 7,
+     "source_url": "https://web.archive.org/web/20260524041707/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3642&ChapterID=40",
+     "sha256": "a9057860b82afb3d130fe5c7bab1f8d04bf5bed794274e38aa2c27ad477f98a7"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-505-150",
+   "short": "505 ILCS 150",
+   "title": "Illinois Compiled Statutes, Promote Illinois Ethanol and Biodiesel Act (505 ILCS 150)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2989",
+   "versions": [
+    {
+     "from": "2026-05-17",
+     "units": 3,
+     "source_url": "https://web.archive.org/web/20260517131355/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2989&ChapterID=40",
+     "sha256": "addd02cb64f106e698e3c9c97a41831184180482fff1251dc41fe8f66f42db0a"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-510-5",
+   "short": "510 ILCS 5",
+   "title": "Illinois Compiled Statutes, Animal Control Act (510 ILCS 5)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1704",
+   "versions": [
+    {
+     "from": "2026-05-20",
+     "units": 69,
+     "source_url": "https://web.archive.org/web/20260520192721/https://ilga.gov/Legislation/ILCS/Articles?ActID=1704&ChapterID=41&Chapter=ANIMALS&MajorTopic=AGRICULTURE%20AND%20CONSERVATION",
+     "sha256": "76c3355c639f5272c5381dafb93eb6bd0bce0ffc050a9e2b013190dd467ce822"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-510-10",
+   "short": "510 ILCS 10",
+   "title": "Illinois Compiled Statutes, Animal Disease Laboratories Act (510 ILCS 10)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1705",
+   "versions": [
+    {
+     "from": "2026-06-07",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20260607225845/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1705&ChapterID=41&Chapter=ANIMALS&MajorTopic=AGRICULTURE%20AND%20CONSERVATION",
+     "sha256": "38a106ef072ef59dd9d1783c5b72089b9aa61b3448bea23416d543dfa2fb9165"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-510-15",
+   "short": "510 ILCS 15",
+   "title": "Illinois Compiled Statutes, Animal Gastroenteritis Act (510 ILCS 15)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1706",
+   "versions": [
+    {
+     "from": "2026-06-10",
+     "units": 3,
+     "source_url": "https://web.archive.org/web/20260610030746/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1706&ChapterID=41&Chapter=ANIMALS&MajorTopic=AGRICULTURE%20AND%20CONSERVATION",
+     "sha256": "855adea1b62a1b0f9616c0b5d35fc81211506083723fc5c0066a7f176c6ca580"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-510-20",
+   "short": "510 ILCS 20",
+   "title": "Illinois Compiled Statutes, Bees and Apiaries Act (510 ILCS 20)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1707",
+   "versions": [
+    {
+     "from": "2026-06-10",
+     "units": 21,
+     "source_url": "https://web.archive.org/web/20260610032620/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1707&ChapterID=41&Chapter=ANIMALS&MajorTopic=AGRICULTURE%20AND%20CONSERVATION",
+     "sha256": "efeada8d3b7435e12ce70190dfb5975ced705aef7b34c3c0a16b9c84b58df785"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-510-30",
+   "short": "510 ILCS 30",
+   "title": "Illinois Compiled Statutes, Illinois Bovine Brucellosis Eradication Act (510 ILCS 30)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1709",
+   "versions": [
+    {
+     "from": "2026-06-07",
+     "units": 46,
+     "source_url": "https://web.archive.org/web/20260607235104/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1709&ChapterID=41&Chapter=ANIMALS&MajorTopic=AGRICULTURE%20AND%20CONSERVATION",
+     "sha256": "66984a2b479b990e30b212549ae996edf5b950c22a8bb23e9566591c3be58dc7"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-510-35",
+   "short": "510 ILCS 35",
+   "title": "Illinois Compiled Statutes, Illinois Bovidae and Cervidae Tuberculosis Eradication Act (510 ILCS 35)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1710",
+   "versions": [
+    {
+     "from": "2026-06-10",
+     "units": 35,
+     "source_url": "https://web.archive.org/web/20260610032428/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1710&ChapterID=41&Chapter=ANIMALS&MajorTopic=AGRICULTURE%20AND%20CONSERVATION",
+     "sha256": "189a29c39cb4bd6f2fb47534ba887d283021f619ab1c91cdc867a77e894fbb75"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-510-40",
+   "short": "510 ILCS 40",
+   "title": "Illinois Compiled Statutes, Illinois Brand Act (510 ILCS 40)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1711",
+   "versions": [
+    {
+     "from": "2026-08-12",
+     "units": 22,
+     "source_url": "https://web.archive.org/web/20260812074410/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1711&ChapterID=41",
+     "sha256": "1a0a20dfbf5a52b17558a9a9ce3ef444502f71977e0fcf29ec827034f23083a1"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-510-45",
+   "short": "510 ILCS 45",
+   "title": "Illinois Compiled Statutes, Carrier, Racing, Hobby, and Show Pigeon Act of 1993 (510 ILCS 45)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1712",
+   "versions": [
+    {
+     "from": "2026-06-10",
+     "units": 8,
+     "source_url": "https://web.archive.org/web/20260610034910/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1712&ChapterID=41&Chapter=ANIMALS&MajorTopic=AGRICULTURE%20AND%20CONSERVATION",
+     "sha256": "0d6daf57098471131daeeb54f445f2ca35c462b28c98c3356ea021c7ba5a0473"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-510-50",
+   "short": "510 ILCS 50",
+   "title": "Illinois Compiled Statutes, Illinois Diseased Animals Act (510 ILCS 50)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1713",
+   "versions": [
+    {
+     "from": "2026-06-11",
+     "units": 25,
+     "source_url": "https://web.archive.org/web/20260611175618/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1713&ChapterID=41",
+     "sha256": "289de1648f89572f57a70405961821d3f77820d32d859e1c996dc5df2df09273"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-510-55",
+   "short": "510 ILCS 55",
+   "title": "Illinois Compiled Statutes, Illinois Domestic Animals Running At Large Act (510 ILCS 55)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1714",
+   "versions": [
+    {
+     "from": "2026-09-18",
+     "units": 5,
+     "source_url": "https://web.archive.org/web/20260918023628/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1714&ChapterID=41",
+     "sha256": "1142a66948160dab22279db5d657f9ad4b978752783d7cfc7810c52305627650"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-510-60",
+   "short": "510 ILCS 60",
+   "title": "Illinois Compiled Statutes, Domesticated Wild Animals Act (510 ILCS 60)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1715",
+   "versions": [
+    {
+     "from": "2026-06-10",
+     "units": 4,
+     "source_url": "https://web.archive.org/web/20260610025830/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1715&ChapterID=41&Chapter=ANIMALS&MajorTopic=AGRICULTURE%20AND%20CONSERVATION",
+     "sha256": "ac9a363f72a74e51b15c28ee05552c6701bfbb89b3becec0dc27b31b8e4d6154"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-510-65",
+   "short": "510 ILCS 65",
+   "title": "Illinois Compiled Statutes, Illinois Equine Infectious Anemia Control Act (510 ILCS 65)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1716",
+   "versions": [
+    {
+     "from": "2026-06-07",
+     "units": 12,
+     "source_url": "https://web.archive.org/web/20260607231112/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1716&ChapterID=41&Chapter=ANIMALS&MajorTopic=AGRICULTURE%20AND%20CONSERVATION",
+     "sha256": "7987882eb98097124c72bd0157711bc9d89e8f7bee2dde01999acf727b35ca4d"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-510-67",
+   "short": "510 ILCS 67",
+   "title": "Illinois Compiled Statutes, Illinois Equine Research and Promotion Act (510 ILCS 67)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2486",
+   "versions": [
+    {
+     "from": "2026-06-10",
+     "units": 9,
+     "source_url": "https://web.archive.org/web/20260610023522/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2486&ChapterID=41&Chapter=ANIMALS&MajorTopic=AGRICULTURE%20AND%20CONSERVATION",
+     "sha256": "35855d626bd7ee1242e4845baad4edaf84e2b2c727f043f17ae165212a85fb06"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-510-70",
+   "short": "510 ILCS 70",
+   "title": "Illinois Compiled Statutes, Humane Care for Animals Act (510 ILCS 70)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1717",
+   "versions": [
+    {
+     "from": "2026-10-27",
+     "units": 59,
+     "source_url": "https://web.archive.org/web/20261027235124/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1717&ChapterID=41&Chapter=ANIMALS&MajorTopic=AGRICULTURE%20AND%20CONSERVATION",
+     "sha256": "3bcd04b6db41b77abb101b3b98b8a1c6d86b24e266b8991f76dec69ba4f45c34"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-510-72",
+   "short": "510 ILCS 72",
+   "title": "Illinois Compiled Statutes, Humane Euthanasia in Animal Shelters Act (510 ILCS 72)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1718",
+   "versions": [
+    {
+     "from": "2026-06-07",
+     "units": 38,
+     "source_url": "https://web.archive.org/web/20260607233652/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1718&ChapterID=41&Chapter=ANIMALS&MajorTopic=AGRICULTURE%20AND%20CONSERVATION",
+     "sha256": "f05594f259cf5bf308017880f0c96df62dbfbc815ae638284d5eeb0017e6ad55"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-510-75",
+   "short": "510 ILCS 75",
+   "title": "Illinois Compiled Statutes, Humane Slaughter of Livestock Act (510 ILCS 75)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1719",
+   "versions": [
+    {
+     "from": "2026-06-10",
+     "units": 9,
+     "source_url": "https://web.archive.org/web/20260610035046/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1719&ChapterID=41&Chapter=ANIMALS&MajorTopic=AGRICULTURE%20AND%20CONSERVATION",
+     "sha256": "2260c6a4d2b05a6ebc0d1219a6d47d3332eb332c5050491544461c3bc8189ecc"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-510-77",
+   "short": "510 ILCS 77",
+   "title": "Illinois Compiled Statutes, Livestock Management Facilities Act (510 ILCS 77)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1720",
+   "versions": [
+    {
+     "from": "2026-09-18",
+     "units": 42,
+     "source_url": "https://web.archive.org/web/20260918023630/https://www.ilga.gov/Legislation/ILCS/Articles?ChapterID=41&ActID=1720",
+     "sha256": "fe54a512e377127b91634af5f54e4061f3ae3fa321b86eee80ab05b1f1b50fd8"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-510-81",
+   "short": "510 ILCS 81",
+   "title": "Illinois Compiled Statutes, Care for Retired Police Dogs Program Act (510 ILCS 81)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=4625",
+   "versions": [
+    {
+     "from": "2026-06-10",
+     "units": 9,
+     "source_url": "https://web.archive.org/web/20260610030822/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=4625&ChapterID=41&Chapter=ANIMALS&MajorTopic=AGRICULTURE%20AND%20CONSERVATION",
+     "sha256": "6463251d42884ec130718fe741a1c082dcd5a4f1ab29e228a51ac99a5ca409a9"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-510-82",
+   "short": "510 ILCS 82",
+   "title": "Illinois Compiled Statutes, Police Dog Retirement Act (510 ILCS 82)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3733",
+   "versions": [
+    {
+     "from": "2026-06-10",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20260610024952/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3733&ChapterID=41&Chapter=ANIMALS&MajorTopic=AGRICULTURE%20AND%20CONSERVATION",
+     "sha256": "d94a7a8a5a3f4c741b3f71487fa7db80c3982228a66db3917d8589f4412ca04b"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-510-83",
+   "short": "510 ILCS 83",
+   "title": "Illinois Compiled Statutes, Police Service Dog Protection Act (510 ILCS 83)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3883",
+   "versions": [
+    {
+     "from": "2026-06-10",
+     "units": 4,
+     "source_url": "https://web.archive.org/web/20260610030456/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3883&ChapterID=41&Chapter=ANIMALS&MajorTopic=AGRICULTURE%20AND%20CONSERVATION",
+     "sha256": "cc56de6b6c7689cf871b0afb4cf1a763c414b50bcda825d6549ad0db32cc9f3e"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-510-85",
+   "short": "510 ILCS 85",
+   "title": "Illinois Compiled Statutes, Poultry Inspection Act (510 ILCS 85)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1722",
+   "versions": [
+    {
+     "from": "2026-06-10",
+     "units": 9,
+     "source_url": "https://web.archive.org/web/20260610034928/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1722&ChapterID=41&Chapter=ANIMALS&MajorTopic=AGRICULTURE%20AND%20CONSERVATION",
+     "sha256": "63a2482b1b5c315f998bef8c68d5ccb5cbde4086113f5c54cffa9022d5ca0563"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-510-87",
+   "short": "510 ILCS 87",
+   "title": "Illinois Compiled Statutes, Protection of Dogs and Cats from Unnecessary Testing Act (510 ILCS 87)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=4419",
+   "versions": [
+    {
+     "from": "2026-09-07",
+     "units": 5,
+     "source_url": "https://web.archive.org/web/20260907180445/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=4419&ChapterID=41",
+     "sha256": "13bf1ad2bc1e699cf376b7b77111f45b6766de875261e91fddcee5912f56cf30"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-510-90",
+   "short": "510 ILCS 90",
+   "title": "Illinois Compiled Statutes, Illinois Pseudorabies Control Act (510 ILCS 90)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1723",
+   "versions": [
+    {
+     "from": "2026-08-26",
+     "units": 16,
+     "source_url": "https://web.archive.org/web/20260826160126/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1723&ChapterID=41",
+     "sha256": "6386ef6597b62934525d2468bd3f5260847e1fba6adc440cfc5a0798ac1ad42c"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-510-92",
+   "short": "510 ILCS 92",
+   "title": "Illinois Compiled Statutes, Illinois Public Health and Safety Animal Population Control Act (510 ILCS 92)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2746",
+   "versions": [
+    {
+     "from": "2026-06-10",
+     "units": 16,
+     "source_url": "https://web.archive.org/web/20260610032335/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2746&ChapterID=41&Chapter=ANIMALS&MajorTopic=AGRICULTURE%20AND%20CONSERVATION",
+     "sha256": "8f1c0dbcf15d147fb6a62f7706df820c721d03b4bf34ce61c114a7b611aaa94f"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-510-93",
+   "short": "510 ILCS 93",
+   "title": "Illinois Compiled Statutes, Research Dogs and Cats Adoption Act (510 ILCS 93)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3809",
+   "versions": [
+    {
+     "from": "2026-06-10",
+     "units": 3,
+     "source_url": "https://web.archive.org/web/20260610025119/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3809&ChapterID=41&Chapter=ANIMALS&MajorTopic=AGRICULTURE%20AND%20CONSERVATION",
+     "sha256": "a96f2c0856a2b54212f013af0146adaf5a1d8dc433554632346440aabd862ebe"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-510-95",
+   "short": "510 ILCS 95",
+   "title": "Illinois Compiled Statutes, Illinois Swine Brucellosis Eradication Act (510 ILCS 95)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1724",
+   "versions": [
+    {
+     "from": "2026-06-10",
+     "units": 22,
+     "source_url": "https://web.archive.org/web/20260610024301/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1724&ChapterID=41&Chapter=ANIMALS&MajorTopic=AGRICULTURE%20AND%20CONSERVATION",
+     "sha256": "e83a991e17e8abf160239b51f0cfb014759f33a526fbf23dbf3a4c17a32ae861"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-510-100",
+   "short": "510 ILCS 100",
+   "title": "Illinois Compiled Statutes, Illinois Swine Disease Control and Eradication Act (510 ILCS 100)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1725",
+   "versions": [
+    {
+     "from": "2026-09-18",
+     "units": 24,
+     "source_url": "https://web.archive.org/web/20260918023628/https://www.ilga.gov/Legislation/ILCS/Articles?ChapterID=41&ActID=1725",
+     "sha256": "86bc2a13009c713cea0a678a0d1491f2c15e950550cffb3ca88eeac06679c2c0"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-510-101",
+   "short": "510 ILCS 101",
+   "title": "Illinois Compiled Statutes, Illinois Swine Market Development Act (510 ILCS 101)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1726",
+   "versions": [
+    {
+     "from": "2026-06-10",
+     "units": 20,
+     "source_url": "https://web.archive.org/web/20260610030855/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1726&ChapterID=41&Chapter=ANIMALS&MajorTopic=AGRICULTURE%20AND%20CONSERVATION",
+     "sha256": "809a8d6eb584412a9f06bb6dbb7d31f16cb27fc314cab749d65f58352fabc5d1"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-515-5-article-0001",
+   "short": "515 ILCS 5 art. 1",
+   "title": "Illinois Compiled Statutes, Fish and Aquatic Life Code (515 ILCS 5), Article 1",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1728",
+   "versions": [
+    {
+     "from": "2026-06-11",
+     "units": 60,
+     "source_url": "https://web.archive.org/web/20260611075224/https://ilga.gov/legislation/ILCS/details?MajorTopic=AGRICULTURE%20AND%20CONSERVATION&Chapter=FISH&ActName=Fish%20and%20Aquatic%20Life%20Code.&ActID=1728&ChapterID=42&SeqStart=&&ChapAct=FullText",
+     "sha256": "64d9ad1b15212c32a86f70806941bc0716e875c8c975dbe1a1f44f78499ea946"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-515-5-article-0005",
+   "short": "515 ILCS 5 art. 5",
+   "title": "Illinois Compiled Statutes, Fish and Aquatic Life Code (515 ILCS 5), Article 5",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1728",
+   "versions": [
+    {
+     "from": "2026-06-11",
+     "units": 6,
+     "source_url": "https://web.archive.org/web/20260611075224/https://ilga.gov/legislation/ILCS/details?MajorTopic=AGRICULTURE%20AND%20CONSERVATION&Chapter=FISH&ActName=Fish%20and%20Aquatic%20Life%20Code.&ActID=1728&ChapterID=42&SeqStart=&&ChapAct=FullText",
+     "sha256": "64d9ad1b15212c32a86f70806941bc0716e875c8c975dbe1a1f44f78499ea946"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-515-5-article-0010",
+   "short": "515 ILCS 5 art. 10",
+   "title": "Illinois Compiled Statutes, Fish and Aquatic Life Code (515 ILCS 5), Article 10",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1728",
+   "versions": [
+    {
+     "from": "2026-06-11",
+     "units": 30,
+     "source_url": "https://web.archive.org/web/20260611075224/https://ilga.gov/legislation/ILCS/details?MajorTopic=AGRICULTURE%20AND%20CONSERVATION&Chapter=FISH&ActName=Fish%20and%20Aquatic%20Life%20Code.&ActID=1728&ChapterID=42&SeqStart=&&ChapAct=FullText",
+     "sha256": "64d9ad1b15212c32a86f70806941bc0716e875c8c975dbe1a1f44f78499ea946"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-515-5-article-0015",
+   "short": "515 ILCS 5 art. 15",
+   "title": "Illinois Compiled Statutes, Fish and Aquatic Life Code (515 ILCS 5), Article 15",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1728",
+   "versions": [
+    {
+     "from": "2026-06-11",
+     "units": 33,
+     "source_url": "https://web.archive.org/web/20260611075224/https://ilga.gov/legislation/ILCS/details?MajorTopic=AGRICULTURE%20AND%20CONSERVATION&Chapter=FISH&ActName=Fish%20and%20Aquatic%20Life%20Code.&ActID=1728&ChapterID=42&SeqStart=&&ChapAct=FullText",
+     "sha256": "64d9ad1b15212c32a86f70806941bc0716e875c8c975dbe1a1f44f78499ea946"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-515-5-article-0020",
+   "short": "515 ILCS 5 art. 20",
+   "title": "Illinois Compiled Statutes, Fish and Aquatic Life Code (515 ILCS 5), Article 20",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1728",
+   "versions": [
+    {
+     "from": "2026-06-11",
+     "units": 32,
+     "source_url": "https://web.archive.org/web/20260611075224/https://ilga.gov/legislation/ILCS/details?MajorTopic=AGRICULTURE%20AND%20CONSERVATION&Chapter=FISH&ActName=Fish%20and%20Aquatic%20Life%20Code.&ActID=1728&ChapterID=42&SeqStart=&&ChapAct=FullText",
+     "sha256": "64d9ad1b15212c32a86f70806941bc0716e875c8c975dbe1a1f44f78499ea946"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-515-5-article-0025",
+   "short": "515 ILCS 5 art. 25",
+   "title": "Illinois Compiled Statutes, Fish and Aquatic Life Code (515 ILCS 5), Article 25",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1728",
+   "versions": [
+    {
+     "from": "2026-06-11",
+     "units": 4,
+     "source_url": "https://web.archive.org/web/20260611075224/https://ilga.gov/legislation/ILCS/details?MajorTopic=AGRICULTURE%20AND%20CONSERVATION&Chapter=FISH&ActName=Fish%20and%20Aquatic%20Life%20Code.&ActID=1728&ChapterID=42&SeqStart=&&ChapAct=FullText",
+     "sha256": "64d9ad1b15212c32a86f70806941bc0716e875c8c975dbe1a1f44f78499ea946"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-515-5-article-0030",
+   "short": "515 ILCS 5 art. 30",
+   "title": "Illinois Compiled Statutes, Fish and Aquatic Life Code (515 ILCS 5), Article 30",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1728",
+   "versions": [
+    {
+     "from": "2026-06-11",
+     "units": 3,
+     "source_url": "https://web.archive.org/web/20260611075224/https://ilga.gov/legislation/ILCS/details?MajorTopic=AGRICULTURE%20AND%20CONSERVATION&Chapter=FISH&ActName=Fish%20and%20Aquatic%20Life%20Code.&ActID=1728&ChapterID=42&SeqStart=&&ChapAct=FullText",
+     "sha256": "64d9ad1b15212c32a86f70806941bc0716e875c8c975dbe1a1f44f78499ea946"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-515-5-article-0035",
+   "short": "515 ILCS 5 art. 35",
+   "title": "Illinois Compiled Statutes, Fish and Aquatic Life Code (515 ILCS 5), Article 35",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1728",
+   "versions": [
+    {
+     "from": "2026-06-11",
+     "units": 1,
+     "source_url": "https://web.archive.org/web/20260611075224/https://ilga.gov/legislation/ILCS/details?MajorTopic=AGRICULTURE%20AND%20CONSERVATION&Chapter=FISH&ActName=Fish%20and%20Aquatic%20Life%20Code.&ActID=1728&ChapterID=42&SeqStart=&&ChapAct=FullText",
+     "sha256": "64d9ad1b15212c32a86f70806941bc0716e875c8c975dbe1a1f44f78499ea946"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-515-5-article-0040",
+   "short": "515 ILCS 5 art. 40",
+   "title": "Illinois Compiled Statutes, Fish and Aquatic Life Code (515 ILCS 5), Article 40",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1728",
+   "versions": [
+    {
+     "from": "2026-06-11",
+     "units": 3,
+     "source_url": "https://web.archive.org/web/20260611075224/https://ilga.gov/legislation/ILCS/details?MajorTopic=AGRICULTURE%20AND%20CONSERVATION&Chapter=FISH&ActName=Fish%20and%20Aquatic%20Life%20Code.&ActID=1728&ChapterID=42&SeqStart=&&ChapAct=FullText",
+     "sha256": "64d9ad1b15212c32a86f70806941bc0716e875c8c975dbe1a1f44f78499ea946"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-515-5-article-0045",
+   "short": "515 ILCS 5 art. 45",
+   "title": "Illinois Compiled Statutes, Fish and Aquatic Life Code (515 ILCS 5), Article 45",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1728",
+   "versions": [
+    {
+     "from": "2026-06-11",
+     "units": 1,
+     "source_url": "https://web.archive.org/web/20260611075224/https://ilga.gov/legislation/ILCS/details?MajorTopic=AGRICULTURE%20AND%20CONSERVATION&Chapter=FISH&ActName=Fish%20and%20Aquatic%20Life%20Code.&ActID=1728&ChapterID=42&SeqStart=&&ChapAct=FullText",
+     "sha256": "64d9ad1b15212c32a86f70806941bc0716e875c8c975dbe1a1f44f78499ea946"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-515-5-article-0050",
+   "short": "515 ILCS 5 art. 50",
+   "title": "Illinois Compiled Statutes, Fish and Aquatic Life Code (515 ILCS 5), Article 50",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1728",
+   "versions": [
+    {
+     "from": "2026-06-11",
+     "units": 1,
+     "source_url": "https://web.archive.org/web/20260611075224/https://ilga.gov/legislation/ILCS/details?MajorTopic=AGRICULTURE%20AND%20CONSERVATION&Chapter=FISH&ActName=Fish%20and%20Aquatic%20Life%20Code.&ActID=1728&ChapterID=42&SeqStart=&&ChapAct=FullText",
+     "sha256": "64d9ad1b15212c32a86f70806941bc0716e875c8c975dbe1a1f44f78499ea946"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-520-5",
+   "short": "520 ILCS 5",
+   "title": "Illinois Compiled Statutes, Wildlife Code (520 ILCS 5)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1729",
+   "versions": [
+    {
+     "from": "2026-07-17",
+     "units": 167,
+     "source_url": "https://web.archive.org/web/20260717065229/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1729&ChapterID=43",
+     "sha256": "44a2a8affe1a8351ea5ac6b81b59c61cc732152ecc877ac0dd78e98b50c072a9"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-520-10",
+   "short": "520 ILCS 10",
+   "title": "Illinois Compiled Statutes, Illinois Endangered Species Protection Act (520 ILCS 10)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1730",
+   "versions": [
+    {
+     "from": "2026-04-13",
+     "units": 12,
+     "source_url": "https://web.archive.org/web/20260413031138/https://ilga.gov/legislation/ilcs/Articles?ActID=1730&ChapAct=520%C2%A0ILCS%C2%A010/&ChapterID=43&ChapterName=WILDLIFE&ActName=Illinois%20Endangered%20Species%20Protection%20Act.",
+     "sha256": "a044f9d187db6771a95b125245c0cfc2da89c3a3466364b03f1c72b4a5e77e7d"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-520-15",
+   "short": "520 ILCS 15",
+   "title": "Illinois Compiled Statutes, Wildlife Restoration Cooperation Act (520 ILCS 15)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1731",
+   "versions": [
+    {
+     "from": "2026-05-16",
+     "units": 3,
+     "source_url": "https://web.archive.org/web/20260516122331/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1731&ChapterID=43&Chapter=WILDLIFE&MajorTopic=AGRICULTURE%20AND%20CONSERVATION",
+     "sha256": "aca08a6a9cd5985eafd014c59186a83d9be950db24da277bc6cd03a210a3b072"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-520-20",
+   "short": "520 ILCS 20",
+   "title": "Illinois Compiled Statutes, Wildlife Habitat Management Areas Act (520 ILCS 20)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1732",
+   "versions": [
+    {
+     "from": "2026-03-08",
+     "units": 23,
+     "source_url": "https://web.archive.org/web/20260308160329/https://ilga.gov/Legislation/ILCS/Articles?ActID=1732&ChapterID=43&Chapter=WILDLIFE&MajorTopic=AGRICULTURE%20AND%20CONSERVATION",
+     "sha256": "9328feb6ae0848114560a3052f4f3284ed17a473fb54ee788317c3c58740782c"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-520-25",
+   "short": "520 ILCS 25",
+   "title": "Illinois Compiled Statutes, Habitat Endowment Act (520 ILCS 25)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1733",
+   "versions": [
+    {
+     "from": "2026-04-19",
+     "units": 10,
+     "source_url": "https://web.archive.org/web/20260419154106/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1733&ChapterID=43&Chapter=WILDLIFE&MajorTopic=AGRICULTURE%20AND%20CONSERVATION",
+     "sha256": "b3ac8ff8b8875b3448b931162e63a0c6ea648cf5723a8576247c5f2bd60c11bb"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-520-30",
+   "short": "520 ILCS 30",
+   "title": "Illinois Compiled Statutes, Illinois Hunting Heritage Protection Act (520 ILCS 30)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2599",
+   "versions": [
+    {
+     "from": "2026-07-02",
+     "units": 4,
+     "source_url": "https://web.archive.org/web/20260702093207/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2599&ChapterID=43",
+     "sha256": "ffa92a25a6e3a1d93d395b7478b70c8b9b032f7ea02eb1858bf9717e1880cf7f"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-520-35",
+   "short": "520 ILCS 35",
+   "title": "Illinois Compiled Statutes, Wild Animal Public Safety Act (520 ILCS 35)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=4420",
+   "versions": [
+    {
+     "from": "2026-03-11",
+     "units": 7,
+     "source_url": "https://web.archive.org/web/20260311230901/https://ilga.gov/Legislation/ILCS/Articles?ActID=4420&ChapterID=43&Chapter=WILDLIFE&MajorTopic=AGRICULTURE%20AND%20CONSERVATION",
+     "sha256": "b1dbfeaa174f7341031212b947e622f3bb148e0b6668e0281b3389f793f65392"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-525-5",
+   "short": "525 ILCS 5",
+   "title": "Illinois Compiled Statutes, Cave Protection Act (525 ILCS 5)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1734",
+   "versions": [
+    {
+     "from": "2026-06-13",
+     "units": 7,
+     "source_url": "https://web.archive.org/web/20260613064150/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1734&ChapterID=44",
+     "sha256": "f010882f34d467033b61d9509dbb1aaa2d4a087e627c1a5981f8cabbbe55a836"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-525-10",
+   "short": "525 ILCS 10",
+   "title": "Illinois Compiled Statutes, Illinois Exotic Weed Act (525 ILCS 10)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1735",
+   "versions": [
+    {
+     "from": "2026-08-28",
+     "units": 5,
+     "source_url": "https://web.archive.org/web/20260828104742/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1735&ChapterID=44",
+     "sha256": "911fcd79ae668891c477663ee9137afd204066449e93215480c73539282ee4ca"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-525-15",
+   "short": "525 ILCS 15",
+   "title": "Illinois Compiled Statutes, Illinois Forestry Development Act (525 ILCS 15)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1736",
+   "versions": [
+    {
+     "from": "2026-04-16",
+     "units": 8,
+     "source_url": "https://web.archive.org/web/20260416015133/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1736&ChapterID=44&Chapter=CONSERVATION&MajorTopic=AGRICULTURE%20AND%20CONSERVATION",
+     "sha256": "09b8276797e8c374c217e1e814b87351fa52a5fd118c15acd5d84b0c972ca99a"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-525-20",
+   "short": "525 ILCS 20",
+   "title": "Illinois Compiled Statutes, Ginseng Harvesting Act (525 ILCS 20)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1737",
+   "versions": [
+    {
+     "from": "2026-04-16",
+     "units": 19,
+     "source_url": "https://web.archive.org/web/20260416020723/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1737&ChapterID=44&Chapter=CONSERVATION&MajorTopic=AGRICULTURE%20AND%20CONSERVATION",
+     "sha256": "da7619777a98bede6332bd0fa2e781bec9a7c44e505d0d9c5cf7f06bdb0f0d08"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-525-22",
+   "short": "525 ILCS 22",
+   "title": "Illinois Compiled Statutes, Healthy Forests, Wetlands, and Prairies Act (525 ILCS 22)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=4543",
+   "versions": [
+    {
+     "from": "2026-04-16",
+     "units": 8,
+     "source_url": "https://web.archive.org/web/20260416030052/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=4543&ChapterID=44&Chapter=CONSERVATION&MajorTopic=AGRICULTURE%20AND%20CONSERVATION",
+     "sha256": "2fa1575f670124d4c0555d3b305f17cc0bc4051760f5f03372b9004bda49556a"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-525-25",
+   "short": "525 ILCS 25",
+   "title": "Illinois Compiled Statutes, Illinois Lake Management Program Act (525 ILCS 25)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1738",
+   "versions": [
+    {
+     "from": "2026-08-23",
+     "units": 8,
+     "source_url": "https://web.archive.org/web/20260823114653/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1738&ChapterID=44",
+     "sha256": "21958343f0ba9ec85372d56c2b84db7da87e707db83236960415e87e0ef6c2d5"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-525-27",
+   "short": "525 ILCS 27",
+   "title": "Illinois Compiled Statutes, Native Prairie and Forage Preference Act (525 ILCS 27)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=4003",
+   "versions": [
+    {
+     "from": "2026-07-22",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20260722184056/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=4003&ChapterID=44",
+     "sha256": "8e11df47ad8bb7bf5f7f2f1330f581f3a29e89a37296a9700ba1865e4e16e236"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-525-30",
+   "short": "525 ILCS 30",
+   "title": "Illinois Compiled Statutes, Illinois Natural Areas Preservation Act (525 ILCS 30)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1739",
+   "versions": [
+    {
+     "from": "2026-05-17",
+     "units": 58,
+     "source_url": "https://web.archive.org/web/20260517151349/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1739&ChapterID=44",
+     "sha256": "5caa1f06831ef281e3da6974bad9ab090ab352b9ead9b7ec5c17c71cee89204d"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-525-33",
+   "short": "525 ILCS 33",
+   "title": "Illinois Compiled Statutes, Illinois Open Land Trust Act (525 ILCS 33)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1740",
+   "versions": [
+    {
+     "from": "2026-08-10",
+     "units": 10,
+     "source_url": "https://web.archive.org/web/20260810100755/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1740&ChapterID=44",
+     "sha256": "126442c995b2cb7c3e4f0199709d491f558e2c28d62a2af9c0d76cb27ce950a2"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-525-35",
+   "short": "525 ILCS 35",
+   "title": "Illinois Compiled Statutes, Open Space Lands Acquisition and Development Act (525 ILCS 35)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1741",
+   "versions": [
+    {
+     "from": "2026-05-16",
+     "units": 18,
+     "source_url": "https://web.archive.org/web/20260516084810/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1741&ChapterID=44",
+     "sha256": "f63e6c37ca75b4d3dcac5f61241c483ce57974119d032b642b8e17d79130ef78"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-525-37",
+   "short": "525 ILCS 37",
+   "title": "Illinois Compiled Statutes, Illinois Prescribed Burning Act (525 ILCS 37)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2904",
+   "versions": [
+    {
+     "from": "2026-04-16",
+     "units": 9,
+     "source_url": "https://web.archive.org/web/20260416020208/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2904&ChapterID=44&Chapter=CONSERVATION&MajorTopic=AGRICULTURE%20AND%20CONSERVATION",
+     "sha256": "e2db46ccb0f3d1540d3f1e220f7a7b01924a9de08436fec1524d6c09714fbd80"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-525-40",
+   "short": "525 ILCS 40",
+   "title": "Illinois Compiled Statutes, State Forest Act (525 ILCS 40)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1742",
+   "versions": [
+    {
+     "from": "2026-05-26",
+     "units": 13,
+     "source_url": "https://web.archive.org/web/20260526172917/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1742&ChapterID=44",
+     "sha256": "6948a8634b20487b486520137f8689be4e569c0cd64c0945741100b692814927"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-525-45",
+   "short": "525 ILCS 45",
+   "title": "Illinois Compiled Statutes, Water Use Act of 1983 (525 ILCS 45)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1743",
+   "versions": [
+    {
+     "from": "2026-10-23",
+     "units": 10,
+     "source_url": "https://web.archive.org/web/20261023224931/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1743&ChapterID=44&Chapter=CONSERVATION&MajorTopic=AGRICULTURE%20AND%20CONSERVATION",
+     "sha256": "c10fc6f4c8f5608633c86e64d2a87af0455dc6319a35e61d66ebde330d554ae2"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-525-47",
+   "short": "525 ILCS 47",
+   "title": "Illinois Compiled Statutes, Wild Plant Conservation Act (525 ILCS 47)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3445",
+   "versions": [
+    {
+     "from": "2026-07-05",
+     "units": 3,
+     "source_url": "https://web.archive.org/web/20260705104527/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3445&ChapterID=44",
+     "sha256": "d74a9050b6bea0f5b1c0c17d9f6baf9f5405228869c50cecc0d77733f05d0ef9"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-525-50",
+   "short": "525 ILCS 50",
+   "title": "Illinois Compiled Statutes, Illinois Veteran, Youth, and Young Adult Conservation Jobs Act (525 ILCS 50)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1744",
+   "versions": [
+    {
+     "from": "2026-04-16",
+     "units": 10,
+     "source_url": "https://web.archive.org/web/20260416012616/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1744&ChapterID=44&Chapter=CONSERVATION&MajorTopic=AGRICULTURE%20AND%20CONSERVATION",
+     "sha256": "c28f92d99422225cb0b5532bdec58567f1c934ae71376a9663a99e0f81999f00"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-525-55",
+   "short": "525 ILCS 55",
+   "title": "Illinois Compiled Statutes, Pollinator-Friendly Solar Site Act (525 ILCS 55)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3900",
+   "versions": [
+    {
+     "from": "2026-04-16",
+     "units": 5,
+     "source_url": "https://web.archive.org/web/20260416011312/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3900&ChapterID=44&Chapter=CONSERVATION&MajorTopic=AGRICULTURE%20AND%20CONSERVATION",
+     "sha256": "6bd540dbfd79a8da267eabc4c3c84835644769e0982bef93d0b60369e08a59f5"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-525-60",
+   "short": "525 ILCS 60",
+   "title": "Illinois Compiled Statutes, Youth and Young Adult Conservation Education Act (525 ILCS 60)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=4528",
+   "versions": [
+    {
+     "from": "2026-09-08",
+     "units": 7,
+     "source_url": "https://web.archive.org/web/20260908100841/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=4528&ChapterID=44",
+     "sha256": "6d6bc3204e8797da1b2223e640a51a4a3197a88f975168fad8ea609223fb0a7e"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-605-20",
+   "short": "605 ILCS 20",
+   "title": "Illinois Compiled Statutes, Peerson Memorial Highway Act (605 ILCS 20)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1748",
+   "versions": [
+    {
+     "from": "2026-04-21",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20260421055540/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1748&ChapterID=45",
+     "sha256": "7b9d6dcf5de944f897bdf72ab077e0762fba9e8049c21b122e50e7980816f699"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-605-30",
+   "short": "605 ILCS 30",
+   "title": "Illinois Compiled Statutes, Bikeway Act (605 ILCS 30)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1750",
+   "versions": [
+    {
+     "from": "2026-06-04",
+     "units": 6,
+     "source_url": "https://web.archive.org/web/20260604135948/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1750&ChapterID=49&ChapAct=5+ILCS+420&ChapterName=GOVERNMENTAL+ETHICS+ACT&ChapterNameAnchor=&SeqStart=&SeqEnd=",
+     "sha256": "3c31ce4edcf24f5c731600673a8d53c2cf7c0eaa842f91593ba80ea7aa672b3e"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-605-130",
+   "short": "605 ILCS 130",
+   "title": "Illinois Compiled Statutes, Public Private Agreements for the Illiana Expressway Act (605 ILCS 130)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3229",
+   "versions": [
+    {
+     "from": "2026-05-24",
+     "units": 40,
+     "source_url": "https://web.archive.org/web/20260524054924/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3229&ChapterID=45",
+     "sha256": "df644f26e9427284b0ee0268140a6c2c1f6d17a3a11245023385d300506d045d"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-605-140",
+   "short": "605 ILCS 140",
+   "title": "Illinois Compiled Statutes, Expressway Camera Act (605 ILCS 140)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=4000",
+   "versions": [
+    {
+     "from": "2026-09-30",
+     "units": 5,
+     "source_url": "https://web.archive.org/web/20260930001649/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=4000&ChapterID=45",
+     "sha256": "fdabeaadb2313223e9056eca8efec17aed402eb23ab82bf8cd0b3acf8ac71f17"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-610-5",
+   "short": "610 ILCS 5",
+   "title": "Illinois Compiled Statutes, Railroad Incorporation Act (610 ILCS 5)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1755",
+   "versions": [
+    {
+     "from": "2026-03-11",
+     "units": 31,
+     "source_url": "https://web.archive.org/web/20260311112325/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1755&ChapterID=46&Chapter=RAILROADS&MajorTopic=TRANSPORTATION",
+     "sha256": "7aa8743900e6239f3d9e3fbcbb63e643fec79042511155d8da32804172deaeee"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-610-10",
+   "short": "610 ILCS 10",
+   "title": "Illinois Compiled Statutes, Railroad Company Charter Change Act (610 ILCS 10)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1756",
+   "versions": [
+    {
+     "from": "2026-05-15",
+     "units": 7,
+     "source_url": "https://web.archive.org/web/20260515091523/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1756&ChapterID=46&Chapter=RAILROADS&MajorTopic=TRANSPORTATION",
+     "sha256": "4d28370aaef12258b8c5d611f3b40f9079208b500827b4d31333a9e93c53f292"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-610-15",
+   "short": "610 ILCS 15",
+   "title": "Illinois Compiled Statutes, Railroad Stock Transfer Act (610 ILCS 15)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1757",
+   "versions": [
+    {
+     "from": "2026-03-25",
+     "units": 7,
+     "source_url": "https://web.archive.org/web/20260325153354/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1757&ChapterID=46",
+     "sha256": "fe8b38eb0bc81bbe9a364077a46b44b2800b0696788ca347c8ed11f4be373694"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-610-20",
+   "short": "610 ILCS 20",
+   "title": "Illinois Compiled Statutes, Railroad Borrowing Act (610 ILCS 20)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1758",
+   "versions": [
+    {
+     "from": "2026-04-13",
+     "units": 6,
+     "source_url": "https://web.archive.org/web/20260413175038/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1758&ChapterID=46&Chapter=RAILROADS&MajorTopic=TRANSPORTATION",
+     "sha256": "685c1d960965880b5d205965cc90d3148de4fcd26ccfbf92b1759a5a941defc8"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-610-25",
+   "short": "610 ILCS 25",
+   "title": "Illinois Compiled Statutes, Railroad Consolidation Act (610 ILCS 25)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1759",
+   "versions": [
+    {
+     "from": "2026-04-12",
+     "units": 5,
+     "source_url": "https://web.archive.org/web/20260412132647/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1759&ChapterID=46&Chapter=RAILROADS&MajorTopic=TRANSPORTATION",
+     "sha256": "3d63a7370e59aa5b5b1780a94fe62ca607da8a521fa23028338094496661dd34"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-610-30",
+   "short": "610 ILCS 30",
+   "title": "Illinois Compiled Statutes, Railroad Interstate Line Consolidation Act (610 ILCS 30)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1760",
+   "versions": [
+    {
+     "from": "2026-02-17",
+     "units": 3,
+     "source_url": "https://web.archive.org/web/20260217174417/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1760&ChapterID=46&Chapter=RAILROADS&MajorTopic=TRANSPORTATION",
+     "sha256": "361492ad2a257b1a3b582b1628d0713816e9cf963901e3e1ea23e3b26a6df1ee"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-610-35",
+   "short": "610 ILCS 35",
+   "title": "Illinois Compiled Statutes, Railroad Operative Contract Act (610 ILCS 35)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1761",
+   "versions": [
+    {
+     "from": "2026-06-14",
+     "units": 4,
+     "source_url": "https://web.archive.org/web/20260614195304/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1761&ChapterID=46&Chapter=RAILROADS&MajorTopic=TRANSPORTATION",
+     "sha256": "c346679fe952e3f164344a304f91e7fbef9bd9c5a16b9ddb66aa51ca39e1541d"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-610-40",
+   "short": "610 ILCS 40",
+   "title": "Illinois Compiled Statutes, Railroad Bridge Act (610 ILCS 40)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1762",
+   "versions": [
+    {
+     "from": "2026-04-21",
+     "units": 3,
+     "source_url": "https://web.archive.org/web/20260421200916/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1762&ChapterID=46",
+     "sha256": "557daa37b1dfb2b7347334c5ba610e534868d65649f2759b828d5b9a12b9e0a6"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-610-50",
+   "short": "610 ILCS 50",
+   "title": "Illinois Compiled Statutes, Railroad Water Craft Act (610 ILCS 50)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1764",
+   "versions": [
+    {
+     "from": "2026-05-06",
+     "units": 3,
+     "source_url": "https://web.archive.org/web/20260506134639/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1764&ChapterID=46",
+     "sha256": "0a7d64756ed54d9b6c17bb0736828864e60246479f8ad2e5ba570ad08a4007ae"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-610-60",
+   "short": "610 ILCS 60",
+   "title": "Illinois Compiled Statutes, Railroad Motor and Aerial Transport Act (610 ILCS 60)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1766",
+   "versions": [
+    {
+     "from": "2026-03-12",
+     "units": 3,
+     "source_url": "https://web.archive.org/web/20260312055502/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1766&ChapterID=46&Chapter=RAILROADS&MajorTopic=TRANSPORTATION",
+     "sha256": "190c7dce2605e1a26cebec16c3214698fb021757cef2df515addeefc06226067"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-610-65",
+   "short": "610 ILCS 65",
+   "title": "Illinois Compiled Statutes, Railroad Bond Guarantee Act (610 ILCS 65)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1767",
+   "versions": [
+    {
+     "from": "2026-05-12",
+     "units": 3,
+     "source_url": "https://web.archive.org/web/20260512151327/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1767&ChapterID=46&Chapter=RAILROADS&MajorTopic=TRANSPORTATION",
+     "sha256": "bec4e4289325bbb50b8effd89dd0c4858c51ef74a566ba5cb937d45fc93d61e8"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-610-70",
+   "short": "610 ILCS 70",
+   "title": "Illinois Compiled Statutes, Railroad Powers Act (610 ILCS 70)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1768",
+   "versions": [
+    {
+     "from": "2026-03-27",
+     "units": 6,
+     "source_url": "https://web.archive.org/web/20260327192437/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1768&ChapterID=46",
+     "sha256": "0c355b288dd83f83dcde67d42fe9e76474b91dba4ad231d22d50cc629ece3fa4"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-610-85",
+   "short": "610 ILCS 85",
+   "title": "Illinois Compiled Statutes, Railroad Sanitation Act (610 ILCS 85)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1771",
+   "versions": [
+    {
+     "from": "2026-07-09",
+     "units": 5,
+     "source_url": "https://web.archive.org/web/20260709164252/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1771&ChapterID=46",
+     "sha256": "cf9e9658e648276eb2478c9608190781e69043e3c700e580cf22b658fd56fe7a"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-610-95",
+   "short": "610 ILCS 95",
+   "title": "Illinois Compiled Statutes, Railroad Obstruction Act (610 ILCS 95)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1773",
+   "versions": [
+    {
+     "from": "2026-05-18",
+     "units": 5,
+     "source_url": "https://web.archive.org/web/20260518171237/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1773&ChapterID=46",
+     "sha256": "2ee3d7bbd0a353203bd7867f1d4b92d6ea89555073ec4c17a1a6fcd4ac14a53a"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-610-105",
+   "short": "610 ILCS 105",
+   "title": "Illinois Compiled Statutes, Railway Employees Water Act (610 ILCS 105)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1775",
+   "versions": [
+    {
+     "from": "2026-03-11",
+     "units": 4,
+     "source_url": "https://web.archive.org/web/20260311165240/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1775&ChapterID=46&Chapter=RAILROADS&MajorTopic=TRANSPORTATION",
+     "sha256": "0484c529b9c4292614d9271f637539f650a0d19676da30fe5598c97bb299dfbe"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-610-110",
+   "short": "610 ILCS 110",
+   "title": "Illinois Compiled Statutes, Bulk Grain Act (610 ILCS 110)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1776",
+   "versions": [
+    {
+     "from": "2026-06-03",
+     "units": 5,
+     "source_url": "https://web.archive.org/web/20260603063138/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1776&ChapterID=46",
+     "sha256": "f768d125f3fd5cd9e4e77e5008a22ebd46108cfd8914493c4463623ad7419c28"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-610-115",
+   "short": "610 ILCS 115",
+   "title": "Illinois Compiled Statutes, Street Railroad Right of Way Act (610 ILCS 115)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1777",
+   "versions": [
+    {
+     "from": "2026-03-07",
+     "units": 6,
+     "source_url": "https://web.archive.org/web/20260307084749/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1777&ChapterID=46&Chapter=RAILROADS&MajorTopic=TRANSPORTATION",
+     "sha256": "21d7edbf0e4a5c5d236dfe45f0a3712295a78e28f2bc76c8f45cafb76bcb40f8"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-610-120",
+   "short": "610 ILCS 120",
+   "title": "Illinois Compiled Statutes, Street Railroad Bridge Act (610 ILCS 120)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1778",
+   "versions": [
+    {
+     "from": "2026-04-21",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20260421190859/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1778&ChapterID=46",
+     "sha256": "5e6f2916154c144d096773fe781cd574262c6b42553665b04535121c18b6b01d"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-610-125",
+   "short": "610 ILCS 125",
+   "title": "Illinois Compiled Statutes, Street Railroad Vestibule Act (610 ILCS 125)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1779",
+   "versions": [
+    {
+     "from": "2026-06-08",
+     "units": 3,
+     "source_url": "https://web.archive.org/web/20260608075941/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1779&ChapterID=46",
+     "sha256": "4fa43c70fa5aecc24c0ade152d2765826dc48894178ecf564993041b7d0fa9d3"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-610-135",
+   "short": "610 ILCS 135",
+   "title": "Illinois Compiled Statutes, Springfield High Speed Railroad Community Advisory Act (610 ILCS 135)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3677",
+   "versions": [
+    {
+     "from": "2026-02-09",
+     "units": 6,
+     "source_url": "https://web.archive.org/web/20260209045222/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3677&ChapterID=46&Chapter=RAILROADS&MajorTopic=TRANSPORTATION",
+     "sha256": "79b2f1d6ab76adde5b175988b5fb9edaf03493f9c3fbcffaafe0c2b7308b4817"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-610-140",
+   "short": "610 ILCS 140",
+   "title": "Illinois Compiled Statutes, Railroad Supplier Diversity Act (610 ILCS 140)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3815",
+   "versions": [
+    {
+     "from": "2026-02-13",
+     "units": 4,
+     "source_url": "https://web.archive.org/web/20260213220603/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3815&ChapterID=46&Chapter=RAILROADS&MajorTopic=TRANSPORTATION",
+     "sha256": "983e0c769d1a06cdae5a737a14f4faf4873ba1c6c9dc680dfd0aa38365b5ec64"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-615-5",
+   "short": "615 ILCS 5",
+   "title": "Illinois Compiled Statutes, Rivers, Lakes, and Streams Act (615 ILCS 5)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1781",
+   "versions": [
+    {
+     "from": "2026-10-23",
+     "units": 45,
+     "source_url": "https://web.archive.org/web/20261023231007/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1781&ChapterID=47&Chapter=WATERWAYS&MajorTopic=TRANSPORTATION",
+     "sha256": "77d7f8b5901a95676bf7b6974add99a57a20769da233bb6cfdebfae79b1b5257"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-615-50",
+   "short": "615 ILCS 50",
+   "title": "Illinois Compiled Statutes, Level of Lake Michigan Act (615 ILCS 50)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1790",
+   "versions": [
+    {
+     "from": "2026-10-23",
+     "units": 16,
+     "source_url": "https://web.archive.org/web/20261023225357/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1790&ChapterID=47&Chapter=WATERWAYS&MajorTopic=TRANSPORTATION",
+     "sha256": "4421abc40da47cac8bdf8788be2109e80aab48fc4e2b2105751618c7f7fff4d4"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-620-5",
+   "short": "620 ILCS 5",
+   "title": "Illinois Compiled Statutes, Illinois Aeronautics Act (620 ILCS 5)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1803",
+   "versions": [
+    {
+     "from": "2026-04-08",
+     "units": 117,
+     "source_url": "https://web.archive.org/web/20260408215043/https://ilga.gov/Legislation/ILCS/Articles?ActID=1803&Chapter=AIR+TRANSPORTATION&ChapterID=48&MajorTopic=TRANSPORTATION",
+     "sha256": "280db5ecf86dc8f31c04df882d0c2ff9fcfdf40bb7f99f66fcd06000f8ac969d"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-625-5-article-0001",
+   "short": "625 ILCS 5 art. 1",
+   "title": "Illinois Compiled Statutes, Illinois Vehicle Code (625 ILCS 5), Article 1",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1815",
+   "versions": [
+    {
+     "from": "2026-09-09",
+     "units": 332,
+     "source_url": "https://web.archive.org/web/20260909051900/https://ilga.gov/legislation/ILCS/details?MajorTopic=TRANSPORTATION&Chapter=VEHICLES&ActName=Illinois%20Vehicle%20Code.&ActID=1815&ChapterID=49&SeqStart=&&ChapAct=FullText",
+     "sha256": "696db468582184d196308ed9f1ae0153f57e4a20a37995464a8031668a00159f"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-625-5-article-0002",
+   "short": "625 ILCS 5 art. 2",
+   "title": "Illinois Compiled Statutes, Illinois Vehicle Code (625 ILCS 5), Article 2",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1815",
+   "versions": [
+    {
+     "from": "2026-09-09",
+     "units": 36,
+     "source_url": "https://web.archive.org/web/20260909051900/https://ilga.gov/legislation/ILCS/details?MajorTopic=TRANSPORTATION&Chapter=VEHICLES&ActName=Illinois%20Vehicle%20Code.&ActID=1815&ChapterID=49&SeqStart=&&ChapAct=FullText",
+     "sha256": "696db468582184d196308ed9f1ae0153f57e4a20a37995464a8031668a00159f"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-625-5-article-0003",
+   "short": "625 ILCS 5 art. 3",
+   "title": "Illinois Compiled Statutes, Illinois Vehicle Code (625 ILCS 5), Article 3",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1815",
+   "versions": [
+    {
+     "from": "2026-09-09",
+     "units": 337,
+     "source_url": "https://web.archive.org/web/20260909051900/https://ilga.gov/legislation/ILCS/details?MajorTopic=TRANSPORTATION&Chapter=VEHICLES&ActName=Illinois%20Vehicle%20Code.&ActID=1815&ChapterID=49&SeqStart=&&ChapAct=FullText",
+     "sha256": "696db468582184d196308ed9f1ae0153f57e4a20a37995464a8031668a00159f"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-625-5-article-0004",
+   "short": "625 ILCS 5 art. 4",
+   "title": "Illinois Compiled Statutes, Illinois Vehicle Code (625 ILCS 5), Article 4",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1815",
+   "versions": [
+    {
+     "from": "2026-09-09",
+     "units": 46,
+     "source_url": "https://web.archive.org/web/20260909051900/https://ilga.gov/legislation/ILCS/details?MajorTopic=TRANSPORTATION&Chapter=VEHICLES&ActName=Illinois%20Vehicle%20Code.&ActID=1815&ChapterID=49&SeqStart=&&ChapAct=FullText",
+     "sha256": "696db468582184d196308ed9f1ae0153f57e4a20a37995464a8031668a00159f"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-625-5-article-0005",
+   "short": "625 ILCS 5 art. 5",
+   "title": "Illinois Compiled Statutes, Illinois Vehicle Code (625 ILCS 5), Article 5",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1815",
+   "versions": [
+    {
+     "from": "2026-09-09",
+     "units": 50,
+     "source_url": "https://web.archive.org/web/20260909051900/https://ilga.gov/legislation/ILCS/details?MajorTopic=TRANSPORTATION&Chapter=VEHICLES&ActName=Illinois%20Vehicle%20Code.&ActID=1815&ChapterID=49&SeqStart=&&ChapAct=FullText",
+     "sha256": "696db468582184d196308ed9f1ae0153f57e4a20a37995464a8031668a00159f"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-625-5-article-0006",
+   "short": "625 ILCS 5 art. 6",
+   "title": "Illinois Compiled Statutes, Illinois Vehicle Code (625 ILCS 5), Article 6",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1815",
+   "versions": [
+    {
+     "from": "2026-09-09",
+     "units": 194,
+     "source_url": "https://web.archive.org/web/20260909051900/https://ilga.gov/legislation/ILCS/details?MajorTopic=TRANSPORTATION&Chapter=VEHICLES&ActName=Illinois%20Vehicle%20Code.&ActID=1815&ChapterID=49&SeqStart=&&ChapAct=FullText",
+     "sha256": "696db468582184d196308ed9f1ae0153f57e4a20a37995464a8031668a00159f"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-625-5-article-0007",
+   "short": "625 ILCS 5 art. 7",
+   "title": "Illinois Compiled Statutes, Illinois Vehicle Code (625 ILCS 5), Article 7",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1815",
+   "versions": [
+    {
+     "from": "2026-09-09",
+     "units": 85,
+     "source_url": "https://web.archive.org/web/20260909051900/https://ilga.gov/legislation/ILCS/details?MajorTopic=TRANSPORTATION&Chapter=VEHICLES&ActName=Illinois%20Vehicle%20Code.&ActID=1815&ChapterID=49&SeqStart=&&ChapAct=FullText",
+     "sha256": "696db468582184d196308ed9f1ae0153f57e4a20a37995464a8031668a00159f"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-625-5-article-0008",
+   "short": "625 ILCS 5 art. 8",
+   "title": "Illinois Compiled Statutes, Illinois Vehicle Code (625 ILCS 5), Article 8",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1815",
+   "versions": [
+    {
+     "from": "2026-09-09",
+     "units": 17,
+     "source_url": "https://web.archive.org/web/20260909051900/https://ilga.gov/legislation/ILCS/details?MajorTopic=TRANSPORTATION&Chapter=VEHICLES&ActName=Illinois%20Vehicle%20Code.&ActID=1815&ChapterID=49&SeqStart=&&ChapAct=FullText",
+     "sha256": "696db468582184d196308ed9f1ae0153f57e4a20a37995464a8031668a00159f"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-625-5-article-0009",
+   "short": "625 ILCS 5 art. 9",
+   "title": "Illinois Compiled Statutes, Illinois Vehicle Code (625 ILCS 5), Article 9",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1815",
+   "versions": [
+    {
+     "from": "2026-09-09",
+     "units": 10,
+     "source_url": "https://web.archive.org/web/20260909051900/https://ilga.gov/legislation/ILCS/details?MajorTopic=TRANSPORTATION&Chapter=VEHICLES&ActName=Illinois%20Vehicle%20Code.&ActID=1815&ChapterID=49&SeqStart=&&ChapAct=FullText",
+     "sha256": "696db468582184d196308ed9f1ae0153f57e4a20a37995464a8031668a00159f"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-625-5-article-0010",
+   "short": "625 ILCS 5 art. 10",
+   "title": "Illinois Compiled Statutes, Illinois Vehicle Code (625 ILCS 5), Article 10",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1815",
+   "versions": [
+    {
+     "from": "2026-09-09",
+     "units": 4,
+     "source_url": "https://web.archive.org/web/20260909051900/https://ilga.gov/legislation/ILCS/details?MajorTopic=TRANSPORTATION&Chapter=VEHICLES&ActName=Illinois%20Vehicle%20Code.&ActID=1815&ChapterID=49&SeqStart=&&ChapAct=FullText",
+     "sha256": "696db468582184d196308ed9f1ae0153f57e4a20a37995464a8031668a00159f"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-625-5-article-0011",
+   "short": "625 ILCS 5 art. 11",
+   "title": "Illinois Compiled Statutes, Illinois Vehicle Code (625 ILCS 5), Article 11",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1815",
+   "versions": [
+    {
+     "from": "2026-09-09",
+     "units": 243,
+     "source_url": "https://web.archive.org/web/20260909051900/https://ilga.gov/legislation/ILCS/details?MajorTopic=TRANSPORTATION&Chapter=VEHICLES&ActName=Illinois%20Vehicle%20Code.&ActID=1815&ChapterID=49&SeqStart=&&ChapAct=FullText",
+     "sha256": "696db468582184d196308ed9f1ae0153f57e4a20a37995464a8031668a00159f"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-625-5-article-0012",
+   "short": "625 ILCS 5 art. 12",
+   "title": "Illinois Compiled Statutes, Illinois Vehicle Code (625 ILCS 5), Article 12",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1815",
+   "versions": [
+    {
+     "from": "2026-09-09",
+     "units": 108,
+     "source_url": "https://web.archive.org/web/20260909051900/https://ilga.gov/legislation/ILCS/details?MajorTopic=TRANSPORTATION&Chapter=VEHICLES&ActName=Illinois%20Vehicle%20Code.&ActID=1815&ChapterID=49&SeqStart=&&ChapAct=FullText",
+     "sha256": "696db468582184d196308ed9f1ae0153f57e4a20a37995464a8031668a00159f"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-625-5-article-0013",
+   "short": "625 ILCS 5 art. 13",
+   "title": "Illinois Compiled Statutes, Illinois Vehicle Code (625 ILCS 5), Article 13",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1815",
+   "versions": [
+    {
+     "from": "2026-09-09",
+     "units": 32,
+     "source_url": "https://web.archive.org/web/20260909051900/https://ilga.gov/legislation/ILCS/details?MajorTopic=TRANSPORTATION&Chapter=VEHICLES&ActName=Illinois%20Vehicle%20Code.&ActID=1815&ChapterID=49&SeqStart=&&ChapAct=FullText",
+     "sha256": "696db468582184d196308ed9f1ae0153f57e4a20a37995464a8031668a00159f"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-625-5-article-0013c",
+   "short": "625 ILCS 5 art. 13C",
+   "title": "Illinois Compiled Statutes, Illinois Vehicle Code (625 ILCS 5), Article 13C",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1815",
+   "versions": [
+    {
+     "from": "2026-09-09",
+     "units": 15,
+     "source_url": "https://web.archive.org/web/20260909051900/https://ilga.gov/legislation/ILCS/details?MajorTopic=TRANSPORTATION&Chapter=VEHICLES&ActName=Illinois%20Vehicle%20Code.&ActID=1815&ChapterID=49&SeqStart=&&ChapAct=FullText",
+     "sha256": "696db468582184d196308ed9f1ae0153f57e4a20a37995464a8031668a00159f"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-625-5-article-0015",
+   "short": "625 ILCS 5 art. 15",
+   "title": "Illinois Compiled Statutes, Illinois Vehicle Code (625 ILCS 5), Article 15",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1815",
+   "versions": [
+    {
+     "from": "2026-09-09",
+     "units": 46,
+     "source_url": "https://web.archive.org/web/20260909051900/https://ilga.gov/legislation/ILCS/details?MajorTopic=TRANSPORTATION&Chapter=VEHICLES&ActName=Illinois%20Vehicle%20Code.&ActID=1815&ChapterID=49&SeqStart=&&ChapAct=FullText",
+     "sha256": "696db468582184d196308ed9f1ae0153f57e4a20a37995464a8031668a00159f"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-625-5-article-0016",
+   "short": "625 ILCS 5 art. 16",
+   "title": "Illinois Compiled Statutes, Illinois Vehicle Code (625 ILCS 5), Article 16",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1815",
+   "versions": [
+    {
+     "from": "2026-09-09",
+     "units": 20,
+     "source_url": "https://web.archive.org/web/20260909051900/https://ilga.gov/legislation/ILCS/details?MajorTopic=TRANSPORTATION&Chapter=VEHICLES&ActName=Illinois%20Vehicle%20Code.&ActID=1815&ChapterID=49&SeqStart=&&ChapAct=FullText",
+     "sha256": "696db468582184d196308ed9f1ae0153f57e4a20a37995464a8031668a00159f"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-625-5-article-0017",
+   "short": "625 ILCS 5 art. 17",
+   "title": "Illinois Compiled Statutes, Illinois Vehicle Code (625 ILCS 5), Article 17",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1815",
+   "versions": [
+    {
+     "from": "2026-09-09",
+     "units": 1,
+     "source_url": "https://web.archive.org/web/20260909051900/https://ilga.gov/legislation/ILCS/details?MajorTopic=TRANSPORTATION&Chapter=VEHICLES&ActName=Illinois%20Vehicle%20Code.&ActID=1815&ChapterID=49&SeqStart=&&ChapAct=FullText",
+     "sha256": "696db468582184d196308ed9f1ae0153f57e4a20a37995464a8031668a00159f"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-625-5-article-0018a",
+   "short": "625 ILCS 5 art. 18a",
+   "title": "Illinois Compiled Statutes, Illinois Vehicle Code (625 ILCS 5), Article 18a",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1815",
+   "versions": [
+    {
+     "from": "2026-09-09",
+     "units": 32,
+     "source_url": "https://web.archive.org/web/20260909051900/https://ilga.gov/legislation/ILCS/details?MajorTopic=TRANSPORTATION&Chapter=VEHICLES&ActName=Illinois%20Vehicle%20Code.&ActID=1815&ChapterID=49&SeqStart=&&ChapAct=FullText",
+     "sha256": "696db468582184d196308ed9f1ae0153f57e4a20a37995464a8031668a00159f"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-625-5-article-0018b",
+   "short": "625 ILCS 5 art. 18b",
+   "title": "Illinois Compiled Statutes, Illinois Vehicle Code (625 ILCS 5), Article 18b",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1815",
+   "versions": [
+    {
+     "from": "2026-09-09",
+     "units": 18,
+     "source_url": "https://web.archive.org/web/20260909051900/https://ilga.gov/legislation/ILCS/details?MajorTopic=TRANSPORTATION&Chapter=VEHICLES&ActName=Illinois%20Vehicle%20Code.&ActID=1815&ChapterID=49&SeqStart=&&ChapAct=FullText",
+     "sha256": "696db468582184d196308ed9f1ae0153f57e4a20a37995464a8031668a00159f"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-625-5-article-0018c",
+   "short": "625 ILCS 5 art. 18c",
+   "title": "Illinois Compiled Statutes, Illinois Vehicle Code (625 ILCS 5), Article 18c",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1815",
+   "versions": [
+    {
+     "from": "2026-09-09",
+     "units": 186,
+     "source_url": "https://web.archive.org/web/20260909051900/https://ilga.gov/legislation/ILCS/details?MajorTopic=TRANSPORTATION&Chapter=VEHICLES&ActName=Illinois%20Vehicle%20Code.&ActID=1815&ChapterID=49&SeqStart=&&ChapAct=FullText",
+     "sha256": "696db468582184d196308ed9f1ae0153f57e4a20a37995464a8031668a00159f"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-625-5-article-0018d",
+   "short": "625 ILCS 5 art. 18d",
+   "title": "Illinois Compiled Statutes, Illinois Vehicle Code (625 ILCS 5), Article 18d",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1815",
+   "versions": [
+    {
+     "from": "2026-09-09",
+     "units": 26,
+     "source_url": "https://web.archive.org/web/20260909051900/https://ilga.gov/legislation/ILCS/details?MajorTopic=TRANSPORTATION&Chapter=VEHICLES&ActName=Illinois%20Vehicle%20Code.&ActID=1815&ChapterID=49&SeqStart=&&ChapAct=FullText",
+     "sha256": "696db468582184d196308ed9f1ae0153f57e4a20a37995464a8031668a00159f"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-625-5-article-0020",
+   "short": "625 ILCS 5 art. 20",
+   "title": "Illinois Compiled Statutes, Illinois Vehicle Code (625 ILCS 5), Article 20",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1815",
+   "versions": [
+    {
+     "from": "2026-09-09",
+     "units": 12,
+     "source_url": "https://web.archive.org/web/20260909051900/https://ilga.gov/legislation/ILCS/details?MajorTopic=TRANSPORTATION&Chapter=VEHICLES&ActName=Illinois%20Vehicle%20Code.&ActID=1815&ChapterID=49&SeqStart=&&ChapAct=FullText",
+     "sha256": "696db468582184d196308ed9f1ae0153f57e4a20a37995464a8031668a00159f"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-625-7",
+   "short": "625 ILCS 7",
+   "title": "Illinois Compiled Statutes, Automated Traffic Control Systems in Highway Construction or Maintenance Zones Act (625 ILCS 7)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2619",
+   "versions": [
+    {
+     "from": "2026-03-17",
+     "units": 12,
+     "source_url": "https://web.archive.org/web/20260317092725/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2619&ChapterID=49",
+     "sha256": "b9be8ff2ab50652725b7a4453b1791d54139e0f5edc0483807a44f49ab0fc285"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-625-10",
+   "short": "625 ILCS 10",
+   "title": "Illinois Compiled Statutes, Motor Vehicle Theft Reporting Act (625 ILCS 10)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1816",
+   "versions": [
+    {
+     "from": "2026-03-06",
+     "units": 4,
+     "source_url": "https://web.archive.org/web/20260306182232/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1816&ChapterID=49&Chapter=VEHICLES&MajorTopic=TRANSPORTATION",
+     "sha256": "9050631f0ed37b9b18cde0077fdb93e9541f724d22e5089b04e14aefabdf48ae"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-625-15",
+   "short": "625 ILCS 15",
+   "title": "Illinois Compiled Statutes, China Affairs Council Act (625 ILCS 15)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1817",
+   "versions": [
+    {
+     "from": "2026-09-09",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20260909051916/https://ilga.gov/Legislation/ILCS/Articles?ChapterID=49&Chapter=VEHICLES&MajorTopic=TRANSPORTATION&ActID=1817",
+     "sha256": "909b9967de6f278601da8b22e7f9de92e2c9826675a3acfbb0e746d4024dba38"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-625-25",
+   "short": "625 ILCS 25",
+   "title": "Illinois Compiled Statutes, Child Passenger Protection Act (625 ILCS 25)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1819",
+   "versions": [
+    {
+     "from": "2026-10-02",
+     "units": 12,
+     "source_url": "https://web.archive.org/web/20261002061645/https://www.ilga.gov/Legislation/ILCS/Articles?Chapter=VEHICLES&MajorTopic=TRANSPORTATION&ActID=1819&ChapterID=49",
+     "sha256": "74d0ad0c0e19e03dc209e5a6751f4384749817ec8a09415bf6a973be37562b0b"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-625-27",
+   "short": "625 ILCS 27",
+   "title": "Illinois Compiled Statutes, Renter's Financial Responsibility and Protection Act (625 ILCS 27)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1820",
+   "versions": [
+    {
+     "from": "2026-09-09",
+     "units": 8,
+     "source_url": "https://web.archive.org/web/20260909051916/https://ilga.gov/Legislation/ILCS/Articles?ChapterID=49&Chapter=VEHICLES&MajorTopic=TRANSPORTATION&ActID=1820",
+     "sha256": "7e6539fa8a4e7d6614647b3c8bf033f7d62de38556a0794e400a125563a40b29"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-625-30",
+   "short": "625 ILCS 30",
+   "title": "Illinois Compiled Statutes, Ridesharing Arrangements Act (625 ILCS 30)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1821",
+   "versions": [
+    {
+     "from": "2026-09-09",
+     "units": 6,
+     "source_url": "https://web.archive.org/web/20260909051916/https://ilga.gov/Legislation/ILCS/Articles?ActID=1821&ChapterID=49&Chapter=VEHICLES&MajorTopic=TRANSPORTATION",
+     "sha256": "6d32f889a3b0ca571c6c043c045e051d7a04175f7d0e7942a6459fbd1b28566c"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-625-33",
+   "short": "625 ILCS 33",
+   "title": "Illinois Compiled Statutes, Voluntary Employee Commute Options Emission Reduction Credit Act (625 ILCS 33)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1823",
+   "versions": [
+    {
+     "from": "2026-04-13",
+     "units": 11,
+     "source_url": "https://web.archive.org/web/20260413134150/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1823&ChapterID=49",
+     "sha256": "6fa0cf66659ab4d71269f8b27492fc8f7462597f6924253d1b6f60dfc17708c3"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-625-35",
+   "short": "625 ILCS 35",
+   "title": "Illinois Compiled Statutes, Cycle Rider Safety Training Act (625 ILCS 35)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1824",
+   "versions": [
+    {
+     "from": "2026-03-08",
+     "units": 14,
+     "source_url": "https://web.archive.org/web/20260308233841/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1824&ChapterID=49&Chapter=VEHICLES&MajorTopic=TRANSPORTATION",
+     "sha256": "67f5c0e0856baabbe03dbab1eee8c027fd3ef7bdf1dc8065aed756071bbf3bba"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-625-50",
+   "short": "625 ILCS 50",
+   "title": "Illinois Compiled Statutes, Public Conveyance Notice Act (625 ILCS 50)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1827",
+   "versions": [
+    {
+     "from": "2026-08-27",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20260827002821/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1827&ChapterID=49",
+     "sha256": "5d0c21a12d34bddf2f06dd3cf15523539bc4bfc7a18d5aa1e6eac2d15c907183"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-625-57",
+   "short": "625 ILCS 57",
+   "title": "Illinois Compiled Statutes, Transportation Network Providers Act (625 ILCS 57)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3589",
+   "versions": [
+    {
+     "from": "2026-07-28",
+     "units": 10,
+     "source_url": "https://web.archive.org/web/20260728191651/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3589&ChapterID=49",
+     "sha256": "32daea288aec74c81136e89f1ece566a7b9be8fa91a78b9b56e7c22a66b871be"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-625-60",
+   "short": "625 ILCS 60",
+   "title": "Illinois Compiled Statutes, Pedestrians with Disabilities Safety Act (625 ILCS 60)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3252",
+   "versions": [
+    {
+     "from": "2026-04-22",
+     "units": 7,
+     "source_url": "https://web.archive.org/web/20260422205135/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3252&ChapterID=49&Chapter=VEHICLES&MajorTopic=TRANSPORTATION",
+     "sha256": "7a53930682286f6f6fe3df0aac9af831fd665361dc35f10c497f0fa89769c357"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-625-70",
+   "short": "625 ILCS 70",
+   "title": "Illinois Compiled Statutes, DUI Prevention and Education Commission Act (625 ILCS 70)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=4007",
+   "versions": [
+    {
+     "from": "2026-09-09",
+     "units": 6,
+     "source_url": "https://web.archive.org/web/20260909051916/https://ilga.gov/Legislation/ILCS/Articles?ChapterID=49&Chapter=VEHICLES&MajorTopic=TRANSPORTATION&ActID=4007",
+     "sha256": "6190122c2970abb406d2c8d649cbd43a35da9fe24198334ad42def2043c8279b"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-625-75",
+   "short": "625 ILCS 75",
+   "title": "Illinois Compiled Statutes, Tow Notice Act (625 ILCS 75)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=4296",
+   "versions": [
+    {
+     "from": "2026-01-31",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20260131173133/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=4296&ChapterID=49",
+     "sha256": "cbd4c5f466209141332a0ab9e0d443caa8e94d241fba63fecfe1e6f51a7e462f"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-705-20",
+   "short": "705 ILCS 20",
+   "title": "Illinois Compiled Statutes, Judicial Districts Act (705 ILCS 20)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1831",
+   "versions": [
+    {
+     "from": "2026-06-26",
+     "units": 6,
+     "source_url": "https://web.archive.org/web/20260626054036/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1831&ChapterID=50",
+     "sha256": "3867fe10e759d1948f4d30c79981767141a5c06b5f7dc3b5d665666669072bce"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-705-25",
+   "short": "705 ILCS 25",
+   "title": "Illinois Compiled Statutes, Appellate Court Act (705 ILCS 25)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1833",
+   "versions": [
+    {
+     "from": "2026-07-04",
+     "units": 11,
+     "source_url": "https://web.archive.org/web/20260704114335/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1833&ChapterID=50",
+     "sha256": "ca66f30bc250ac3b53b225f9399eedfdc777015a59573e244d3f1b1bedc93b6a"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-705-30",
+   "short": "705 ILCS 30",
+   "title": "Illinois Compiled Statutes, Appellate Court Law Clerk and Secretary Act (705 ILCS 30)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1834",
+   "versions": [
+    {
+     "from": "2026-07-11",
+     "units": 3,
+     "source_url": "https://web.archive.org/web/20260711231617/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1834&ChapterID=50",
+     "sha256": "ed5044e4fce1165bf9ee8e6b75cabe8fb369314ea97f72b71cb3e810ded5e774"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-705-45",
+   "short": "705 ILCS 45",
+   "title": "Illinois Compiled Statutes, Associate Judges Act (705 ILCS 45)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1837",
+   "versions": [
+    {
+     "from": "2026-03-10",
+     "units": 8,
+     "source_url": "https://web.archive.org/web/20260310154720/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1837&ChapterID=50",
+     "sha256": "2f1d1d2fee2a6c8a8ad381a1295f68e0913ba3d873d3655f088c46a7e5657338"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-705-55",
+   "short": "705 ILCS 55",
+   "title": "Illinois Compiled Statutes, Compulsory Retirement of Judges Act (705 ILCS 55)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1839",
+   "versions": [
+    {
+     "from": "2026-03-31",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20260331034011/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1839&ChapterID=50",
+     "sha256": "c540c6698a15d8dfda8ca86503e5321619572a6b32bc38e5effd463df520b981"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-705-65",
+   "short": "705 ILCS 65",
+   "title": "Illinois Compiled Statutes, Official Court Reports Act (705 ILCS 65)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1841",
+   "versions": [
+    {
+     "from": "2026-05-22",
+     "units": 8,
+     "source_url": "https://web.archive.org/web/20260522074204/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1841&ChapterID=50",
+     "sha256": "5ea4531488532dec2a62e38f9e4bfb32ad47eb427c30881e8e330b1800437070"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-705-70",
+   "short": "705 ILCS 70",
+   "title": "Illinois Compiled Statutes, Court Reporters Act (705 ILCS 70)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1842",
+   "versions": [
+    {
+     "from": "2026-07-26",
+     "units": 13,
+     "source_url": "https://web.archive.org/web/20260726042618/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1842&ChapterID=50",
+     "sha256": "9e6afe51dc17c6289328161eb545f2dbdf6b3085edded78442368e5483be97d8"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-705-75",
+   "short": "705 ILCS 75",
+   "title": "Illinois Compiled Statutes, Court Reporter Transcript Act (705 ILCS 75)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1843",
+   "versions": [
+    {
+     "from": "2026-07-03",
+     "units": 7,
+     "source_url": "https://web.archive.org/web/20260703032849/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1843&ChapterID=50",
+     "sha256": "c5f0dea1868187986a17878e1a33092a171c6fe07012838b41a3acff1f168485"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-705-80",
+   "short": "705 ILCS 80",
+   "title": "Illinois Compiled Statutes, Child Witness Trauma Reduction Act (705 ILCS 80)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1845",
+   "versions": [
+    {
+     "from": "2026-04-21",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20260421194354/https://www.ilga.gov/Legislation/ILCS/Articles?actid=1845&chapterid=50",
+     "sha256": "7394b9cf6439a3f7fbdcb6996a99d87a37bcaefbe1bc8913860ff6cb6798c57c"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-705-85",
+   "short": "705 ILCS 85",
+   "title": "Illinois Compiled Statutes, Court Records Restoration Act (705 ILCS 85)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1846",
+   "versions": [
+    {
+     "from": "2026-05-05",
+     "units": 5,
+     "source_url": "https://web.archive.org/web/20260505203327/https://ilga.gov/Legislation/ILCS/Articles?ActID=1846&ChapterID=50",
+     "sha256": "cfde68e1b3d6b205e4b4bed0fcda9eaf540fcd1536fba86dc9e49de4bc612f7c"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-705-86",
+   "short": "705 ILCS 86",
+   "title": "Illinois Compiled Statutes, Court Record and Document Accessibility Act (705 ILCS 86)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=4414",
+   "versions": [
+    {
+     "from": "2026-04-19",
+     "units": 13,
+     "source_url": "https://web.archive.org/web/20260419112555/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=4414&ChapterID=50",
+     "sha256": "55b07d94bc0410bdf319ba6b3c3b378f21a37ba80465b497684f4a3d55244465"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-705-96",
+   "short": "705 ILCS 96",
+   "title": "Illinois Compiled Statutes, Court Access, Safety, and Participation Act (705 ILCS 96)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=4645",
+   "versions": [
+    {
+     "from": "2026-04-05",
+     "units": 8,
+     "source_url": "https://web.archive.org/web/20260405211709/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=4645&ChapterID=50&Chapter=COURTS&MajorTopic=RIGHTS%20AND%20REMEDIES",
+     "sha256": "a060d581b4925da465be0acbdb1ffde6b0a7656348283ef4b1efd16a3db7fc0f"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-705-105",
+   "short": "705 ILCS 105",
+   "title": "Illinois Compiled Statutes, Clerks of Courts Act (705 ILCS 105)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1847",
+   "versions": [
+    {
+     "from": "2026-07-28",
+     "units": 52,
+     "source_url": "https://web.archive.org/web/20260728220520/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1847&ChapterID=50",
+     "sha256": "672e3bd1f30282291528a2d7c75934c1b983cfbca5ea2621a87933354636e005"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-705-110",
+   "short": "705 ILCS 110",
+   "title": "Illinois Compiled Statutes, Circuit Court Clerk Regulation Act (705 ILCS 110)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1848",
+   "versions": [
+    {
+     "from": "2026-05-14",
+     "units": 3,
+     "source_url": "https://web.archive.org/web/20260514134420/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1848&ChapterID=50",
+     "sha256": "6a6cb736d1329794bcb459a886e4652dec4b5f02596ee845a1d93ac7af6db075"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-705-115",
+   "short": "705 ILCS 115",
+   "title": "Illinois Compiled Statutes, Fee Bill Act (705 ILCS 115)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1849",
+   "versions": [
+    {
+     "from": "2026-07-06",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20260706001130/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1849&ChapterID=50",
+     "sha256": "52cfce2d014a186b11d01d1bada8c02d5fc4b4cfab6e6215e349001027ffe8b5"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-705-120",
+   "short": "705 ILCS 120",
+   "title": "Illinois Compiled Statutes, Record on Appeal Fee Act (705 ILCS 120)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1850",
+   "versions": [
+    {
+     "from": "2026-07-30",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20260730164106/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1850&ChapterID=50",
+     "sha256": "9f03da3303830099b10a3b657defc1398a7e06ac39689a2f71882ac82e0cfee9"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-705-125",
+   "short": "705 ILCS 125",
+   "title": "Illinois Compiled Statutes, Court Statistics Act (705 ILCS 125)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1851",
+   "versions": [
+    {
+     "from": "2026-05-17",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20260517130606/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1851&ChapterID=50",
+     "sha256": "b431a3f29a2a453264879d572b0ece7459ac836e9bf810c10d53595be5aa7cc5"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-705-130",
+   "short": "705 ILCS 130",
+   "title": "Illinois Compiled Statutes, Domestic Relations Legal Funding Act (705 ILCS 130)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1852",
+   "versions": [
+    {
+     "from": "2026-04-05",
+     "units": 7,
+     "source_url": "https://web.archive.org/web/20260405075023/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1852&ChapterID=50",
+     "sha256": "0706e7c9a7461a205f4f2d6306548fb30a673160fed4053a745368078441c828"
+    }
+   ]
   }
  ]
 }
