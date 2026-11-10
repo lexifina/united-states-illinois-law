@@ -31,13 +31,13 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `constitution-art-14` | Constitution of the State of Illinois, ARTICLE XIV CONSTITUTIONAL REVISION | 1 | 2026-01-01 to 2026-01-01 |
 | `constitution-preamble` | Constitution of the State of Illinois, Preamble | 1 | 2026-01-01 to 2026-01-01 |
 | `constitution-transition-schedule` | Constitution of the State of Illinois, Transition Schedule | 1 | 2026-01-01 to 2026-01-01 |
-| `ilcs-720-5-article-0001` | Illinois Compiled Statutes, Criminal Code of 2012 (720 ILCS 5), Article 1 | 1 | 2024-12-22 to 2024-12-22 |
-| `ilcs-720-5-article-0010` | Illinois Compiled Statutes, Criminal Code of 2012 (720 ILCS 5), Article 10 | 1 | 2024-12-22 to 2024-12-22 |
-| `ilcs-720-5-article-0003` | Illinois Compiled Statutes, Criminal Code of 2012 (720 ILCS 5), Article 3 | 1 | 2024-12-22 to 2024-12-22 |
-| `ilcs-720-5-article-0004` | Illinois Compiled Statutes, Criminal Code of 2012 (720 ILCS 5), Article 4 | 1 | 2024-12-22 to 2024-12-22 |
-| `ilcs-720-5-article-0005` | Illinois Compiled Statutes, Criminal Code of 2012 (720 ILCS 5), Article 5 | 1 | 2024-12-22 to 2024-12-22 |
+| `ilcs-720-5-article-0001` | Illinois Compiled Statutes, Criminal Code of 2012 (720 ILCS 5), Article 1 | 2 | 2024-12-22 to 2026-03-12 |
+| `ilcs-720-5-article-0010` | Illinois Compiled Statutes, Criminal Code of 2012 (720 ILCS 5), Article 10 | 2 | 2024-12-22 to 2026-03-12 |
+| `ilcs-720-5-article-0003` | Illinois Compiled Statutes, Criminal Code of 2012 (720 ILCS 5), Article 3 | 2 | 2024-12-22 to 2026-03-12 |
+| `ilcs-720-5-article-0004` | Illinois Compiled Statutes, Criminal Code of 2012 (720 ILCS 5), Article 4 | 2 | 2024-12-22 to 2026-03-12 |
+| `ilcs-720-5-article-0005` | Illinois Compiled Statutes, Criminal Code of 2012 (720 ILCS 5), Article 5 | 2 | 2024-12-22 to 2026-03-12 |
 | `ilcs-720-5-article-0006` | Illinois Compiled Statutes, Criminal Code of 2012 (720 ILCS 5), Article 6 | 1 | 2024-12-22 to 2024-12-22 |
-| `ilcs-720-5-article-0009` | Illinois Compiled Statutes, Criminal Code of 2012 (720 ILCS 5), Article 9 | 1 | 2024-12-22 to 2024-12-22 |
+| `ilcs-720-5-article-0009` | Illinois Compiled Statutes, Criminal Code of 2012 (720 ILCS 5), Article 9 | 2 | 2024-12-22 to 2026-03-12 |
 | `ilcs-5-5` | Illinois Compiled Statutes, U. S. Constitution Amendment Act (5 ILCS 5) | 1 | 2026-02-07 to 2026-02-07 |
 | `ilcs-5-20` | Illinois Compiled Statutes, Illinois Constitutional Amendment Act (5 ILCS 20) | 1 | 2026-06-16 to 2026-06-16 |
 | `ilcs-5-25` | Illinois Compiled Statutes, Constitutional Convention Act (5 ILCS 25) | 1 | 2026-07-10 to 2026-07-10 |
@@ -2079,20 +2079,250 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `ilcs-705-120` | Illinois Compiled Statutes, Record on Appeal Fee Act (705 ILCS 120) | 1 | 2026-07-30 to 2026-07-30 |
 | `ilcs-705-125` | Illinois Compiled Statutes, Court Statistics Act (705 ILCS 125) | 1 | 2026-05-17 to 2026-05-17 |
 | `ilcs-705-130` | Illinois Compiled Statutes, Domestic Relations Legal Funding Act (705 ILCS 130) | 1 | 2026-04-05 to 2026-04-05 |
+| `ilcs-705-135-article-0001` | Illinois Compiled Statutes, Criminal and Traffic Assessment Act (705 ILCS 135), Article 1 | 1 | 2026-03-07 to 2026-03-07 |
+| `ilcs-705-135-article-0005` | Illinois Compiled Statutes, Criminal and Traffic Assessment Act (705 ILCS 135), Article 5 | 1 | 2026-03-07 to 2026-03-07 |
+| `ilcs-705-135-article-0010` | Illinois Compiled Statutes, Criminal and Traffic Assessment Act (705 ILCS 135), Article 10 | 1 | 2026-03-07 to 2026-03-07 |
+| `ilcs-705-135-article-0015` | Illinois Compiled Statutes, Criminal and Traffic Assessment Act (705 ILCS 135), Article 15 | 1 | 2026-03-07 to 2026-03-07 |
+| `ilcs-705-135-article-0020` | Illinois Compiled Statutes, Criminal and Traffic Assessment Act (705 ILCS 135), Article 20 | 1 | 2026-03-07 to 2026-03-07 |
+| `ilcs-705-135-article-0905` | Illinois Compiled Statutes, Criminal and Traffic Assessment Act (705 ILCS 135), Article 905 | 1 | 2026-03-07 to 2026-03-07 |
+| `ilcs-705-135-article-0999` | Illinois Compiled Statutes, Criminal and Traffic Assessment Act (705 ILCS 135), Article 999 | 1 | 2026-03-07 to 2026-03-07 |
+| `ilcs-705-205` | Illinois Compiled Statutes, Attorney Act (705 ILCS 205) | 1 | 2026-10-14 to 2026-10-14 |
+| `ilcs-705-210` | Illinois Compiled Statutes, Legal Business Solicitation Act (705 ILCS 210) | 1 | 2026-05-18 to 2026-05-18 |
+| `ilcs-705-220` | Illinois Compiled Statutes, Corporation Practice of Law Prohibition Act (705 ILCS 220) | 1 | 2026-10-14 to 2026-10-14 |
+| `ilcs-705-225` | Illinois Compiled Statutes, Attorneys Fees in Wage Actions Act (705 ILCS 225) | 1 | 2026-04-30 to 2026-04-30 |
+| `ilcs-705-305` | Illinois Compiled Statutes, Jury Act (705 ILCS 305) | 1 | 2026-06-04 to 2026-06-04 |
+| `ilcs-705-310` | Illinois Compiled Statutes, Jury Commission Act (705 ILCS 310) | 1 | 2026-06-09 to 2026-06-09 |
+| `ilcs-705-405-article-0001` | Illinois Compiled Statutes, Juvenile Court Act of 1987 (705 ILCS 405), Article 1 | 1 | 2026-10-09 to 2026-10-09 |
+| `ilcs-705-405-article-0002` | Illinois Compiled Statutes, Juvenile Court Act of 1987 (705 ILCS 405), Article 2 | 1 | 2026-10-09 to 2026-10-09 |
+| `ilcs-705-405-article-0003` | Illinois Compiled Statutes, Juvenile Court Act of 1987 (705 ILCS 405), Article 3 | 1 | 2026-10-09 to 2026-10-09 |
+| `ilcs-705-405-article-0004` | Illinois Compiled Statutes, Juvenile Court Act of 1987 (705 ILCS 405), Article 4 | 1 | 2026-10-09 to 2026-10-09 |
+| `ilcs-705-405-article-0005` | Illinois Compiled Statutes, Juvenile Court Act of 1987 (705 ILCS 405), Article 5 | 1 | 2026-10-09 to 2026-10-09 |
+| `ilcs-705-405-article-0007a` | Illinois Compiled Statutes, Juvenile Court Act of 1987 (705 ILCS 405), Article 7A | 1 | 2026-10-09 to 2026-10-09 |
+| `ilcs-705-405-article-0006` | Illinois Compiled Statutes, Juvenile Court Act of 1987 (705 ILCS 405), Article 6 | 1 | 2026-10-09 to 2026-10-09 |
+| `ilcs-705-405-article-0007` | Illinois Compiled Statutes, Juvenile Court Act of 1987 (705 ILCS 405), Article 7 | 1 | 2026-10-09 to 2026-10-09 |
+| `ilcs-705-410` | Illinois Compiled Statutes, Juvenile Drug Court Treatment Act (705 ILCS 410) | 1 | 2026-04-19 to 2026-04-19 |
+| `ilcs-705-505` | Illinois Compiled Statutes, Court of Claims Act (705 ILCS 505) | 1 | 2026-05-16 to 2026-05-16 |
+| `ilcs-710-5` | Illinois Compiled Statutes, Uniform Arbitration Act (710 ILCS 5) | 1 | 2026-06-12 to 2026-06-12 |
+| `ilcs-710-15` | Illinois Compiled Statutes, Health Care Arbitration Act (710 ILCS 15) | 1 | 2026-05-31 to 2026-05-31 |
+| `ilcs-710-20` | Illinois Compiled Statutes, Illinois Not-For-Profit Dispute Resolution Center Act (710 ILCS 20) | 1 | 2026-08-06 to 2026-08-06 |
+| `ilcs-710-25` | Illinois Compiled Statutes, Seed Arbitration Act (710 ILCS 25) | 1 | 2026-04-22 to 2026-04-22 |
+| `ilcs-710-35` | Illinois Compiled Statutes, Uniform Mediation Act (710 ILCS 35) | 1 | 2026-04-13 to 2026-04-13 |
+| `ilcs-710-40` | Illinois Compiled Statutes, Reviewing Court Alternative Dispute Resolution Act (710 ILCS 40) | 1 | 2026-04-17 to 2026-04-17 |
+| `ilcs-715-5` | Illinois Compiled Statutes, Notice By Publication Act (715 ILCS 5) | 1 | 2026-08-26 to 2026-08-26 |
+| `ilcs-715-10` | Illinois Compiled Statutes, Newspaper Legal Notice Act (715 ILCS 10) | 1 | 2026-05-08 to 2026-05-08 |
+| `ilcs-715-15` | Illinois Compiled Statutes, Legal Advertising Rate Act (715 ILCS 15) | 1 | 2026-05-16 to 2026-05-16 |
+| `ilcs-720-5-article-0002` | Illinois Compiled Statutes, Criminal Code of 2012 (720 ILCS 5), Article 2 | 1 | 2026-03-12 to 2026-03-12 |
+| `ilcs-720-5-article-0007` | Illinois Compiled Statutes, Criminal Code of 2012 (720 ILCS 5), Article 7 | 1 | 2026-03-12 to 2026-03-12 |
+| `ilcs-720-5-article-0008` | Illinois Compiled Statutes, Criminal Code of 2012 (720 ILCS 5), Article 8 | 1 | 2026-03-12 to 2026-03-12 |
+| `ilcs-720-5-article-0046` | Illinois Compiled Statutes, Criminal Code of 2012 (720 ILCS 5), Article 46 | 1 | 2026-03-12 to 2026-03-12 |
+| `ilcs-720-5-article-0028` | Illinois Compiled Statutes, Criminal Code of 2012 (720 ILCS 5), Article 28 | 1 | 2026-03-12 to 2026-03-12 |
+| `ilcs-720-5-article-0011` | Illinois Compiled Statutes, Criminal Code of 2012 (720 ILCS 5), Article 11 | 1 | 2026-03-12 to 2026-03-12 |
+| `ilcs-720-5-article-0012` | Illinois Compiled Statutes, Criminal Code of 2012 (720 ILCS 5), Article 12 | 1 | 2026-03-12 to 2026-03-12 |
+| `ilcs-720-5-article-0012a` | Illinois Compiled Statutes, Criminal Code of 2012 (720 ILCS 5), Article 12A | 1 | 2026-03-12 to 2026-03-12 |
+| `ilcs-720-5-article-0012b` | Illinois Compiled Statutes, Criminal Code of 2012 (720 ILCS 5), Article 12B | 1 | 2026-03-12 to 2026-03-12 |
+| `ilcs-720-5-article-0012c` | Illinois Compiled Statutes, Criminal Code of 2012 (720 ILCS 5), Article 12C | 1 | 2026-03-12 to 2026-03-12 |
+| `ilcs-720-5-article-0014` | Illinois Compiled Statutes, Criminal Code of 2012 (720 ILCS 5), Article 14 | 1 | 2026-03-12 to 2026-03-12 |
+| `ilcs-720-5-article-0015` | Illinois Compiled Statutes, Criminal Code of 2012 (720 ILCS 5), Article 15 | 1 | 2026-03-12 to 2026-03-12 |
+| `ilcs-720-5-article-0016` | Illinois Compiled Statutes, Criminal Code of 2012 (720 ILCS 5), Article 16 | 1 | 2026-03-12 to 2026-03-12 |
+| `ilcs-720-5-article-0017` | Illinois Compiled Statutes, Criminal Code of 2012 (720 ILCS 5), Article 17 | 1 | 2026-03-12 to 2026-03-12 |
+| `ilcs-720-5-article-0018` | Illinois Compiled Statutes, Criminal Code of 2012 (720 ILCS 5), Article 18 | 1 | 2026-03-12 to 2026-03-12 |
+| `ilcs-720-5-article-0019` | Illinois Compiled Statutes, Criminal Code of 2012 (720 ILCS 5), Article 19 | 1 | 2026-03-12 to 2026-03-12 |
+| `ilcs-720-5-article-0020` | Illinois Compiled Statutes, Criminal Code of 2012 (720 ILCS 5), Article 20 | 1 | 2026-03-12 to 2026-03-12 |
+| `ilcs-720-5-article-0020-0005` | Illinois Compiled Statutes, Criminal Code of 2012 (720 ILCS 5), Article 20.5 | 1 | 2026-03-12 to 2026-03-12 |
+| `ilcs-720-5-article-0021` | Illinois Compiled Statutes, Criminal Code of 2012 (720 ILCS 5), Article 21 | 1 | 2026-03-12 to 2026-03-12 |
+| `ilcs-720-5-article-0021-0001` | Illinois Compiled Statutes, Criminal Code of 2012 (720 ILCS 5), Article 21.1 | 1 | 2026-03-12 to 2026-03-12 |
+| `ilcs-720-5-article-0021-0002` | Illinois Compiled Statutes, Criminal Code of 2012 (720 ILCS 5), Article 21.2 | 1 | 2026-03-12 to 2026-03-12 |
+| `ilcs-720-5-article-0024` | Illinois Compiled Statutes, Criminal Code of 2012 (720 ILCS 5), Article 24 | 1 | 2026-03-12 to 2026-03-12 |
+| `ilcs-720-5-article-0024-0005` | Illinois Compiled Statutes, Criminal Code of 2012 (720 ILCS 5), Article 24.5 | 1 | 2026-03-12 to 2026-03-12 |
+| `ilcs-720-5-article-0024-0008` | Illinois Compiled Statutes, Criminal Code of 2012 (720 ILCS 5), Article 24.8 | 1 | 2026-03-12 to 2026-03-12 |
+| `ilcs-720-5-article-0025` | Illinois Compiled Statutes, Criminal Code of 2012 (720 ILCS 5), Article 25 | 1 | 2026-03-12 to 2026-03-12 |
+| `ilcs-720-5-article-0026` | Illinois Compiled Statutes, Criminal Code of 2012 (720 ILCS 5), Article 26 | 1 | 2026-03-12 to 2026-03-12 |
+| `ilcs-720-5-article-0026-0005` | Illinois Compiled Statutes, Criminal Code of 2012 (720 ILCS 5), Article 26.5 | 1 | 2026-03-12 to 2026-03-12 |
+| `ilcs-720-5-article-0029` | Illinois Compiled Statutes, Criminal Code of 2012 (720 ILCS 5), Article 29 | 1 | 2026-03-12 to 2026-03-12 |
+| `ilcs-720-5-article-0029a` | Illinois Compiled Statutes, Criminal Code of 2012 (720 ILCS 5), Article 29A | 1 | 2026-03-12 to 2026-03-12 |
+| `ilcs-720-5-article-0029b` | Illinois Compiled Statutes, Criminal Code of 2012 (720 ILCS 5), Article 29B | 1 | 2026-03-12 to 2026-03-12 |
+| `ilcs-720-5-article-0029c` | Illinois Compiled Statutes, Criminal Code of 2012 (720 ILCS 5), Article 29C | 1 | 2026-03-12 to 2026-03-12 |
+| `ilcs-720-5-article-0029d` | Illinois Compiled Statutes, Criminal Code of 2012 (720 ILCS 5), Article 29D | 1 | 2026-03-12 to 2026-03-12 |
+| `ilcs-720-5-article-0030` | Illinois Compiled Statutes, Criminal Code of 2012 (720 ILCS 5), Article 30 | 1 | 2026-03-12 to 2026-03-12 |
+| `ilcs-720-5-article-0031` | Illinois Compiled Statutes, Criminal Code of 2012 (720 ILCS 5), Article 31 | 1 | 2026-03-12 to 2026-03-12 |
+| `ilcs-720-5-article-0031a` | Illinois Compiled Statutes, Criminal Code of 2012 (720 ILCS 5), Article 31A | 1 | 2026-03-12 to 2026-03-12 |
+| `ilcs-720-5-article-0032` | Illinois Compiled Statutes, Criminal Code of 2012 (720 ILCS 5), Article 32 | 1 | 2026-03-12 to 2026-03-12 |
+| `ilcs-720-5-article-0033` | Illinois Compiled Statutes, Criminal Code of 2012 (720 ILCS 5), Article 33 | 1 | 2026-03-12 to 2026-03-12 |
+| `ilcs-720-5-article-0033a` | Illinois Compiled Statutes, Criminal Code of 2012 (720 ILCS 5), Article 33A | 1 | 2026-03-12 to 2026-03-12 |
+| `ilcs-720-5-article-0033d` | Illinois Compiled Statutes, Criminal Code of 2012 (720 ILCS 5), Article 33D | 1 | 2026-03-12 to 2026-03-12 |
+| `ilcs-720-5-article-0033e` | Illinois Compiled Statutes, Criminal Code of 2012 (720 ILCS 5), Article 33E | 1 | 2026-03-12 to 2026-03-12 |
+| `ilcs-720-5-article-0033f` | Illinois Compiled Statutes, Criminal Code of 2012 (720 ILCS 5), Article 33F | 1 | 2026-03-12 to 2026-03-12 |
+| `ilcs-720-5-article-0033g` | Illinois Compiled Statutes, Criminal Code of 2012 (720 ILCS 5), Article 33G | 1 | 2026-03-12 to 2026-03-12 |
+| `ilcs-720-5-article-0034` | Illinois Compiled Statutes, Criminal Code of 2012 (720 ILCS 5), Article 34 | 1 | 2026-03-12 to 2026-03-12 |
+| `ilcs-720-5-article-0036` | Illinois Compiled Statutes, Criminal Code of 2012 (720 ILCS 5), Article 36 | 1 | 2026-03-12 to 2026-03-12 |
+| `ilcs-720-5-article-0036-0005` | Illinois Compiled Statutes, Criminal Code of 2012 (720 ILCS 5), Article 36.5 | 1 | 2026-03-12 to 2026-03-12 |
+| `ilcs-720-5-article-0037` | Illinois Compiled Statutes, Criminal Code of 2012 (720 ILCS 5), Article 37 | 1 | 2026-03-12 to 2026-03-12 |
+| `ilcs-720-5-article-0037-0005` | Illinois Compiled Statutes, Criminal Code of 2012 (720 ILCS 5), Article 37.5 | 1 | 2026-03-12 to 2026-03-12 |
+| `ilcs-720-5-article-0038` | Illinois Compiled Statutes, Criminal Code of 2012 (720 ILCS 5), Article 38 | 1 | 2026-03-12 to 2026-03-12 |
+| `ilcs-720-5-article-0039` | Illinois Compiled Statutes, Criminal Code of 2012 (720 ILCS 5), Article 39 | 1 | 2026-03-12 to 2026-03-12 |
+| `ilcs-720-5-article-0042` | Illinois Compiled Statutes, Criminal Code of 2012 (720 ILCS 5), Article 42 | 1 | 2026-03-12 to 2026-03-12 |
+| `ilcs-720-5-article-0044` | Illinois Compiled Statutes, Criminal Code of 2012 (720 ILCS 5), Article 44 | 1 | 2026-03-12 to 2026-03-12 |
+| `ilcs-720-5-article-0045` | Illinois Compiled Statutes, Criminal Code of 2012 (720 ILCS 5), Article 45 | 1 | 2026-03-12 to 2026-03-12 |
+| `ilcs-720-5-article-0047` | Illinois Compiled Statutes, Criminal Code of 2012 (720 ILCS 5), Article 47 | 1 | 2026-03-12 to 2026-03-12 |
+| `ilcs-720-5-article-0048` | Illinois Compiled Statutes, Criminal Code of 2012 (720 ILCS 5), Article 48 | 1 | 2026-03-12 to 2026-03-12 |
+| `ilcs-720-5-article-0049` | Illinois Compiled Statutes, Criminal Code of 2012 (720 ILCS 5), Article 49 | 1 | 2026-03-12 to 2026-03-12 |
+| `ilcs-720-145` | Illinois Compiled Statutes, Telecommunication Line Tapping Act (720 ILCS 145) | 1 | 2026-04-21 to 2026-04-21 |
+| `ilcs-720-150` | Illinois Compiled Statutes, Wrongs to Children Act (720 ILCS 150) | 1 | 2026-07-29 to 2026-07-29 |
+| `ilcs-720-300` | Illinois Compiled Statutes, Derogatory Statements About Banks Act (720 ILCS 300) | 1 | 2026-04-13 to 2026-04-13 |
+| `ilcs-720-542` | Illinois Compiled Statutes, Bath Salts Prohibition Act (720 ILCS 542) | 1 | 2026-08-04 to 2026-08-04 |
+| `ilcs-720-550` | Illinois Compiled Statutes, Cannabis Control Act (720 ILCS 550) | 1 | 2026-05-12 to 2026-05-12 |
+| `ilcs-720-570` | Illinois Compiled Statutes, Illinois Controlled Substances Act (720 ILCS 570) | 1 | 2026-05-16 to 2026-05-16 |
+| `ilcs-720-590` | Illinois Compiled Statutes, Discrimination in Sale of Real Estate Act (720 ILCS 590) | 1 | 2026-05-24 to 2026-05-24 |
+| `ilcs-720-600` | Illinois Compiled Statutes, Drug Paraphernalia Control Act (720 ILCS 600) | 1 | 2026-04-01 to 2026-04-01 |
+| `ilcs-720-602` | Illinois Compiled Statutes, Ephedra Prohibition Act (720 ILCS 602) | 1 | 2026-03-28 to 2026-03-28 |
+| `ilcs-720-635` | Illinois Compiled Statutes, Hypodermic Syringes and Needles Act (720 ILCS 635) | 1 | 2026-08-07 to 2026-08-07 |
+| `ilcs-720-640` | Illinois Compiled Statutes, Improper Supervision of Children Act (720 ILCS 640) | 1 | 2026-09-04 to 2026-09-04 |
+| `ilcs-720-642` | Illinois Compiled Statutes, Kratom Control Act (720 ILCS 642) | 1 | 2026-05-31 to 2026-05-31 |
+| `ilcs-720-646` | Illinois Compiled Statutes, Methamphetamine Control and Community Protection Act (720 ILCS 646) | 1 | 2026-04-17 to 2026-04-17 |
+| `ilcs-720-675` | Illinois Compiled Statutes, Prevention of Tobacco Use by Persons under 21 Years of Age and Sale and Distribution of Tobacco Products Act (720 ILCS 675) | 1 | 2026-07-03 to 2026-07-03 |
+| `ilcs-720-677` | Illinois Compiled Statutes, Display of Tobacco Products Act (720 ILCS 677) | 1 | 2026-06-08 to 2026-06-08 |
+| `ilcs-720-678` | Illinois Compiled Statutes, Prevention of Cigarette and Electronic Cigarette Sales to Persons under 21 Years of Age Act (720 ILCS 678) | 1 | 2026-02-11 to 2026-02-11 |
+| `ilcs-720-685` | Illinois Compiled Statutes, Tobacco Accessories and Smoking Herbs Control Act (720 ILCS 685) | 1 | 2026-08-12 to 2026-08-12 |
+| `ilcs-720-690` | Illinois Compiled Statutes, Use of Intoxicating Compounds Act (720 ILCS 690) | 1 | 2026-04-14 to 2026-04-14 |
+| `ilcs-725-5` | Illinois Compiled Statutes, Code of Criminal Procedure of 1963 (725 ILCS 5) | 1 | 2026-02-18 to 2026-02-18 |
+| `ilcs-725-115` | Illinois Compiled Statutes, Bill of Rights for Children (725 ILCS 115) | 1 | 2026-03-15 to 2026-03-15 |
+| `ilcs-725-120` | Illinois Compiled Statutes, Rights of Crime Victims and Witnesses Act (725 ILCS 120) | 1 | 2026-10-09 to 2026-10-09 |
+| `ilcs-725-150` | Illinois Compiled Statutes, Drug Asset Forfeiture Procedure Act (725 ILCS 150) | 1 | 2026-07-25 to 2026-07-25 |
+| `ilcs-725-155` | Illinois Compiled Statutes, Federal Prisoner Production Expense Act (725 ILCS 155) | 1 | 2026-07-28 to 2026-07-28 |
+| `ilcs-725-160` | Illinois Compiled Statutes, Fines Paid to Societies Act (725 ILCS 160) | 1 | 2026-03-06 to 2026-03-06 |
+| `ilcs-725-167` | Illinois Compiled Statutes, Freedom from Drone Surveillance Act (725 ILCS 167) | 1 | 2026-10-13 to 2026-10-13 |
+| `ilcs-725-168` | Illinois Compiled Statutes, Freedom From Location Surveillance Act (725 ILCS 168) | 1 | 2026-04-27 to 2026-04-27 |
+| `ilcs-725-170` | Illinois Compiled Statutes, Fugitive Apprehension Reward Act (725 ILCS 170) | 1 | 2026-04-15 to 2026-04-15 |
+| `ilcs-725-175` | Illinois Compiled Statutes, Narcotics Profit Forfeiture Act (725 ILCS 175) | 1 | 2026-05-20 to 2026-05-20 |
+| `ilcs-725-180` | Illinois Compiled Statutes, Park Ordinance Violation Procedure Act (725 ILCS 180) | 1 | 2026-05-20 to 2026-05-20 |
+| `ilcs-725-200` | Illinois Compiled Statutes, Sex Offense Victim Polygraph Act (725 ILCS 200) | 1 | 2026-06-03 to 2026-06-03 |
+| `ilcs-725-202` | Illinois Compiled Statutes, Sexual Assault Evidence Submission Act (725 ILCS 202) | 1 | 2026-08-30 to 2026-08-30 |
+| `ilcs-725-203` | Illinois Compiled Statutes, Sexual Assault Incident Procedure Act (725 ILCS 203) | 1 | 2026-05-13 to 2026-05-13 |
+| `ilcs-725-205` | Illinois Compiled Statutes, Sexually Dangerous Persons Act (725 ILCS 205) | 1 | 2026-08-20 to 2026-08-20 |
+| `ilcs-725-207` | Illinois Compiled Statutes, Sexually Violent Persons Commitment Act (725 ILCS 207) | 1 | 2026-10-10 to 2026-10-10 |
+| `ilcs-725-210` | Illinois Compiled Statutes, State's Attorneys Appellate Prosecutor's Act (725 ILCS 210) | 1 | 2026-07-25 to 2026-07-25 |
+| `ilcs-725-215` | Illinois Compiled Statutes, Statewide Grand Jury Act (725 ILCS 215) | 1 | 2026-08-18 to 2026-08-18 |
+| `ilcs-725-235` | Illinois Compiled Statutes, Uniform Rendition of Prisoners as Witnesses in Criminal Proceedings Act (725 ILCS 235) | 1 | 2026-03-10 to 2026-03-10 |
+| `ilcs-725-240` | Illinois Compiled Statutes, Violent Crime Victims Assistance Act (725 ILCS 240) | 1 | 2026-07-18 to 2026-07-18 |
+| `ilcs-730-105` | Illinois Compiled Statutes, Open Parole Hearings Act (730 ILCS 105) | 1 | 2026-08-20 to 2026-08-20 |
+| `ilcs-730-110` | Illinois Compiled Statutes, Probation and Probation Officers Act (730 ILCS 110) | 1 | 2026-04-19 to 2026-04-19 |
+| `ilcs-730-115` | Illinois Compiled Statutes, Probation Community Service Act (730 ILCS 115) | 1 | 2026-04-19 to 2026-04-19 |
+| `ilcs-730-120` | Illinois Compiled Statutes, Probation Challenge Program Act (730 ILCS 120) | 1 | 2026-04-19 to 2026-04-19 |
+| `ilcs-730-125` | Illinois Compiled Statutes, County Jail Act (730 ILCS 125) | 1 | 2026-07-28 to 2026-07-28 |
+| `ilcs-730-130` | Illinois Compiled Statutes, County Jail Good Behavior Allowance Act (730 ILCS 130) | 1 | 2026-04-19 to 2026-04-19 |
+| `ilcs-730-135` | Illinois Compiled Statutes, Illinois Prison Inspection Act (730 ILCS 135) | 1 | 2026-09-04 to 2026-09-04 |
+| `ilcs-730-140` | Illinois Compiled Statutes, Private Correctional Facility Moratorium Act (730 ILCS 140) | 1 | 2026-04-19 to 2026-04-19 |
+| `ilcs-730-141` | Illinois Compiled Statutes, Private Detention Facility Moratorium Act (730 ILCS 141) | 1 | 2026-04-19 to 2026-04-19 |
+| `ilcs-730-145` | Illinois Compiled Statutes, Illinois Substance Abuse Treatment Program Act (730 ILCS 145) | 1 | 2026-04-19 to 2026-04-19 |
+| `ilcs-730-148` | Illinois Compiled Statutes, Arsonist Registry Act (730 ILCS 148) | 1 | 2026-06-30 to 2026-06-30 |
+| `ilcs-730-150` | Illinois Compiled Statutes, Sex Offender Registration Act (730 ILCS 150) | 1 | 2026-05-20 to 2026-05-20 |
+| `ilcs-730-152` | Illinois Compiled Statutes, Sex Offender Community Notification Law (730 ILCS 152) | 1 | 2026-05-16 to 2026-05-16 |
+| `ilcs-730-154` | Illinois Compiled Statutes, Murderer and Violent Offender Against Youth Registration Act (730 ILCS 154) | 1 | 2026-07-12 to 2026-07-12 |
+| `ilcs-730-155` | Illinois Compiled Statutes, Prisoner Interchange Act (730 ILCS 155) | 1 | 2026-05-20 to 2026-05-20 |
+| `ilcs-730-166` | Illinois Compiled Statutes, Drug Court Treatment Act (730 ILCS 166) | 1 | 2026-04-27 to 2026-04-27 |
+| `ilcs-730-167` | Illinois Compiled Statutes, Veterans and Servicemembers Court Treatment Act (730 ILCS 167) | 1 | 2026-04-19 to 2026-04-19 |
+| `ilcs-730-168` | Illinois Compiled Statutes, Mental Health Court Treatment Act (730 ILCS 168) | 1 | 2026-05-15 to 2026-05-15 |
+| `ilcs-730-170` | Illinois Compiled Statutes, Neighborhood Restoration and Alternative Sentencing Job Training Act (730 ILCS 170) | 1 | 2026-06-10 to 2026-06-10 |
+| `ilcs-730-180` | Illinois Compiled Statutes, Methamphetamine Manufacturer Registry Act (730 ILCS 180) | 1 | 2026-04-19 to 2026-04-19 |
+| `ilcs-730-185` | Illinois Compiled Statutes, Emergency Services Response Reimbursement for Criminal Convictions Act (730 ILCS 185) | 1 | 2026-04-19 to 2026-04-19 |
+| `ilcs-730-190` | Illinois Compiled Statutes, Illinois Crime Reduction Act of 2009 (730 ILCS 190) | 1 | 2026-04-30 to 2026-04-30 |
+| `ilcs-730-195` | Illinois Compiled Statutes, Department of Juvenile Justice Mortality Review Team Act (730 ILCS 195) | 1 | 2026-10-09 to 2026-10-09 |
+| `ilcs-730-200` | Illinois Compiled Statutes, Re-Entering Citizens Civics Education Act (730 ILCS 200) | 1 | 2026-04-17 to 2026-04-17 |
+| `ilcs-730-205-article-0002` | Illinois Compiled Statutes, No Representation Without Population Act (730 ILCS 205), Article 2 | 1 | 2026-05-21 to 2026-05-21 |
+| `ilcs-730-205-article-0010` | Illinois Compiled Statutes, No Representation Without Population Act (730 ILCS 205), Article 10 | 1 | 2026-05-21 to 2026-05-21 |
+| `ilcs-730-205-article-0025` | Illinois Compiled Statutes, No Representation Without Population Act (730 ILCS 205), Article 25 | 1 | 2026-05-21 to 2026-05-21 |
+| `ilcs-730-205-article-0099` | Illinois Compiled Statutes, No Representation Without Population Act (730 ILCS 205), Article 99 | 1 | 2026-05-21 to 2026-05-21 |
+| `ilcs-730-210-article-0003` | Illinois Compiled Statutes, Reporting of Deaths in Custody Act (730 ILCS 210), Article 3 | 1 | 2026-05-14 to 2026-05-14 |
+| `ilcs-730-210-article-0010` | Illinois Compiled Statutes, Reporting of Deaths in Custody Act (730 ILCS 210), Article 10 | 1 | 2026-05-14 to 2026-05-14 |
+| `ilcs-730-210-article-0025` | Illinois Compiled Statutes, Reporting of Deaths in Custody Act (730 ILCS 210), Article 25 | 1 | 2026-05-14 to 2026-05-14 |
+| `ilcs-730-210-article-0099` | Illinois Compiled Statutes, Reporting of Deaths in Custody Act (730 ILCS 210), Article 99 | 1 | 2026-05-14 to 2026-05-14 |
+| `ilcs-730-212` | Illinois Compiled Statutes, Restrictive Housing Data Publication and Verification Act (730 ILCS 212) | 1 | 2026-04-19 to 2026-04-19 |
+| `ilcs-730-215` | Illinois Compiled Statutes, End Youth Solitary Confinement Act (730 ILCS 215) | 1 | 2026-04-17 to 2026-04-17 |
+| `ilcs-730-220` | Illinois Compiled Statutes, Faith Behind Bars Act (730 ILCS 220) | 1 | 2026-04-19 to 2026-04-19 |
+| `ilcs-730-225` | Illinois Compiled Statutes, Higher Education in Prison Act (730 ILCS 225) | 1 | 2026-05-12 to 2026-05-12 |
+| `ilcs-735-5` | Illinois Compiled Statutes, Code of Civil Procedure (735 ILCS 5) | 1 | 2026-05-21 to 2026-05-21 |
+| `ilcs-735-35` | Illinois Compiled Statutes, Uniform Interstate Depositions and Discovery Act (735 ILCS 35) | 1 | 2026-06-08 to 2026-06-08 |
+| `ilcs-735-40` | Illinois Compiled Statutes, Lawful Health Care Activity Act (735 ILCS 40) | 1 | 2026-06-10 to 2026-06-10 |
+| `ilcs-735-110` | Illinois Compiled Statutes, Citizen Participation Act (735 ILCS 110) | 1 | 2026-09-11 to 2026-09-11 |
+| `ilcs-735-115` | Illinois Compiled Statutes, Removal of Private Compromising Images Act (735 ILCS 115) | 1 | 2026-06-16 to 2026-06-16 |
+| `ilcs-740-7` | Illinois Compiled Statutes, Anti-Phishing Act (740 ILCS 7) | 1 | 2026-09-03 to 2026-09-03 |
+| `ilcs-740-10` | Illinois Compiled Statutes, Illinois Antitrust Act (740 ILCS 10) | 1 | 2026-07-10 to 2026-07-10 |
+| `ilcs-740-14` | Illinois Compiled Statutes, Biometric Information Privacy Act (740 ILCS 14) | 1 | 2026-10-11 to 2026-10-11 |
+| `ilcs-740-15` | Illinois Compiled Statutes, Breach of Promise Abolition Act (740 ILCS 15) | 1 | 2026-05-16 to 2026-05-16 |
+| `ilcs-740-16` | Illinois Compiled Statutes, Illinois Bivens Act (740 ILCS 16) | 1 | 2026-06-04 to 2026-06-04 |
+| `ilcs-740-20` | Illinois Compiled Statutes, Cannabis and Controlled Substances Tort Claims Act (740 ILCS 20) | 1 | 2026-05-08 to 2026-05-08 |
+| `ilcs-740-21` | Illinois Compiled Statutes, Stalking No Contact Order Act (740 ILCS 21) | 1 | 2026-06-16 to 2026-06-16 |
+| `ilcs-740-22` | Illinois Compiled Statutes, Civil No Contact Order Act (740 ILCS 22) | 1 | 2026-06-13 to 2026-06-13 |
+| `ilcs-740-23` | Illinois Compiled Statutes, Illinois Civil Rights Act of 2003 (740 ILCS 23) | 1 | 2026-04-22 to 2026-04-22 |
+| `ilcs-740-25` | Illinois Compiled Statutes, Common Carrier Liability Act (740 ILCS 25) | 1 | 2026-04-28 to 2026-04-28 |
+| `ilcs-740-30` | Illinois Compiled Statutes, Community Investment Recovery Act (740 ILCS 30) | 1 | 2026-06-11 to 2026-06-11 |
+| `ilcs-740-35` | Illinois Compiled Statutes, Construction Contract Indemnification for Negligence Act (740 ILCS 35) | 1 | 2026-07-02 to 2026-07-02 |
+| `ilcs-740-40` | Illinois Compiled Statutes, Controlled Substance and Cannabis Nuisance Act (740 ILCS 40) | 1 | 2026-06-11 to 2026-06-11 |
+| `ilcs-740-45` | Illinois Compiled Statutes, Crime Victims Compensation Act (740 ILCS 45) | 1 | 2026-05-11 to 2026-05-11 |
+| `ilcs-740-50` | Illinois Compiled Statutes, Criminal Conversation Abolition Act (740 ILCS 50) | 1 | 2026-06-11 to 2026-06-11 |
+| `ilcs-740-57` | Illinois Compiled Statutes, Drug Dealer Liability Act (740 ILCS 57) | 1 | 2026-06-16 to 2026-06-16 |
+| `ilcs-740-58` | Illinois Compiled Statutes, Drug or Alcohol Impaired Minor Responsibility Act (740 ILCS 58) | 1 | 2026-06-16 to 2026-06-16 |
+| `ilcs-740-60` | Illinois Compiled Statutes, Escaped Inmate Damages Act (740 ILCS 60) | 1 | 2026-03-15 to 2026-03-15 |
+| `ilcs-740-65` | Illinois Compiled Statutes, Farm Machine Safety Act (740 ILCS 65) | 1 | 2026-04-13 to 2026-04-13 |
+| `ilcs-740-70` | Illinois Compiled Statutes, Farm Nuisance Suit Act (740 ILCS 70) | 1 | 2026-06-16 to 2026-06-16 |
+| `ilcs-740-75` | Illinois Compiled Statutes, Fire Fighter Liability Act (740 ILCS 75) | 1 | 2026-02-05 to 2026-02-05 |
+| `ilcs-740-80` | Illinois Compiled Statutes, Frauds Act (740 ILCS 80) | 1 | 2026-06-16 to 2026-06-16 |
+| `ilcs-740-82` | Illinois Compiled Statutes, Gender Violence Act (740 ILCS 82) | 1 | 2026-08-11 to 2026-08-11 |
+| `ilcs-740-85` | Illinois Compiled Statutes, Highway Contractor Liability Act (740 ILCS 85) | 1 | 2026-06-11 to 2026-06-11 |
+| `ilcs-740-90` | Illinois Compiled Statutes, Innkeeper Protection Act (740 ILCS 90) | 1 | 2026-03-11 to 2026-03-11 |
+| `ilcs-740-92` | Illinois Compiled Statutes, Insurance Claims Fraud Prevention Act (740 ILCS 92) | 1 | 2026-04-16 to 2026-04-16 |
+| `ilcs-740-95` | Illinois Compiled Statutes, Interference With Utility Services Act (740 ILCS 95) | 1 | 2026-05-11 to 2026-05-11 |
+| `ilcs-740-100` | Illinois Compiled Statutes, Joint Tortfeasor Contribution Act (740 ILCS 100) | 1 | 2026-05-14 to 2026-05-14 |
+| `ilcs-740-105` | Illinois Compiled Statutes, Lewdness Public Nuisance Act (740 ILCS 105) | 1 | 2026-06-16 to 2026-06-16 |
+| `ilcs-740-110` | Illinois Compiled Statutes, Mental Health and Developmental Disabilities Confidentiality Act (740 ILCS 110) | 1 | 2026-10-13 to 2026-10-13 |
+| `ilcs-740-113` | Illinois Compiled Statutes, Oil Spill Responders Liability Act (740 ILCS 113) | 1 | 2026-06-11 to 2026-06-11 |
+| `ilcs-740-115` | Illinois Compiled Statutes, Parental Responsibility Law (740 ILCS 115) | 1 | 2026-06-16 to 2026-06-16 |
+| `ilcs-740-120` | Illinois Compiled Statutes, Parental Right of Recovery Act (740 ILCS 120) | 1 | 2026-06-16 to 2026-06-16 |
+| `ilcs-740-126` | Illinois Compiled Statutes, Protecting Reproductive Health Care Services Act (740 ILCS 126) | 1 | 2026-03-13 to 2026-03-13 |
+| `ilcs-740-128` | Illinois Compiled Statutes, Trafficking Victims Protection Act (740 ILCS 128) | 1 | 2026-06-16 to 2026-06-16 |
+| `ilcs-740-130` | Illinois Compiled Statutes, Premises Liability Act (740 ILCS 130) | 1 | 2026-05-21 to 2026-05-21 |
+| `ilcs-740-135` | Illinois Compiled Statutes, Railroad Passenger Removal Act (740 ILCS 135) | 1 | 2026-02-17 to 2026-02-17 |
+| `ilcs-740-137` | Illinois Compiled Statutes, Right to Breastfeed Act (740 ILCS 137) | 1 | 2026-06-16 to 2026-06-16 |
+| `ilcs-740-140` | Illinois Compiled Statutes, Sexual Exploitation in Psychotherapy, Professional Health Services, and Professional Mental Health Services Act (740 ILCS 140) | 1 | 2026-06-16 to 2026-06-16 |
+| `ilcs-740-145` | Illinois Compiled Statutes, Slander and Libel Act (740 ILCS 145) | 1 | 2026-06-16 to 2026-06-16 |
+| `ilcs-740-147` | Illinois Compiled Statutes, Illinois Streetgang Terrorism Omnibus Prevention Act (740 ILCS 147) | 1 | 2026-06-11 to 2026-06-11 |
+| `ilcs-740-155` | Illinois Compiled Statutes, Sureties Act (740 ILCS 155) | 1 | 2026-06-11 to 2026-06-11 |
+| `ilcs-740-160` | Illinois Compiled Statutes, Uniform Fraudulent Transfer Act (740 ILCS 160) | 1 | 2026-06-07 to 2026-06-07 |
+| `ilcs-740-165` | Illinois Compiled Statutes, Uniform Single Publication Act (740 ILCS 165) | 1 | 2026-06-16 to 2026-06-16 |
+| `ilcs-740-170` | Illinois Compiled Statutes, Illinois Wage Assignment Act (740 ILCS 170) | 1 | 2026-10-09 to 2026-10-09 |
+| `ilcs-740-174` | Illinois Compiled Statutes, Whistleblower Act (740 ILCS 174) | 1 | 2026-06-05 to 2026-06-05 |
+| `ilcs-740-175` | Illinois Compiled Statutes, Illinois False Claims Act (740 ILCS 175) | 1 | 2026-10-10 to 2026-10-10 |
+| `ilcs-740-180` | Illinois Compiled Statutes, Wrongful Death Act (740 ILCS 180) | 1 | 2026-06-16 to 2026-06-16 |
+| `ilcs-740-185` | Illinois Compiled Statutes, Wrongful Tree Cutting Act (740 ILCS 185) | 1 | 2026-03-15 to 2026-03-15 |
+| `ilcs-740-190` | Illinois Compiled Statutes, Civil Remedies for Nonconsensual Dissemination of Private Sexual Images Act (740 ILCS 190) | 1 | 2026-06-16 to 2026-06-16 |
+| `ilcs-740-195` | Illinois Compiled Statutes, Civil Liability for Doxing Act (740 ILCS 195) | 1 | 2026-10-31 to 2026-10-31 |
+| `ilcs-745-5` | Illinois Compiled Statutes, State Lawsuit Immunity Act (745 ILCS 5) | 1 | 2026-05-15 to 2026-05-15 |
+| `ilcs-745-10-article-0001` | Illinois Compiled Statutes, Local Governmental and Governmental Employees Tort Immunity Act (745 ILCS 10), Article 1 | 1 | 2026-03-14 to 2026-03-14 |
+| `ilcs-745-10-article-0002` | Illinois Compiled Statutes, Local Governmental and Governmental Employees Tort Immunity Act (745 ILCS 10), Article 2 | 1 | 2026-03-14 to 2026-03-14 |
+| `ilcs-745-10-article-0003` | Illinois Compiled Statutes, Local Governmental and Governmental Employees Tort Immunity Act (745 ILCS 10), Article 3 | 1 | 2026-03-14 to 2026-03-14 |
+| `ilcs-745-10-article-0004` | Illinois Compiled Statutes, Local Governmental and Governmental Employees Tort Immunity Act (745 ILCS 10), Article 4 | 1 | 2026-03-14 to 2026-03-14 |
+| `ilcs-745-10-article-0005` | Illinois Compiled Statutes, Local Governmental and Governmental Employees Tort Immunity Act (745 ILCS 10), Article 5 | 1 | 2026-03-14 to 2026-03-14 |
+| `ilcs-745-10-article-0006` | Illinois Compiled Statutes, Local Governmental and Governmental Employees Tort Immunity Act (745 ILCS 10), Article 6 | 1 | 2026-03-14 to 2026-03-14 |
+| `ilcs-745-10-article-0006a` | Illinois Compiled Statutes, Local Governmental and Governmental Employees Tort Immunity Act (745 ILCS 10), Article 6A | 1 | 2026-03-14 to 2026-03-14 |
+| `ilcs-745-10-article-0007` | Illinois Compiled Statutes, Local Governmental and Governmental Employees Tort Immunity Act (745 ILCS 10), Article 7 | 1 | 2026-03-14 to 2026-03-14 |
+| `ilcs-745-10-article-0008` | Illinois Compiled Statutes, Local Governmental and Governmental Employees Tort Immunity Act (745 ILCS 10), Article 8 | 1 | 2026-03-14 to 2026-03-14 |
+| `ilcs-745-10-article-0009` | Illinois Compiled Statutes, Local Governmental and Governmental Employees Tort Immunity Act (745 ILCS 10), Article 9 | 1 | 2026-03-14 to 2026-03-14 |
+| `ilcs-745-10-article-0010` | Illinois Compiled Statutes, Local Governmental and Governmental Employees Tort Immunity Act (745 ILCS 10), Article 10 | 1 | 2026-03-14 to 2026-03-14 |
+| `ilcs-745-22` | Illinois Compiled Statutes, Federal Law Enforcement Officer Immunity Act (745 ILCS 22) | 1 | 2026-08-30 to 2026-08-30 |
 
-The build made 2064 commits:
+The build made 2300 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 2064 | first version of an act |
+| 2294 | first version of an act |
 | 0 | one law on its in-force day |
-| 0 | changes no amendment note explains, credited to the publisher |
+| 6 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
 - 0 commits on the branch `future`: laws not yet in force on 2026-11-10.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
 - 0 laws in the record.
-- 2064 tags.
+- 2300 tags.
 
 ## Dates
 
@@ -2104,7 +2334,7 @@ When a law gives no date of its own, the default rule applies: No dated history 
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `b6d3730f65110359ba3cf6be370fdec4805d64116faaa56c1b054098d2e8ade2` (51673385 bytes).
+- Corpus: sha256 `23beeddb78271c794210925f72e08aa8ef063c5c388b78fb5859ef3082238f6a` (55948717 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `3024ff164c261807dfc4d5b7b1b4a2cde4357da1`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.12.10; git version 2.46.0.windows.1.
 

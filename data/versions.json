@@ -236,6 +236,12 @@
      "units": 7,
      "source_url": "https://www.ilga.gov/ftp/ILCS/Ch%200720/Act%200005/",
      "sha256": "1316b45dc38173e259647224acd0fc40140df0bccb1a09e31c945b410ed1e77b"
+    },
+    {
+     "from": "2026-03-12",
+     "units": 7,
+     "source_url": "https://web.archive.org/web/20260312172218/https://ilga.gov/legislation/ILCS/details?MajorTopic=RIGHTS%20AND%20REMEDIES&Chapter=CRIMINAL%20OFFENSES&ActName=Criminal%20Code%20of%202012.&ActID=1876&ChapterID=53&SeqStart=&&ChapAct=FullText",
+     "sha256": "6ea65b6d12a184c9083854d4e908836339c6afd8ff859b602fab1faa70168de9"
     }
    ]
   },
@@ -250,6 +256,12 @@
      "units": 14,
      "source_url": "https://www.ilga.gov/ftp/ILCS/Ch%200720/Act%200005/",
      "sha256": "a58ad98b55ca0285d980b9a1f8997f69a189ec8339b2d36140e7b4c16b13e97d"
+    },
+    {
+     "from": "2026-03-12",
+     "units": 14,
+     "source_url": "https://web.archive.org/web/20260312172218/https://ilga.gov/legislation/ILCS/details?MajorTopic=RIGHTS%20AND%20REMEDIES&Chapter=CRIMINAL%20OFFENSES&ActName=Criminal%20Code%20of%202012.&ActID=1876&ChapterID=53&SeqStart=&&ChapAct=FullText",
+     "sha256": "6ea65b6d12a184c9083854d4e908836339c6afd8ff859b602fab1faa70168de9"
     }
    ]
   },
@@ -264,6 +276,12 @@
      "units": 8,
      "source_url": "https://www.ilga.gov/ftp/ILCS/Ch%200720/Act%200005/",
      "sha256": "4b9ad7abf2b796c125cc79c346bb10e20b47bb8861bd998a2c2f75faa14cd17c"
+    },
+    {
+     "from": "2026-03-12",
+     "units": 8,
+     "source_url": "https://web.archive.org/web/20260312172218/https://ilga.gov/legislation/ILCS/details?MajorTopic=RIGHTS%20AND%20REMEDIES&Chapter=CRIMINAL%20OFFENSES&ActName=Criminal%20Code%20of%202012.&ActID=1876&ChapterID=53&SeqStart=&&ChapAct=FullText",
+     "sha256": "6ea65b6d12a184c9083854d4e908836339c6afd8ff859b602fab1faa70168de9"
     }
    ]
   },
@@ -278,6 +296,12 @@
      "units": 9,
      "source_url": "https://www.ilga.gov/ftp/ILCS/Ch%200720/Act%200005/",
      "sha256": "097705d80a1a146f472a002af87fc7eca1d763d727396b6f350c797371c7e913"
+    },
+    {
+     "from": "2026-03-12",
+     "units": 9,
+     "source_url": "https://web.archive.org/web/20260312172218/https://ilga.gov/legislation/ILCS/details?MajorTopic=RIGHTS%20AND%20REMEDIES&Chapter=CRIMINAL%20OFFENSES&ActName=Criminal%20Code%20of%202012.&ActID=1876&ChapterID=53&SeqStart=&&ChapAct=FullText",
+     "sha256": "6ea65b6d12a184c9083854d4e908836339c6afd8ff859b602fab1faa70168de9"
     }
    ]
   },
@@ -292,6 +316,12 @@
      "units": 5,
      "source_url": "https://www.ilga.gov/ftp/ILCS/Ch%200720/Act%200005/",
      "sha256": "6081a8f719243904e839653b1f2aa81149e52355e5a8ae88afc175cedd4f5272"
+    },
+    {
+     "from": "2026-03-12",
+     "units": 5,
+     "source_url": "https://web.archive.org/web/20260312172218/https://ilga.gov/legislation/ILCS/details?MajorTopic=RIGHTS%20AND%20REMEDIES&Chapter=CRIMINAL%20OFFENSES&ActName=Criminal%20Code%20of%202012.&ActID=1876&ChapterID=53&SeqStart=&&ChapAct=FullText",
+     "sha256": "6ea65b6d12a184c9083854d4e908836339c6afd8ff859b602fab1faa70168de9"
     }
    ]
   },
@@ -320,6 +350,12 @@
      "units": 11,
      "source_url": "https://www.ilga.gov/ftp/ILCS/Ch%200720/Act%200005/",
      "sha256": "9002341989874602f882030d5da9d74774803dfd781c4767c20398f5a9ad041c"
+    },
+    {
+     "from": "2026-03-12",
+     "units": 11,
+     "source_url": "https://web.archive.org/web/20260312172218/https://ilga.gov/legislation/ILCS/details?MajorTopic=RIGHTS%20AND%20REMEDIES&Chapter=CRIMINAL%20OFFENSES&ActName=Criminal%20Code%20of%202012.&ActID=1876&ChapterID=53&SeqStart=&&ChapAct=FullText",
+     "sha256": "6ea65b6d12a184c9083854d4e908836339c6afd8ff859b602fab1faa70168de9"
     }
    ]
   },
@@ -28894,6 +28930,3226 @@
      "units": 7,
      "source_url": "https://web.archive.org/web/20260405075023/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1852&ChapterID=50",
      "sha256": "0706e7c9a7461a205f4f2d6306548fb30a673160fed4053a745368078441c828"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-705-135-article-0001",
+   "short": "705 ILCS 135 art. 1",
+   "title": "Illinois Compiled Statutes, Criminal and Traffic Assessment Act (705 ILCS 135), Article 1",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3898",
+   "versions": [
+    {
+     "from": "2026-03-07",
+     "units": 3,
+     "source_url": "https://web.archive.org/web/20260307054519/https://www.ilga.gov/legislation/ILCS/details?MajorTopic=&Chapter=&ActName=Criminal%20and%20Traffic%20Assessment%20Act.&ActID=3898&ChapterID=50&SeqStart=&&ChapAct=FullText",
+     "sha256": "8705ec9b4cec0de6c8c8f9e29931f1affd8df49d777fe47451b5482ca9da7cdc"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-705-135-article-0005",
+   "short": "705 ILCS 135 art. 5",
+   "title": "Illinois Compiled Statutes, Criminal and Traffic Assessment Act (705 ILCS 135), Article 5",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3898",
+   "versions": [
+    {
+     "from": "2026-03-07",
+     "units": 4,
+     "source_url": "https://web.archive.org/web/20260307054519/https://www.ilga.gov/legislation/ILCS/details?MajorTopic=&Chapter=&ActName=Criminal%20and%20Traffic%20Assessment%20Act.&ActID=3898&ChapterID=50&SeqStart=&&ChapAct=FullText",
+     "sha256": "8705ec9b4cec0de6c8c8f9e29931f1affd8df49d777fe47451b5482ca9da7cdc"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-705-135-article-0010",
+   "short": "705 ILCS 135 art. 10",
+   "title": "Illinois Compiled Statutes, Criminal and Traffic Assessment Act (705 ILCS 135), Article 10",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3898",
+   "versions": [
+    {
+     "from": "2026-03-07",
+     "units": 1,
+     "source_url": "https://web.archive.org/web/20260307054519/https://www.ilga.gov/legislation/ILCS/details?MajorTopic=&Chapter=&ActName=Criminal%20and%20Traffic%20Assessment%20Act.&ActID=3898&ChapterID=50&SeqStart=&&ChapAct=FullText",
+     "sha256": "8705ec9b4cec0de6c8c8f9e29931f1affd8df49d777fe47451b5482ca9da7cdc"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-705-135-article-0015",
+   "short": "705 ILCS 135 art. 15",
+   "title": "Illinois Compiled Statutes, Criminal and Traffic Assessment Act (705 ILCS 135), Article 15",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3898",
+   "versions": [
+    {
+     "from": "2026-03-07",
+     "units": 15,
+     "source_url": "https://web.archive.org/web/20260307054519/https://www.ilga.gov/legislation/ILCS/details?MajorTopic=&Chapter=&ActName=Criminal%20and%20Traffic%20Assessment%20Act.&ActID=3898&ChapterID=50&SeqStart=&&ChapAct=FullText",
+     "sha256": "8705ec9b4cec0de6c8c8f9e29931f1affd8df49d777fe47451b5482ca9da7cdc"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-705-135-article-0020",
+   "short": "705 ILCS 135 art. 20",
+   "title": "Illinois Compiled Statutes, Criminal and Traffic Assessment Act (705 ILCS 135), Article 20",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3898",
+   "versions": [
+    {
+     "from": "2026-03-07",
+     "units": 1,
+     "source_url": "https://web.archive.org/web/20260307054519/https://www.ilga.gov/legislation/ILCS/details?MajorTopic=&Chapter=&ActName=Criminal%20and%20Traffic%20Assessment%20Act.&ActID=3898&ChapterID=50&SeqStart=&&ChapAct=FullText",
+     "sha256": "8705ec9b4cec0de6c8c8f9e29931f1affd8df49d777fe47451b5482ca9da7cdc"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-705-135-article-0905",
+   "short": "705 ILCS 135 art. 905",
+   "title": "Illinois Compiled Statutes, Criminal and Traffic Assessment Act (705 ILCS 135), Article 905",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3898",
+   "versions": [
+    {
+     "from": "2026-03-07",
+     "units": 27,
+     "source_url": "https://web.archive.org/web/20260307054519/https://www.ilga.gov/legislation/ILCS/details?MajorTopic=&Chapter=&ActName=Criminal%20and%20Traffic%20Assessment%20Act.&ActID=3898&ChapterID=50&SeqStart=&&ChapAct=FullText",
+     "sha256": "8705ec9b4cec0de6c8c8f9e29931f1affd8df49d777fe47451b5482ca9da7cdc"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-705-135-article-0999",
+   "short": "705 ILCS 135 art. 999",
+   "title": "Illinois Compiled Statutes, Criminal and Traffic Assessment Act (705 ILCS 135), Article 999",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3898",
+   "versions": [
+    {
+     "from": "2026-03-07",
+     "units": 1,
+     "source_url": "https://web.archive.org/web/20260307054519/https://www.ilga.gov/legislation/ILCS/details?MajorTopic=&Chapter=&ActName=Criminal%20and%20Traffic%20Assessment%20Act.&ActID=3898&ChapterID=50&SeqStart=&&ChapAct=FullText",
+     "sha256": "8705ec9b4cec0de6c8c8f9e29931f1affd8df49d777fe47451b5482ca9da7cdc"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-705-205",
+   "short": "705 ILCS 205",
+   "title": "Illinois Compiled Statutes, Attorney Act (705 ILCS 205)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1853",
+   "versions": [
+    {
+     "from": "2026-10-14",
+     "units": 13,
+     "source_url": "https://web.archive.org/web/20261014141051/https://ilga.gov/Legislation/ILCS/Articles?ActID=1853&ChapterID=50",
+     "sha256": "53acbc48724f6348c3e9e9d08fcddda4c09ba76a7942df06bed9f414ffd67ae9"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-705-210",
+   "short": "705 ILCS 210",
+   "title": "Illinois Compiled Statutes, Legal Business Solicitation Act (705 ILCS 210)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1854",
+   "versions": [
+    {
+     "from": "2026-05-18",
+     "units": 5,
+     "source_url": "https://web.archive.org/web/20260518043310/https://ilga.gov/Legislation/ILCS/Articles?ActID=1854&ChapterID=50",
+     "sha256": "0f1699e95fe2e1b9fe7ac999a28f89bcf9275cb8f374253f91bb29c495754277"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-705-220",
+   "short": "705 ILCS 220",
+   "title": "Illinois Compiled Statutes, Corporation Practice of Law Prohibition Act (705 ILCS 220)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1856",
+   "versions": [
+    {
+     "from": "2026-10-14",
+     "units": 6,
+     "source_url": "https://web.archive.org/web/20261014141051/https://ilga.gov/Legislation/ILCS/Articles?ActID=1856&ChapterID=50",
+     "sha256": "dd4cce586cd6fc363e29c830452258ad6c8145a6394e22a56f2ab3a1a34b33ea"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-705-225",
+   "short": "705 ILCS 225",
+   "title": "Illinois Compiled Statutes, Attorneys Fees in Wage Actions Act (705 ILCS 225)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1857",
+   "versions": [
+    {
+     "from": "2026-04-30",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20260430175550/https://ilga.gov/Legislation/ILCS/Articles?ActID=1857&ChapterID=50",
+     "sha256": "580ccd0c238759b09d4a28bbbe7203557f2d0d2ac964afef4686e3ca6eceadc2"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-705-305",
+   "short": "705 ILCS 305",
+   "title": "Illinois Compiled Statutes, Jury Act (705 ILCS 305)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1860",
+   "versions": [
+    {
+     "from": "2026-06-04",
+     "units": 32,
+     "source_url": "https://web.archive.org/web/20260604204440/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1860&ChapterID=50&Chapter=COURTS&MajorTopic=RIGHTS%20AND%20REMEDIES",
+     "sha256": "4d8da9adb001d2cf40ad11bca1aa78c434903d0ffba3640c30466d6a2c191b32"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-705-310",
+   "short": "705 ILCS 310",
+   "title": "Illinois Compiled Statutes, Jury Commission Act (705 ILCS 310)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1861",
+   "versions": [
+    {
+     "from": "2026-06-09",
+     "units": 18,
+     "source_url": "https://web.archive.org/web/20260609233936/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1861&ChapterID=50",
+     "sha256": "4cb9119bf3437c1f4fbd074ac73330973dfb49271e3c2a5eda2a6f2c4f025426"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-705-405-article-0001",
+   "short": "705 ILCS 405 art. 1",
+   "title": "Illinois Compiled Statutes, Juvenile Court Act of 1987 (705 ILCS 405), Article 1",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1863",
+   "versions": [
+    {
+     "from": "2026-10-09",
+     "units": 24,
+     "source_url": "https://web.archive.org/web/20261009154758/https://www.ilga.gov/legislation/ILCS/details?MajorTopic=RIGHTS%20AND%20REMEDIES&Chapter=COURTS&ActName=Juvenile%20Court%20Act%20of%201987.&ActID=1863&ChapterID=50&SeqStart=&&ChapAct=FullText",
+     "sha256": "faed820ec6eaa70f5e426ac3458dd7ed9494abbbd74986d49cfb6a1ddad96cb5"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-705-405-article-0002",
+   "short": "705 ILCS 405 art. 2",
+   "title": "Illinois Compiled Statutes, Juvenile Court Act of 1987 (705 ILCS 405), Article 2",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1863",
+   "versions": [
+    {
+     "from": "2026-10-09",
+     "units": 50,
+     "source_url": "https://web.archive.org/web/20261009154758/https://www.ilga.gov/legislation/ILCS/details?MajorTopic=RIGHTS%20AND%20REMEDIES&Chapter=COURTS&ActName=Juvenile%20Court%20Act%20of%201987.&ActID=1863&ChapterID=50&SeqStart=&&ChapAct=FullText",
+     "sha256": "faed820ec6eaa70f5e426ac3458dd7ed9494abbbd74986d49cfb6a1ddad96cb5"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-705-405-article-0003",
+   "short": "705 ILCS 405 art. 3",
+   "title": "Illinois Compiled Statutes, Juvenile Court Act of 1987 (705 ILCS 405), Article 3",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1863",
+   "versions": [
+    {
+     "from": "2026-10-09",
+     "units": 35,
+     "source_url": "https://web.archive.org/web/20261009154758/https://www.ilga.gov/legislation/ILCS/details?MajorTopic=RIGHTS%20AND%20REMEDIES&Chapter=COURTS&ActName=Juvenile%20Court%20Act%20of%201987.&ActID=1863&ChapterID=50&SeqStart=&&ChapAct=FullText",
+     "sha256": "faed820ec6eaa70f5e426ac3458dd7ed9494abbbd74986d49cfb6a1ddad96cb5"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-705-405-article-0004",
+   "short": "705 ILCS 405 art. 4",
+   "title": "Illinois Compiled Statutes, Juvenile Court Act of 1987 (705 ILCS 405), Article 4",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1863",
+   "versions": [
+    {
+     "from": "2026-10-09",
+     "units": 29,
+     "source_url": "https://web.archive.org/web/20261009154758/https://www.ilga.gov/legislation/ILCS/details?MajorTopic=RIGHTS%20AND%20REMEDIES&Chapter=COURTS&ActName=Juvenile%20Court%20Act%20of%201987.&ActID=1863&ChapterID=50&SeqStart=&&ChapAct=FullText",
+     "sha256": "faed820ec6eaa70f5e426ac3458dd7ed9494abbbd74986d49cfb6a1ddad96cb5"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-705-405-article-0005",
+   "short": "705 ILCS 405 art. 5",
+   "title": "Illinois Compiled Statutes, Juvenile Court Act of 1987 (705 ILCS 405), Article 5",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1863",
+   "versions": [
+    {
+     "from": "2026-10-09",
+     "units": 114,
+     "source_url": "https://web.archive.org/web/20261009154758/https://www.ilga.gov/legislation/ILCS/details?MajorTopic=RIGHTS%20AND%20REMEDIES&Chapter=COURTS&ActName=Juvenile%20Court%20Act%20of%201987.&ActID=1863&ChapterID=50&SeqStart=&&ChapAct=FullText",
+     "sha256": "faed820ec6eaa70f5e426ac3458dd7ed9494abbbd74986d49cfb6a1ddad96cb5"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-705-405-article-0007a",
+   "short": "705 ILCS 405 art. 7A",
+   "title": "Illinois Compiled Statutes, Juvenile Court Act of 1987 (705 ILCS 405), Article 7A",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1863",
+   "versions": [
+    {
+     "from": "2026-10-09",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20261009154758/https://www.ilga.gov/legislation/ILCS/details?MajorTopic=RIGHTS%20AND%20REMEDIES&Chapter=COURTS&ActName=Juvenile%20Court%20Act%20of%201987.&ActID=1863&ChapterID=50&SeqStart=&&ChapAct=FullText",
+     "sha256": "faed820ec6eaa70f5e426ac3458dd7ed9494abbbd74986d49cfb6a1ddad96cb5"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-705-405-article-0006",
+   "short": "705 ILCS 405 art. 6",
+   "title": "Illinois Compiled Statutes, Juvenile Court Act of 1987 (705 ILCS 405), Article 6",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1863",
+   "versions": [
+    {
+     "from": "2026-10-09",
+     "units": 12,
+     "source_url": "https://web.archive.org/web/20261009154758/https://www.ilga.gov/legislation/ILCS/details?MajorTopic=RIGHTS%20AND%20REMEDIES&Chapter=COURTS&ActName=Juvenile%20Court%20Act%20of%201987.&ActID=1863&ChapterID=50&SeqStart=&&ChapAct=FullText",
+     "sha256": "faed820ec6eaa70f5e426ac3458dd7ed9494abbbd74986d49cfb6a1ddad96cb5"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-705-405-article-0007",
+   "short": "705 ILCS 405 art. 7",
+   "title": "Illinois Compiled Statutes, Juvenile Court Act of 1987 (705 ILCS 405), Article 7",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1863",
+   "versions": [
+    {
+     "from": "2026-10-09",
+     "units": 1,
+     "source_url": "https://web.archive.org/web/20261009154758/https://www.ilga.gov/legislation/ILCS/details?MajorTopic=RIGHTS%20AND%20REMEDIES&Chapter=COURTS&ActName=Juvenile%20Court%20Act%20of%201987.&ActID=1863&ChapterID=50&SeqStart=&&ChapAct=FullText",
+     "sha256": "faed820ec6eaa70f5e426ac3458dd7ed9494abbbd74986d49cfb6a1ddad96cb5"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-705-410",
+   "short": "705 ILCS 410",
+   "title": "Illinois Compiled Statutes, Juvenile Drug Court Treatment Act (705 ILCS 410)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1864",
+   "versions": [
+    {
+     "from": "2026-04-19",
+     "units": 10,
+     "source_url": "https://web.archive.org/web/20260419120307/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1864&ChapterID=50",
+     "sha256": "4c0fb19479f33681fc4446437f1a136f9cfb29ca35f182f62f61ebd41f054289"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-705-505",
+   "short": "705 ILCS 505",
+   "title": "Illinois Compiled Statutes, Court of Claims Act (705 ILCS 505)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1865",
+   "versions": [
+    {
+     "from": "2026-05-16",
+     "units": 36,
+     "source_url": "https://web.archive.org/web/20260516084926/https://www.ilga.gov/legislation/ilcs/Articles?ActID=1865&ChapAct=705%C2%A0ILCS%C2%A0505/&ChapterID=50&ChapterName=COURTS&ActName=Court%20of%20Claims%20Act.",
+     "sha256": "2521ecd22305ec6d230946a8e508efef0f484f0297d0c60e65366078ed83bbc1"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-710-5",
+   "short": "710 ILCS 5",
+   "title": "Illinois Compiled Statutes, Uniform Arbitration Act (710 ILCS 5)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1867",
+   "versions": [
+    {
+     "from": "2026-06-12",
+     "units": 23,
+     "source_url": "https://web.archive.org/web/20260612111400/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1867&ChapterID=51",
+     "sha256": "e564b94ee6e3daf1df0e4a613ba19ca997ac59b2457901e80151093f79323242"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-710-15",
+   "short": "710 ILCS 15",
+   "title": "Illinois Compiled Statutes, Health Care Arbitration Act (710 ILCS 15)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1869",
+   "versions": [
+    {
+     "from": "2026-05-31",
+     "units": 14,
+     "source_url": "https://web.archive.org/web/20260531070929/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1869&ChapterID=51",
+     "sha256": "d60098ef6962809014c1637daab7778bcd18b7d96f83dbfa67415c1ebe6bd58d"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-710-20",
+   "short": "710 ILCS 20",
+   "title": "Illinois Compiled Statutes, Illinois Not-For-Profit Dispute Resolution Center Act (710 ILCS 20)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1870",
+   "versions": [
+    {
+     "from": "2026-08-06",
+     "units": 7,
+     "source_url": "https://web.archive.org/web/20260806153237/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1870&ChapterID=51",
+     "sha256": "207f5b3b34c139120bb1fd0535c9da47b485c994b2c6e59385cd241c328b5c1c"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-710-25",
+   "short": "710 ILCS 25",
+   "title": "Illinois Compiled Statutes, Seed Arbitration Act (710 ILCS 25)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1871",
+   "versions": [
+    {
+     "from": "2026-04-22",
+     "units": 17,
+     "source_url": "https://web.archive.org/web/20260422175105/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1871&ChapterID=51",
+     "sha256": "0d82f93876819dbde3fbc5fbd11e42d300d2a409b6b44295000f87444f0d7e4d"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-710-35",
+   "short": "710 ILCS 35",
+   "title": "Illinois Compiled Statutes, Uniform Mediation Act (710 ILCS 35)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2489",
+   "versions": [
+    {
+     "from": "2026-04-13",
+     "units": 16,
+     "source_url": "https://web.archive.org/web/20260413200455/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2489&ChapterID=51&Chapter=ALTERNATIVE%20DISPUTE%20RESOLUTION&MajorTopic=RIGHTS%20AND%20REMEDIES",
+     "sha256": "4a20c3abbad585637da8f6ae7b3c55d824d6aa943631f0f34da41322cad1c352"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-710-40",
+   "short": "710 ILCS 40",
+   "title": "Illinois Compiled Statutes, Reviewing Court Alternative Dispute Resolution Act (710 ILCS 40)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2587",
+   "versions": [
+    {
+     "from": "2026-04-17",
+     "units": 9,
+     "source_url": "https://web.archive.org/web/20260417102008/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2587&ChapterID=51&Chapter=ALTERNATIVE%20DISPUTE%20RESOLUTION&MajorTopic=RIGHTS%20AND%20REMEDIES",
+     "sha256": "d92fba976f1bd3949a9a78aac111eb6c807ceddce9ed8da1706cfab3c413b4a2"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-715-5",
+   "short": "715 ILCS 5",
+   "title": "Illinois Compiled Statutes, Notice By Publication Act (715 ILCS 5)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1873",
+   "versions": [
+    {
+     "from": "2026-08-26",
+     "units": 15,
+     "source_url": "https://web.archive.org/web/20260826054844/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1873&ChapterID=52",
+     "sha256": "2d09a206f8e7525a81182d945cc8fdf2f348ce0bd942fbbbee526749e2d39b1c"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-715-10",
+   "short": "715 ILCS 10",
+   "title": "Illinois Compiled Statutes, Newspaper Legal Notice Act (715 ILCS 10)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1874",
+   "versions": [
+    {
+     "from": "2026-05-08",
+     "units": 4,
+     "source_url": "https://web.archive.org/web/20260508112743/https://ilga.gov/Legislation/ILCS/Articles?ActID=1874&ChapterID=52",
+     "sha256": "96917813cc521ed4c164bff1dc644b8bbb86451ca34c651266f5970cc19b7d7e"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-715-15",
+   "short": "715 ILCS 15",
+   "title": "Illinois Compiled Statutes, Legal Advertising Rate Act (715 ILCS 15)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1875",
+   "versions": [
+    {
+     "from": "2026-05-16",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20260516193121/https://ilga.gov/Legislation/ILCS/Articles?ActID=1875&ChapterID=52",
+     "sha256": "2137844099a14b7ed5e7489d26db5f6bdf1253c733861afd055819aabcf24303"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-720-5-article-0002",
+   "short": "720 ILCS 5 art. 2",
+   "title": "Illinois Compiled Statutes, Criminal Code of 2012 (720 ILCS 5), Article 2",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1876",
+   "versions": [
+    {
+     "from": "2026-03-12",
+     "units": 41,
+     "source_url": "https://web.archive.org/web/20260312172218/https://ilga.gov/legislation/ILCS/details?MajorTopic=RIGHTS%20AND%20REMEDIES&Chapter=CRIMINAL%20OFFENSES&ActName=Criminal%20Code%20of%202012.&ActID=1876&ChapterID=53&SeqStart=&&ChapAct=FullText",
+     "sha256": "6ea65b6d12a184c9083854d4e908836339c6afd8ff859b602fab1faa70168de9"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-720-5-article-0007",
+   "short": "720 ILCS 5 art. 7",
+   "title": "Illinois Compiled Statutes, Criminal Code of 2012 (720 ILCS 5), Article 7",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1876",
+   "versions": [
+    {
+     "from": "2026-03-12",
+     "units": 17,
+     "source_url": "https://web.archive.org/web/20260312172218/https://ilga.gov/legislation/ILCS/details?MajorTopic=RIGHTS%20AND%20REMEDIES&Chapter=CRIMINAL%20OFFENSES&ActName=Criminal%20Code%20of%202012.&ActID=1876&ChapterID=53&SeqStart=&&ChapAct=FullText",
+     "sha256": "6ea65b6d12a184c9083854d4e908836339c6afd8ff859b602fab1faa70168de9"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-720-5-article-0008",
+   "short": "720 ILCS 5 art. 8",
+   "title": "Illinois Compiled Statutes, Criminal Code of 2012 (720 ILCS 5), Article 8",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1876",
+   "versions": [
+    {
+     "from": "2026-03-12",
+     "units": 9,
+     "source_url": "https://web.archive.org/web/20260312172218/https://ilga.gov/legislation/ILCS/details?MajorTopic=RIGHTS%20AND%20REMEDIES&Chapter=CRIMINAL%20OFFENSES&ActName=Criminal%20Code%20of%202012.&ActID=1876&ChapterID=53&SeqStart=&&ChapAct=FullText",
+     "sha256": "6ea65b6d12a184c9083854d4e908836339c6afd8ff859b602fab1faa70168de9"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-720-5-article-0046",
+   "short": "720 ILCS 5 art. 46",
+   "title": "Illinois Compiled Statutes, Criminal Code of 2012 (720 ILCS 5), Article 46",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1876",
+   "versions": [
+    {
+     "from": "2026-03-12",
+     "units": 8,
+     "source_url": "https://web.archive.org/web/20260312172218/https://ilga.gov/legislation/ILCS/details?MajorTopic=RIGHTS%20AND%20REMEDIES&Chapter=CRIMINAL%20OFFENSES&ActName=Criminal%20Code%20of%202012.&ActID=1876&ChapterID=53&SeqStart=&&ChapAct=FullText",
+     "sha256": "6ea65b6d12a184c9083854d4e908836339c6afd8ff859b602fab1faa70168de9"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-720-5-article-0028",
+   "short": "720 ILCS 5 art. 28",
+   "title": "Illinois Compiled Statutes, Criminal Code of 2012 (720 ILCS 5), Article 28",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1876",
+   "versions": [
+    {
+     "from": "2026-03-12",
+     "units": 11,
+     "source_url": "https://web.archive.org/web/20260312172218/https://ilga.gov/legislation/ILCS/details?MajorTopic=RIGHTS%20AND%20REMEDIES&Chapter=CRIMINAL%20OFFENSES&ActName=Criminal%20Code%20of%202012.&ActID=1876&ChapterID=53&SeqStart=&&ChapAct=FullText",
+     "sha256": "6ea65b6d12a184c9083854d4e908836339c6afd8ff859b602fab1faa70168de9"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-720-5-article-0011",
+   "short": "720 ILCS 5 art. 11",
+   "title": "Illinois Compiled Statutes, Criminal Code of 2012 (720 ILCS 5), Article 11",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1876",
+   "versions": [
+    {
+     "from": "2026-03-12",
+     "units": 63,
+     "source_url": "https://web.archive.org/web/20260312172218/https://ilga.gov/legislation/ILCS/details?MajorTopic=RIGHTS%20AND%20REMEDIES&Chapter=CRIMINAL%20OFFENSES&ActName=Criminal%20Code%20of%202012.&ActID=1876&ChapterID=53&SeqStart=&&ChapAct=FullText",
+     "sha256": "6ea65b6d12a184c9083854d4e908836339c6afd8ff859b602fab1faa70168de9"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-720-5-article-0012",
+   "short": "720 ILCS 5 art. 12",
+   "title": "Illinois Compiled Statutes, Criminal Code of 2012 (720 ILCS 5), Article 12",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1876",
+   "versions": [
+    {
+     "from": "2026-03-12",
+     "units": 90,
+     "source_url": "https://web.archive.org/web/20260312172218/https://ilga.gov/legislation/ILCS/details?MajorTopic=RIGHTS%20AND%20REMEDIES&Chapter=CRIMINAL%20OFFENSES&ActName=Criminal%20Code%20of%202012.&ActID=1876&ChapterID=53&SeqStart=&&ChapAct=FullText",
+     "sha256": "6ea65b6d12a184c9083854d4e908836339c6afd8ff859b602fab1faa70168de9"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-720-5-article-0012a",
+   "short": "720 ILCS 5 art. 12A",
+   "title": "Illinois Compiled Statutes, Criminal Code of 2012 (720 ILCS 5), Article 12A",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1876",
+   "versions": [
+    {
+     "from": "2026-03-12",
+     "units": 6,
+     "source_url": "https://web.archive.org/web/20260312172218/https://ilga.gov/legislation/ILCS/details?MajorTopic=RIGHTS%20AND%20REMEDIES&Chapter=CRIMINAL%20OFFENSES&ActName=Criminal%20Code%20of%202012.&ActID=1876&ChapterID=53&SeqStart=&&ChapAct=FullText",
+     "sha256": "6ea65b6d12a184c9083854d4e908836339c6afd8ff859b602fab1faa70168de9"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-720-5-article-0012b",
+   "short": "720 ILCS 5 art. 12B",
+   "title": "Illinois Compiled Statutes, Criminal Code of 2012 (720 ILCS 5), Article 12B",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1876",
+   "versions": [
+    {
+     "from": "2026-03-12",
+     "units": 8,
+     "source_url": "https://web.archive.org/web/20260312172218/https://ilga.gov/legislation/ILCS/details?MajorTopic=RIGHTS%20AND%20REMEDIES&Chapter=CRIMINAL%20OFFENSES&ActName=Criminal%20Code%20of%202012.&ActID=1876&ChapterID=53&SeqStart=&&ChapAct=FullText",
+     "sha256": "6ea65b6d12a184c9083854d4e908836339c6afd8ff859b602fab1faa70168de9"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-720-5-article-0012c",
+   "short": "720 ILCS 5 art. 12C",
+   "title": "Illinois Compiled Statutes, Criminal Code of 2012 (720 ILCS 5), Article 12C",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1876",
+   "versions": [
+    {
+     "from": "2026-03-12",
+     "units": 14,
+     "source_url": "https://web.archive.org/web/20260312172218/https://ilga.gov/legislation/ILCS/details?MajorTopic=RIGHTS%20AND%20REMEDIES&Chapter=CRIMINAL%20OFFENSES&ActName=Criminal%20Code%20of%202012.&ActID=1876&ChapterID=53&SeqStart=&&ChapAct=FullText",
+     "sha256": "6ea65b6d12a184c9083854d4e908836339c6afd8ff859b602fab1faa70168de9"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-720-5-article-0014",
+   "short": "720 ILCS 5 art. 14",
+   "title": "Illinois Compiled Statutes, Criminal Code of 2012 (720 ILCS 5), Article 14",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1876",
+   "versions": [
+    {
+     "from": "2026-03-12",
+     "units": 11,
+     "source_url": "https://web.archive.org/web/20260312172218/https://ilga.gov/legislation/ILCS/details?MajorTopic=RIGHTS%20AND%20REMEDIES&Chapter=CRIMINAL%20OFFENSES&ActName=Criminal%20Code%20of%202012.&ActID=1876&ChapterID=53&SeqStart=&&ChapAct=FullText",
+     "sha256": "6ea65b6d12a184c9083854d4e908836339c6afd8ff859b602fab1faa70168de9"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-720-5-article-0015",
+   "short": "720 ILCS 5 art. 15",
+   "title": "Illinois Compiled Statutes, Criminal Code of 2012 (720 ILCS 5), Article 15",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1876",
+   "versions": [
+    {
+     "from": "2026-03-12",
+     "units": 10,
+     "source_url": "https://web.archive.org/web/20260312172218/https://ilga.gov/legislation/ILCS/details?MajorTopic=RIGHTS%20AND%20REMEDIES&Chapter=CRIMINAL%20OFFENSES&ActName=Criminal%20Code%20of%202012.&ActID=1876&ChapterID=53&SeqStart=&&ChapAct=FullText",
+     "sha256": "6ea65b6d12a184c9083854d4e908836339c6afd8ff859b602fab1faa70168de9"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-720-5-article-0016",
+   "short": "720 ILCS 5 art. 16",
+   "title": "Illinois Compiled Statutes, Criminal Code of 2012 (720 ILCS 5), Article 16",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1876",
+   "versions": [
+    {
+     "from": "2026-03-12",
+     "units": 42,
+     "source_url": "https://web.archive.org/web/20260312172218/https://ilga.gov/legislation/ILCS/details?MajorTopic=RIGHTS%20AND%20REMEDIES&Chapter=CRIMINAL%20OFFENSES&ActName=Criminal%20Code%20of%202012.&ActID=1876&ChapterID=53&SeqStart=&&ChapAct=FullText",
+     "sha256": "6ea65b6d12a184c9083854d4e908836339c6afd8ff859b602fab1faa70168de9"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-720-5-article-0017",
+   "short": "720 ILCS 5 art. 17",
+   "title": "Illinois Compiled Statutes, Criminal Code of 2012 (720 ILCS 5), Article 17",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1876",
+   "versions": [
+    {
+     "from": "2026-03-12",
+     "units": 82,
+     "source_url": "https://web.archive.org/web/20260312172218/https://ilga.gov/legislation/ILCS/details?MajorTopic=RIGHTS%20AND%20REMEDIES&Chapter=CRIMINAL%20OFFENSES&ActName=Criminal%20Code%20of%202012.&ActID=1876&ChapterID=53&SeqStart=&&ChapAct=FullText",
+     "sha256": "6ea65b6d12a184c9083854d4e908836339c6afd8ff859b602fab1faa70168de9"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-720-5-article-0018",
+   "short": "720 ILCS 5 art. 18",
+   "title": "Illinois Compiled Statutes, Criminal Code of 2012 (720 ILCS 5), Article 18",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1876",
+   "versions": [
+    {
+     "from": "2026-03-12",
+     "units": 6,
+     "source_url": "https://web.archive.org/web/20260312172218/https://ilga.gov/legislation/ILCS/details?MajorTopic=RIGHTS%20AND%20REMEDIES&Chapter=CRIMINAL%20OFFENSES&ActName=Criminal%20Code%20of%202012.&ActID=1876&ChapterID=53&SeqStart=&&ChapAct=FullText",
+     "sha256": "6ea65b6d12a184c9083854d4e908836339c6afd8ff859b602fab1faa70168de9"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-720-5-article-0019",
+   "short": "720 ILCS 5 art. 19",
+   "title": "Illinois Compiled Statutes, Criminal Code of 2012 (720 ILCS 5), Article 19",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1876",
+   "versions": [
+    {
+     "from": "2026-03-12",
+     "units": 7,
+     "source_url": "https://web.archive.org/web/20260312172218/https://ilga.gov/legislation/ILCS/details?MajorTopic=RIGHTS%20AND%20REMEDIES&Chapter=CRIMINAL%20OFFENSES&ActName=Criminal%20Code%20of%202012.&ActID=1876&ChapterID=53&SeqStart=&&ChapAct=FullText",
+     "sha256": "6ea65b6d12a184c9083854d4e908836339c6afd8ff859b602fab1faa70168de9"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-720-5-article-0020",
+   "short": "720 ILCS 5 art. 20",
+   "title": "Illinois Compiled Statutes, Criminal Code of 2012 (720 ILCS 5), Article 20",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1876",
+   "versions": [
+    {
+     "from": "2026-03-12",
+     "units": 7,
+     "source_url": "https://web.archive.org/web/20260312172218/https://ilga.gov/legislation/ILCS/details?MajorTopic=RIGHTS%20AND%20REMEDIES&Chapter=CRIMINAL%20OFFENSES&ActName=Criminal%20Code%20of%202012.&ActID=1876&ChapterID=53&SeqStart=&&ChapAct=FullText",
+     "sha256": "6ea65b6d12a184c9083854d4e908836339c6afd8ff859b602fab1faa70168de9"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-720-5-article-0020-0005",
+   "short": "720 ILCS 5 art. 20.5",
+   "title": "Illinois Compiled Statutes, Criminal Code of 2012 (720 ILCS 5), Article 20.5",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1876",
+   "versions": [
+    {
+     "from": "2026-03-12",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20260312172218/https://ilga.gov/legislation/ILCS/details?MajorTopic=RIGHTS%20AND%20REMEDIES&Chapter=CRIMINAL%20OFFENSES&ActName=Criminal%20Code%20of%202012.&ActID=1876&ChapterID=53&SeqStart=&&ChapAct=FullText",
+     "sha256": "6ea65b6d12a184c9083854d4e908836339c6afd8ff859b602fab1faa70168de9"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-720-5-article-0021",
+   "short": "720 ILCS 5 art. 21",
+   "title": "Illinois Compiled Statutes, Criminal Code of 2012 (720 ILCS 5), Article 21",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1876",
+   "versions": [
+    {
+     "from": "2026-03-12",
+     "units": 19,
+     "source_url": "https://web.archive.org/web/20260312172218/https://ilga.gov/legislation/ILCS/details?MajorTopic=RIGHTS%20AND%20REMEDIES&Chapter=CRIMINAL%20OFFENSES&ActName=Criminal%20Code%20of%202012.&ActID=1876&ChapterID=53&SeqStart=&&ChapAct=FullText",
+     "sha256": "6ea65b6d12a184c9083854d4e908836339c6afd8ff859b602fab1faa70168de9"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-720-5-article-0021-0001",
+   "short": "720 ILCS 5 art. 21.1",
+   "title": "Illinois Compiled Statutes, Criminal Code of 2012 (720 ILCS 5), Article 21.1",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1876",
+   "versions": [
+    {
+     "from": "2026-03-12",
+     "units": 3,
+     "source_url": "https://web.archive.org/web/20260312172218/https://ilga.gov/legislation/ILCS/details?MajorTopic=RIGHTS%20AND%20REMEDIES&Chapter=CRIMINAL%20OFFENSES&ActName=Criminal%20Code%20of%202012.&ActID=1876&ChapterID=53&SeqStart=&&ChapAct=FullText",
+     "sha256": "6ea65b6d12a184c9083854d4e908836339c6afd8ff859b602fab1faa70168de9"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-720-5-article-0021-0002",
+   "short": "720 ILCS 5 art. 21.2",
+   "title": "Illinois Compiled Statutes, Criminal Code of 2012 (720 ILCS 5), Article 21.2",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1876",
+   "versions": [
+    {
+     "from": "2026-03-12",
+     "units": 6,
+     "source_url": "https://web.archive.org/web/20260312172218/https://ilga.gov/legislation/ILCS/details?MajorTopic=RIGHTS%20AND%20REMEDIES&Chapter=CRIMINAL%20OFFENSES&ActName=Criminal%20Code%20of%202012.&ActID=1876&ChapterID=53&SeqStart=&&ChapAct=FullText",
+     "sha256": "6ea65b6d12a184c9083854d4e908836339c6afd8ff859b602fab1faa70168de9"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-720-5-article-0024",
+   "short": "720 ILCS 5 art. 24",
+   "title": "Illinois Compiled Statutes, Criminal Code of 2012 (720 ILCS 5), Article 24",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1876",
+   "versions": [
+    {
+     "from": "2026-03-12",
+     "units": 35,
+     "source_url": "https://web.archive.org/web/20260312172218/https://ilga.gov/legislation/ILCS/details?MajorTopic=RIGHTS%20AND%20REMEDIES&Chapter=CRIMINAL%20OFFENSES&ActName=Criminal%20Code%20of%202012.&ActID=1876&ChapterID=53&SeqStart=&&ChapAct=FullText",
+     "sha256": "6ea65b6d12a184c9083854d4e908836339c6afd8ff859b602fab1faa70168de9"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-720-5-article-0024-0005",
+   "short": "720 ILCS 5 art. 24.5",
+   "title": "Illinois Compiled Statutes, Criminal Code of 2012 (720 ILCS 5), Article 24.5",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1876",
+   "versions": [
+    {
+     "from": "2026-03-12",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20260312172218/https://ilga.gov/legislation/ILCS/details?MajorTopic=RIGHTS%20AND%20REMEDIES&Chapter=CRIMINAL%20OFFENSES&ActName=Criminal%20Code%20of%202012.&ActID=1876&ChapterID=53&SeqStart=&&ChapAct=FullText",
+     "sha256": "6ea65b6d12a184c9083854d4e908836339c6afd8ff859b602fab1faa70168de9"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-720-5-article-0024-0008",
+   "short": "720 ILCS 5 art. 24.8",
+   "title": "Illinois Compiled Statutes, Criminal Code of 2012 (720 ILCS 5), Article 24.8",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1876",
+   "versions": [
+    {
+     "from": "2026-03-12",
+     "units": 7,
+     "source_url": "https://web.archive.org/web/20260312172218/https://ilga.gov/legislation/ILCS/details?MajorTopic=RIGHTS%20AND%20REMEDIES&Chapter=CRIMINAL%20OFFENSES&ActName=Criminal%20Code%20of%202012.&ActID=1876&ChapterID=53&SeqStart=&&ChapAct=FullText",
+     "sha256": "6ea65b6d12a184c9083854d4e908836339c6afd8ff859b602fab1faa70168de9"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-720-5-article-0025",
+   "short": "720 ILCS 5 art. 25",
+   "title": "Illinois Compiled Statutes, Criminal Code of 2012 (720 ILCS 5), Article 25",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1876",
+   "versions": [
+    {
+     "from": "2026-03-12",
+     "units": 6,
+     "source_url": "https://web.archive.org/web/20260312172218/https://ilga.gov/legislation/ILCS/details?MajorTopic=RIGHTS%20AND%20REMEDIES&Chapter=CRIMINAL%20OFFENSES&ActName=Criminal%20Code%20of%202012.&ActID=1876&ChapterID=53&SeqStart=&&ChapAct=FullText",
+     "sha256": "6ea65b6d12a184c9083854d4e908836339c6afd8ff859b602fab1faa70168de9"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-720-5-article-0026",
+   "short": "720 ILCS 5 art. 26",
+   "title": "Illinois Compiled Statutes, Criminal Code of 2012 (720 ILCS 5), Article 26",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1876",
+   "versions": [
+    {
+     "from": "2026-03-12",
+     "units": 9,
+     "source_url": "https://web.archive.org/web/20260312172218/https://ilga.gov/legislation/ILCS/details?MajorTopic=RIGHTS%20AND%20REMEDIES&Chapter=CRIMINAL%20OFFENSES&ActName=Criminal%20Code%20of%202012.&ActID=1876&ChapterID=53&SeqStart=&&ChapAct=FullText",
+     "sha256": "6ea65b6d12a184c9083854d4e908836339c6afd8ff859b602fab1faa70168de9"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-720-5-article-0026-0005",
+   "short": "720 ILCS 5 art. 26.5",
+   "title": "Illinois Compiled Statutes, Criminal Code of 2012 (720 ILCS 5), Article 26.5",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1876",
+   "versions": [
+    {
+     "from": "2026-03-12",
+     "units": 6,
+     "source_url": "https://web.archive.org/web/20260312172218/https://ilga.gov/legislation/ILCS/details?MajorTopic=RIGHTS%20AND%20REMEDIES&Chapter=CRIMINAL%20OFFENSES&ActName=Criminal%20Code%20of%202012.&ActID=1876&ChapterID=53&SeqStart=&&ChapAct=FullText",
+     "sha256": "6ea65b6d12a184c9083854d4e908836339c6afd8ff859b602fab1faa70168de9"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-720-5-article-0029",
+   "short": "720 ILCS 5 art. 29",
+   "title": "Illinois Compiled Statutes, Criminal Code of 2012 (720 ILCS 5), Article 29",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1876",
+   "versions": [
+    {
+     "from": "2026-03-12",
+     "units": 3,
+     "source_url": "https://web.archive.org/web/20260312172218/https://ilga.gov/legislation/ILCS/details?MajorTopic=RIGHTS%20AND%20REMEDIES&Chapter=CRIMINAL%20OFFENSES&ActName=Criminal%20Code%20of%202012.&ActID=1876&ChapterID=53&SeqStart=&&ChapAct=FullText",
+     "sha256": "6ea65b6d12a184c9083854d4e908836339c6afd8ff859b602fab1faa70168de9"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-720-5-article-0029a",
+   "short": "720 ILCS 5 art. 29A",
+   "title": "Illinois Compiled Statutes, Criminal Code of 2012 (720 ILCS 5), Article 29A",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1876",
+   "versions": [
+    {
+     "from": "2026-03-12",
+     "units": 4,
+     "source_url": "https://web.archive.org/web/20260312172218/https://ilga.gov/legislation/ILCS/details?MajorTopic=RIGHTS%20AND%20REMEDIES&Chapter=CRIMINAL%20OFFENSES&ActName=Criminal%20Code%20of%202012.&ActID=1876&ChapterID=53&SeqStart=&&ChapAct=FullText",
+     "sha256": "6ea65b6d12a184c9083854d4e908836339c6afd8ff859b602fab1faa70168de9"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-720-5-article-0029b",
+   "short": "720 ILCS 5 art. 29B",
+   "title": "Illinois Compiled Statutes, Criminal Code of 2012 (720 ILCS 5), Article 29B",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1876",
+   "versions": [
+    {
+     "from": "2026-03-12",
+     "units": 28,
+     "source_url": "https://web.archive.org/web/20260312172218/https://ilga.gov/legislation/ILCS/details?MajorTopic=RIGHTS%20AND%20REMEDIES&Chapter=CRIMINAL%20OFFENSES&ActName=Criminal%20Code%20of%202012.&ActID=1876&ChapterID=53&SeqStart=&&ChapAct=FullText",
+     "sha256": "6ea65b6d12a184c9083854d4e908836339c6afd8ff859b602fab1faa70168de9"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-720-5-article-0029c",
+   "short": "720 ILCS 5 art. 29C",
+   "title": "Illinois Compiled Statutes, Criminal Code of 2012 (720 ILCS 5), Article 29C",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1876",
+   "versions": [
+    {
+     "from": "2026-03-12",
+     "units": 3,
+     "source_url": "https://web.archive.org/web/20260312172218/https://ilga.gov/legislation/ILCS/details?MajorTopic=RIGHTS%20AND%20REMEDIES&Chapter=CRIMINAL%20OFFENSES&ActName=Criminal%20Code%20of%202012.&ActID=1876&ChapterID=53&SeqStart=&&ChapAct=FullText",
+     "sha256": "6ea65b6d12a184c9083854d4e908836339c6afd8ff859b602fab1faa70168de9"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-720-5-article-0029d",
+   "short": "720 ILCS 5 art. 29D",
+   "title": "Illinois Compiled Statutes, Criminal Code of 2012 (720 ILCS 5), Article 29D",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1876",
+   "versions": [
+    {
+     "from": "2026-03-12",
+     "units": 17,
+     "source_url": "https://web.archive.org/web/20260312172218/https://ilga.gov/legislation/ILCS/details?MajorTopic=RIGHTS%20AND%20REMEDIES&Chapter=CRIMINAL%20OFFENSES&ActName=Criminal%20Code%20of%202012.&ActID=1876&ChapterID=53&SeqStart=&&ChapAct=FullText",
+     "sha256": "6ea65b6d12a184c9083854d4e908836339c6afd8ff859b602fab1faa70168de9"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-720-5-article-0030",
+   "short": "720 ILCS 5 art. 30",
+   "title": "Illinois Compiled Statutes, Criminal Code of 2012 (720 ILCS 5), Article 30",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1876",
+   "versions": [
+    {
+     "from": "2026-03-12",
+     "units": 3,
+     "source_url": "https://web.archive.org/web/20260312172218/https://ilga.gov/legislation/ILCS/details?MajorTopic=RIGHTS%20AND%20REMEDIES&Chapter=CRIMINAL%20OFFENSES&ActName=Criminal%20Code%20of%202012.&ActID=1876&ChapterID=53&SeqStart=&&ChapAct=FullText",
+     "sha256": "6ea65b6d12a184c9083854d4e908836339c6afd8ff859b602fab1faa70168de9"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-720-5-article-0031",
+   "short": "720 ILCS 5 art. 31",
+   "title": "Illinois Compiled Statutes, Criminal Code of 2012 (720 ILCS 5), Article 31",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1876",
+   "versions": [
+    {
+     "from": "2026-03-12",
+     "units": 10,
+     "source_url": "https://web.archive.org/web/20260312172218/https://ilga.gov/legislation/ILCS/details?MajorTopic=RIGHTS%20AND%20REMEDIES&Chapter=CRIMINAL%20OFFENSES&ActName=Criminal%20Code%20of%202012.&ActID=1876&ChapterID=53&SeqStart=&&ChapAct=FullText",
+     "sha256": "6ea65b6d12a184c9083854d4e908836339c6afd8ff859b602fab1faa70168de9"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-720-5-article-0031a",
+   "short": "720 ILCS 5 art. 31A",
+   "title": "Illinois Compiled Statutes, Criminal Code of 2012 (720 ILCS 5), Article 31A",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1876",
+   "versions": [
+    {
+     "from": "2026-03-12",
+     "units": 3,
+     "source_url": "https://web.archive.org/web/20260312172218/https://ilga.gov/legislation/ILCS/details?MajorTopic=RIGHTS%20AND%20REMEDIES&Chapter=CRIMINAL%20OFFENSES&ActName=Criminal%20Code%20of%202012.&ActID=1876&ChapterID=53&SeqStart=&&ChapAct=FullText",
+     "sha256": "6ea65b6d12a184c9083854d4e908836339c6afd8ff859b602fab1faa70168de9"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-720-5-article-0032",
+   "short": "720 ILCS 5 art. 32",
+   "title": "Illinois Compiled Statutes, Criminal Code of 2012 (720 ILCS 5), Article 32",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1876",
+   "versions": [
+    {
+     "from": "2026-03-12",
+     "units": 32,
+     "source_url": "https://web.archive.org/web/20260312172218/https://ilga.gov/legislation/ILCS/details?MajorTopic=RIGHTS%20AND%20REMEDIES&Chapter=CRIMINAL%20OFFENSES&ActName=Criminal%20Code%20of%202012.&ActID=1876&ChapterID=53&SeqStart=&&ChapAct=FullText",
+     "sha256": "6ea65b6d12a184c9083854d4e908836339c6afd8ff859b602fab1faa70168de9"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-720-5-article-0033",
+   "short": "720 ILCS 5 art. 33",
+   "title": "Illinois Compiled Statutes, Criminal Code of 2012 (720 ILCS 5), Article 33",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1876",
+   "versions": [
+    {
+     "from": "2026-03-12",
+     "units": 11,
+     "source_url": "https://web.archive.org/web/20260312172218/https://ilga.gov/legislation/ILCS/details?MajorTopic=RIGHTS%20AND%20REMEDIES&Chapter=CRIMINAL%20OFFENSES&ActName=Criminal%20Code%20of%202012.&ActID=1876&ChapterID=53&SeqStart=&&ChapAct=FullText",
+     "sha256": "6ea65b6d12a184c9083854d4e908836339c6afd8ff859b602fab1faa70168de9"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-720-5-article-0033a",
+   "short": "720 ILCS 5 art. 33A",
+   "title": "Illinois Compiled Statutes, Criminal Code of 2012 (720 ILCS 5), Article 33A",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1876",
+   "versions": [
+    {
+     "from": "2026-03-12",
+     "units": 3,
+     "source_url": "https://web.archive.org/web/20260312172218/https://ilga.gov/legislation/ILCS/details?MajorTopic=RIGHTS%20AND%20REMEDIES&Chapter=CRIMINAL%20OFFENSES&ActName=Criminal%20Code%20of%202012.&ActID=1876&ChapterID=53&SeqStart=&&ChapAct=FullText",
+     "sha256": "6ea65b6d12a184c9083854d4e908836339c6afd8ff859b602fab1faa70168de9"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-720-5-article-0033d",
+   "short": "720 ILCS 5 art. 33D",
+   "title": "Illinois Compiled Statutes, Criminal Code of 2012 (720 ILCS 5), Article 33D",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1876",
+   "versions": [
+    {
+     "from": "2026-03-12",
+     "units": 1,
+     "source_url": "https://web.archive.org/web/20260312172218/https://ilga.gov/legislation/ILCS/details?MajorTopic=RIGHTS%20AND%20REMEDIES&Chapter=CRIMINAL%20OFFENSES&ActName=Criminal%20Code%20of%202012.&ActID=1876&ChapterID=53&SeqStart=&&ChapAct=FullText",
+     "sha256": "6ea65b6d12a184c9083854d4e908836339c6afd8ff859b602fab1faa70168de9"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-720-5-article-0033e",
+   "short": "720 ILCS 5 art. 33E",
+   "title": "Illinois Compiled Statutes, Criminal Code of 2012 (720 ILCS 5), Article 33E",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1876",
+   "versions": [
+    {
+     "from": "2026-03-12",
+     "units": 18,
+     "source_url": "https://web.archive.org/web/20260312172218/https://ilga.gov/legislation/ILCS/details?MajorTopic=RIGHTS%20AND%20REMEDIES&Chapter=CRIMINAL%20OFFENSES&ActName=Criminal%20Code%20of%202012.&ActID=1876&ChapterID=53&SeqStart=&&ChapAct=FullText",
+     "sha256": "6ea65b6d12a184c9083854d4e908836339c6afd8ff859b602fab1faa70168de9"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-720-5-article-0033f",
+   "short": "720 ILCS 5 art. 33F",
+   "title": "Illinois Compiled Statutes, Criminal Code of 2012 (720 ILCS 5), Article 33F",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1876",
+   "versions": [
+    {
+     "from": "2026-03-12",
+     "units": 3,
+     "source_url": "https://web.archive.org/web/20260312172218/https://ilga.gov/legislation/ILCS/details?MajorTopic=RIGHTS%20AND%20REMEDIES&Chapter=CRIMINAL%20OFFENSES&ActName=Criminal%20Code%20of%202012.&ActID=1876&ChapterID=53&SeqStart=&&ChapAct=FullText",
+     "sha256": "6ea65b6d12a184c9083854d4e908836339c6afd8ff859b602fab1faa70168de9"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-720-5-article-0033g",
+   "short": "720 ILCS 5 art. 33G",
+   "title": "Illinois Compiled Statutes, Criminal Code of 2012 (720 ILCS 5), Article 33G",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1876",
+   "versions": [
+    {
+     "from": "2026-03-12",
+     "units": 10,
+     "source_url": "https://web.archive.org/web/20260312172218/https://ilga.gov/legislation/ILCS/details?MajorTopic=RIGHTS%20AND%20REMEDIES&Chapter=CRIMINAL%20OFFENSES&ActName=Criminal%20Code%20of%202012.&ActID=1876&ChapterID=53&SeqStart=&&ChapAct=FullText",
+     "sha256": "6ea65b6d12a184c9083854d4e908836339c6afd8ff859b602fab1faa70168de9"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-720-5-article-0034",
+   "short": "720 ILCS 5 art. 34",
+   "title": "Illinois Compiled Statutes, Criminal Code of 2012 (720 ILCS 5), Article 34",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1876",
+   "versions": [
+    {
+     "from": "2026-03-12",
+     "units": 4,
+     "source_url": "https://web.archive.org/web/20260312172218/https://ilga.gov/legislation/ILCS/details?MajorTopic=RIGHTS%20AND%20REMEDIES&Chapter=CRIMINAL%20OFFENSES&ActName=Criminal%20Code%20of%202012.&ActID=1876&ChapterID=53&SeqStart=&&ChapAct=FullText",
+     "sha256": "6ea65b6d12a184c9083854d4e908836339c6afd8ff859b602fab1faa70168de9"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-720-5-article-0036",
+   "short": "720 ILCS 5 art. 36",
+   "title": "Illinois Compiled Statutes, Criminal Code of 2012 (720 ILCS 5), Article 36",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1876",
+   "versions": [
+    {
+     "from": "2026-03-12",
+     "units": 20,
+     "source_url": "https://web.archive.org/web/20260312172218/https://ilga.gov/legislation/ILCS/details?MajorTopic=RIGHTS%20AND%20REMEDIES&Chapter=CRIMINAL%20OFFENSES&ActName=Criminal%20Code%20of%202012.&ActID=1876&ChapterID=53&SeqStart=&&ChapAct=FullText",
+     "sha256": "6ea65b6d12a184c9083854d4e908836339c6afd8ff859b602fab1faa70168de9"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-720-5-article-0036-0005",
+   "short": "720 ILCS 5 art. 36.5",
+   "title": "Illinois Compiled Statutes, Criminal Code of 2012 (720 ILCS 5), Article 36.5",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1876",
+   "versions": [
+    {
+     "from": "2026-03-12",
+     "units": 1,
+     "source_url": "https://web.archive.org/web/20260312172218/https://ilga.gov/legislation/ILCS/details?MajorTopic=RIGHTS%20AND%20REMEDIES&Chapter=CRIMINAL%20OFFENSES&ActName=Criminal%20Code%20of%202012.&ActID=1876&ChapterID=53&SeqStart=&&ChapAct=FullText",
+     "sha256": "6ea65b6d12a184c9083854d4e908836339c6afd8ff859b602fab1faa70168de9"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-720-5-article-0037",
+   "short": "720 ILCS 5 art. 37",
+   "title": "Illinois Compiled Statutes, Criminal Code of 2012 (720 ILCS 5), Article 37",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1876",
+   "versions": [
+    {
+     "from": "2026-03-12",
+     "units": 5,
+     "source_url": "https://web.archive.org/web/20260312172218/https://ilga.gov/legislation/ILCS/details?MajorTopic=RIGHTS%20AND%20REMEDIES&Chapter=CRIMINAL%20OFFENSES&ActName=Criminal%20Code%20of%202012.&ActID=1876&ChapterID=53&SeqStart=&&ChapAct=FullText",
+     "sha256": "6ea65b6d12a184c9083854d4e908836339c6afd8ff859b602fab1faa70168de9"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-720-5-article-0037-0005",
+   "short": "720 ILCS 5 art. 37.5",
+   "title": "Illinois Compiled Statutes, Criminal Code of 2012 (720 ILCS 5), Article 37.5",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1876",
+   "versions": [
+    {
+     "from": "2026-03-12",
+     "units": 9,
+     "source_url": "https://web.archive.org/web/20260312172218/https://ilga.gov/legislation/ILCS/details?MajorTopic=RIGHTS%20AND%20REMEDIES&Chapter=CRIMINAL%20OFFENSES&ActName=Criminal%20Code%20of%202012.&ActID=1876&ChapterID=53&SeqStart=&&ChapAct=FullText",
+     "sha256": "6ea65b6d12a184c9083854d4e908836339c6afd8ff859b602fab1faa70168de9"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-720-5-article-0038",
+   "short": "720 ILCS 5 art. 38",
+   "title": "Illinois Compiled Statutes, Criminal Code of 2012 (720 ILCS 5), Article 38",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1876",
+   "versions": [
+    {
+     "from": "2026-03-12",
+     "units": 3,
+     "source_url": "https://web.archive.org/web/20260312172218/https://ilga.gov/legislation/ILCS/details?MajorTopic=RIGHTS%20AND%20REMEDIES&Chapter=CRIMINAL%20OFFENSES&ActName=Criminal%20Code%20of%202012.&ActID=1876&ChapterID=53&SeqStart=&&ChapAct=FullText",
+     "sha256": "6ea65b6d12a184c9083854d4e908836339c6afd8ff859b602fab1faa70168de9"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-720-5-article-0039",
+   "short": "720 ILCS 5 art. 39",
+   "title": "Illinois Compiled Statutes, Criminal Code of 2012 (720 ILCS 5), Article 39",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1876",
+   "versions": [
+    {
+     "from": "2026-03-12",
+     "units": 3,
+     "source_url": "https://web.archive.org/web/20260312172218/https://ilga.gov/legislation/ILCS/details?MajorTopic=RIGHTS%20AND%20REMEDIES&Chapter=CRIMINAL%20OFFENSES&ActName=Criminal%20Code%20of%202012.&ActID=1876&ChapterID=53&SeqStart=&&ChapAct=FullText",
+     "sha256": "6ea65b6d12a184c9083854d4e908836339c6afd8ff859b602fab1faa70168de9"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-720-5-article-0042",
+   "short": "720 ILCS 5 art. 42",
+   "title": "Illinois Compiled Statutes, Criminal Code of 2012 (720 ILCS 5), Article 42",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1876",
+   "versions": [
+    {
+     "from": "2026-03-12",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20260312172218/https://ilga.gov/legislation/ILCS/details?MajorTopic=RIGHTS%20AND%20REMEDIES&Chapter=CRIMINAL%20OFFENSES&ActName=Criminal%20Code%20of%202012.&ActID=1876&ChapterID=53&SeqStart=&&ChapAct=FullText",
+     "sha256": "6ea65b6d12a184c9083854d4e908836339c6afd8ff859b602fab1faa70168de9"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-720-5-article-0044",
+   "short": "720 ILCS 5 art. 44",
+   "title": "Illinois Compiled Statutes, Criminal Code of 2012 (720 ILCS 5), Article 44",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1876",
+   "versions": [
+    {
+     "from": "2026-03-12",
+     "units": 3,
+     "source_url": "https://web.archive.org/web/20260312172218/https://ilga.gov/legislation/ILCS/details?MajorTopic=RIGHTS%20AND%20REMEDIES&Chapter=CRIMINAL%20OFFENSES&ActName=Criminal%20Code%20of%202012.&ActID=1876&ChapterID=53&SeqStart=&&ChapAct=FullText",
+     "sha256": "6ea65b6d12a184c9083854d4e908836339c6afd8ff859b602fab1faa70168de9"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-720-5-article-0045",
+   "short": "720 ILCS 5 art. 45",
+   "title": "Illinois Compiled Statutes, Criminal Code of 2012 (720 ILCS 5), Article 45",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1876",
+   "versions": [
+    {
+     "from": "2026-03-12",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20260312172218/https://ilga.gov/legislation/ILCS/details?MajorTopic=RIGHTS%20AND%20REMEDIES&Chapter=CRIMINAL%20OFFENSES&ActName=Criminal%20Code%20of%202012.&ActID=1876&ChapterID=53&SeqStart=&&ChapAct=FullText",
+     "sha256": "6ea65b6d12a184c9083854d4e908836339c6afd8ff859b602fab1faa70168de9"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-720-5-article-0047",
+   "short": "720 ILCS 5 art. 47",
+   "title": "Illinois Compiled Statutes, Criminal Code of 2012 (720 ILCS 5), Article 47",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1876",
+   "versions": [
+    {
+     "from": "2026-03-12",
+     "units": 5,
+     "source_url": "https://web.archive.org/web/20260312172218/https://ilga.gov/legislation/ILCS/details?MajorTopic=RIGHTS%20AND%20REMEDIES&Chapter=CRIMINAL%20OFFENSES&ActName=Criminal%20Code%20of%202012.&ActID=1876&ChapterID=53&SeqStart=&&ChapAct=FullText",
+     "sha256": "6ea65b6d12a184c9083854d4e908836339c6afd8ff859b602fab1faa70168de9"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-720-5-article-0048",
+   "short": "720 ILCS 5 art. 48",
+   "title": "Illinois Compiled Statutes, Criminal Code of 2012 (720 ILCS 5), Article 48",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1876",
+   "versions": [
+    {
+     "from": "2026-03-12",
+     "units": 11,
+     "source_url": "https://web.archive.org/web/20260312172218/https://ilga.gov/legislation/ILCS/details?MajorTopic=RIGHTS%20AND%20REMEDIES&Chapter=CRIMINAL%20OFFENSES&ActName=Criminal%20Code%20of%202012.&ActID=1876&ChapterID=53&SeqStart=&&ChapAct=FullText",
+     "sha256": "6ea65b6d12a184c9083854d4e908836339c6afd8ff859b602fab1faa70168de9"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-720-5-article-0049",
+   "short": "720 ILCS 5 art. 49",
+   "title": "Illinois Compiled Statutes, Criminal Code of 2012 (720 ILCS 5), Article 49",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1876",
+   "versions": [
+    {
+     "from": "2026-03-12",
+     "units": 7,
+     "source_url": "https://web.archive.org/web/20260312172218/https://ilga.gov/legislation/ILCS/details?MajorTopic=RIGHTS%20AND%20REMEDIES&Chapter=CRIMINAL%20OFFENSES&ActName=Criminal%20Code%20of%202012.&ActID=1876&ChapterID=53&SeqStart=&&ChapAct=FullText",
+     "sha256": "6ea65b6d12a184c9083854d4e908836339c6afd8ff859b602fab1faa70168de9"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-720-145",
+   "short": "720 ILCS 145",
+   "title": "Illinois Compiled Statutes, Telecommunication Line Tapping Act (720 ILCS 145)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1885",
+   "versions": [
+    {
+     "from": "2026-04-21",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20260421173508/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1885&ChapterID=53&Chapter=CRIMINAL%20OFFENSES&MajorTopic=RIGHTS%20AND%20REMEDIES",
+     "sha256": "d955042f412c700040302031884b4d79782464bc95d2fc7431cbbf723aa8e310"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-720-150",
+   "short": "720 ILCS 150",
+   "title": "Illinois Compiled Statutes, Wrongs to Children Act (720 ILCS 150)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1886",
+   "versions": [
+    {
+     "from": "2026-07-29",
+     "units": 9,
+     "source_url": "https://web.archive.org/web/20260729180942/https://ilga.gov/Legislation/ILCS/Articles?ActID=1886&ChapterID=53",
+     "sha256": "3abb9a99b97991d96b4c748757d91d980710294664ea1efa70151de657e9e02a"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-720-300",
+   "short": "720 ILCS 300",
+   "title": "Illinois Compiled Statutes, Derogatory Statements About Banks Act (720 ILCS 300)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1906",
+   "versions": [
+    {
+     "from": "2026-04-13",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20260413135706/https://ilga.gov/Legislation/ILCS/Articles?ActID=1906&ChapterID=53&Chapter=CRIMINAL%20OFFENSES&MajorTopic=RIGHTS%20AND%20REMEDIES",
+     "sha256": "40085499a7ce148688e32f073bbd9da1749f9a793c955c4a8e64049520ca566b"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-720-542",
+   "short": "720 ILCS 542",
+   "title": "Illinois Compiled Statutes, Bath Salts Prohibition Act (720 ILCS 542)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3713",
+   "versions": [
+    {
+     "from": "2026-08-04",
+     "units": 7,
+     "source_url": "https://web.archive.org/web/20260804201032/https://ilga.gov/Legislation/ILCS/Articles?ActID=3713&ChapterID=53",
+     "sha256": "2a39a01635180587169579c773bde6ec4bb4c1de0e58f68529c0870beb13efef"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-720-550",
+   "short": "720 ILCS 550",
+   "title": "Illinois Compiled Statutes, Cannabis Control Act (720 ILCS 550)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1937",
+   "versions": [
+    {
+     "from": "2026-05-12",
+     "units": 30,
+     "source_url": "https://web.archive.org/web/20260512151357/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1937&ChapterID=53&Chapter=CRIMINAL%20OFFENSES&MajorTopic=RIGHTS%20AND%20REMEDIES",
+     "sha256": "0a81178094b1d409032b2340301a53efbaf4b424a32ebd4d8d4f58b0a96353c7"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-720-570",
+   "short": "720 ILCS 570",
+   "title": "Illinois Compiled Statutes, Illinois Controlled Substances Act (720 ILCS 570)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1941",
+   "versions": [
+    {
+     "from": "2026-05-16",
+     "units": 97,
+     "source_url": "https://web.archive.org/web/20260516112618/https://www.ilga.gov/legislation/ILCS/details?MajorTopic=RIGHTS%20AND%20REMEDIES&Chapter=CRIMINAL%20OFFENSES&ActName=Illinois%20Controlled%20Substances%20Act.&ActID=1941&ChapterID=53&SeqStart=&&ChapAct=FullText",
+     "sha256": "3b789f7d8e3dc034aa53f0d1ab961fc209e3ccff78ec47ccb88c190f2734070b"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-720-590",
+   "short": "720 ILCS 590",
+   "title": "Illinois Compiled Statutes, Discrimination in Sale of Real Estate Act (720 ILCS 590)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1945",
+   "versions": [
+    {
+     "from": "2026-05-24",
+     "units": 4,
+     "source_url": "https://web.archive.org/web/20260524225010/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1945&ChapterID=53",
+     "sha256": "babacc5e867bfb43356049cd4b5be55f8cf1aa4fa0beeeda7f2654c825c0a540"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-720-600",
+   "short": "720 ILCS 600",
+   "title": "Illinois Compiled Statutes, Drug Paraphernalia Control Act (720 ILCS 600)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1947",
+   "versions": [
+    {
+     "from": "2026-04-01",
+     "units": 8,
+     "source_url": "https://web.archive.org/web/20260401002820/https://ilga.gov/Legislation/ILCS/Articles?ActID=1947&ChapterID=53",
+     "sha256": "f2ed203cbddb099c27d2230a2fe1ef57efc5df29315738377d210be205bb4d52"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-720-602",
+   "short": "720 ILCS 602",
+   "title": "Illinois Compiled Statutes, Ephedra Prohibition Act (720 ILCS 602)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2490",
+   "versions": [
+    {
+     "from": "2026-03-28",
+     "units": 7,
+     "source_url": "https://web.archive.org/web/20260328055835/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2490&ChapterID=53",
+     "sha256": "1957505b8f556d86dec93e0a531744e0f9b820239f734fde7f3c3fc96a778532"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-720-635",
+   "short": "720 ILCS 635",
+   "title": "Illinois Compiled Statutes, Hypodermic Syringes and Needles Act (720 ILCS 635)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1954",
+   "versions": [
+    {
+     "from": "2026-08-07",
+     "units": 8,
+     "source_url": "https://web.archive.org/web/20260807114201/https://ilga.gov/Legislation/ILCS/Articles?ActID=1954&ChapterID=53",
+     "sha256": "3a21954e184d185d7c1f46f3a8ea8c596f204ea7e83aee22327fb8f28b677eee"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-720-640",
+   "short": "720 ILCS 640",
+   "title": "Illinois Compiled Statutes, Improper Supervision of Children Act (720 ILCS 640)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1955",
+   "versions": [
+    {
+     "from": "2026-09-04",
+     "units": 3,
+     "source_url": "https://web.archive.org/web/20260904005822/https://ilga.gov/Legislation/ILCS/Articles?ActID=1955&ChapterID=53",
+     "sha256": "7c27bd64f90f42d5a4c79a98e52eb8666f9f6a05633450b3b4ea4b8331c71a73"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-720-642",
+   "short": "720 ILCS 642",
+   "title": "Illinois Compiled Statutes, Kratom Control Act (720 ILCS 642)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3573",
+   "versions": [
+    {
+     "from": "2026-05-31",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20260531020144/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3573&ChapterID=53",
+     "sha256": "23af8c492deba30a791fd380f7259f63a953fc3f918c4cc61c519c593619c575"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-720-646",
+   "short": "720 ILCS 646",
+   "title": "Illinois Compiled Statutes, Methamphetamine Control and Community Protection Act (720 ILCS 646)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2733",
+   "versions": [
+    {
+     "from": "2026-04-17",
+     "units": 76,
+     "source_url": "https://web.archive.org/web/20260417124040/https://ilga.gov/Legislation/ILCS/Articles?ActID=2733&ChapterID=53",
+     "sha256": "f7fc55625c38f219f7c8e9ee46b449ce3044b5f1bea7d27ce1f29d3612880c2d"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-720-675",
+   "short": "720 ILCS 675",
+   "title": "Illinois Compiled Statutes, Prevention of Tobacco Use by Persons under 21 Years of Age and Sale and Distribution of Tobacco Products Act (720 ILCS 675)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1962",
+   "versions": [
+    {
+     "from": "2026-07-03",
+     "units": 4,
+     "source_url": "https://web.archive.org/web/20260703072744/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1962&ChapterID=53",
+     "sha256": "769b581ffc0ee4f968b6ae13f49553a8b38ea1ed0ec2fdfdcdda4eb0936d7ed1"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-720-677",
+   "short": "720 ILCS 677",
+   "title": "Illinois Compiled Statutes, Display of Tobacco Products Act (720 ILCS 677)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2606",
+   "versions": [
+    {
+     "from": "2026-06-08",
+     "units": 7,
+     "source_url": "https://web.archive.org/web/20260608120123/https://ilga.gov/Legislation/ILCS/Articles?ActID=2606&ChapterID=53",
+     "sha256": "0436f6388559cbe7d301c9615a1421cc772902ca186a5a20ff2797398e74a4a1"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-720-678",
+   "short": "720 ILCS 678",
+   "title": "Illinois Compiled Statutes, Prevention of Cigarette and Electronic Cigarette Sales to Persons under 21 Years of Age Act (720 ILCS 678)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2626",
+   "versions": [
+    {
+     "from": "2026-02-11",
+     "units": 14,
+     "source_url": "https://web.archive.org/web/20260211160301/https://ilga.gov/Legislation/ILCS/Articles?ActID=2626&ChapterID=53&Chapter=CRIMINAL%20OFFENSES&MajorTopic=RIGHTS%20AND%20REMEDIES",
+     "sha256": "6af53d426845cfe88559942c198f059c140c245e1c7c5127c28213beb163d856"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-720-685",
+   "short": "720 ILCS 685",
+   "title": "Illinois Compiled Statutes, Tobacco Accessories and Smoking Herbs Control Act (720 ILCS 685)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1964",
+   "versions": [
+    {
+     "from": "2026-08-12",
+     "units": 5,
+     "source_url": "https://web.archive.org/web/20260812022337/https://ilga.gov/Legislation/ILCS/Articles?ActID=1964&ChapterID=53",
+     "sha256": "9bdf4e499c9923f944b5c211463bc55bad6d5d0a345e31d3158ecdeff2e3bfff"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-720-690",
+   "short": "720 ILCS 690",
+   "title": "Illinois Compiled Statutes, Use of Intoxicating Compounds Act (720 ILCS 690)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1965",
+   "versions": [
+    {
+     "from": "2026-04-14",
+     "units": 6,
+     "source_url": "https://web.archive.org/web/20260414072504/https://ilga.gov/Legislation/ILCS/Articles?ActID=1965&ChapterID=53",
+     "sha256": "660b878dfb596e1ab9889ca88c4d78b45c54029102c4144f1f999e81458945bc"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-725-5",
+   "short": "725 ILCS 5",
+   "title": "Illinois Compiled Statutes, Code of Criminal Procedure of 1963 (725 ILCS 5)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1966",
+   "versions": [
+    {
+     "from": "2026-02-18",
+     "units": 425,
+     "source_url": "https://web.archive.org/web/20260218052126/https://ilga.gov/legislation/ILCS/details?MajorTopic=RIGHTS%20AND%20REMEDIES&Chapter=CRIMINAL%20PROCEDURE&ActName=Code%20of%20Criminal%20Procedure%20of%201963.&ActID=1966&ChapterID=54&SeqStart=&&ChapAct=FullText",
+     "sha256": "bc605b2da48c45da67b8f5f7e80f40594040fe9cfa8a63e940868b970d5fd00e"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-725-115",
+   "short": "725 ILCS 115",
+   "title": "Illinois Compiled Statutes, Bill of Rights for Children (725 ILCS 115)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1969",
+   "versions": [
+    {
+     "from": "2026-03-15",
+     "units": 5,
+     "source_url": "https://web.archive.org/web/20260315043123/https://ilga.gov/Legislation/ILCS/Articles?ActID=1969&ChapterID=54&Chapter=CRIMINAL%20PROCEDURE&MajorTopic=RIGHTS%20AND%20REMEDIES",
+     "sha256": "d42fce70c78080a8bb0b4bc221e7254509b317efaedc8b4a10123f0a373f4ece"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-725-120",
+   "short": "725 ILCS 120",
+   "title": "Illinois Compiled Statutes, Rights of Crime Victims and Witnesses Act (725 ILCS 120)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1970",
+   "versions": [
+    {
+     "from": "2026-10-09",
+     "units": 12,
+     "source_url": "https://web.archive.org/web/20261009223057/https://ilga.gov/Legislation/ILCS/Articles?ActID=1970&ChapterID=54",
+     "sha256": "4e49924100fe90da83255e41589507292c5962fb7067aaad823b5d31470986ec"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-725-150",
+   "short": "725 ILCS 150",
+   "title": "Illinois Compiled Statutes, Drug Asset Forfeiture Procedure Act (725 ILCS 150)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1977",
+   "versions": [
+    {
+     "from": "2026-07-25",
+     "units": 28,
+     "source_url": "https://web.archive.org/web/20260725034805/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1977&ChapterID=54",
+     "sha256": "44be71bf8b7321ccb719e8b298e1dc82f60369264b45a405bd6e478ee2a9e08e"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-725-155",
+   "short": "725 ILCS 155",
+   "title": "Illinois Compiled Statutes, Federal Prisoner Production Expense Act (725 ILCS 155)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1978",
+   "versions": [
+    {
+     "from": "2026-07-28",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20260728005411/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1978&ChapterID=54",
+     "sha256": "f87033df58cefe31862b358fd49b44560d374531be74628555ae4eb7b5050749"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-725-160",
+   "short": "725 ILCS 160",
+   "title": "Illinois Compiled Statutes, Fines Paid to Societies Act (725 ILCS 160)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1979",
+   "versions": [
+    {
+     "from": "2026-03-06",
+     "units": 3,
+     "source_url": "https://web.archive.org/web/20260306082721/https://ilga.gov/Legislation/ILCS/Articles?ActID=1979&ChapterID=54&Chapter=CRIMINAL%20PROCEDURE&MajorTopic=RIGHTS%20AND%20REMEDIES",
+     "sha256": "df850283d187e941a8910f20a53bed7028aafcff63e7700a72124c6056e69b68"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-725-167",
+   "short": "725 ILCS 167",
+   "title": "Illinois Compiled Statutes, Freedom from Drone Surveillance Act (725 ILCS 167)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3520",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 12,
+     "source_url": "https://web.archive.org/web/20261013083212/https://ilga.gov/Legislation/ILCS/Articles?ActID=3520&Chapter=CRIMINAL+PROCEDURE&ChapterID=54&MajorTopic=RIGHTS+AND+REMEDIES",
+     "sha256": "a40fff76576d7f680538113b0094f29b35b99835ffa606a776817b7ffd2e1476"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-725-168",
+   "short": "725 ILCS 168",
+   "title": "Illinois Compiled Statutes, Freedom From Location Surveillance Act (725 ILCS 168)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3582",
+   "versions": [
+    {
+     "from": "2026-04-27",
+     "units": 8,
+     "source_url": "https://web.archive.org/web/20260427014430/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3582&ChapterID=54",
+     "sha256": "44bfc1fedd4fdce75a9592a5b4b0ef3ff98fd87c8e8ca63fd9f63721907fa449"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-725-170",
+   "short": "725 ILCS 170",
+   "title": "Illinois Compiled Statutes, Fugitive Apprehension Reward Act (725 ILCS 170)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1981",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 7,
+     "source_url": "https://web.archive.org/web/20260415140247/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1981&ChapterID=54",
+     "sha256": "87dd87aa49d739fed59c89bb7b4d8aabd14356b78dd7d7dd0efeda1283b9faf7"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-725-175",
+   "short": "725 ILCS 175",
+   "title": "Illinois Compiled Statutes, Narcotics Profit Forfeiture Act (725 ILCS 175)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1983",
+   "versions": [
+    {
+     "from": "2026-05-20",
+     "units": 13,
+     "source_url": "https://web.archive.org/web/20260520124645/https://ilga.gov/Legislation/ILCS/Articles?ActID=1983&ChapterID=54&Chapter=CRIMINAL%20PROCEDURE&MajorTopic=RIGHTS%20AND%20REMEDIES",
+     "sha256": "4e3ec5c24ee43bdc465fdb3593d0c4b6f8401086f3a3b08fdb16e827e25dfdb2"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-725-180",
+   "short": "725 ILCS 180",
+   "title": "Illinois Compiled Statutes, Park Ordinance Violation Procedure Act (725 ILCS 180)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1984",
+   "versions": [
+    {
+     "from": "2026-05-20",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20260520060316/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1984&ChapterID=54",
+     "sha256": "a5845c3596531f483c6c88abfaf9aa0ae9501c7256c029cb8959377f5110ee45"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-725-200",
+   "short": "725 ILCS 200",
+   "title": "Illinois Compiled Statutes, Sex Offense Victim Polygraph Act (725 ILCS 200)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1988",
+   "versions": [
+    {
+     "from": "2026-06-03",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20260603180346/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1988&ChapterID=54",
+     "sha256": "3a64ceff75a2700b8ebc55695340e68fd68b22bf17c33789891065a1ddc4845e"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-725-202",
+   "short": "725 ILCS 202",
+   "title": "Illinois Compiled Statutes, Sexual Assault Evidence Submission Act (725 ILCS 202)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3240",
+   "versions": [
+    {
+     "from": "2026-08-30",
+     "units": 15,
+     "source_url": "https://web.archive.org/web/20260830221128/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3240&ChapterID=54",
+     "sha256": "31281aebe2072acaf39ac4c381088e2358e9ce17010316562eea1a25b3ea7706"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-725-203",
+   "short": "725 ILCS 203",
+   "title": "Illinois Compiled Statutes, Sexual Assault Incident Procedure Act (725 ILCS 203)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3731",
+   "versions": [
+    {
+     "from": "2026-05-13",
+     "units": 16,
+     "source_url": "https://web.archive.org/web/20260513160320/https://ilga.gov/Legislation/ILCS/Articles?ActID=3731&ChapterID=54&Chapter=CRIMINAL%20PROCEDURE&MajorTopic=RIGHTS%20AND%20REMEDIES",
+     "sha256": "4fe34320e60107ef5ed3f6bb928cbfc0623c6abdaf7892c6eda2d58ac881d58f"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-725-205",
+   "short": "725 ILCS 205",
+   "title": "Illinois Compiled Statutes, Sexually Dangerous Persons Act (725 ILCS 205)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1989",
+   "versions": [
+    {
+     "from": "2026-08-20",
+     "units": 17,
+     "source_url": "https://web.archive.org/web/20260820040211/https://www.ilga.gov/legislation/ILCS/details?SeqStart=&ChapAct=FullText&MajorTopic=RIGHTS+AND+REMEDIES&Chapter=CRIMINAL+PROCEDURE&ActName=Sexually+Dangerous+Persons+Act.&ActID=1989&ChapterID=54",
+     "sha256": "27b1bbf5eecb64a4b8d9059974d2a3e4970d440337dcb1f924d18389efe8450b"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-725-207",
+   "short": "725 ILCS 207",
+   "title": "Illinois Compiled Statutes, Sexually Violent Persons Commitment Act (725 ILCS 207)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1990",
+   "versions": [
+    {
+     "from": "2026-10-10",
+     "units": 21,
+     "source_url": "https://web.archive.org/web/20261010113033/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1990&ChapterID=54",
+     "sha256": "67d0f41900dd407a3b7195fbac3873984f04e5479293fbfdbd4537c2e9254a7d"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-725-210",
+   "short": "725 ILCS 210",
+   "title": "Illinois Compiled Statutes, State's Attorneys Appellate Prosecutor's Act (725 ILCS 210)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1991",
+   "versions": [
+    {
+     "from": "2026-07-25",
+     "units": 35,
+     "source_url": "https://web.archive.org/web/20260725131201/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1991&ChapterID=54",
+     "sha256": "7803ed4578046a80d5988d182d8f3f4ea32e38b59292769dae33182b9b2e71c9"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-725-215",
+   "short": "725 ILCS 215",
+   "title": "Illinois Compiled Statutes, Statewide Grand Jury Act (725 ILCS 215)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1992",
+   "versions": [
+    {
+     "from": "2026-08-18",
+     "units": 10,
+     "source_url": "https://web.archive.org/web/20260818021251/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1992&ChapterID=54",
+     "sha256": "3a4ed018457054be5e368afa9032705fd0792e27ffef81e299399a9926c55d4b"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-725-235",
+   "short": "725 ILCS 235",
+   "title": "Illinois Compiled Statutes, Uniform Rendition of Prisoners as Witnesses in Criminal Proceedings Act (725 ILCS 235)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1996",
+   "versions": [
+    {
+     "from": "2026-03-10",
+     "units": 11,
+     "source_url": "https://web.archive.org/web/20260310002744/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1996&ChapterID=54",
+     "sha256": "70bec76db4d1a7e284c7ff6291353317dae411acf284abb439897f18b51b2e67"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-725-240",
+   "short": "725 ILCS 240",
+   "title": "Illinois Compiled Statutes, Violent Crime Victims Assistance Act (725 ILCS 240)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1997",
+   "versions": [
+    {
+     "from": "2026-07-18",
+     "units": 11,
+     "source_url": "https://web.archive.org/web/20260718215920/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1997&ChapterID=54",
+     "sha256": "7669ccbaf657f7e20137e8ef8f56e553f53ad4e3cf5900f9671ac39a17fed6f8"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-730-105",
+   "short": "730 ILCS 105",
+   "title": "Illinois Compiled Statutes, Open Parole Hearings Act (730 ILCS 105)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2000",
+   "versions": [
+    {
+     "from": "2026-08-20",
+     "units": 8,
+     "source_url": "https://web.archive.org/web/20260820235242/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2000&ChapterID=55",
+     "sha256": "dd90d44cf418fa17cf83e8d33bdcf4a1a8d399c45c60e071bcbf3ff5f062d320"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-730-110",
+   "short": "730 ILCS 110",
+   "title": "Illinois Compiled Statutes, Probation and Probation Officers Act (730 ILCS 110)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2001",
+   "versions": [
+    {
+     "from": "2026-04-19",
+     "units": 16,
+     "source_url": "https://web.archive.org/web/20260419111822/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2001&ChapterID=55&Chapter=CORRECTIONS&MajorTopic=RIGHTS%20AND%20REMEDIES",
+     "sha256": "6d2b23a51557fb5f82192c235650a98a9116af7c2d887cac48b69ed1f492de48"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-730-115",
+   "short": "730 ILCS 115",
+   "title": "Illinois Compiled Statutes, Probation Community Service Act (730 ILCS 115)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2002",
+   "versions": [
+    {
+     "from": "2026-04-19",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20260419113147/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2002&ChapterID=55&Chapter=CORRECTIONS&MajorTopic=RIGHTS%20AND%20REMEDIES",
+     "sha256": "b4d570a1990196e7c7797dcccc0cbab57f99929e86dd0dec155a07a505d5839b"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-730-120",
+   "short": "730 ILCS 120",
+   "title": "Illinois Compiled Statutes, Probation Challenge Program Act (730 ILCS 120)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2003",
+   "versions": [
+    {
+     "from": "2026-04-19",
+     "units": 14,
+     "source_url": "https://web.archive.org/web/20260419115007/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2003&ChapterID=55&Chapter=CORRECTIONS&MajorTopic=RIGHTS%20AND%20REMEDIES",
+     "sha256": "5a4dfb845a0df4386b7e7b8e3c92e8e7914b73a79162597581cb427963bc6f74"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-730-125",
+   "short": "730 ILCS 125",
+   "title": "Illinois Compiled Statutes, County Jail Act (730 ILCS 125)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2004",
+   "versions": [
+    {
+     "from": "2026-07-28",
+     "units": 38,
+     "source_url": "https://web.archive.org/web/20260728234630/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2004&ChapterID=55",
+     "sha256": "8dabb70173d3636357fb36c4f79b6e2c576939dfb59972d142a05d3cb27f6f7f"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-730-130",
+   "short": "730 ILCS 130",
+   "title": "Illinois Compiled Statutes, County Jail Good Behavior Allowance Act (730 ILCS 130)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2005",
+   "versions": [
+    {
+     "from": "2026-04-19",
+     "units": 4,
+     "source_url": "https://web.archive.org/web/20260419121933/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2005&ChapterID=55&Chapter=CORRECTIONS&MajorTopic=RIGHTS%20AND%20REMEDIES",
+     "sha256": "71a269ab3177cc1cdec6fb79ac5396ba0964968119b8b77c9e4f7af2b8670ce7"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-730-135",
+   "short": "730 ILCS 135",
+   "title": "Illinois Compiled Statutes, Illinois Prison Inspection Act (730 ILCS 135)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2006",
+   "versions": [
+    {
+     "from": "2026-09-04",
+     "units": 6,
+     "source_url": "https://web.archive.org/web/20260904013820/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2006&ChapterID=55",
+     "sha256": "27f5e62fbea074e9c98185b00b1dca6d8854167546720da019ae722801c44945"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-730-140",
+   "short": "730 ILCS 140",
+   "title": "Illinois Compiled Statutes, Private Correctional Facility Moratorium Act (730 ILCS 140)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2007",
+   "versions": [
+    {
+     "from": "2026-04-19",
+     "units": 4,
+     "source_url": "https://web.archive.org/web/20260419110628/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2007&ChapterID=55&Chapter=CORRECTIONS&MajorTopic=RIGHTS%20AND%20REMEDIES",
+     "sha256": "84c7c46b1a76c98dab8bbfc7c955d3d401be1f4ba2522f423694fd85cf56c321"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-730-141",
+   "short": "730 ILCS 141",
+   "title": "Illinois Compiled Statutes, Private Detention Facility Moratorium Act (730 ILCS 141)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3990",
+   "versions": [
+    {
+     "from": "2026-04-19",
+     "units": 8,
+     "source_url": "https://web.archive.org/web/20260419120727/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3990&ChapterID=55&Chapter=CORRECTIONS&MajorTopic=RIGHTS%20AND%20REMEDIES",
+     "sha256": "ebdee92c144338d96ee82726aaf7ea9794f1e103789751f16a6ebda07be93fbb"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-730-145",
+   "short": "730 ILCS 145",
+   "title": "Illinois Compiled Statutes, Illinois Substance Abuse Treatment Program Act (730 ILCS 145)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2008",
+   "versions": [
+    {
+     "from": "2026-04-19",
+     "units": 5,
+     "source_url": "https://web.archive.org/web/20260419112036/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2008&ChapterID=55&Chapter=CORRECTIONS&MajorTopic=RIGHTS%20AND%20REMEDIES",
+     "sha256": "ad641ac0f457ac0dda721bd6e7cfe6d9a1b238307aa9e27bdd4a3d0a8fa626a0"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-730-148",
+   "short": "730 ILCS 148",
+   "title": "Illinois Compiled Statutes, Arsonist Registry Act (730 ILCS 148)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2621",
+   "versions": [
+    {
+     "from": "2026-06-30",
+     "units": 21,
+     "source_url": "https://web.archive.org/web/20260630143020/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2621&ChapterID=55",
+     "sha256": "72a9d93fa36a7563db8eb365625bd1ae982f2ba121779745d8a405b36af16ed1"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-730-150",
+   "short": "730 ILCS 150",
+   "title": "Illinois Compiled Statutes, Sex Offender Registration Act (730 ILCS 150)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2009",
+   "versions": [
+    {
+     "from": "2026-05-20",
+     "units": 19,
+     "source_url": "https://web.archive.org/web/20260520184937/https://ilga.gov/Legislation/ILCS/Articles?ActID=2009&ChapterID=55",
+     "sha256": "0a0f917d09dbaec3b1d2b0fdc34f68ec65c084c8352979cfbf992dbe2d8cea92"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-730-152",
+   "short": "730 ILCS 152",
+   "title": "Illinois Compiled Statutes, Sex Offender Community Notification Law (730 ILCS 152)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2010",
+   "versions": [
+    {
+     "from": "2026-05-16",
+     "units": 25,
+     "source_url": "https://web.archive.org/web/20260516181407/https://ilga.gov/legislation/ILCS/details?MajorTopic=RIGHTS%20AND%20REMEDIES&Chapter=CORRECTIONS&ActName=Sex%20Offender%20Community%20Notification%20Law.&ActID=2010&ChapterID=55&SeqStart=&&ChapAct=FullText",
+     "sha256": "7faa63d92219ca0d43a1b998c1c7a7cd41f5b4c55e77754f9e049a79f9f0fa62"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-730-154",
+   "short": "730 ILCS 154",
+   "title": "Illinois Compiled Statutes, Murderer and Violent Offender Against Youth Registration Act (730 ILCS 154)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2802",
+   "versions": [
+    {
+     "from": "2026-07-12",
+     "units": 33,
+     "source_url": "https://web.archive.org/web/20260712023937/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2802&ChapterID=55",
+     "sha256": "9a9b26aac1b0412e8f2c2f2706066b80be0c9901c3f527aa134cec1d80321a4b"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-730-155",
+   "short": "730 ILCS 155",
+   "title": "Illinois Compiled Statutes, Prisoner Interchange Act (730 ILCS 155)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2011",
+   "versions": [
+    {
+     "from": "2026-05-20",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20260520110244/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2011&ChapterID=57",
+     "sha256": "6e2a1f14d93554cb818824f44757f0b396b513c06e5ec88d757bc955326448f1"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-730-166",
+   "short": "730 ILCS 166",
+   "title": "Illinois Compiled Statutes, Drug Court Treatment Act (730 ILCS 166)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2014",
+   "versions": [
+    {
+     "from": "2026-04-27",
+     "units": 11,
+     "source_url": "https://web.archive.org/web/20260427221813/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2014&ChapterID=55",
+     "sha256": "551cdaa53613015cf2be39f6ddb1ac08bb9b8c22969a5e3033319be0f994206c"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-730-167",
+   "short": "730 ILCS 167",
+   "title": "Illinois Compiled Statutes, Veterans and Servicemembers Court Treatment Act (730 ILCS 167)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3231",
+   "versions": [
+    {
+     "from": "2026-04-19",
+     "units": 13,
+     "source_url": "https://web.archive.org/web/20260419120558/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3231&ChapterID=55&Chapter=CORRECTIONS&MajorTopic=RIGHTS%20AND%20REMEDIES",
+     "sha256": "1afe73fd11c8aab6254d104af04fe41822541ac115a0b42b36df475e2d50d1d0"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-730-168",
+   "short": "730 ILCS 168",
+   "title": "Illinois Compiled Statutes, Mental Health Court Treatment Act (730 ILCS 168)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2947",
+   "versions": [
+    {
+     "from": "2026-05-15",
+     "units": 13,
+     "source_url": "https://web.archive.org/web/20260515204434/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2947&ChapterID=55",
+     "sha256": "acd907c64a40475fa8ebdc5653a51c19427cb83cf2b76e02bb3fc7e7f421e2f7"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-730-170",
+   "short": "730 ILCS 170",
+   "title": "Illinois Compiled Statutes, Neighborhood Restoration and Alternative Sentencing Job Training Act (730 ILCS 170)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2015",
+   "versions": [
+    {
+     "from": "2026-06-10",
+     "units": 4,
+     "source_url": "https://web.archive.org/web/20260610121542/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2015&ChapterID=55",
+     "sha256": "587709d005f975b762b6022834b8d98acb76ca6ea195536e455cae98a2405586"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-730-180",
+   "short": "730 ILCS 180",
+   "title": "Illinois Compiled Statutes, Methamphetamine Manufacturer Registry Act (730 ILCS 180)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2797",
+   "versions": [
+    {
+     "from": "2026-04-19",
+     "units": 5,
+     "source_url": "https://web.archive.org/web/20260419112152/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2797&ChapterID=55&Chapter=CORRECTIONS&MajorTopic=RIGHTS%20AND%20REMEDIES",
+     "sha256": "8989c41c76e1713a3d804e270d3777558bf42ca4b2afd72638613599b9fe1730"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-730-185",
+   "short": "730 ILCS 185",
+   "title": "Illinois Compiled Statutes, Emergency Services Response Reimbursement for Criminal Convictions Act (730 ILCS 185)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3131",
+   "versions": [
+    {
+     "from": "2026-04-19",
+     "units": 6,
+     "source_url": "https://web.archive.org/web/20260419114717/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3131&ChapterID=55&Chapter=CORRECTIONS&MajorTopic=RIGHTS%20AND%20REMEDIES",
+     "sha256": "8faf5ad8fa982055def79bdc42deee91e6b9852edc88934ec7a8738d3ddab837"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-730-190",
+   "short": "730 ILCS 190",
+   "title": "Illinois Compiled Statutes, Illinois Crime Reduction Act of 2009 (730 ILCS 190)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3156",
+   "versions": [
+    {
+     "from": "2026-04-30",
+     "units": 5,
+     "source_url": "https://web.archive.org/web/20260430021028/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3156&ChapterID=55",
+     "sha256": "92aa30159090471ebe6d74ddfc4a90905c0d7ac7f3613cd28aa785cd28ef9771"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-730-195",
+   "short": "730 ILCS 195",
+   "title": "Illinois Compiled Statutes, Department of Juvenile Justice Mortality Review Team Act (730 ILCS 195)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3268",
+   "versions": [
+    {
+     "from": "2026-10-09",
+     "units": 13,
+     "source_url": "https://web.archive.org/web/20261009213235/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3268&ChapterID=55&Chapter=CORRECTIONS&MajorTopic=RIGHTS%20AND%20REMEDIES",
+     "sha256": "c49782bf3cd44b6775535d4256323df4ddbbca84c35ae27d76f3ee7aa5726b4f"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-730-200",
+   "short": "730 ILCS 200",
+   "title": "Illinois Compiled Statutes, Re-Entering Citizens Civics Education Act (730 ILCS 200)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=4025",
+   "versions": [
+    {
+     "from": "2026-04-17",
+     "units": 11,
+     "source_url": "https://web.archive.org/web/20260417052213/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=4025&ChapterID=55&Chapter=CORRECTIONS&MajorTopic=RIGHTS%20AND%20REMEDIES",
+     "sha256": "7cb7f422959331242dd3e65dbe4a7df342990685c985d1c3cabcd5dc13c22d4a"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-730-205-article-0002",
+   "short": "730 ILCS 205 art. 2",
+   "title": "Illinois Compiled Statutes, No Representation Without Population Act (730 ILCS 205), Article 2",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=4074",
+   "versions": [
+    {
+     "from": "2026-05-21",
+     "units": 8,
+     "source_url": "https://web.archive.org/web/20260521195805/https://www.ilga.gov/legislation/ILCS/details?ActID=4074&ChapterID=55&SeqStart=&&ChapAct=FullText",
+     "sha256": "baab13db6156d576a3e709a734f58c482d58459b23f7d9290dded130d1d40aa8"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-730-205-article-0010",
+   "short": "730 ILCS 205 art. 10",
+   "title": "Illinois Compiled Statutes, No Representation Without Population Act (730 ILCS 205), Article 10",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=4074",
+   "versions": [
+    {
+     "from": "2026-05-21",
+     "units": 55,
+     "source_url": "https://web.archive.org/web/20260521195805/https://www.ilga.gov/legislation/ILCS/details?ActID=4074&ChapterID=55&SeqStart=&&ChapAct=FullText",
+     "sha256": "baab13db6156d576a3e709a734f58c482d58459b23f7d9290dded130d1d40aa8"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-730-205-article-0025",
+   "short": "730 ILCS 205 art. 25",
+   "title": "Illinois Compiled Statutes, No Representation Without Population Act (730 ILCS 205), Article 25",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=4074",
+   "versions": [
+    {
+     "from": "2026-05-21",
+     "units": 10,
+     "source_url": "https://web.archive.org/web/20260521195805/https://www.ilga.gov/legislation/ILCS/details?ActID=4074&ChapterID=55&SeqStart=&&ChapAct=FullText",
+     "sha256": "baab13db6156d576a3e709a734f58c482d58459b23f7d9290dded130d1d40aa8"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-730-205-article-0099",
+   "short": "730 ILCS 205 art. 99",
+   "title": "Illinois Compiled Statutes, No Representation Without Population Act (730 ILCS 205), Article 99",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=4074",
+   "versions": [
+    {
+     "from": "2026-05-21",
+     "units": 3,
+     "source_url": "https://web.archive.org/web/20260521195805/https://www.ilga.gov/legislation/ILCS/details?ActID=4074&ChapterID=55&SeqStart=&&ChapAct=FullText",
+     "sha256": "baab13db6156d576a3e709a734f58c482d58459b23f7d9290dded130d1d40aa8"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-730-210-article-0003",
+   "short": "730 ILCS 210 art. 3",
+   "title": "Illinois Compiled Statutes, Reporting of Deaths in Custody Act (730 ILCS 210), Article 3",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=4075",
+   "versions": [
+    {
+     "from": "2026-05-14",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20260514114113/https://ilga.gov/legislation/ILCS/details?MajorTopic=RIGHTS%20AND%20REMEDIES&Chapter=CORRECTIONS&ActName=Reporting%20of%20Deaths%20in%20Custody%20Act.&ActID=4075&ChapterID=55&SeqStart=&&ChapAct=FullText",
+     "sha256": "cec8e85158e8da31cfcfcf432dcb0d3796fe4391138c2466c3ebd111a595c3b1"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-730-210-article-0010",
+   "short": "730 ILCS 210 art. 10",
+   "title": "Illinois Compiled Statutes, Reporting of Deaths in Custody Act (730 ILCS 210), Article 10",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=4075",
+   "versions": [
+    {
+     "from": "2026-05-14",
+     "units": 55,
+     "source_url": "https://web.archive.org/web/20260514114113/https://ilga.gov/legislation/ILCS/details?MajorTopic=RIGHTS%20AND%20REMEDIES&Chapter=CORRECTIONS&ActName=Reporting%20of%20Deaths%20in%20Custody%20Act.&ActID=4075&ChapterID=55&SeqStart=&&ChapAct=FullText",
+     "sha256": "cec8e85158e8da31cfcfcf432dcb0d3796fe4391138c2466c3ebd111a595c3b1"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-730-210-article-0025",
+   "short": "730 ILCS 210 art. 25",
+   "title": "Illinois Compiled Statutes, Reporting of Deaths in Custody Act (730 ILCS 210), Article 25",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=4075",
+   "versions": [
+    {
+     "from": "2026-05-14",
+     "units": 10,
+     "source_url": "https://web.archive.org/web/20260514114113/https://ilga.gov/legislation/ILCS/details?MajorTopic=RIGHTS%20AND%20REMEDIES&Chapter=CORRECTIONS&ActName=Reporting%20of%20Deaths%20in%20Custody%20Act.&ActID=4075&ChapterID=55&SeqStart=&&ChapAct=FullText",
+     "sha256": "cec8e85158e8da31cfcfcf432dcb0d3796fe4391138c2466c3ebd111a595c3b1"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-730-210-article-0099",
+   "short": "730 ILCS 210 art. 99",
+   "title": "Illinois Compiled Statutes, Reporting of Deaths in Custody Act (730 ILCS 210), Article 99",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=4075",
+   "versions": [
+    {
+     "from": "2026-05-14",
+     "units": 3,
+     "source_url": "https://web.archive.org/web/20260514114113/https://ilga.gov/legislation/ILCS/details?MajorTopic=RIGHTS%20AND%20REMEDIES&Chapter=CORRECTIONS&ActName=Reporting%20of%20Deaths%20in%20Custody%20Act.&ActID=4075&ChapterID=55&SeqStart=&&ChapAct=FullText",
+     "sha256": "cec8e85158e8da31cfcfcf432dcb0d3796fe4391138c2466c3ebd111a595c3b1"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-730-212",
+   "short": "730 ILCS 212",
+   "title": "Illinois Compiled Statutes, Restrictive Housing Data Publication and Verification Act (730 ILCS 212)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=4565",
+   "versions": [
+    {
+     "from": "2026-04-19",
+     "units": 4,
+     "source_url": "https://web.archive.org/web/20260419122329/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=4565&ChapterID=55&Chapter=CORRECTIONS&MajorTopic=RIGHTS%20AND%20REMEDIES",
+     "sha256": "acc81433a7eb5e01b084517525240d0c89047d87a11d0b7157fc3ac1cac8cd59"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-730-215",
+   "short": "730 ILCS 215",
+   "title": "Illinois Compiled Statutes, End Youth Solitary Confinement Act (730 ILCS 215)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=4415",
+   "versions": [
+    {
+     "from": "2026-04-17",
+     "units": 3,
+     "source_url": "https://web.archive.org/web/20260417063421/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=4415&ChapterID=55&Chapter=CORRECTIONS&MajorTopic=RIGHTS%20AND%20REMEDIES",
+     "sha256": "53158296b8961df942a5aa286708693ef61bb1086ff07faa34e25d31a84504e8"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-730-220",
+   "short": "730 ILCS 220",
+   "title": "Illinois Compiled Statutes, Faith Behind Bars Act (730 ILCS 220)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=4430",
+   "versions": [
+    {
+     "from": "2026-04-19",
+     "units": 6,
+     "source_url": "https://web.archive.org/web/20260419124404/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=4430&ChapterID=55&Chapter=CORRECTIONS&MajorTopic=RIGHTS%20AND%20REMEDIES",
+     "sha256": "709980385de3855acd7853f00480d98ca4961a20b3147daf660800ddcffc43d0"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-730-225",
+   "short": "730 ILCS 225",
+   "title": "Illinois Compiled Statutes, Higher Education in Prison Act (730 ILCS 225)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=4452",
+   "versions": [
+    {
+     "from": "2026-05-12",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20260512082105/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=4452&ChapterID=55",
+     "sha256": "79d298b88abd1d1b04f91b6a15196df50bdf8f7e3794dc600a02a6202f033b9a"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-735-5",
+   "short": "735 ILCS 5",
+   "title": "Illinois Compiled Statutes, Code of Civil Procedure (735 ILCS 5)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2017",
+   "versions": [
+    {
+     "from": "2026-05-21",
+     "units": 1012,
+     "source_url": "https://web.archive.org/web/20260521122007/https://www.ilga.gov/legislation/ILCS/details?MajorTopic=RIGHTS%20AND%20REMEDIES&Chapter=CIVIL%20PROCEDURE&ActName=Code%20of%20Civil%20Procedure.&ActID=2017&ChapterID=56&SeqStart=&&ChapAct=FullText",
+     "sha256": "fef57163079bc8d57ce6ce5eb593946067ae341ef3e6f6cda9b5c627d108d53b"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-735-35",
+   "short": "735 ILCS 35",
+   "title": "Illinois Compiled Statutes, Uniform Interstate Depositions and Discovery Act (735 ILCS 35)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3636",
+   "versions": [
+    {
+     "from": "2026-06-08",
+     "units": 11,
+     "source_url": "https://web.archive.org/web/20260608232126/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3636&ChapterID=56&Chapter=CIVIL%20PROCEDURE&MajorTopic=RIGHTS%20AND%20REMEDIES",
+     "sha256": "1e6e906b47c85990204d0ef528336dd4f03268270b22b6ea8b9608846cb61d39"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-735-40",
+   "short": "735 ILCS 40",
+   "title": "Illinois Compiled Statutes, Lawful Health Care Activity Act (735 ILCS 40)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=4342",
+   "versions": [
+    {
+     "from": "2026-06-10",
+     "units": 15,
+     "source_url": "https://web.archive.org/web/20260610121432/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=4342&ChapterID=56&Chapter=CIVIL%20PROCEDURE&MajorTopic=RIGHTS%20AND%20REMEDIES",
+     "sha256": "0306c2e9a011724dc3f97527d69ec56cf8ef5dbfed0b73441226bb6f86fe0ff0"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-735-110",
+   "short": "735 ILCS 110",
+   "title": "Illinois Compiled Statutes, Citizen Participation Act (735 ILCS 110)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2937",
+   "versions": [
+    {
+     "from": "2026-09-11",
+     "units": 11,
+     "source_url": "https://web.archive.org/web/20260911214422/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2937&ChapterID=56&Chapter=CIVIL%20PROCEDURE&MajorTopic=RIGHTS%20AND%20REMEDIES",
+     "sha256": "024b966035f4f7c0da5513d9d1681a5ea1950981379234ce8fd5c2560a89bf09"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-735-115",
+   "short": "735 ILCS 115",
+   "title": "Illinois Compiled Statutes, Removal of Private Compromising Images Act (735 ILCS 115)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=4021",
+   "versions": [
+    {
+     "from": "2026-06-16",
+     "units": 7,
+     "source_url": "https://web.archive.org/web/20260616061857/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=4021&ChapterID=56&Chapter=CIVIL%20PROCEDURE&MajorTopic=RIGHTS%20AND%20REMEDIES",
+     "sha256": "701b4bb2bc0d196037636cb1e8ad344f2fd5992f9d5b0993e304fb3815c3f986"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-740-7",
+   "short": "740 ILCS 7",
+   "title": "Illinois Compiled Statutes, Anti-Phishing Act (740 ILCS 7)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2921",
+   "versions": [
+    {
+     "from": "2026-09-03",
+     "units": 4,
+     "source_url": "https://web.archive.org/web/20260903133211/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2921&ChapterID=57",
+     "sha256": "c0e8b1dbffe43c0e4c68207ccd440d36619d9a01a29e79b75eaf9492414a7926"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-740-10",
+   "short": "740 ILCS 10",
+   "title": "Illinois Compiled Statutes, Illinois Antitrust Act (740 ILCS 10)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2020",
+   "versions": [
+    {
+     "from": "2026-07-10",
+     "units": 22,
+     "source_url": "https://web.archive.org/web/20260710202643/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2020&ChapterID=57",
+     "sha256": "69eac7eb1a19fd7c14d24721ed5c457e382dbe7b1834c96f1abfcd207ad746f4"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-740-14",
+   "short": "740 ILCS 14",
+   "title": "Illinois Compiled Statutes, Biometric Information Privacy Act (740 ILCS 14)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3004",
+   "versions": [
+    {
+     "from": "2026-10-11",
+     "units": 8,
+     "source_url": "https://web.archive.org/web/20261011162728/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3004&ChapterID=57",
+     "sha256": "68284b94dc42a45b54e8a994293a69d2b9300eab237ba499489f103dc91f93f4"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-740-15",
+   "short": "740 ILCS 15",
+   "title": "Illinois Compiled Statutes, Breach of Promise Abolition Act (740 ILCS 15)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2022",
+   "versions": [
+    {
+     "from": "2026-05-16",
+     "units": 12,
+     "source_url": "https://web.archive.org/web/20260516111931/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2022&ChapterID=57",
+     "sha256": "5b74f9b2718ee34b3454e973e3556a919a1f8ca7aee56d571bb0f630caed02a2"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-740-16",
+   "short": "740 ILCS 16",
+   "title": "Illinois Compiled Statutes, Illinois Bivens Act (740 ILCS 16)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=4644",
+   "versions": [
+    {
+     "from": "2026-06-04",
+     "units": 7,
+     "source_url": "https://web.archive.org/web/20260604182232/https://www.ilga.gov/Legislation/ILCS/Articles?Chapter=CIVIL+LIABILITIES&ChapterID=57&MajorTopic=RIGHTS+AND+REMEDIES&ActID=4644",
+     "sha256": "546e36bf3558ceb08e80da43b5c16777cd0ef23d118dd02d771e97dbc6bc7181"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-740-20",
+   "short": "740 ILCS 20",
+   "title": "Illinois Compiled Statutes, Cannabis and Controlled Substances Tort Claims Act (740 ILCS 20)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2023",
+   "versions": [
+    {
+     "from": "2026-05-08",
+     "units": 8,
+     "source_url": "https://web.archive.org/web/20260508212538/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2023&ChapterID=57",
+     "sha256": "7775b208503fe939a88999aa5abd8ea84468eaa389cafd9ec236a5ead7a53eab"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-740-21",
+   "short": "740 ILCS 21",
+   "title": "Illinois Compiled Statutes, Stalking No Contact Order Act (740 ILCS 21)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3123",
+   "versions": [
+    {
+     "from": "2026-06-16",
+     "units": 29,
+     "source_url": "https://web.archive.org/web/20260616220520/https://ilga.gov/Legislation/ILCS/Articles?ActID=3123&ChapterID=57&Chapter=CIVIL%20LIABILITIES&MajorTopic=RIGHTS%20AND%20REMEDIES",
+     "sha256": "b7c237d78b6959be1610ab877004889a72df2f5def7b31c5c72aba0c190747c0"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-740-22",
+   "short": "740 ILCS 22",
+   "title": "Illinois Compiled Statutes, Civil No Contact Order Act (740 ILCS 22)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2491",
+   "versions": [
+    {
+     "from": "2026-06-13",
+     "units": 34,
+     "source_url": "https://web.archive.org/web/20260613023353/https://www.ilga.gov/legislation/ILCS/details?MajorTopic=RIGHTS%20AND%20REMEDIES&Chapter=CIVIL%20LIABILITIES&ActName=Civil%20No%20Contact%20Order%20Act.&ActID=2491&ChapterID=57&SeqStart=&&ChapAct=FullText",
+     "sha256": "cfe2026f4411b69266148acb5b4a0971ce9f8568677a466c7f41e8dbe5e413a0"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-740-23",
+   "short": "740 ILCS 23",
+   "title": "Illinois Compiled Statutes, Illinois Civil Rights Act of 2003 (740 ILCS 23)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2492",
+   "versions": [
+    {
+     "from": "2026-04-22",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20260422074311/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2492&ChapterID=57&Chapter=CIVIL%20LIABILITIES&MajorTopic=RIGHTS%20AND%20REMEDIES",
+     "sha256": "791ef8238523e9996c9a92d252f72e86c20a5df68f7fa8520fa628d4c8591983"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-740-25",
+   "short": "740 ILCS 25",
+   "title": "Illinois Compiled Statutes, Common Carrier Liability Act (740 ILCS 25)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2024",
+   "versions": [
+    {
+     "from": "2026-04-28",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20260428103743/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2024&ChapterID=57",
+     "sha256": "58de81cb19e5e68cf75cb6afe7bbdda90ef6376a1513fd408bfbe8658eb8c1c0"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-740-30",
+   "short": "740 ILCS 30",
+   "title": "Illinois Compiled Statutes, Community Investment Recovery Act (740 ILCS 30)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2025",
+   "versions": [
+    {
+     "from": "2026-06-11",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20260611102208/https://ilga.gov/Legislation/ILCS/Articles?ActID=2025&ChapterID=57&Chapter=CIVIL%20LIABILITIES&MajorTopic=RIGHTS%20AND%20REMEDIES",
+     "sha256": "8c147652ce4f321100ca0209d39711b75b0ba081fd07f3d2717e9bae41eeeb8e"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-740-35",
+   "short": "740 ILCS 35",
+   "title": "Illinois Compiled Statutes, Construction Contract Indemnification for Negligence Act (740 ILCS 35)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2026",
+   "versions": [
+    {
+     "from": "2026-07-02",
+     "units": 4,
+     "source_url": "https://web.archive.org/web/20260702051542/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2026&ChapterID=57",
+     "sha256": "6be72e0fa5b89eadcdfdaa55ba98f7f743780ee7aa7a461cd9b16e282123c8d2"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-740-40",
+   "short": "740 ILCS 40",
+   "title": "Illinois Compiled Statutes, Controlled Substance and Cannabis Nuisance Act (740 ILCS 40)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2027",
+   "versions": [
+    {
+     "from": "2026-06-11",
+     "units": 14,
+     "source_url": "https://web.archive.org/web/20260611103250/https://ilga.gov/Legislation/ILCS/Articles?ActID=2027&ChapterID=57&Chapter=CIVIL%20LIABILITIES&MajorTopic=RIGHTS%20AND%20REMEDIES",
+     "sha256": "b93117619d705ecccd7b3e1e10a45a8747b78555fb09096070e25da0acf072fe"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-740-45",
+   "short": "740 ILCS 45",
+   "title": "Illinois Compiled Statutes, Crime Victims Compensation Act (740 ILCS 45)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2028",
+   "versions": [
+    {
+     "from": "2026-05-11",
+     "units": 24,
+     "source_url": "https://web.archive.org/web/20260511144218/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2028&ChapAct=740%A0ILCS%A045/&ChapterID=57&ChapterName=CIVIL+LIABILITIES&ActName=Crime+Victims+Compensation+Act.",
+     "sha256": "c7e22f01ae3a1721d29086ea7805c882e79e7278c98f7cc5afb49ec4233fe394"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-740-50",
+   "short": "740 ILCS 50",
+   "title": "Illinois Compiled Statutes, Criminal Conversation Abolition Act (740 ILCS 50)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2029",
+   "versions": [
+    {
+     "from": "2026-06-11",
+     "units": 9,
+     "source_url": "https://web.archive.org/web/20260611171614/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2029&ChapterID=57&Chapter=CIVIL%20LIABILITIES&MajorTopic=RIGHTS%20AND%20REMEDIES",
+     "sha256": "82b556934b6fc446ec0947099a43babc08d92c7f2c1ed355fcfbef4f0f2a1257"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-740-57",
+   "short": "740 ILCS 57",
+   "title": "Illinois Compiled Statutes, Drug Dealer Liability Act (740 ILCS 57)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2031",
+   "versions": [
+    {
+     "from": "2026-06-16",
+     "units": 17,
+     "source_url": "https://web.archive.org/web/20260616215411/https://ilga.gov/Legislation/ILCS/Articles?ActID=2031&ChapterID=57&Chapter=CIVIL%20LIABILITIES&MajorTopic=RIGHTS%20AND%20REMEDIES",
+     "sha256": "c28bf20b5c4d8db62e38e96080e23bc0d6d9747a7b629bb05b6378336f3b25fd"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-740-58",
+   "short": "740 ILCS 58",
+   "title": "Illinois Compiled Statutes, Drug or Alcohol Impaired Minor Responsibility Act (740 ILCS 58)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2493",
+   "versions": [
+    {
+     "from": "2026-06-16",
+     "units": 5,
+     "source_url": "https://web.archive.org/web/20260616221512/https://ilga.gov/Legislation/ILCS/Articles?ActID=2493&ChapterID=57&Chapter=CIVIL%20LIABILITIES&MajorTopic=RIGHTS%20AND%20REMEDIES",
+     "sha256": "0c73766ce5f5489499fc8815ef79d0c9fe613c1a4ce225a6f0bb328122bcad80"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-740-60",
+   "short": "740 ILCS 60",
+   "title": "Illinois Compiled Statutes, Escaped Inmate Damages Act (740 ILCS 60)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2032",
+   "versions": [
+    {
+     "from": "2026-03-15",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20260315083152/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2032&ChapterID=57&Chapter=CIVIL%20LIABILITIES&MajorTopic=RIGHTS%20AND%20REMEDIES",
+     "sha256": "96b0cf1dd36d96d2c18f7227aad880b52a1e9f4cc749d71d3b1240a93f06ccd1"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-740-65",
+   "short": "740 ILCS 65",
+   "title": "Illinois Compiled Statutes, Farm Machine Safety Act (740 ILCS 65)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2033",
+   "versions": [
+    {
+     "from": "2026-04-13",
+     "units": 3,
+     "source_url": "https://web.archive.org/web/20260413082910/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2033&ChapterID=57&Chapter=CIVIL%20LIABILITIES&MajorTopic=RIGHTS%20AND%20REMEDIES",
+     "sha256": "fa2213a508b1576fd691ddf5952a9b057ece29fd97103d350727902e923e3a33"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-740-70",
+   "short": "740 ILCS 70",
+   "title": "Illinois Compiled Statutes, Farm Nuisance Suit Act (740 ILCS 70)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2034",
+   "versions": [
+    {
+     "from": "2026-06-16",
+     "units": 7,
+     "source_url": "https://web.archive.org/web/20260616211758/https://ilga.gov/Legislation/ILCS/Articles?ActID=2034&ChapterID=57&Chapter=CIVIL%20LIABILITIES&MajorTopic=RIGHTS%20AND%20REMEDIES",
+     "sha256": "550ea375153a7602e8cf6dc7494d8b30352a5085bdd25d92daa606bd582f55cd"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-740-75",
+   "short": "740 ILCS 75",
+   "title": "Illinois Compiled Statutes, Fire Fighter Liability Act (740 ILCS 75)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2035",
+   "versions": [
+    {
+     "from": "2026-02-05",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20260205083004/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2035&ChapterID=57",
+     "sha256": "02a5ae41bc2d2c1c2e5dc828f124cd0308ac2c7afd5d65c5cb78d276390b480d"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-740-80",
+   "short": "740 ILCS 80",
+   "title": "Illinois Compiled Statutes, Frauds Act (740 ILCS 80)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2036",
+   "versions": [
+    {
+     "from": "2026-06-16",
+     "units": 12,
+     "source_url": "https://web.archive.org/web/20260616212541/https://ilga.gov/Legislation/ILCS/Articles?ActID=2036&ChapterID=57&Chapter=CIVIL%20LIABILITIES&MajorTopic=RIGHTS%20AND%20REMEDIES",
+     "sha256": "9c63dc9836bc58840392e1315778cc06dad7884e15dd1a7e022d33b24c0482a1"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-740-82",
+   "short": "740 ILCS 82",
+   "title": "Illinois Compiled Statutes, Gender Violence Act (740 ILCS 82)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2494",
+   "versions": [
+    {
+     "from": "2026-08-11",
+     "units": 7,
+     "source_url": "https://web.archive.org/web/20260811170146/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2494&ChapterID=57",
+     "sha256": "21cc2208d76a5497c0cc2592c8c19f4b3a59221739e1d31bf2fce220a72f16a1"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-740-85",
+   "short": "740 ILCS 85",
+   "title": "Illinois Compiled Statutes, Highway Contractor Liability Act (740 ILCS 85)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2037",
+   "versions": [
+    {
+     "from": "2026-06-11",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20260611104438/https://ilga.gov/Legislation/ILCS/Articles?ActID=2037&ChapterID=57&Chapter=CIVIL%20LIABILITIES&MajorTopic=RIGHTS%20AND%20REMEDIES",
+     "sha256": "8508bd746e70c6ef0838d3f625b4a1036ba8e960085f3d60c9e329e38953ea83"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-740-90",
+   "short": "740 ILCS 90",
+   "title": "Illinois Compiled Statutes, Innkeeper Protection Act (740 ILCS 90)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2038",
+   "versions": [
+    {
+     "from": "2026-03-11",
+     "units": 14,
+     "source_url": "https://web.archive.org/web/20260311191549/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2038&ChapterID=57&Chapter=CIVIL%20LIABILITIES&MajorTopic=RIGHTS%20AND%20REMEDIES",
+     "sha256": "fed4ea9f6e45207cce2285750f7d2caa0a25cb1e4031082d16e22ac4cc9fe947"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-740-92",
+   "short": "740 ILCS 92",
+   "title": "Illinois Compiled Statutes, Insurance Claims Fraud Prevention Act (740 ILCS 92)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2039",
+   "versions": [
+    {
+     "from": "2026-04-16",
+     "units": 11,
+     "source_url": "https://web.archive.org/web/20260416173847/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2039&ChapterID=57&Chapter=CIVIL%20LIABILITIES&MajorTopic=RIGHTS%20AND%20REMEDIES",
+     "sha256": "721c14cd1a69335c2ac96879d044f10285d22088f0719ab1539176a93efae11d"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-740-95",
+   "short": "740 ILCS 95",
+   "title": "Illinois Compiled Statutes, Interference With Utility Services Act (740 ILCS 95)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2040",
+   "versions": [
+    {
+     "from": "2026-05-11",
+     "units": 5,
+     "source_url": "https://web.archive.org/web/20260511143959/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2040&ChapterID=57&Chapter=CIVIL%20LIABILITIES&MajorTopic=RIGHTS%20AND%20REMEDIES",
+     "sha256": "23326facc9c95f65effb7f77670c32c337dfcf086255f3ac03470c19391601a6"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-740-100",
+   "short": "740 ILCS 100",
+   "title": "Illinois Compiled Statutes, Joint Tortfeasor Contribution Act (740 ILCS 100)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2041",
+   "versions": [
+    {
+     "from": "2026-05-14",
+     "units": 7,
+     "source_url": "https://web.archive.org/web/20260514114143/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2041&ChapterID=57",
+     "sha256": "06fef51b8624be9379ce89f45ebfcf490393a4996e0a9bb57208a8abd4a128c0"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-740-105",
+   "short": "740 ILCS 105",
+   "title": "Illinois Compiled Statutes, Lewdness Public Nuisance Act (740 ILCS 105)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2042",
+   "versions": [
+    {
+     "from": "2026-06-16",
+     "units": 12,
+     "source_url": "https://web.archive.org/web/20260616212300/https://ilga.gov/Legislation/ILCS/Articles?ActID=2042&ChapterID=57&Chapter=CIVIL%20LIABILITIES&MajorTopic=RIGHTS%20AND%20REMEDIES",
+     "sha256": "7c050c9816ed4c1b6629fe953d69c205eca715a701bbe07344b7627af332d377"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-740-110",
+   "short": "740 ILCS 110",
+   "title": "Illinois Compiled Statutes, Mental Health and Developmental Disabilities Confidentiality Act (740 ILCS 110)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2043",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 34,
+     "source_url": "https://web.archive.org/web/20261013073443/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2043&ChapterID=57",
+     "sha256": "5848839741012e9bbadcc89e56866b0727fa65772b63b08cdc9867979d1bbcbe"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-740-113",
+   "short": "740 ILCS 113",
+   "title": "Illinois Compiled Statutes, Oil Spill Responders Liability Act (740 ILCS 113)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2044",
+   "versions": [
+    {
+     "from": "2026-06-11",
+     "units": 4,
+     "source_url": "https://web.archive.org/web/20260611041729/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2044&ChapterID=57",
+     "sha256": "e3ee74e1dd87b512c2a72162dfc0f8c677a15a011439c11f776a551188367bbd"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-740-115",
+   "short": "740 ILCS 115",
+   "title": "Illinois Compiled Statutes, Parental Responsibility Law (740 ILCS 115)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2045",
+   "versions": [
+    {
+     "from": "2026-06-16",
+     "units": 7,
+     "source_url": "https://web.archive.org/web/20260616222905/https://ilga.gov/Legislation/ILCS/Articles?ActID=2045&ChapterID=57&Chapter=CIVIL%20LIABILITIES&MajorTopic=RIGHTS%20AND%20REMEDIES",
+     "sha256": "39cb3d56c3a425d0ec92f1aff5c3e975c01b6138b8ccdbb850fa6e72b46fb80d"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-740-120",
+   "short": "740 ILCS 120",
+   "title": "Illinois Compiled Statutes, Parental Right of Recovery Act (740 ILCS 120)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2046",
+   "versions": [
+    {
+     "from": "2026-06-16",
+     "units": 4,
+     "source_url": "https://web.archive.org/web/20260616214515/https://ilga.gov/Legislation/ILCS/Articles?ActID=2046&ChapterID=57&Chapter=CIVIL%20LIABILITIES&MajorTopic=RIGHTS%20AND%20REMEDIES",
+     "sha256": "88af864632ebf915e53c30f3ff6e6cdb468640d376012ad0378769301bf19c07"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-740-126",
+   "short": "740 ILCS 126",
+   "title": "Illinois Compiled Statutes, Protecting Reproductive Health Care Services Act (740 ILCS 126)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=4343",
+   "versions": [
+    {
+     "from": "2026-03-13",
+     "units": 6,
+     "source_url": "https://web.archive.org/web/20260313043328/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=4343&ChapterID=57&Chapter=CIVIL%20LIABILITIES&MajorTopic=RIGHTS%20AND%20REMEDIES",
+     "sha256": "0ef613087bedc6404c8b4c33a19e3fd09940a9c6c468d4c5bc40a74e55acff75"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-740-128",
+   "short": "740 ILCS 128",
+   "title": "Illinois Compiled Statutes, Trafficking Victims Protection Act (740 ILCS 128)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2812",
+   "versions": [
+    {
+     "from": "2026-06-16",
+     "units": 13,
+     "source_url": "https://web.archive.org/web/20260616222150/https://ilga.gov/Legislation/ILCS/Articles?ActID=2812&ChapterID=57&Chapter=CIVIL%20LIABILITIES&MajorTopic=RIGHTS%20AND%20REMEDIES",
+     "sha256": "57aa425e763f1bab4d343af293f749d0aca6634fe8509f491ab24c6c640767e3"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-740-130",
+   "short": "740 ILCS 130",
+   "title": "Illinois Compiled Statutes, Premises Liability Act (740 ILCS 130)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2048",
+   "versions": [
+    {
+     "from": "2026-05-21",
+     "units": 6,
+     "source_url": "https://web.archive.org/web/20260521112022/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2048&ChapterID=57&Chapter=CIVIL%20LIABILITIES&MajorTopic=RIGHTS%20AND%20REMEDIES",
+     "sha256": "253bdba4f572cee5fa6c5f74b246f48dd0295d825a9404b8edc48f1691c5da7b"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-740-135",
+   "short": "740 ILCS 135",
+   "title": "Illinois Compiled Statutes, Railroad Passenger Removal Act (740 ILCS 135)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2049",
+   "versions": [
+    {
+     "from": "2026-02-17",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20260217145415/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2049&ChapterID=57&Chapter=CIVIL%20LIABILITIES&MajorTopic=RIGHTS%20AND%20REMEDIES",
+     "sha256": "1ca5d35fa7f6ab1f0fd2307e0f8c8a936a46b4e5d3e6b3df64b2460744051b5a"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-740-137",
+   "short": "740 ILCS 137",
+   "title": "Illinois Compiled Statutes, Right to Breastfeed Act (740 ILCS 137)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2615",
+   "versions": [
+    {
+     "from": "2026-06-16",
+     "units": 5,
+     "source_url": "https://web.archive.org/web/20260616223231/https://ilga.gov/Legislation/ILCS/Articles?ActID=2615&ChapterID=57&Chapter=CIVIL%20LIABILITIES&MajorTopic=RIGHTS%20AND%20REMEDIES",
+     "sha256": "60c9f7202334d668358962ab7703db052799c8a4d02638e8d3a13967d133da04"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-740-140",
+   "short": "740 ILCS 140",
+   "title": "Illinois Compiled Statutes, Sexual Exploitation in Psychotherapy, Professional Health Services, and Professional Mental Health Services Act (740 ILCS 140)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2050",
+   "versions": [
+    {
+     "from": "2026-06-16",
+     "units": 8,
+     "source_url": "https://web.archive.org/web/20260616213004/https://ilga.gov/Legislation/ILCS/Articles?ActID=2050&ChapterID=57&Chapter=CIVIL%20LIABILITIES&MajorTopic=RIGHTS%20AND%20REMEDIES",
+     "sha256": "ce173458db8127828035d495df27e1e4ca39a0dcd3998d4e819b623938d8dd5c"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-740-145",
+   "short": "740 ILCS 145",
+   "title": "Illinois Compiled Statutes, Slander and Libel Act (740 ILCS 145)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2051",
+   "versions": [
+    {
+     "from": "2026-06-16",
+     "units": 4,
+     "source_url": "https://web.archive.org/web/20260616222616/https://ilga.gov/Legislation/ILCS/Articles?ActID=2051&ChapterID=57&Chapter=CIVIL%20LIABILITIES&MajorTopic=RIGHTS%20AND%20REMEDIES",
+     "sha256": "42434afcdbaa6e8a316be6d84e26f1cfe81b6a7504372f51d1863e933602c9e6"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-740-147",
+   "short": "740 ILCS 147",
+   "title": "Illinois Compiled Statutes, Illinois Streetgang Terrorism Omnibus Prevention Act (740 ILCS 147)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2052",
+   "versions": [
+    {
+     "from": "2026-06-11",
+     "units": 10,
+     "source_url": "https://web.archive.org/web/20260611101017/https://ilga.gov/Legislation/ILCS/Articles?ActID=2052&ChapterID=57&Chapter=CIVIL%20LIABILITIES&MajorTopic=RIGHTS%20AND%20REMEDIES",
+     "sha256": "9948124ad6f6387eb31ce92c8a8cc4c9a8768c92cecd45a7ffe2fc8d899d18d4"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-740-155",
+   "short": "740 ILCS 155",
+   "title": "Illinois Compiled Statutes, Sureties Act (740 ILCS 155)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2054",
+   "versions": [
+    {
+     "from": "2026-06-11",
+     "units": 5,
+     "source_url": "https://web.archive.org/web/20260611101902/https://ilga.gov/Legislation/ILCS/Articles?ActID=2054&ChapterID=57&Chapter=CIVIL%20LIABILITIES&MajorTopic=RIGHTS%20AND%20REMEDIES",
+     "sha256": "5b8a2fbcbc7ca1a16429b9829ebedd0389acf3e182db1a974a90d394563d0f5f"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-740-160",
+   "short": "740 ILCS 160",
+   "title": "Illinois Compiled Statutes, Uniform Fraudulent Transfer Act (740 ILCS 160)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2055",
+   "versions": [
+    {
+     "from": "2026-06-07",
+     "units": 12,
+     "source_url": "https://web.archive.org/web/20260607180632/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2055&ChapterID=57",
+     "sha256": "41fed3b80dd91a713fd927cfd37e5c2e4b915d7fc8bf9b76a20c16a4088ed1c9"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-740-165",
+   "short": "740 ILCS 165",
+   "title": "Illinois Compiled Statutes, Uniform Single Publication Act (740 ILCS 165)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2056",
+   "versions": [
+    {
+     "from": "2026-06-16",
+     "units": 5,
+     "source_url": "https://web.archive.org/web/20260616220324/https://ilga.gov/Legislation/ILCS/Articles?ActID=2056&ChapterID=57&Chapter=CIVIL%20LIABILITIES&MajorTopic=RIGHTS%20AND%20REMEDIES",
+     "sha256": "ecc65350589a663189e5fb3b4bab7a05518d2c544919fee97c8214c07956a5ed"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-740-170",
+   "short": "740 ILCS 170",
+   "title": "Illinois Compiled Statutes, Illinois Wage Assignment Act (740 ILCS 170)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2057",
+   "versions": [
+    {
+     "from": "2026-10-09",
+     "units": 17,
+     "source_url": "https://web.archive.org/web/20261009232341/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2057&ChapterID=57",
+     "sha256": "f52bec2b9d0e91359caa347a886cd2fe0490ccab9a03ba45e2d886d1dd5f3833"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-740-174",
+   "short": "740 ILCS 174",
+   "title": "Illinois Compiled Statutes, Whistleblower Act (740 ILCS 174)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2495",
+   "versions": [
+    {
+     "from": "2026-06-05",
+     "units": 13,
+     "source_url": "https://web.archive.org/web/20260605152441/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2495&ChapterID=57",
+     "sha256": "ca899fabb4a1ae422ef2a2536455d2725d4d7c87309c7f42e67a6a8a508eaba9"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-740-175",
+   "short": "740 ILCS 175",
+   "title": "Illinois Compiled Statutes, Illinois False Claims Act (740 ILCS 175)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2058",
+   "versions": [
+    {
+     "from": "2026-10-10",
+     "units": 8,
+     "source_url": "https://web.archive.org/web/20261010184124/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2058&ChapterID=57",
+     "sha256": "47b9237e98953684660b3e7ebcdeba33ee9434da0cf1037a11117678f668c232"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-740-180",
+   "short": "740 ILCS 180",
+   "title": "Illinois Compiled Statutes, Wrongful Death Act (740 ILCS 180)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2059",
+   "versions": [
+    {
+     "from": "2026-06-16",
+     "units": 5,
+     "source_url": "https://web.archive.org/web/20260616212638/https://ilga.gov/Legislation/ILCS/Articles?ActID=2059&ChapterID=57&Chapter=CIVIL%20LIABILITIES&MajorTopic=RIGHTS%20AND%20REMEDIES",
+     "sha256": "c82f3227f6f60c799a38c0f3058d7e971cca2b7c7ffb4444bb346f254ab0a644"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-740-185",
+   "short": "740 ILCS 185",
+   "title": "Illinois Compiled Statutes, Wrongful Tree Cutting Act (740 ILCS 185)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2060",
+   "versions": [
+    {
+     "from": "2026-03-15",
+     "units": 14,
+     "source_url": "https://web.archive.org/web/20260315074743/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2060&ChapterID=57&Chapter=CIVIL%20LIABILITIES&MajorTopic=RIGHTS%20AND%20REMEDIES",
+     "sha256": "67ee2f55df9cc962b97424e2e1b4870a6e01e718c21130431c9e5193eee493d3"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-740-190",
+   "short": "740 ILCS 190",
+   "title": "Illinois Compiled Statutes, Civil Remedies for Nonconsensual Dissemination of Private Sexual Images Act (740 ILCS 190)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=4035",
+   "versions": [
+    {
+     "from": "2026-06-16",
+     "units": 8,
+     "source_url": "https://web.archive.org/web/20260616215902/https://ilga.gov/Legislation/ILCS/Articles?ActID=4035&ChapterID=57&Chapter=CIVIL%20LIABILITIES&MajorTopic=RIGHTS%20AND%20REMEDIES",
+     "sha256": "a292951ec48f855ddcc0e2a970cd9c4781d72750fea69578c8e6232219d2f77a"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-740-195",
+   "short": "740 ILCS 195",
+   "title": "Illinois Compiled Statutes, Civil Liability for Doxing Act (740 ILCS 195)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=4444",
+   "versions": [
+    {
+     "from": "2026-10-31",
+     "units": 8,
+     "source_url": "https://web.archive.org/web/20261031222454/https://www.ilga.gov/Legislation/ILCS/Articles?ChapterID=57&ActID=4444",
+     "sha256": "064596d9108684cec6b420628f6454df57d432b46afc318c2da9c67f22f3bcb9"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-745-5",
+   "short": "745 ILCS 5",
+   "title": "Illinois Compiled Statutes, State Lawsuit Immunity Act (745 ILCS 5)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2061",
+   "versions": [
+    {
+     "from": "2026-05-15",
+     "units": 3,
+     "source_url": "https://web.archive.org/web/20260515193308/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2061&ChapterID=58",
+     "sha256": "06b44ea9dd23ef78666895bd15015aa38c1722e9bb8b684e7e0833ecf7e5ede3"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-745-10-article-0001",
+   "short": "745 ILCS 10 art. 1",
+   "title": "Illinois Compiled Statutes, Local Governmental and Governmental Employees Tort Immunity Act (745 ILCS 10), Article 1",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2062",
+   "versions": [
+    {
+     "from": "2026-03-14",
+     "units": 13,
+     "source_url": "https://web.archive.org/web/20260314222010/https://www.ilga.gov/legislation/ILCS/details?MajorTopic=&Chapter=&ActName=Local%20Governmental%20and%20Governmental%20Employees%20Tort%20Immunity%20Act.&ActID=2062&ChapterID=58&SeqStart=&&ChapAct=FullText",
+     "sha256": "833724b98908a9bfe2ddfcbdcc0f1dffdf1f72030709ff23939ad169fb31937a"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-745-10-article-0002",
+   "short": "745 ILCS 10 art. 2",
+   "title": "Illinois Compiled Statutes, Local Governmental and Governmental Employees Tort Immunity Act (745 ILCS 10), Article 2",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2062",
+   "versions": [
+    {
+     "from": "2026-03-14",
+     "units": 27,
+     "source_url": "https://web.archive.org/web/20260314222010/https://www.ilga.gov/legislation/ILCS/details?MajorTopic=&Chapter=&ActName=Local%20Governmental%20and%20Governmental%20Employees%20Tort%20Immunity%20Act.&ActID=2062&ChapterID=58&SeqStart=&&ChapAct=FullText",
+     "sha256": "833724b98908a9bfe2ddfcbdcc0f1dffdf1f72030709ff23939ad169fb31937a"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-745-10-article-0003",
+   "short": "745 ILCS 10 art. 3",
+   "title": "Illinois Compiled Statutes, Local Governmental and Governmental Employees Tort Immunity Act (745 ILCS 10), Article 3",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2062",
+   "versions": [
+    {
+     "from": "2026-03-14",
+     "units": 10,
+     "source_url": "https://web.archive.org/web/20260314222010/https://www.ilga.gov/legislation/ILCS/details?MajorTopic=&Chapter=&ActName=Local%20Governmental%20and%20Governmental%20Employees%20Tort%20Immunity%20Act.&ActID=2062&ChapterID=58&SeqStart=&&ChapAct=FullText",
+     "sha256": "833724b98908a9bfe2ddfcbdcc0f1dffdf1f72030709ff23939ad169fb31937a"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-745-10-article-0004",
+   "short": "745 ILCS 10 art. 4",
+   "title": "Illinois Compiled Statutes, Local Governmental and Governmental Employees Tort Immunity Act (745 ILCS 10), Article 4",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2062",
+   "versions": [
+    {
+     "from": "2026-03-14",
+     "units": 7,
+     "source_url": "https://web.archive.org/web/20260314222010/https://www.ilga.gov/legislation/ILCS/details?MajorTopic=&Chapter=&ActName=Local%20Governmental%20and%20Governmental%20Employees%20Tort%20Immunity%20Act.&ActID=2062&ChapterID=58&SeqStart=&&ChapAct=FullText",
+     "sha256": "833724b98908a9bfe2ddfcbdcc0f1dffdf1f72030709ff23939ad169fb31937a"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-745-10-article-0005",
+   "short": "745 ILCS 10 art. 5",
+   "title": "Illinois Compiled Statutes, Local Governmental and Governmental Employees Tort Immunity Act (745 ILCS 10), Article 5",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2062",
+   "versions": [
+    {
+     "from": "2026-03-14",
+     "units": 5,
+     "source_url": "https://web.archive.org/web/20260314222010/https://www.ilga.gov/legislation/ILCS/details?MajorTopic=&Chapter=&ActName=Local%20Governmental%20and%20Governmental%20Employees%20Tort%20Immunity%20Act.&ActID=2062&ChapterID=58&SeqStart=&&ChapAct=FullText",
+     "sha256": "833724b98908a9bfe2ddfcbdcc0f1dffdf1f72030709ff23939ad169fb31937a"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-745-10-article-0006",
+   "short": "745 ILCS 10 art. 6",
+   "title": "Illinois Compiled Statutes, Local Governmental and Governmental Employees Tort Immunity Act (745 ILCS 10), Article 6",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2062",
+   "versions": [
+    {
+     "from": "2026-03-14",
+     "units": 10,
+     "source_url": "https://web.archive.org/web/20260314222010/https://www.ilga.gov/legislation/ILCS/details?MajorTopic=&Chapter=&ActName=Local%20Governmental%20and%20Governmental%20Employees%20Tort%20Immunity%20Act.&ActID=2062&ChapterID=58&SeqStart=&&ChapAct=FullText",
+     "sha256": "833724b98908a9bfe2ddfcbdcc0f1dffdf1f72030709ff23939ad169fb31937a"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-745-10-article-0006a",
+   "short": "745 ILCS 10 art. 6A",
+   "title": "Illinois Compiled Statutes, Local Governmental and Governmental Employees Tort Immunity Act (745 ILCS 10), Article 6A",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2062",
+   "versions": [
+    {
+     "from": "2026-03-14",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20260314222010/https://www.ilga.gov/legislation/ILCS/details?MajorTopic=&Chapter=&ActName=Local%20Governmental%20and%20Governmental%20Employees%20Tort%20Immunity%20Act.&ActID=2062&ChapterID=58&SeqStart=&&ChapAct=FullText",
+     "sha256": "833724b98908a9bfe2ddfcbdcc0f1dffdf1f72030709ff23939ad169fb31937a"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-745-10-article-0007",
+   "short": "745 ILCS 10 art. 7",
+   "title": "Illinois Compiled Statutes, Local Governmental and Governmental Employees Tort Immunity Act (745 ILCS 10), Article 7",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2062",
+   "versions": [
+    {
+     "from": "2026-03-14",
+     "units": 3,
+     "source_url": "https://web.archive.org/web/20260314222010/https://www.ilga.gov/legislation/ILCS/details?MajorTopic=&Chapter=&ActName=Local%20Governmental%20and%20Governmental%20Employees%20Tort%20Immunity%20Act.&ActID=2062&ChapterID=58&SeqStart=&&ChapAct=FullText",
+     "sha256": "833724b98908a9bfe2ddfcbdcc0f1dffdf1f72030709ff23939ad169fb31937a"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-745-10-article-0008",
+   "short": "745 ILCS 10 art. 8",
+   "title": "Illinois Compiled Statutes, Local Governmental and Governmental Employees Tort Immunity Act (745 ILCS 10), Article 8",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2062",
+   "versions": [
+    {
+     "from": "2026-03-14",
+     "units": 3,
+     "source_url": "https://web.archive.org/web/20260314222010/https://www.ilga.gov/legislation/ILCS/details?MajorTopic=&Chapter=&ActName=Local%20Governmental%20and%20Governmental%20Employees%20Tort%20Immunity%20Act.&ActID=2062&ChapterID=58&SeqStart=&&ChapAct=FullText",
+     "sha256": "833724b98908a9bfe2ddfcbdcc0f1dffdf1f72030709ff23939ad169fb31937a"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-745-10-article-0009",
+   "short": "745 ILCS 10 art. 9",
+   "title": "Illinois Compiled Statutes, Local Governmental and Governmental Employees Tort Immunity Act (745 ILCS 10), Article 9",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2062",
+   "versions": [
+    {
+     "from": "2026-03-14",
+     "units": 7,
+     "source_url": "https://web.archive.org/web/20260314222010/https://www.ilga.gov/legislation/ILCS/details?MajorTopic=&Chapter=&ActName=Local%20Governmental%20and%20Governmental%20Employees%20Tort%20Immunity%20Act.&ActID=2062&ChapterID=58&SeqStart=&&ChapAct=FullText",
+     "sha256": "833724b98908a9bfe2ddfcbdcc0f1dffdf1f72030709ff23939ad169fb31937a"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-745-10-article-0010",
+   "short": "745 ILCS 10 art. 10",
+   "title": "Illinois Compiled Statutes, Local Governmental and Governmental Employees Tort Immunity Act (745 ILCS 10), Article 10",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2062",
+   "versions": [
+    {
+     "from": "2026-03-14",
+     "units": 1,
+     "source_url": "https://web.archive.org/web/20260314222010/https://www.ilga.gov/legislation/ILCS/details?MajorTopic=&Chapter=&ActName=Local%20Governmental%20and%20Governmental%20Employees%20Tort%20Immunity%20Act.&ActID=2062&ChapterID=58&SeqStart=&&ChapAct=FullText",
+     "sha256": "833724b98908a9bfe2ddfcbdcc0f1dffdf1f72030709ff23939ad169fb31937a"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-745-22",
+   "short": "745 ILCS 22",
+   "title": "Illinois Compiled Statutes, Federal Law Enforcement Officer Immunity Act (745 ILCS 22)",
+   "url": "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2066",
+   "versions": [
+    {
+     "from": "2026-08-30",
+     "units": 11,
+     "source_url": "https://web.archive.org/web/20260830173702/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2066&ChapterID=58",
+     "sha256": "f47a0634bbf2e6fd3a11821ddcf475f0c7e6d57d35c31728ac2f59290ad71768"
     }
    ]
   }
