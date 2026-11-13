@@ -56,5 +56,12 @@
     "compilation_date": "2026-10-30",
     "authoritative": false,
     "date_basis": "explicit effective date of latest currently cited Public Act; future repeal excluded"
+  },
+  "ilcs_depth_q2034": {
+    "acts": 7,
+    "checked_on": "2026-11-13",
+    "source": "https://ftp.ilga.gov/ILCS/",
+    "authoritative": false,
+    "date_basis": "explicit effective date of latest currently cited Public Act; future repeal excluded"
   }
 }

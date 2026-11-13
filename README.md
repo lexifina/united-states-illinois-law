@@ -1042,3 +1042,17 @@ Each addition retains all sections, act-title documents and article headings in 
 | [Illinois Cool Cities Act (415 ILCS 145)](https://ftp.ilga.gov/ILCS/Ch%200415/Act%200145/) | 5 | 2007-08-27 |
 
 These four current-text acts include source notices of repeal effective 1 January 2027. Their existing text remains in force on 13 November 2026; the future repeal is not applied. The date of each version is the explicit effective date of its latest currently cited Public Act. The per-document source and date evidence is in `data/ilcs-future-repeal-q2023.json`.
+
+## Further current ILCS texts, 13 November 2026
+
+7 additional indexed acts from the [Illinois General Assembly static ILCS compilation](https://ftp.ilga.gov/ILCS/) retain current text selected only by explicit publisher version labels and source effective dates. Future repeal notices remain; future amendment alternatives are excluded. The compilation is updated 30 October 2026 through Public Act 104-854 and is publisher-labelled non-authoritative. Each date is the explicit effective date of the latest currently cited Public Act. The source document and date inventory is in `data/ilcs-depth-q2034.json`.
+
+| Act | Source date | Documents |
+| --- | --- | ---: |
+| [Advisory Council on Early Identification and Treatment of Mental Health Conditions Act (405 ILCS 115)](https://ftp.ilga.gov/ILCS/Ch%200405/Act%200115/) | 2018-08-14 | 4 |
+| [Afterschool Youth Development Project Act (325 ILCS 27)](https://ftp.ilga.gov/ILCS/Ch%200325/Act%200027/) | 2017-09-08 | 9 |
+| [Strengthening and Transforming Behavioral Health Crisis Care in Illinois Act (405 ILCS 160)](https://ftp.ilga.gov/ILCS/Ch%200405/Act%200160/) | 2023-07-28 | 9 |
+| [Rehabilitation of Persons with Disabilities Act (20 ILCS 2405)](https://ftp.ilga.gov/ILCS/Ch%200020/Act%202405/) | 2025-08-15 | 27 |
+| [Public-Private Partnerships for Transportation Act (630 ILCS 5)](https://ftp.ilga.gov/ILCS/Ch%200630/Act%200005/) | 2025-08-15 | 32 |
+| [Illinois Optometric Practice Act of 1987 (225 ILCS 80)](https://ftp.ilga.gov/ILCS/Ch%200225/Act%200080/) | 2026-08-07 | 57 |
+| [Department of Commerce and Economic Opportunity Law of the Civil Administrative Code of Illinois (20 ILCS 605)](https://ftp.ilga.gov/ILCS/Ch%200020/Act%200605/) | 2026-08-21 | 175 |
