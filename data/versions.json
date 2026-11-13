@@ -49295,6 +49295,36 @@
      "units": 175
     }
    ]
+  },
+  {
+   "slug": "ilcs-75-40",
+   "short": "75 ILCS 40",
+   "title": "Village Library Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200075/Act%200040/",
+   "versions": [
+    {
+     "from": "2002-01-01",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200075/Act%200040/",
+     "sha256": "e08dfe4ca0d7196203afebe34dcce22ee5e364191e7728b8fa885008769d9c81",
+     "source_images": 0,
+     "units": 7
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-620-35",
+   "short": "620 ILCS 35",
+   "title": "Permanent Noise Monitoring Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200620/Act%200035/",
+   "versions": [
+    {
+     "from": "2018-08-14",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200620/Act%200035/",
+     "sha256": "be3377e663d3d9f4e252f9f5ccbeae4a4b0dd20a1cae05cc67505559785bc3dd",
+     "source_images": 0,
+     "units": 6
+    }
+   ]
   }
  ]
 }

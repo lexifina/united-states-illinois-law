@@ -1,0 +1,114 @@
+{
+  "checked_on": "2026-11-13",
+  "source": "https://ftp.ilga.gov/ILCS/",
+  "authoritative": false,
+  "listing": {
+    "root_sha256": "bf1f29c4ddbe5719acd7c427c493981faa0e3112a51035899c18e8daec3fd5a3",
+    "chapter_sha256": "699a10782fd71865df23d1ab84f2fd57533b24a0e7b8dec3fa88de36fd102ae9",
+    "act_index_sha256": "a2de8cd55fca24ac8cdc7a99e75022ee5e7becc6e8f262e66f27cb45577655ca",
+    "listed_documents": [
+      "Ch 0075/Act 0040/007500400F.html",
+      "Ch 0075/Act 0040/007500400K0.01.html",
+      "Ch 0075/Act 0040/007500400K1.html",
+      "Ch 0075/Act 0040/007500400K2.html",
+      "Ch 0075/Act 0040/007500400K3.html",
+      "Ch 0075/Act 0040/007500400K4.html",
+      "Ch 0075/Act 0040/007500400K4.5.html",
+      "Ch 0075/Act 0040/007500400K5.html"
+    ],
+    "fetched_responses": 12
+  },
+  "act": "ilcs-75-40",
+  "title": "Village Library Act",
+  "in_force": {
+    "date": "2002-01-01",
+    "latest_public_act": "92-118",
+    "quote": "(Source: P.A. 92-118, eff. 1-1-02.)",
+    "source_url": "https://ftp.ilga.gov/ILCS/Ch%200075/Act%200040/007500400K2.html"
+  },
+  "included_documents": [
+    {
+      "file": "ilcs-75-40/doc-0001-007500400f.md",
+      "source_url": "https://ftp.ilga.gov/ILCS/Ch%200075/Act%200040/007500400F.html",
+      "bytes": 1572,
+      "sha256": "2c3c4ad70e0d95c1a2d14038eba28a7e1527ade62ab88c29ce76fdc3072831b7",
+      "source_images": 0,
+      "referenced": 0,
+      "omitted": 0,
+      "words_equal": true
+    },
+    {
+      "file": "ilcs-75-40/doc-0002-007500400k0-01.md",
+      "source_url": "https://ftp.ilga.gov/ILCS/Ch%200075/Act%200040/007500400K0.01.html",
+      "bytes": 1599,
+      "sha256": "1b2efb69782dbc58ebae1952292021675edd00a4fc0a561212d112b4b139b2b9",
+      "source_images": 0,
+      "referenced": 0,
+      "omitted": 0,
+      "words_equal": true
+    },
+    {
+      "file": "ilcs-75-40/doc-0003-007500400k1.md",
+      "source_url": "https://ftp.ilga.gov/ILCS/Ch%200075/Act%200040/007500400K1.html",
+      "bytes": 1752,
+      "sha256": "b8bd5ca81c01e7942235db4bc7abb36b9ee446834e2ec232bf634a9e45a43222",
+      "source_images": 0,
+      "referenced": 0,
+      "omitted": 0,
+      "words_equal": true
+    },
+    {
+      "file": "ilcs-75-40/doc-0004-007500400k2.md",
+      "source_url": "https://ftp.ilga.gov/ILCS/Ch%200075/Act%200040/007500400K2.html",
+      "bytes": 2021,
+      "sha256": "97aa31e8f4c876bce5c4f0dbcd743f6b2b93d68135d0457b2a946b970fe17ee7",
+      "source_images": 0,
+      "referenced": 0,
+      "omitted": 0,
+      "words_equal": true
+    },
+    {
+      "file": "ilcs-75-40/doc-0005-007500400k3.md",
+      "source_url": "https://ftp.ilga.gov/ILCS/Ch%200075/Act%200040/007500400K3.html",
+      "bytes": 1764,
+      "sha256": "e6ec3a0b148c48133b3180cbf61ee883bb5ffe6481bd8e3960fc4dbea09efed1",
+      "source_images": 0,
+      "referenced": 0,
+      "omitted": 0,
+      "words_equal": true
+    },
+    {
+      "file": "ilcs-75-40/doc-0006-007500400k4.md",
+      "source_url": "https://ftp.ilga.gov/ILCS/Ch%200075/Act%200040/007500400K4.html",
+      "bytes": 1577,
+      "sha256": "3a934340c5e85dc7c30b7e0218cd629b90adb3219743760a1048f3256113fe20",
+      "source_images": 0,
+      "referenced": 0,
+      "omitted": 0,
+      "words_equal": true
+    },
+    {
+      "file": "ilcs-75-40/doc-0007-007500400k5.md",
+      "source_url": "https://ftp.ilga.gov/ILCS/Ch%200075/Act%200040/007500400K5.html",
+      "bytes": 1722,
+      "sha256": "3f55688de18cd65827de3e7e5f36380a27c9cd4667727fbd370116d1eda4027e",
+      "source_images": 0,
+      "referenced": 0,
+      "omitted": 0,
+      "words_equal": true
+    }
+  ],
+  "excluded_documents": [
+    {
+      "file": "Ch 0075/Act 0040/007500400K4.5.html",
+      "source_url": "https://ftp.ilga.gov/ILCS/Ch%200075/Act%200040/007500400K4.5.html",
+      "sha256": "03879c6b86e4385d9522097943569e06c082650fbfe6da25bed434ac8f574aea",
+      "effective_date": "2027-01-01",
+      "public_act": "104-808",
+      "reason": "publisher section text states delayed effective date"
+    }
+  ],
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
