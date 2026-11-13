@@ -49460,6 +49460,21 @@
      "units": 87
     }
    ]
+  },
+  {
+   "slug": "ilcs-20-5",
+   "short": "20 ILCS 5",
+   "title": "Civil Administrative Code of Illinois",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%200005/",
+   "versions": [
+    {
+     "from": "2026-07-01",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%200005/",
+     "sha256": "166725cceb35c77d9257db3bb8723666f9468a9a968b73f1da76d6d4cb03f361",
+     "source_images": 0,
+     "units": 109
+    }
+   ]
   }
  ]
 }

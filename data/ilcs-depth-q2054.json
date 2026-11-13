@@ -4644,5 +4644,1471 @@
         "reason": "standalone publisher-labelled future-only section"
       }
     ]
+  },
+  {
+    "slug": "ilcs-20-5",
+    "source_date": {
+      "date": "2026-07-01",
+      "latest_public_act": "104-466",
+      "quote": "104-466, eff. 7-1-26.)",
+      "source_url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%200005/002000050K5-123.html"
+    },
+    "documents": [
+      {
+        "file": "ilcs-20-5/doc-0001-002000050f.md",
+        "source_url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%200005/002000050F.html",
+        "sha256": "6ca53b41905c1f26fd6ba515cfd898a5d5034cf5051a8eb17144e917b5220461",
+        "selection": {
+          "selection": "whole body",
+          "future_repeals": []
+        },
+        "source_images": 0,
+        "referenced": 0,
+        "omitted": 0,
+        "words_equal": true
+      },
+      {
+        "file": "ilcs-20-5/doc-0002-002000050hart-1.md",
+        "source_url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%200005/002000050HArt.%201.html",
+        "sha256": "058e5af6d7234acca59adcdd93c34f70b386c5b204e339c68b640ecf66c731a1",
+        "selection": {
+          "selection": "whole body",
+          "future_repeals": []
+        },
+        "source_images": 0,
+        "referenced": 0,
+        "omitted": 0,
+        "words_equal": true
+      },
+      {
+        "file": "ilcs-20-5/doc-0003-002000050k1-1.md",
+        "source_url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%200005/002000050K1-1.html",
+        "sha256": "7bcec84bf15bd6b1d77d32e53f412168ba6e6008560f9fc3c4d55da96deba854",
+        "selection": {
+          "selection": "whole body",
+          "future_repeals": []
+        },
+        "source_images": 0,
+        "referenced": 0,
+        "omitted": 0,
+        "words_equal": true
+      },
+      {
+        "file": "ilcs-20-5/doc-0004-002000050k1-2.md",
+        "source_url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%200005/002000050K1-2.html",
+        "sha256": "cedf2157fcfbecaed514d7e1c09707398cdce3b1aeed1ce82bec85bc69bc25c9",
+        "selection": {
+          "selection": "whole body",
+          "future_repeals": []
+        },
+        "source_images": 0,
+        "referenced": 0,
+        "omitted": 0,
+        "words_equal": true
+      },
+      {
+        "file": "ilcs-20-5/doc-0005-002000050k1-5.md",
+        "source_url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%200005/002000050K1-5.html",
+        "sha256": "76be93966d6885f14bd459212d8a3199a3209cc935ef6689573392c1ba47b844",
+        "selection": {
+          "selection": "whole body",
+          "future_repeals": []
+        },
+        "source_images": 0,
+        "referenced": 0,
+        "omitted": 0,
+        "words_equal": true
+      },
+      {
+        "file": "ilcs-20-5/doc-0006-002000050hart-5.md",
+        "source_url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%200005/002000050HArt.%205.html",
+        "sha256": "4adc974b2a9619c90869706fc990fe15a719778b08588df840d2da94711f009e",
+        "selection": {
+          "selection": "whole body",
+          "future_repeals": []
+        },
+        "source_images": 0,
+        "referenced": 0,
+        "omitted": 0,
+        "words_equal": true
+      },
+      {
+        "file": "ilcs-20-5/doc-0007-002000050k5-1.md",
+        "source_url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%200005/002000050K5-1.html",
+        "sha256": "1656361905d2075b8fcd1f9e464b2fd79cccb7ca6c76cab9bea27a0852363065",
+        "selection": {
+          "selection": "whole body",
+          "future_repeals": []
+        },
+        "source_images": 0,
+        "referenced": 0,
+        "omitted": 0,
+        "words_equal": true
+      },
+      {
+        "file": "ilcs-20-5/doc-0008-002000050k5-5.md",
+        "source_url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%200005/002000050K5-5.html",
+        "sha256": "6e449863b30d14982d2a21680fd00b968c0821b9fc22fa597f90233f73720712",
+        "selection": {
+          "selection": "whole body",
+          "future_repeals": []
+        },
+        "source_images": 0,
+        "referenced": 0,
+        "omitted": 0,
+        "words_equal": true
+      },
+      {
+        "file": "ilcs-20-5/doc-0009-002000050k5-10.md",
+        "source_url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%200005/002000050K5-10.html",
+        "sha256": "4542bd7a75c5e686f81695eb81c35559e46970cbebfff1323f69bff92fc3f01c",
+        "selection": {
+          "selection": "whole body",
+          "future_repeals": []
+        },
+        "source_images": 0,
+        "referenced": 0,
+        "omitted": 0,
+        "words_equal": true
+      },
+      {
+        "file": "ilcs-20-5/doc-0010-002000050k5-15.md",
+        "source_url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%200005/002000050K5-15.html",
+        "sha256": "b69a7e3f8e0191f71afe209384ce42fe67f5759c035b1df483a47b0d066de67c",
+        "selection": {
+          "selection": "publisher-labelled alternative",
+          "retained_label": "(Text of Section from P.A. 104-466)",
+          "all_labels": [
+            "(Text of Section from P.A. 104-465)",
+            "(Text of Section from P.A. 104-466)"
+          ],
+          "public_act": "104-466",
+          "future_repeals": []
+        },
+        "source_images": 0,
+        "referenced": 0,
+        "omitted": 0,
+        "words_equal": true
+      },
+      {
+        "file": "ilcs-20-5/doc-0011-002000050k5-20.md",
+        "source_url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%200005/002000050K5-20.html",
+        "sha256": "b62358f8a384e5eb39f8325c25f364b8e4bd8a7c23274684b9b43bdc6df4699f",
+        "selection": {
+          "selection": "publisher-labelled alternative",
+          "retained_label": "(Text of Section from P.A. 104-466)",
+          "all_labels": [
+            "(Text of Section from P.A. 104-465)",
+            "(Text of Section from P.A. 104-466)"
+          ],
+          "public_act": "104-466",
+          "future_repeals": []
+        },
+        "source_images": 0,
+        "referenced": 0,
+        "omitted": 0,
+        "words_equal": true
+      },
+      {
+        "file": "ilcs-20-5/doc-0012-002000050k5-95.md",
+        "source_url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%200005/002000050K5-95.html",
+        "sha256": "f6235280e731d90f2a40f9dd3a46e5f5d8e0b5483d72ac2d050d84b8b08e35ab",
+        "selection": {
+          "selection": "whole body",
+          "future_repeals": []
+        },
+        "source_images": 0,
+        "referenced": 0,
+        "omitted": 0,
+        "words_equal": true
+      },
+      {
+        "file": "ilcs-20-5/doc-0013-002000050k5-100.md",
+        "source_url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%200005/002000050K5-100.html",
+        "sha256": "37348af187ba20bd7b9b66a8d1a2b1cdd0cf7511158560f98a7003cf086088a8",
+        "selection": {
+          "selection": "whole body",
+          "future_repeals": []
+        },
+        "source_images": 0,
+        "referenced": 0,
+        "omitted": 0,
+        "words_equal": true
+      },
+      {
+        "file": "ilcs-20-5/doc-0014-002000050k5-105.md",
+        "source_url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%200005/002000050K5-105.html",
+        "sha256": "cc3146991bda6c4972d47f7ece83422145b82867476eda68093e9607f6d14289",
+        "selection": {
+          "selection": "whole body",
+          "future_repeals": []
+        },
+        "source_images": 0,
+        "referenced": 0,
+        "omitted": 0,
+        "words_equal": true
+      },
+      {
+        "file": "ilcs-20-5/doc-0015-002000050k5-110.md",
+        "source_url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%200005/002000050K5-110.html",
+        "sha256": "8c4d167a5b8f9934f405952ff694d8d1fd07149ef024f65f919bd53cbe8cb473",
+        "selection": {
+          "selection": "whole body",
+          "future_repeals": []
+        },
+        "source_images": 0,
+        "referenced": 0,
+        "omitted": 0,
+        "words_equal": true
+      },
+      {
+        "file": "ilcs-20-5/doc-0016-002000050k5-115.md",
+        "source_url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%200005/002000050K5-115.html",
+        "sha256": "eec3a1d8c790b1722a204cdc95ea06edca88564fd9d8ada1eb45419e90557d90",
+        "selection": {
+          "selection": "whole body",
+          "future_repeals": []
+        },
+        "source_images": 0,
+        "referenced": 0,
+        "omitted": 0,
+        "words_equal": true
+      },
+      {
+        "file": "ilcs-20-5/doc-0017-002000050k5-120.md",
+        "source_url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%200005/002000050K5-120.html",
+        "sha256": "08b5f854fba5eb89360fd209631bd8dba7c3d4efaf5ce7c873638f3cd8433390",
+        "selection": {
+          "selection": "whole body",
+          "future_repeals": []
+        },
+        "source_images": 0,
+        "referenced": 0,
+        "omitted": 0,
+        "words_equal": true
+      },
+      {
+        "file": "ilcs-20-5/doc-0018-002000050k5-123.md",
+        "source_url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%200005/002000050K5-123.html",
+        "sha256": "2af4f7f565b50b13ba8f343c61cd0aef5cde83d64b965cc30c95fdf62a873098",
+        "selection": {
+          "selection": "whole body",
+          "future_repeals": []
+        },
+        "source_images": 0,
+        "referenced": 0,
+        "omitted": 0,
+        "words_equal": true
+      },
+      {
+        "file": "ilcs-20-5/doc-0019-002000050k5-125.md",
+        "source_url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%200005/002000050K5-125.html",
+        "sha256": "9e5b20abf2b594bada0363e79a84faf6851f8a153304b1f466df169651db37a8",
+        "selection": {
+          "selection": "whole body",
+          "future_repeals": []
+        },
+        "source_images": 0,
+        "referenced": 0,
+        "omitted": 0,
+        "words_equal": true
+      },
+      {
+        "file": "ilcs-20-5/doc-0020-002000050k5-130.md",
+        "source_url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%200005/002000050K5-130.html",
+        "sha256": "0d46dd10b4721fc39696536101f17d6f0945b547c59987a04f6197c16f4fa5a2",
+        "selection": {
+          "selection": "whole body",
+          "future_repeals": []
+        },
+        "source_images": 0,
+        "referenced": 0,
+        "omitted": 0,
+        "words_equal": true
+      },
+      {
+        "file": "ilcs-20-5/doc-0021-002000050k5-135.md",
+        "source_url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%200005/002000050K5-135.html",
+        "sha256": "12b51507e73acb57da7156b3e9081f4903082e8dcdc62d78e8ddfb7075ba817f",
+        "selection": {
+          "selection": "whole body",
+          "future_repeals": []
+        },
+        "source_images": 0,
+        "referenced": 0,
+        "omitted": 0,
+        "words_equal": true
+      },
+      {
+        "file": "ilcs-20-5/doc-0022-002000050k5-140.md",
+        "source_url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%200005/002000050K5-140.html",
+        "sha256": "2c28acbb82d71b80d46ed491beae44566b016d48bb4d1440572f617aa0889f7d",
+        "selection": {
+          "selection": "whole body",
+          "future_repeals": []
+        },
+        "source_images": 0,
+        "referenced": 0,
+        "omitted": 0,
+        "words_equal": true
+      },
+      {
+        "file": "ilcs-20-5/doc-0023-002000050k5-145.md",
+        "source_url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%200005/002000050K5-145.html",
+        "sha256": "1f7d4ba977f2480bae4e5f6b17f4e1e1cddb653d5025cdfc61d03a82e027a094",
+        "selection": {
+          "selection": "whole body",
+          "future_repeals": []
+        },
+        "source_images": 0,
+        "referenced": 0,
+        "omitted": 0,
+        "words_equal": true
+      },
+      {
+        "file": "ilcs-20-5/doc-0024-002000050k5-150.md",
+        "source_url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%200005/002000050K5-150.html",
+        "sha256": "43f56b9c9e40dde57b416486550cb44710eb2128afcadce11508c3ced03b0a1f",
+        "selection": {
+          "selection": "whole body",
+          "future_repeals": []
+        },
+        "source_images": 0,
+        "referenced": 0,
+        "omitted": 0,
+        "words_equal": true
+      },
+      {
+        "file": "ilcs-20-5/doc-0025-002000050k5-155.md",
+        "source_url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%200005/002000050K5-155.html",
+        "sha256": "8ad95c275da6af3a3ca257b744f2d39ef5d3e2ac1f1f65b236ff1e70660dec42",
+        "selection": {
+          "selection": "whole body",
+          "future_repeals": []
+        },
+        "source_images": 0,
+        "referenced": 0,
+        "omitted": 0,
+        "words_equal": true
+      },
+      {
+        "file": "ilcs-20-5/doc-0026-002000050k5-160.md",
+        "source_url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%200005/002000050K5-160.html",
+        "sha256": "67c694300f286631a559496af36a205abb140c14435109c819826630ef99a790",
+        "selection": {
+          "selection": "whole body",
+          "future_repeals": []
+        },
+        "source_images": 0,
+        "referenced": 0,
+        "omitted": 0,
+        "words_equal": true
+      },
+      {
+        "file": "ilcs-20-5/doc-0027-002000050k5-165.md",
+        "source_url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%200005/002000050K5-165.html",
+        "sha256": "a40cacc902f3fb183b4051d7d0c348b298e402ae4ca4e61e297967b50133e76e",
+        "selection": {
+          "selection": "whole body",
+          "future_repeals": []
+        },
+        "source_images": 0,
+        "referenced": 0,
+        "omitted": 0,
+        "words_equal": true
+      },
+      {
+        "file": "ilcs-20-5/doc-0028-002000050k5-170.md",
+        "source_url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%200005/002000050K5-170.html",
+        "sha256": "fa456ab57e07a0364e5c2f51017cff741479881f7daafeeea70d0c19e6467e4e",
+        "selection": {
+          "selection": "whole body",
+          "future_repeals": []
+        },
+        "source_images": 0,
+        "referenced": 0,
+        "omitted": 0,
+        "words_equal": true
+      },
+      {
+        "file": "ilcs-20-5/doc-0029-002000050k5-175.md",
+        "source_url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%200005/002000050K5-175.html",
+        "sha256": "9f1585d5240f40e96ce2568e8152f6ea8c026c0d3ee55b5c262cb19dd4d13453",
+        "selection": {
+          "selection": "whole body",
+          "future_repeals": []
+        },
+        "source_images": 0,
+        "referenced": 0,
+        "omitted": 0,
+        "words_equal": true
+      },
+      {
+        "file": "ilcs-20-5/doc-0030-002000050k5-180.md",
+        "source_url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%200005/002000050K5-180.html",
+        "sha256": "ff3ecae8d0b90770a02c9279f4b0c8c92cb629c3c2fbb6720bbda7e2ab2ab18b",
+        "selection": {
+          "selection": "whole body",
+          "future_repeals": []
+        },
+        "source_images": 0,
+        "referenced": 0,
+        "omitted": 0,
+        "words_equal": true
+      },
+      {
+        "file": "ilcs-20-5/doc-0031-002000050k5-185.md",
+        "source_url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%200005/002000050K5-185.html",
+        "sha256": "b34d65cce0b95a47d37e715b8e7e8fd3410d59053ed10ad9cfe97ad84f033cd9",
+        "selection": {
+          "selection": "whole body",
+          "future_repeals": []
+        },
+        "source_images": 0,
+        "referenced": 0,
+        "omitted": 0,
+        "words_equal": true
+      },
+      {
+        "file": "ilcs-20-5/doc-0032-002000050k5-190.md",
+        "source_url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%200005/002000050K5-190.html",
+        "sha256": "459ac5dfafab895a27cc40d4273bff89e2c2a71d4fe19b86bc7927f6ac8b2258",
+        "selection": {
+          "selection": "whole body",
+          "future_repeals": []
+        },
+        "source_images": 0,
+        "referenced": 0,
+        "omitted": 0,
+        "words_equal": true
+      },
+      {
+        "file": "ilcs-20-5/doc-0033-002000050k5-195.md",
+        "source_url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%200005/002000050K5-195.html",
+        "sha256": "9a3728503bee5922aca9ce2b67a16103e1243498eecf4e17e56f93515664e23d",
+        "selection": {
+          "selection": "whole body",
+          "future_repeals": []
+        },
+        "source_images": 0,
+        "referenced": 0,
+        "omitted": 0,
+        "words_equal": true
+      },
+      {
+        "file": "ilcs-20-5/doc-0034-002000050k5-200.md",
+        "source_url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%200005/002000050K5-200.html",
+        "sha256": "648cfea7e2e6c6eab658e227557362f8aac45fce8423b560f6715f15fbffd6c6",
+        "selection": {
+          "selection": "whole body",
+          "future_repeals": []
+        },
+        "source_images": 0,
+        "referenced": 0,
+        "omitted": 0,
+        "words_equal": true
+      },
+      {
+        "file": "ilcs-20-5/doc-0035-002000050k5-210.md",
+        "source_url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%200005/002000050K5-210.html",
+        "sha256": "edaf46b240cff084ba6fbc5c594afb8eb593cc9d2e3aade4e9321137e428f4cc",
+        "selection": {
+          "selection": "whole body",
+          "future_repeals": []
+        },
+        "source_images": 0,
+        "referenced": 0,
+        "omitted": 0,
+        "words_equal": true
+      },
+      {
+        "file": "ilcs-20-5/doc-0036-002000050k5-215.md",
+        "source_url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%200005/002000050K5-215.html",
+        "sha256": "918800e6e94647c562e75cb7ab66f6d6449e5fda51c318e9c2a1142dc00916a8",
+        "selection": {
+          "selection": "whole body",
+          "future_repeals": []
+        },
+        "source_images": 0,
+        "referenced": 0,
+        "omitted": 0,
+        "words_equal": true
+      },
+      {
+        "file": "ilcs-20-5/doc-0037-002000050k5-220.md",
+        "source_url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%200005/002000050K5-220.html",
+        "sha256": "4c7bd28bf96511f87184a38be47958b6e47dc1ef9eb6e7de1c1bdf2fb898a118",
+        "selection": {
+          "selection": "whole body",
+          "future_repeals": []
+        },
+        "source_images": 0,
+        "referenced": 0,
+        "omitted": 0,
+        "words_equal": true
+      },
+      {
+        "file": "ilcs-20-5/doc-0038-002000050k5-222.md",
+        "source_url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%200005/002000050K5-222.html",
+        "sha256": "21145725800abb41507449a42ad16569582c4b4171b8c74bd040106cdc4fd5f4",
+        "selection": {
+          "selection": "whole body",
+          "future_repeals": []
+        },
+        "source_images": 0,
+        "referenced": 0,
+        "omitted": 0,
+        "words_equal": true
+      },
+      {
+        "file": "ilcs-20-5/doc-0039-002000050k5-225.md",
+        "source_url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%200005/002000050K5-225.html",
+        "sha256": "1de16f6026ca4ed51a6f8febb76354e7e7f2c4bf4e5fe0f4b21dd9e5c3b3baa3",
+        "selection": {
+          "selection": "whole body",
+          "future_repeals": []
+        },
+        "source_images": 0,
+        "referenced": 0,
+        "omitted": 0,
+        "words_equal": true
+      },
+      {
+        "file": "ilcs-20-5/doc-0040-002000050k5-230.md",
+        "source_url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%200005/002000050K5-230.html",
+        "sha256": "b0a04c66a1dc559f59573180c4e20a4625131b75a8b9b3664be418058e9287e5",
+        "selection": {
+          "selection": "whole body",
+          "future_repeals": []
+        },
+        "source_images": 0,
+        "referenced": 0,
+        "omitted": 0,
+        "words_equal": true
+      },
+      {
+        "file": "ilcs-20-5/doc-0041-002000050k5-235.md",
+        "source_url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%200005/002000050K5-235.html",
+        "sha256": "4e47347ef2a6e5c3664efff5eb718e6e408e5dae7a6358cd3e97a6228226f979",
+        "selection": {
+          "selection": "whole body",
+          "future_repeals": []
+        },
+        "source_images": 0,
+        "referenced": 0,
+        "omitted": 0,
+        "words_equal": true
+      },
+      {
+        "file": "ilcs-20-5/doc-0042-002000050k5-300.md",
+        "source_url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%200005/002000050K5-300.html",
+        "sha256": "abc58adcbe713c756adde9f5baa6c3f8e1d9c8818130f1b8df7f4995a434bfba",
+        "selection": {
+          "selection": "whole body",
+          "future_repeals": []
+        },
+        "source_images": 0,
+        "referenced": 0,
+        "omitted": 0,
+        "words_equal": true
+      },
+      {
+        "file": "ilcs-20-5/doc-0043-002000050k5-305.md",
+        "source_url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%200005/002000050K5-305.html",
+        "sha256": "283dadbb8e01c843928d298f389eafc919929ea8035f7c3c32451db9ed48cd75",
+        "selection": {
+          "selection": "whole body",
+          "future_repeals": []
+        },
+        "source_images": 0,
+        "referenced": 0,
+        "omitted": 0,
+        "words_equal": true
+      },
+      {
+        "file": "ilcs-20-5/doc-0044-002000050k5-310.md",
+        "source_url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%200005/002000050K5-310.html",
+        "sha256": "7b2b240ced15ab1502990609e5c18c13ad4d7e82b8bb9023278856a4c1589409",
+        "selection": {
+          "selection": "whole body",
+          "future_repeals": []
+        },
+        "source_images": 0,
+        "referenced": 0,
+        "omitted": 0,
+        "words_equal": true
+      },
+      {
+        "file": "ilcs-20-5/doc-0045-002000050k5-315.md",
+        "source_url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%200005/002000050K5-315.html",
+        "sha256": "ad5742a846e0b101da4bce9085817b939cfaae68d4b707b4d75cccef05e926b0",
+        "selection": {
+          "selection": "whole body",
+          "future_repeals": []
+        },
+        "source_images": 0,
+        "referenced": 0,
+        "omitted": 0,
+        "words_equal": true
+      },
+      {
+        "file": "ilcs-20-5/doc-0046-002000050k5-320.md",
+        "source_url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%200005/002000050K5-320.html",
+        "sha256": "4ced90c9b599f7ff1fd10c211293b6a0299a01ed025519ee1b248bb9a2cd5363",
+        "selection": {
+          "selection": "whole body",
+          "future_repeals": []
+        },
+        "source_images": 0,
+        "referenced": 0,
+        "omitted": 0,
+        "words_equal": true
+      },
+      {
+        "file": "ilcs-20-5/doc-0047-002000050k5-325.md",
+        "source_url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%200005/002000050K5-325.html",
+        "sha256": "44b1c1ba1e216591041445787aebd14f400d143d126dcd84b36a9b390625860f",
+        "selection": {
+          "selection": "whole body",
+          "future_repeals": []
+        },
+        "source_images": 0,
+        "referenced": 0,
+        "omitted": 0,
+        "words_equal": true
+      },
+      {
+        "file": "ilcs-20-5/doc-0048-002000050k5-330.md",
+        "source_url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%200005/002000050K5-330.html",
+        "sha256": "c58604d71f486fd7ba15deae2119d69c0f9f3c4afcdcb931a17d7713d36cc028",
+        "selection": {
+          "selection": "whole body",
+          "future_repeals": []
+        },
+        "source_images": 0,
+        "referenced": 0,
+        "omitted": 0,
+        "words_equal": true
+      },
+      {
+        "file": "ilcs-20-5/doc-0049-002000050k5-335.md",
+        "source_url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%200005/002000050K5-335.html",
+        "sha256": "e11bf1da11dcf88a16734221867565ba1010853a618b0eb761ef4e5dc0be610b",
+        "selection": {
+          "selection": "whole body",
+          "future_repeals": []
+        },
+        "source_images": 0,
+        "referenced": 0,
+        "omitted": 0,
+        "words_equal": true
+      },
+      {
+        "file": "ilcs-20-5/doc-0050-002000050k5-336.md",
+        "source_url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%200005/002000050K5-336.html",
+        "sha256": "5df7c6b3b323327d6f9a26deb4e98dabc8bd875f93c93bbcb7c91a4cfe9c6656",
+        "selection": {
+          "selection": "whole body",
+          "future_repeals": []
+        },
+        "source_images": 0,
+        "referenced": 0,
+        "omitted": 0,
+        "words_equal": true
+      },
+      {
+        "file": "ilcs-20-5/doc-0051-002000050k5-340.md",
+        "source_url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%200005/002000050K5-340.html",
+        "sha256": "de440ac4d7e73eaa11d43cb007639de7830b924fd7b7b997298c678f66de14e0",
+        "selection": {
+          "selection": "whole body",
+          "future_repeals": []
+        },
+        "source_images": 0,
+        "referenced": 0,
+        "omitted": 0,
+        "words_equal": true
+      },
+      {
+        "file": "ilcs-20-5/doc-0052-002000050k5-345.md",
+        "source_url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%200005/002000050K5-345.html",
+        "sha256": "6f6acab32537d8925dad27cd59e6e571425724cec457b95e1f91e79c57d47ca4",
+        "selection": {
+          "selection": "whole body",
+          "future_repeals": []
+        },
+        "source_images": 0,
+        "referenced": 0,
+        "omitted": 0,
+        "words_equal": true
+      },
+      {
+        "file": "ilcs-20-5/doc-0053-002000050k5-350.md",
+        "source_url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%200005/002000050K5-350.html",
+        "sha256": "415bfa8b1289282de94a13a4e3007fbbe05e2c0228a22abe992e580c86eda5b9",
+        "selection": {
+          "selection": "whole body",
+          "future_repeals": []
+        },
+        "source_images": 0,
+        "referenced": 0,
+        "omitted": 0,
+        "words_equal": true
+      },
+      {
+        "file": "ilcs-20-5/doc-0054-002000050k5-355.md",
+        "source_url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%200005/002000050K5-355.html",
+        "sha256": "ad2007866181d9e9b6132ecb3cbfb0b124675e1bdc764ee9e97c16a59a57caac",
+        "selection": {
+          "selection": "whole body",
+          "future_repeals": []
+        },
+        "source_images": 0,
+        "referenced": 0,
+        "omitted": 0,
+        "words_equal": true
+      },
+      {
+        "file": "ilcs-20-5/doc-0055-002000050k5-357.md",
+        "source_url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%200005/002000050K5-357.html",
+        "sha256": "40828651ee8671ba79747bc94509ab9742111216a3dd2fe1a2bf3ca0e18574a3",
+        "selection": {
+          "selection": "whole body",
+          "future_repeals": []
+        },
+        "source_images": 0,
+        "referenced": 0,
+        "omitted": 0,
+        "words_equal": true
+      },
+      {
+        "file": "ilcs-20-5/doc-0056-002000050k5-360.md",
+        "source_url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%200005/002000050K5-360.html",
+        "sha256": "1843c468541c95c65fd8fa38b22913edbc77975fb4f231ee146e6e74745dd612",
+        "selection": {
+          "selection": "whole body",
+          "future_repeals": []
+        },
+        "source_images": 0,
+        "referenced": 0,
+        "omitted": 0,
+        "words_equal": true
+      },
+      {
+        "file": "ilcs-20-5/doc-0057-002000050k5-362.md",
+        "source_url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%200005/002000050K5-362.html",
+        "sha256": "e82e6e9653a8470d77b670d1dc5b7083489ac149eadafbba69d62da38417180a",
+        "selection": {
+          "selection": "whole body",
+          "future_repeals": []
+        },
+        "source_images": 0,
+        "referenced": 0,
+        "omitted": 0,
+        "words_equal": true
+      },
+      {
+        "file": "ilcs-20-5/doc-0058-002000050k5-365.md",
+        "source_url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%200005/002000050K5-365.html",
+        "sha256": "749a5f2ff1e23ce041360c6d73eeaeab8e7493ef589ecaa266d012c813381c4b",
+        "selection": {
+          "selection": "whole body",
+          "future_repeals": []
+        },
+        "source_images": 0,
+        "referenced": 0,
+        "omitted": 0,
+        "words_equal": true
+      },
+      {
+        "file": "ilcs-20-5/doc-0059-002000050k5-370.md",
+        "source_url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%200005/002000050K5-370.html",
+        "sha256": "b085bbeb902a39df0fc4454c0888050f0422b7c0c8abd32ebf70bb2c7c59ae20",
+        "selection": {
+          "selection": "whole body",
+          "future_repeals": []
+        },
+        "source_images": 0,
+        "referenced": 0,
+        "omitted": 0,
+        "words_equal": true
+      },
+      {
+        "file": "ilcs-20-5/doc-0060-002000050k5-372.md",
+        "source_url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%200005/002000050K5-372.html",
+        "sha256": "36208877916997fe4648e657e40ad0f4886f846c8e4592d16838022008b62a1a",
+        "selection": {
+          "selection": "whole body",
+          "future_repeals": []
+        },
+        "source_images": 0,
+        "referenced": 0,
+        "omitted": 0,
+        "words_equal": true
+      },
+      {
+        "file": "ilcs-20-5/doc-0061-002000050k5-375.md",
+        "source_url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%200005/002000050K5-375.html",
+        "sha256": "52907137a4e924fedbe2f3328376790de632e6dc669d76b4cbe7341f59ac081f",
+        "selection": {
+          "selection": "whole body",
+          "future_repeals": []
+        },
+        "source_images": 0,
+        "referenced": 0,
+        "omitted": 0,
+        "words_equal": true
+      },
+      {
+        "file": "ilcs-20-5/doc-0062-002000050k5-380.md",
+        "source_url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%200005/002000050K5-380.html",
+        "sha256": "589aa194a448ab6f4ae869ce2a4209a5c47f75fb98b81b37bdbf5f34c122f64e",
+        "selection": {
+          "selection": "whole body",
+          "future_repeals": []
+        },
+        "source_images": 0,
+        "referenced": 0,
+        "omitted": 0,
+        "words_equal": true
+      },
+      {
+        "file": "ilcs-20-5/doc-0063-002000050k5-385.md",
+        "source_url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%200005/002000050K5-385.html",
+        "sha256": "06459aef7270855129ae7c12581ebf3fd47b0951af246dd1fedbb8a72dcdaccb",
+        "selection": {
+          "selection": "whole body",
+          "future_repeals": []
+        },
+        "source_images": 0,
+        "referenced": 0,
+        "omitted": 0,
+        "words_equal": true
+      },
+      {
+        "file": "ilcs-20-5/doc-0064-002000050k5-390.md",
+        "source_url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%200005/002000050K5-390.html",
+        "sha256": "dad3af983061a8a04edd87067f054da3aff2959215ba5d43d8c2509b715390f4",
+        "selection": {
+          "selection": "whole body",
+          "future_repeals": []
+        },
+        "source_images": 0,
+        "referenced": 0,
+        "omitted": 0,
+        "words_equal": true
+      },
+      {
+        "file": "ilcs-20-5/doc-0065-002000050k5-395.md",
+        "source_url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%200005/002000050K5-395.html",
+        "sha256": "50752264253f69f06a3c184e6d5843245766aec8ed29aa36ff1c276f4a6fc5a8",
+        "selection": {
+          "selection": "whole body",
+          "future_repeals": []
+        },
+        "source_images": 0,
+        "referenced": 0,
+        "omitted": 0,
+        "words_equal": true
+      },
+      {
+        "file": "ilcs-20-5/doc-0066-002000050k5-400.md",
+        "source_url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%200005/002000050K5-400.html",
+        "sha256": "2281b69eaeb5bf4958303a7bc17c6d4442be1a2a34781456fb6d1c9b54edef5e",
+        "selection": {
+          "selection": "whole body",
+          "future_repeals": []
+        },
+        "source_images": 0,
+        "referenced": 0,
+        "omitted": 0,
+        "words_equal": true
+      },
+      {
+        "file": "ilcs-20-5/doc-0067-002000050k5-405.md",
+        "source_url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%200005/002000050K5-405.html",
+        "sha256": "b56dc6bc0fb2da994ecf015ca121a67ef13f02f1ae0cd5ab1ed884cfcc0906e4",
+        "selection": {
+          "selection": "whole body",
+          "future_repeals": []
+        },
+        "source_images": 0,
+        "referenced": 0,
+        "omitted": 0,
+        "words_equal": true
+      },
+      {
+        "file": "ilcs-20-5/doc-0068-002000050k5-410.md",
+        "source_url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%200005/002000050K5-410.html",
+        "sha256": "cceecb1d6988e145c9d59020befec5e163a9c8136f5cecc847239f4fc9621cbe",
+        "selection": {
+          "selection": "whole body",
+          "future_repeals": []
+        },
+        "source_images": 0,
+        "referenced": 0,
+        "omitted": 0,
+        "words_equal": true
+      },
+      {
+        "file": "ilcs-20-5/doc-0069-002000050k5-415.md",
+        "source_url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%200005/002000050K5-415.html",
+        "sha256": "fcb6fbe282a1638a5121d5d19f5829c862e1364972eec8ec086f38252596f4c7",
+        "selection": {
+          "selection": "whole body",
+          "future_repeals": []
+        },
+        "source_images": 0,
+        "referenced": 0,
+        "omitted": 0,
+        "words_equal": true
+      },
+      {
+        "file": "ilcs-20-5/doc-0070-002000050k5-420.md",
+        "source_url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%200005/002000050K5-420.html",
+        "sha256": "9cb9c1fe72171e6c2c65d47d4313eebeb64c23753cbf2f62c7ac75bbc099ef06",
+        "selection": {
+          "selection": "whole body",
+          "future_repeals": []
+        },
+        "source_images": 0,
+        "referenced": 0,
+        "omitted": 0,
+        "words_equal": true
+      },
+      {
+        "file": "ilcs-20-5/doc-0071-002000050k5-500.md",
+        "source_url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%200005/002000050K5-500.html",
+        "sha256": "cdd2f8c92a0d5c3986d3ba61b6b1b7332951f8199a5213f930cff15c83be1bef",
+        "selection": {
+          "selection": "whole body",
+          "future_repeals": []
+        },
+        "source_images": 0,
+        "referenced": 0,
+        "omitted": 0,
+        "words_equal": true
+      },
+      {
+        "file": "ilcs-20-5/doc-0072-002000050k5-505.md",
+        "source_url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%200005/002000050K5-505.html",
+        "sha256": "9a497744c0b1bcebaede8581c65391f1cfdb26b93024cffb78b6f786cc048dcb",
+        "selection": {
+          "selection": "whole body",
+          "future_repeals": []
+        },
+        "source_images": 0,
+        "referenced": 0,
+        "omitted": 0,
+        "words_equal": true
+      },
+      {
+        "file": "ilcs-20-5/doc-0073-002000050k5-510.md",
+        "source_url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%200005/002000050K5-510.html",
+        "sha256": "56f5632347de976c8fdf962b6be995d1ad8b1b3e989dce9da7d56d2d1884745c",
+        "selection": {
+          "selection": "whole body",
+          "future_repeals": []
+        },
+        "source_images": 0,
+        "referenced": 0,
+        "omitted": 0,
+        "words_equal": true
+      },
+      {
+        "file": "ilcs-20-5/doc-0074-002000050k5-515.md",
+        "source_url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%200005/002000050K5-515.html",
+        "sha256": "3120fecb49c981f65fc7440718281ac8e1992bb2336e2359cd7f6ac0c483604e",
+        "selection": {
+          "selection": "whole body",
+          "future_repeals": []
+        },
+        "source_images": 0,
+        "referenced": 0,
+        "omitted": 0,
+        "words_equal": true
+      },
+      {
+        "file": "ilcs-20-5/doc-0075-002000050k5-520.md",
+        "source_url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%200005/002000050K5-520.html",
+        "sha256": "52293de8aee82d30f7182b5a8b2eaf817dbf1fa33cbfe2eb54c058aa952d0804",
+        "selection": {
+          "selection": "whole body",
+          "future_repeals": []
+        },
+        "source_images": 0,
+        "referenced": 0,
+        "omitted": 0,
+        "words_equal": true
+      },
+      {
+        "file": "ilcs-20-5/doc-0076-002000050k5-525.md",
+        "source_url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%200005/002000050K5-525.html",
+        "sha256": "3ca251649a857a8efe3c5e15055f488d90f10527d5cae96be7be0737377fba28",
+        "selection": {
+          "selection": "whole body",
+          "future_repeals": []
+        },
+        "source_images": 0,
+        "referenced": 0,
+        "omitted": 0,
+        "words_equal": true
+      },
+      {
+        "file": "ilcs-20-5/doc-0077-002000050k5-530.md",
+        "source_url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%200005/002000050K5-530.html",
+        "sha256": "ab3b0725d8c088e6f35dea4fd6ec87d5cf8fda6ed61e8dfe6d54e2b99f8b4805",
+        "selection": {
+          "selection": "whole body",
+          "future_repeals": []
+        },
+        "source_images": 0,
+        "referenced": 0,
+        "omitted": 0,
+        "words_equal": true
+      },
+      {
+        "file": "ilcs-20-5/doc-0078-002000050k5-535.md",
+        "source_url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%200005/002000050K5-535.html",
+        "sha256": "e08e212d80131049e3704bde8e00b99dccb3bd316a28bc80f78580b4b3fc35f2",
+        "selection": {
+          "selection": "whole body",
+          "future_repeals": []
+        },
+        "source_images": 0,
+        "referenced": 0,
+        "omitted": 0,
+        "words_equal": true
+      },
+      {
+        "file": "ilcs-20-5/doc-0079-002000050k5-540.md",
+        "source_url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%200005/002000050K5-540.html",
+        "sha256": "6058030b6411a5fcd5bf1dfadcbaf4a75cd7fa1e1a8b59033f247b45bdf9771c",
+        "selection": {
+          "selection": "whole body",
+          "future_repeals": []
+        },
+        "source_images": 0,
+        "referenced": 0,
+        "omitted": 0,
+        "words_equal": true
+      },
+      {
+        "file": "ilcs-20-5/doc-0080-002000050k5-545.md",
+        "source_url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%200005/002000050K5-545.html",
+        "sha256": "d439b2d305eef20151913c68291a2db966a4716f61945e46c3bb3ee6ab938c64",
+        "selection": {
+          "selection": "whole body",
+          "future_repeals": []
+        },
+        "source_images": 0,
+        "referenced": 0,
+        "omitted": 0,
+        "words_equal": true
+      },
+      {
+        "file": "ilcs-20-5/doc-0081-002000050k5-550.md",
+        "source_url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%200005/002000050K5-550.html",
+        "sha256": "c2c48c3ba250ca113c77dcb19a317d7ac652f18e629bbd9a5554c9f9cdea975f",
+        "selection": {
+          "selection": "whole body",
+          "future_repeals": []
+        },
+        "source_images": 0,
+        "referenced": 0,
+        "omitted": 0,
+        "words_equal": true
+      },
+      {
+        "file": "ilcs-20-5/doc-0082-002000050k5-555.md",
+        "source_url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%200005/002000050K5-555.html",
+        "sha256": "5253feb5ae7cc7413ad69141dd0b49c3def1619417e2fcf02ffa318365702254",
+        "selection": {
+          "selection": "whole body",
+          "future_repeals": []
+        },
+        "source_images": 0,
+        "referenced": 0,
+        "omitted": 0,
+        "words_equal": true
+      },
+      {
+        "file": "ilcs-20-5/doc-0083-002000050k5-560.md",
+        "source_url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%200005/002000050K5-560.html",
+        "sha256": "5790b9eafd0f69d6aaf7ca1c68ab13f1c05eff511ca29971332d3579e10b0317",
+        "selection": {
+          "selection": "whole body",
+          "future_repeals": []
+        },
+        "source_images": 0,
+        "referenced": 0,
+        "omitted": 0,
+        "words_equal": true
+      },
+      {
+        "file": "ilcs-20-5/doc-0084-002000050k5-565.md",
+        "source_url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%200005/002000050K5-565.html",
+        "sha256": "f7ec6e1da33adfbea9759eb04ede9a76e66d8db06a3e6ee03aa0c0c24ff7f75c",
+        "selection": {
+          "selection": "whole body",
+          "future_repeals": []
+        },
+        "source_images": 0,
+        "referenced": 0,
+        "omitted": 0,
+        "words_equal": true
+      },
+      {
+        "file": "ilcs-20-5/doc-0085-002000050k5-570.md",
+        "source_url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%200005/002000050K5-570.html",
+        "sha256": "6a76f3b5899905eb72799feadd063b2f27d64d8b2c53022ada0747ce49de92c5",
+        "selection": {
+          "selection": "whole body",
+          "future_repeals": []
+        },
+        "source_images": 0,
+        "referenced": 0,
+        "omitted": 0,
+        "words_equal": true
+      },
+      {
+        "file": "ilcs-20-5/doc-0086-002000050k5-600.md",
+        "source_url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%200005/002000050K5-600.html",
+        "sha256": "d87640d1bff9cb746e575a5e8651269c8eebadfe813b02ecd148b177a93dffd0",
+        "selection": {
+          "selection": "whole body",
+          "future_repeals": []
+        },
+        "source_images": 0,
+        "referenced": 0,
+        "omitted": 0,
+        "words_equal": true
+      },
+      {
+        "file": "ilcs-20-5/doc-0087-002000050k5-605.md",
+        "source_url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%200005/002000050K5-605.html",
+        "sha256": "1a6b463983e0be889b9ed295c97f7c0f264781ae749dba4c6d331f514bf749b4",
+        "selection": {
+          "selection": "whole body",
+          "future_repeals": []
+        },
+        "source_images": 0,
+        "referenced": 0,
+        "omitted": 0,
+        "words_equal": true
+      },
+      {
+        "file": "ilcs-20-5/doc-0088-002000050k5-610.md",
+        "source_url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%200005/002000050K5-610.html",
+        "sha256": "00144c3db7f57ac85f3f7f7a0dfc67160a18dc18a2f055710a4b72116ffa775b",
+        "selection": {
+          "selection": "whole body",
+          "future_repeals": []
+        },
+        "source_images": 0,
+        "referenced": 0,
+        "omitted": 0,
+        "words_equal": true
+      },
+      {
+        "file": "ilcs-20-5/doc-0089-002000050k5-615.md",
+        "source_url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%200005/002000050K5-615.html",
+        "sha256": "dbdb9f9ab6d00e9e35895ac5c00715092e7703b0e5847a5faa65792612fb5932",
+        "selection": {
+          "selection": "whole body",
+          "future_repeals": []
+        },
+        "source_images": 0,
+        "referenced": 0,
+        "omitted": 0,
+        "words_equal": true
+      },
+      {
+        "file": "ilcs-20-5/doc-0090-002000050k5-620.md",
+        "source_url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%200005/002000050K5-620.html",
+        "sha256": "2ca8596eb4516fa5d0c392676d6bbabc904612297a492e8c42a2cc68de5bd775",
+        "selection": {
+          "selection": "whole body",
+          "future_repeals": []
+        },
+        "source_images": 0,
+        "referenced": 0,
+        "omitted": 0,
+        "words_equal": true
+      },
+      {
+        "file": "ilcs-20-5/doc-0091-002000050k5-625.md",
+        "source_url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%200005/002000050K5-625.html",
+        "sha256": "21d37014c0afcf6ab11c744567b7a71e4dddb982408ac2077f80e1d916491b89",
+        "selection": {
+          "selection": "whole body",
+          "future_repeals": []
+        },
+        "source_images": 0,
+        "referenced": 0,
+        "omitted": 0,
+        "words_equal": true
+      },
+      {
+        "file": "ilcs-20-5/doc-0092-002000050k5-630.md",
+        "source_url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%200005/002000050K5-630.html",
+        "sha256": "9062fed0ccfdab4c3057c27a510512bbf51f460c6d4b2e31394759c836b32dda",
+        "selection": {
+          "selection": "whole body",
+          "future_repeals": []
+        },
+        "source_images": 0,
+        "referenced": 0,
+        "omitted": 0,
+        "words_equal": true
+      },
+      {
+        "file": "ilcs-20-5/doc-0093-002000050k5-635.md",
+        "source_url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%200005/002000050K5-635.html",
+        "sha256": "c33b585a71a9d105007fad42c8a237560781da2bcfd3bff853e273772e7f227c",
+        "selection": {
+          "selection": "whole body",
+          "future_repeals": []
+        },
+        "source_images": 0,
+        "referenced": 0,
+        "omitted": 0,
+        "words_equal": true
+      },
+      {
+        "file": "ilcs-20-5/doc-0094-002000050k5-640.md",
+        "source_url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%200005/002000050K5-640.html",
+        "sha256": "30824694f42afaa1de771089adf0f6ac210ed27eb02ed91796ad936df6c1b9ec",
+        "selection": {
+          "selection": "whole body",
+          "future_repeals": []
+        },
+        "source_images": 0,
+        "referenced": 0,
+        "omitted": 0,
+        "words_equal": true
+      },
+      {
+        "file": "ilcs-20-5/doc-0095-002000050k5-645.md",
+        "source_url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%200005/002000050K5-645.html",
+        "sha256": "3d1abc76069152a4d43838d6279f47eb94e2f46b029d36eba669f1cd921116e2",
+        "selection": {
+          "selection": "whole body",
+          "future_repeals": []
+        },
+        "source_images": 0,
+        "referenced": 0,
+        "omitted": 0,
+        "words_equal": true
+      },
+      {
+        "file": "ilcs-20-5/doc-0096-002000050k5-650.md",
+        "source_url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%200005/002000050K5-650.html",
+        "sha256": "3a787bc188a84692f382494afc72905494fea2261a84ca2d740d34894bbc6430",
+        "selection": {
+          "selection": "whole body",
+          "future_repeals": []
+        },
+        "source_images": 0,
+        "referenced": 0,
+        "omitted": 0,
+        "words_equal": true
+      },
+      {
+        "file": "ilcs-20-5/doc-0097-002000050k5-655.md",
+        "source_url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%200005/002000050K5-655.html",
+        "sha256": "cfb42888d343bbd87ab82430bbc2efc79580f7c622f5d52669e76b24c3524d6b",
+        "selection": {
+          "selection": "whole body",
+          "future_repeals": []
+        },
+        "source_images": 0,
+        "referenced": 0,
+        "omitted": 0,
+        "words_equal": true
+      },
+      {
+        "file": "ilcs-20-5/doc-0098-002000050k5-660.md",
+        "source_url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%200005/002000050K5-660.html",
+        "sha256": "7310bd594932f6cad604b8c348dd4ac13c280a0fcb2790efba636e88fe832836",
+        "selection": {
+          "selection": "whole body",
+          "future_repeals": []
+        },
+        "source_images": 0,
+        "referenced": 0,
+        "omitted": 0,
+        "words_equal": true
+      },
+      {
+        "file": "ilcs-20-5/doc-0099-002000050k5-675.md",
+        "source_url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%200005/002000050K5-675.html",
+        "sha256": "401589a54ca6911bedd4236aee895dc9ce67a16d510f96d627068349bbd8fe71",
+        "selection": {
+          "selection": "whole body",
+          "future_repeals": []
+        },
+        "source_images": 0,
+        "referenced": 0,
+        "omitted": 0,
+        "words_equal": true
+      },
+      {
+        "file": "ilcs-20-5/doc-0100-002000050k5-680.md",
+        "source_url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%200005/002000050K5-680.html",
+        "sha256": "abae19f6f3166c3a27864cd8eb229d09fd4c244f34c4a4d19c311faf61ab5f24",
+        "selection": {
+          "selection": "whole body",
+          "future_repeals": []
+        },
+        "source_images": 0,
+        "referenced": 0,
+        "omitted": 0,
+        "words_equal": true
+      },
+      {
+        "file": "ilcs-20-5/doc-0101-002000050k5-700.md",
+        "source_url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%200005/002000050K5-700.html",
+        "sha256": "3b34972d87a60d977d5669bf60e2dcc06a6a94e3cc3300accea5878842ee8082",
+        "selection": {
+          "selection": "whole body",
+          "future_repeals": []
+        },
+        "source_images": 0,
+        "referenced": 0,
+        "omitted": 0,
+        "words_equal": true
+      },
+      {
+        "file": "ilcs-20-5/doc-0102-002000050k5-705.md",
+        "source_url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%200005/002000050K5-705.html",
+        "sha256": "41b15df5932311f4a6fa6e64f77fcd4525f06f6042a74ece955e25add75d324c",
+        "selection": {
+          "selection": "whole body",
+          "future_repeals": []
+        },
+        "source_images": 0,
+        "referenced": 0,
+        "omitted": 0,
+        "words_equal": true
+      },
+      {
+        "file": "ilcs-20-5/doc-0103-002000050k5-710.md",
+        "source_url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%200005/002000050K5-710.html",
+        "sha256": "980a384b858996088fca2c1a5765a083d4f8f6be2afbba9079cb67a8ff12396c",
+        "selection": {
+          "selection": "whole body",
+          "future_repeals": []
+        },
+        "source_images": 0,
+        "referenced": 0,
+        "omitted": 0,
+        "words_equal": true
+      },
+      {
+        "file": "ilcs-20-5/doc-0104-002000050k5-715.md",
+        "source_url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%200005/002000050K5-715.html",
+        "sha256": "4160137f6539f466eb810f523df2ee00215119fa140be2733b792fb9b9b4b96a",
+        "selection": {
+          "selection": "whole body",
+          "future_repeals": []
+        },
+        "source_images": 0,
+        "referenced": 0,
+        "omitted": 0,
+        "words_equal": true
+      },
+      {
+        "file": "ilcs-20-5/doc-0105-002000050k5-716.md",
+        "source_url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%200005/002000050K5-716.html",
+        "sha256": "4c7c0b31fbc57b875675e8c382a7d0097180fadfdd66006e2d9aa0cf67067ade",
+        "selection": {
+          "selection": "whole body",
+          "future_repeals": []
+        },
+        "source_images": 0,
+        "referenced": 0,
+        "omitted": 0,
+        "words_equal": true
+      },
+      {
+        "file": "ilcs-20-5/doc-0106-002000050k5-717.md",
+        "source_url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%200005/002000050K5-717.html",
+        "sha256": "d9209b7b32993cbfc787afaf1d64d400b3deb501676e7285947e09ce6afc0005",
+        "selection": {
+          "selection": "whole body",
+          "future_repeals": []
+        },
+        "source_images": 0,
+        "referenced": 0,
+        "omitted": 0,
+        "words_equal": true
+      },
+      {
+        "file": "ilcs-20-5/doc-0107-002000050k5-720.md",
+        "source_url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%200005/002000050K5-720.html",
+        "sha256": "247ae7b1e5e713ade58356f735ef021608d15bf76922c449248198b7eebf2b0a",
+        "selection": {
+          "selection": "whole body",
+          "future_repeals": []
+        },
+        "source_images": 0,
+        "referenced": 0,
+        "omitted": 0,
+        "words_equal": true
+      },
+      {
+        "file": "ilcs-20-5/doc-0108-002000050k5-725.md",
+        "source_url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%200005/002000050K5-725.html",
+        "sha256": "5d3b579401c2016d7cb0b8f4bb6dafc25a2c3bc0563d90bb58c66c0b93c3df9f",
+        "selection": {
+          "selection": "whole body",
+          "future_repeals": []
+        },
+        "source_images": 0,
+        "referenced": 0,
+        "omitted": 0,
+        "words_equal": true
+      },
+      {
+        "file": "ilcs-20-5/doc-0109-002000050k5-730.md",
+        "source_url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%200005/002000050K5-730.html",
+        "sha256": "3dd873bb52de0d6fc42137253ecfcaedbaa550bffba8ae5339d70705b1693a34",
+        "selection": {
+          "selection": "whole body",
+          "future_repeals": []
+        },
+        "source_images": 0,
+        "referenced": 0,
+        "omitted": 0,
+        "words_equal": true
+      }
+    ],
+    "excluded_documents": [
+      {
+        "source_url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%200005/002000050K5-218.html",
+        "rel": "Ch 0020/Act 0005/002000050K5-218.html",
+        "sha256": "51d34295bcebd9b2ee66b92d29e2d6cf96b9cff057a534d426263173b705f670",
+        "quote": "(Source: P.A. 104-465, eff. 7-1-27.)",
+        "effective_date": "2027-07-01",
+        "reason": "standalone publisher-labelled future-only section"
+      },
+      {
+        "source_url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%200005/002000050K5-348.html",
+        "rel": "Ch 0020/Act 0005/002000050K5-348.html",
+        "sha256": "96a1b16d309d9f27986f964b0f0b31bc62d087f26b4af14e76d35ea98a9886eb",
+        "quote": "(Source: P.A. 104-465, eff. 7-1-27.)",
+        "effective_date": "2027-07-01",
+        "reason": "standalone publisher-labelled future-only section"
+      },
+      {
+        "source_url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%200005/002000050K5-543.html",
+        "rel": "Ch 0020/Act 0005/002000050K5-543.html",
+        "sha256": "e09d24f6f5138263895b120bc840f6ce8d758fe1b130e9f2e79a85054686a285",
+        "quote": "(Source: P.A. 104-465, eff. 7-1-27.)",
+        "effective_date": "2027-07-01",
+        "reason": "standalone publisher-labelled future-only section"
+      }
+    ]
   }
 ]
