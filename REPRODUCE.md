@@ -1,17 +1,18 @@
 # How this repository was made (United States (Illinois))
 
-This file is written by the build on 2026-11-10, the day the source data was retrieved.
+This record began with the build of 2026-11-10. Later additions and their sources are recorded below.
 
 ## Sources
 
-| Source | Address | Retrieved | Licence |
+| Source | Address | Retrieved or checked | Licence |
 | --- | --- | --- | --- |
 | Illinois Constitution and Illinois Compiled Statutes (ilga.gov), read from Internet Archive captures | <https://www.ilga.gov/> | 2026-10-30 | Statute text carries no copyright (Georgia v. Public.Resource.Org, 2020). The ILCS FTP readme calls the web copy non-authoritative ("The only official copy of the law is the printed copy"); no reuse restriction was found. |
 | Illinois Compiled Statutes, 2025- ilga.gov site (Legislation/ILCS/Acts and Articles pages), read from Internet Archive captures | <https://www.ilga.gov/Legislation/ILCS/Chapters> | 2026-11-10 | Statute text carries no copyright (Georgia v. Public.Resource.Org, 2020). |
+| Illinois General Assembly static Illinois Compiled Statutes, updated 2026-10-30 through Public Act 104-854 | <https://ftp.ilga.gov/ILCS/> | 2026-11-13 | Government statute text. The publisher states that the web compilation is not official or authoritative; the printed Secretary of State copy is official. |
 
 Every word of law in this repository comes from these sources. Lexifina reads them and records each act's dated versions, and the laws that made each change, in one corpus file. This repository is built from that file.
 
-## What is in it
+## Initial build inventory (2026-11-10)
 
 | Act | Title | Versions | Span |
 | --- | --- | ---: | --- |
@@ -2674,7 +2675,7 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `ilcs-815-520` | Illinois Compiled Statutes, Pay-Per-Call Services Consumer Protection Act (815 ILCS 520) | 1 | 2026-02-08 to 2026-02-08 |
 | `ilcs-815-525` | Illinois Compiled Statutes, Prizes and Gifts Act (815 ILCS 525) | 1 | 2026-07-16 to 2026-07-16 |
 
-The build made 2664 commits:
+The initial build made 2664 commits:
 
 | Commits | Kind |
 | ---: | --- |
@@ -2702,7 +2703,7 @@ When a law gives no date of its own, the default rule applies: No dated history 
 - Builder blob hashes (`git hash-object`): `build.py` `3024ff164c261807dfc4d5b7b1b4a2cde4357da1`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.12.10; git version 2.46.0.windows.1.
 
-## Checks
+## Initial build checks
 
 Not yet run for this build.
 
@@ -2728,3 +2729,9 @@ The commit messages are written by `build.py` from the source data.
 
 Model use at data-build time:
 - none
+
+## Current ILCS additions checked 2026-11-13
+
+This append adds 17 current-text acts, 556 sections and 593 publisher documents from the Illinois General Assembly static ILCS compilation at <https://ftp.ilga.gov/ILCS/>. The publisher dates that compilation 2026-10-30 and says it includes Public Acts through 104-854. It is a non-authoritative web copy; the printed Secretary of State copy is official. 37 documents retain the complete publisher-labelled text before a named future amendment. Each act uses the latest explicit effective date of its retained source text; where none appears, it uses the publisher compilation update date, 2026-10-30. No earlier wording is reconstructed.
+
+The batch input inventory is `data/ilcs-current-selection-q1928.json`. It identifies each added act, its source date, and every source document by official URL, SHA-256 and selected publisher label. That input inventory has SHA-256 `a5287965ec2f5367da652819aef96ee43c5eea4561e9ae50a94b5e836073b9f9` (UTF-8 file bytes). The 17 act rows and their dates are also listed in README.md. No model wrote or corrected legal text in this append.
