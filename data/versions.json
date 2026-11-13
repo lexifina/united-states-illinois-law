@@ -49385,6 +49385,21 @@
      "units": 21
     }
    ]
+  },
+  {
+   "slug": "ilcs-765-160",
+   "short": "765 ILCS 160",
+   "title": "Common Interest Community Association Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200765/Act%200160/",
+   "versions": [
+    {
+     "from": "2025-08-15",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200765/Act%200160/",
+     "sha256": "b60938109675399640a7db9488f490d1d74d317c83ed061cd4f22ac674af00f5",
+     "source_images": 0,
+     "units": 26
+    }
+   ]
   }
  ]
 }
