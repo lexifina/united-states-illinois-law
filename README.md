@@ -1075,8 +1075,9 @@ One additional indexed act from the [Illinois General Assembly static ILCS compi
 
 ## Further current ILCS texts, 13 November 2026
 
-1 additional indexed acts from the [Illinois General Assembly static ILCS compilation](https://ftp.ilga.gov/ILCS/) retain current text selected only by explicit publisher version labels and source effective dates. Future repeal notices remain; explicitly future-only sections and future amendment alternatives are excluded. The compilation is updated 30 October 2026 through Public Act 104-854 and is publisher-labelled non-authoritative. Each date is the explicit effective date of the latest currently cited Public Act. The source document and date inventory is in `data/ilcs-depth-q2054.json`.
+2 additional indexed acts from the [Illinois General Assembly static ILCS compilation](https://ftp.ilga.gov/ILCS/) retain current text selected only by explicit publisher version labels and source effective dates. Future repeal notices remain; explicitly future-only sections and future amendment alternatives are excluded. The compilation is updated 30 October 2026 through Public Act 104-854 and is publisher-labelled non-authoritative. Each date is the explicit effective date of the latest currently cited Public Act. The source document and date inventory is in `data/ilcs-depth-q2054.json`.
 
 | Act | Source date | Documents |
 | --- | --- | ---: |
 | [Job Opportunities for Qualified Applicants Act (820 ILCS 75)](https://ftp.ilga.gov/ILCS/Ch%200820/Act%200075/) | 2025-06-16 | 8 |
+| [Uniform Electronic Transactions in Dental Care Billing Act (215 ILCS 111)](https://ftp.ilga.gov/ILCS/Ch%200215/Act%200111/) | 2025-08-15 | 8 |

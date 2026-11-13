@@ -49340,6 +49340,21 @@
      "units": 8
     }
    ]
+  },
+  {
+   "slug": "ilcs-215-111",
+   "short": "215 ILCS 111",
+   "title": "Uniform Electronic Transactions in Dental Care Billing Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200215/Act%200111/",
+   "versions": [
+    {
+     "from": "2025-08-15",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200215/Act%200111/",
+     "sha256": "cf27070e39a0a3c6bd10635947306183c431a3a6189e7f2f258d137d07d12973",
+     "source_images": 0,
+     "units": 8
+    }
+   ]
   }
  ]
 }
