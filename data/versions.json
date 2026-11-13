@@ -10722,6 +10722,12 @@
      "units": 5,
      "source_url": "https://web.archive.org/web/20260417085457/https://ilga.gov/Legislation/ILCS/Articles?ActID=751&ChapterID=12&Chapter=COUNTIES&MajorTopic=GOVERNMENT",
      "sha256": "0f944e3d9eaf09351d97fa57a27e78f70999edaf0b29b1f65547246b6285b670"
+    },
+    {
+     "from": "2026-10-30",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200055/Act%200040/",
+     "sha256": "b625fc5b37a117faf78045706cbf581b6d9adec2b74d1fac1af43a185f9c4679",
+     "units": 6
     }
    ]
   },
@@ -10736,6 +10742,12 @@
      "units": 4,
      "source_url": "https://web.archive.org/web/20260413024256/https://ilga.gov/Legislation/ILCS/Articles?ActID=753&ChapterID=12&Chapter=COUNTIES&MajorTopic=GOVERNMENT",
      "sha256": "9f86a3cb8137814e76775d1bef8916b40d8b2b70d251bc539b2aca60316f44c6"
+    },
+    {
+     "from": "2026-10-30",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200055/Act%200050/",
+     "sha256": "d3e675f09d264f8fbf6890a0b2f072e9aa59c27c212ced1c193c429177a80b75",
+     "units": 5
     }
    ]
   },
@@ -10750,6 +10762,12 @@
      "units": 3,
      "source_url": "https://web.archive.org/web/20260513105021/https://ilga.gov/Legislation/ILCS/Articles?ActID=754&ChapterID=12&Chapter=COUNTIES&MajorTopic=GOVERNMENT",
      "sha256": "48e7d736e6c3eeff0193f4bc241a1d6cdbe90775c733063cbc88839ac540ba0a"
+    },
+    {
+     "from": "2026-10-30",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200055/Act%200055/",
+     "sha256": "2da7221b990f956fed7449976a8d28352530203078c6d6439cc70bfe9191e9ad",
+     "units": 4
     }
    ]
   },
@@ -10764,6 +10782,12 @@
      "units": 2,
      "source_url": "https://web.archive.org/web/20260415234017/https://ilga.gov/Legislation/ILCS/Articles?ActID=755&ChapterID=12&Chapter=COUNTIES&MajorTopic=GOVERNMENT",
      "sha256": "c21cb33af21686619f7bf4d56efd29854f6d19b19313c77bcf4e40df4598f4ae"
+    },
+    {
+     "from": "2026-10-30",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200055/Act%200060/",
+     "sha256": "7254a1389d5a8a58a1eb73effac2650fcc1283bfac23885c4c8fdab5d480de23",
+     "units": 3
     }
    ]
   },
@@ -10778,6 +10802,12 @@
      "units": 9,
      "source_url": "https://web.archive.org/web/20260512151500/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=756&ChapterID=12&Chapter=COUNTIES&MajorTopic=GOVERNMENT",
      "sha256": "f91c9f5e9959244db300cd484c34ac6fb6d6723d5c77b86d445a785a923edb6e"
+    },
+    {
+     "from": "2026-10-30",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200055/Act%200065/",
+     "sha256": "422c174b068112d28cae52dda31f93df84cd0692949be4d45ec10a5e1e147676",
+     "units": 10
     }
    ]
   },
@@ -10876,6 +10906,12 @@
      "units": 3,
      "source_url": "https://web.archive.org/web/20260516083849/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=763&ChapterID=12&Chapter=COUNTIES&MajorTopic=GOVERNMENT",
      "sha256": "8015070b32bd8c9cc31780e0adcea072a56ad1768160e465d4eaa4712ad5baac"
+    },
+    {
+     "from": "2026-10-30",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200055/Act%200095/",
+     "sha256": "debcf1fae984e649c9aa4b95ddf96c2e428efdfc101859d8d3a5a17d15525b7f",
+     "units": 4
     }
    ]
   },
@@ -10890,6 +10926,12 @@
      "units": 7,
      "source_url": "https://web.archive.org/web/20260411184844/https://ilga.gov/Legislation/ILCS/Articles?ActID=764&ChapterID=12&Chapter=COUNTIES&MajorTopic=GOVERNMENT",
      "sha256": "f5c2cc816adbb99e0989a201905dde78f528859ca63ee57dfc057bbabe2d859a"
+    },
+    {
+     "from": "2026-10-30",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200055/Act%200100/",
+     "sha256": "469ea7d7ad14f260d22b8fb9479f1062aeb2d48822b5fd20bdff1ba313944aa3",
+     "units": 8
     }
    ]
   },
@@ -10904,6 +10946,12 @@
      "units": 8,
      "source_url": "https://web.archive.org/web/20260513010128/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=766&ChapterID=12&Chapter=COUNTIES&MajorTopic=GOVERNMENT",
      "sha256": "48d841431caa4ea3da7f81e788e6a31ae6cbc9464425c99a2d11dd5cf32a3720"
+    },
+    {
+     "from": "2026-10-30",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200055/Act%200110/",
+     "sha256": "db98ad5936bede3ea79d801d7de595122e930d7360d013545c4d5970428e8625",
+     "units": 9
     }
    ]
   },
@@ -10918,6 +10966,12 @@
      "units": 6,
      "source_url": "https://web.archive.org/web/20260608072238/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=767&ChapterID=12",
      "sha256": "f9f31f3a12b1f228a2a9c85df202639da52557f57fa24c1867b3efef89f0c82d"
+    },
+    {
+     "from": "2026-10-30",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200055/Act%200115/",
+     "sha256": "cb4f8aab75d0530fafa6a956e3942423ac6d0d2da2da451c98269c23ac671b1a",
+     "units": 7
     }
    ]
   },
@@ -10946,6 +11000,12 @@
      "units": 4,
      "source_url": "https://web.archive.org/web/20260511093510/https://ilga.gov/Legislation/ILCS/Articles?ActID=769&ChapterID=12&Chapter=COUNTIES&MajorTopic=GOVERNMENT",
      "sha256": "561efae91e5efd5525776b001944629e643558737d94bc8fda2ec30f8d6adc06"
+    },
+    {
+     "from": "2026-10-30",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200055/Act%200125/",
+     "sha256": "7f18c84eeaab0bb76e6c2d179332aeea48af6292cf0f1f107091a4d3b7f26b8e",
+     "units": 5
     }
    ]
   },
@@ -12024,6 +12084,12 @@
      "units": 2,
      "source_url": "https://web.archive.org/web/20260711230624/https://ilga.gov/Legislation/ILCS/Articles?ActID=805&ChapterID=14",
      "sha256": "bc9a1c4a928dab3ec2e26cc369ad4a50ec4c50edaba46f806909d1323f2a20d8"
+    },
+    {
+     "from": "2026-10-30",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200065/Act%200030/",
+     "sha256": "c1053bebc45738e9f25a5cece5d809404616215542556f5675c871ee57db836e",
+     "units": 3
     }
    ]
   },
@@ -12080,6 +12146,12 @@
      "units": 2,
      "source_url": "https://web.archive.org/web/20260421024115/https://ilga.gov/Legislation/ILCS/Articles?ActID=813&ChapterID=14",
      "sha256": "624c28daebb2b64fd5ccbd3a3e2781e6083d2d2b46758ca14cad8caec2863743"
+    },
+    {
+     "from": "2026-10-30",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200065/Act%200070/",
+     "sha256": "a85ad7c6386ec0861554caee77100eccfb4f7227789d81a8bbc889dba38b56c7",
+     "units": 3
     }
    ]
   },
@@ -12094,6 +12166,12 @@
      "units": 2,
      "source_url": "https://web.archive.org/web/20260806012709/https://ilga.gov/Legislation/ILCS/Articles?ActID=814&ChapterID=14",
      "sha256": "97b003ac82e6d408140e03ff7ff81a10ce04e569d7b7e759e64a2b7640aa6991"
+    },
+    {
+     "from": "2026-10-30",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200065/Act%200075/",
+     "sha256": "453b2fe5b2fa1693ce7930aaf4d18aaa2140b119eb511b92dd7f0066b26fc0f8",
+     "units": 3
     }
    ]
   },
@@ -12234,6 +12312,12 @@
      "units": 49,
      "source_url": "https://web.archive.org/web/20260416142306/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=829&ChapterID=15&Chapter=SPECIAL%20DISTRICTS&MajorTopic=GOVERNMENT",
      "sha256": "f6769edc223ce4d85d371bf0b3f5b65548dfcd6ed83382ff573f0ab4c46bf585"
+    },
+    {
+     "from": "2026-08-21",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200070/Act%200210/",
+     "sha256": "19674a7bb370480db4d74ecb341e87c183ca69b19c7eaca7c15b30f5f605a23b",
+     "units": 50
     }
    ]
   },
@@ -12290,6 +12374,12 @@
      "units": 2,
      "source_url": "https://web.archive.org/web/20260412063840/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=859&ChapterID=15&Chapter=SPECIAL%20DISTRICTS&MajorTopic=GOVERNMENT",
      "sha256": "3b6de344f7b5f4eb267aebc458f80421b09b956734220d8c24e361c364fdbe5c"
+    },
+    {
+     "from": "2026-10-30",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200070/Act%200415/",
+     "sha256": "2ae091b44a07ecda0841a7835a6df4758a15e36d64808ed839457fa77cac4da2",
+     "units": 3
     }
    ]
   },
@@ -12402,6 +12492,12 @@
      "units": 18,
      "source_url": "https://web.archive.org/web/20260605160657/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2624&ChapterID=15",
      "sha256": "a9a687aea1165cf94e24e9b6c23ffda5f6b70b591f6a0b9a2a4a30d9f28db927"
+    },
+    {
+     "from": "2026-08-07",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200070/Act%200518/",
+     "sha256": "e5a241896fbecc681fdf15410f3aa630383672b0bb98804d5134d2697254e336",
+     "units": 19
     }
    ]
   },
@@ -12668,6 +12764,12 @@
      "units": 2,
      "source_url": "https://web.archive.org/web/20260316022221/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=870&ChapterID=15&Chapter=SPECIAL%20DISTRICTS&MajorTopic=GOVERNMENT",
      "sha256": "a126d10b5bb0b6e42db7da83b0172f58311e53c9e9de26a665b3fe4222edd874"
+    },
+    {
+     "from": "2026-10-30",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200070/Act%200610/",
+     "sha256": "96cdd8a4f8d5f4d8f99835493b91f72eeb6d68c5c5f424cf8525ff72c10ab4eb",
+     "units": 3
     }
    ]
   },
@@ -12696,6 +12798,12 @@
      "units": 123,
      "source_url": "https://web.archive.org/web/20260723121638/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=872&ChapterID=15",
      "sha256": "3a8d4ab3a7ba7edee87faa1d3825979e2480fc78df4e313b2f6935dd750b09de"
+    },
+    {
+     "from": "2026-07-24",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200070/Act%200705/",
+     "sha256": "7d1d164e368056475fb8d076c2935cda4b1f91fab51eebed3039ba78fe0958fa",
+     "units": 125
     }
    ]
   },
@@ -12710,6 +12818,12 @@
      "units": 2,
      "source_url": "https://web.archive.org/web/20260421002715/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=873&ChapterID=15&Chapter=SPECIAL%20DISTRICTS&MajorTopic=GOVERNMENT",
      "sha256": "9a1785db92b1234a58c38b791bd82eb5aa5f60b32b877ef46be8798e96502041"
+    },
+    {
+     "from": "2026-10-30",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200070/Act%200710/",
+     "sha256": "6e179e7d6592e2fe9106254b37f63f4df54c43c36825863cde98d2e136ff59b3",
+     "units": 3
     }
    ]
   },
@@ -12794,6 +12908,12 @@
      "units": 2,
      "source_url": "https://web.archive.org/web/20260421071155/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=877&ChapterID=15&Chapter=SPECIAL%20DISTRICTS&MajorTopic=GOVERNMENT",
      "sha256": "2d6365c05b6c93030c341fb755822b21afe3133cf9187d798c2fc38d9bf5be04"
+    },
+    {
+     "from": "2026-10-30",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200070/Act%200815/",
+     "sha256": "6b6f5674e11ce3bcf51211e794c09ebb0dd8c2c70bb40cac851a3eb0f734ff41",
+     "units": 3
     }
    ]
   },
