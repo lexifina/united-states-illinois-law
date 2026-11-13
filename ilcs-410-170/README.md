@@ -1,12 +1,13 @@
-# Illinois Compiled Statutes, Coal Tar Sealant Disclosure Act (410 ILCS 170)
+# Coal Tar Sealant Disclosure Act
 
-410 ILCS 170 · 1 versions, from 2026-05-11 (latest in force: 2026-05-11) · <https://www.ilga.gov/Legislation/ILCS/Articles?ActID=4181>
+410 ILCS 170 · 2 versions, from 2026-05-11 (latest in force: 2026-07-01) · <https://ftp.ilga.gov/ILCS/Ch%200410/Act%200170/>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
-| 410 ILCS 170/1 | [sec-0001.md](sec-0001.md) | 0 |  |
-| 410 ILCS 170/5 | [sec-0005.md](sec-0005.md) | 0 |  |
-| 410 ILCS 170/10 | [sec-0010.md](sec-0010.md) | 0 |  |
-| 410 ILCS 170/15 | [sec-0015.md](sec-0015.md) | 0 |  |
-| 410 ILCS 170/20 | [sec-0020.md](sec-0020.md) | 0 |  |
-| 410 ILCS 170/99 | [sec-0099.md](sec-0099.md) | 0 |  |
+| Act title | [doc-0001-041001700f.md](doc-0001-041001700f.md) | 1 | 2026-07-01 |
+| 410 ILCS 170/1 | [doc-0002-041001700k1.md](doc-0002-041001700k1.md) | 1 | 2026-07-01 |
+| 410 ILCS 170/5 | [doc-0003-041001700k5.md](doc-0003-041001700k5.md) | 1 | 2026-07-01 |
+| 410 ILCS 170/10 | [doc-0004-041001700k10.md](doc-0004-041001700k10.md) | 1 | 2026-07-01 |
+| 410 ILCS 170/15 | [doc-0005-041001700k15.md](doc-0005-041001700k15.md) | 1 | 2026-07-01 |
+| 410 ILCS 170/20 | [doc-0006-041001700k20.md](doc-0006-041001700k20.md) | 1 | 2026-07-01 |
+| 410 ILCS 170/99 | [doc-0007-041001700k99.md](doc-0007-041001700k99.md) | 1 | 2026-07-01 |

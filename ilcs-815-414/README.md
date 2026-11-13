@@ -1,12 +1,15 @@
-# Illinois Compiled Statutes, Ticket Sale and Resale Act (815 ILCS 414)
+# Ticket Sale and Resale Act
 
-815 ILCS 414 · 1 versions, from 2026-02-14 (latest in force: 2026-02-14) · <https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3442>
+815 ILCS 414 · 2 versions, from 2026-02-14 (latest in force: 2026-06-25) · <https://ftp.ilga.gov/ILCS/Ch%200815/Act%200414/>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
-| 815 ILCS 414/0.01 | [sec-0000-0001.md](sec-0000-0001.md) | 0 |  |
-| 815 ILCS 414/1 | [sec-0001.md](sec-0001.md) | 0 |  |
-| 815 ILCS 414/1.5 | [sec-0001-0005.md](sec-0001-0005.md) | 0 |  |
-| 815 ILCS 414/2 | [sec-0002.md](sec-0002.md) | 0 |  |
-| 815 ILCS 414/3 | [sec-0003.md](sec-0003.md) | 0 |  |
-| 815 ILCS 414/4 | [sec-0004.md](sec-0004.md) | 0 |  |
+| Act title | [doc-0001-081504140f.md](doc-0001-081504140f.md) | 1 | 2026-06-25 |
+| 815 ILCS 414/0.01 | [doc-0002-081504140k0-01.md](doc-0002-081504140k0-01.md) | 1 | 2026-06-25 |
+| 815 ILCS 414/0.5 | [doc-0003-081504140k0-5.md](doc-0003-081504140k0-5.md) | 1 | 2026-06-25 |
+| 815 ILCS 414/1 | [doc-0004-081504140k1.md](doc-0004-081504140k1.md) | 1 | 2026-06-25 |
+| 815 ILCS 414/1.5 | [doc-0005-081504140k1-5.md](doc-0005-081504140k1-5.md) | 1 | 2026-06-25 |
+| 815 ILCS 414/1.6 | [doc-0006-081504140k1-6.md](doc-0006-081504140k1-6.md) | 1 | 2026-06-25 |
+| 815 ILCS 414/2 | [doc-0007-081504140k2.md](doc-0007-081504140k2.md) | 1 | 2026-06-25 |
+| 815 ILCS 414/3 | [doc-0008-081504140k3.md](doc-0008-081504140k3.md) | 1 | 2026-06-25 |
+| 815 ILCS 414/4 | [doc-0009-081504140k4.md](doc-0009-081504140k4.md) | 1 | 2026-06-25 |

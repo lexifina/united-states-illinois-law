@@ -1,13 +1,14 @@
-# Illinois Compiled Statutes, Ephedra Prohibition Act (720 ILCS 602)
+# Ephedra Prohibition Act
 
-720 ILCS 602 · 1 versions, from 2026-03-28 (latest in force: 2026-03-28) · <https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2490>
+720 ILCS 602 · 2 versions, from 2026-03-28 (latest in force: 2026-08-21) · <https://ftp.ilga.gov/ILCS/Ch%200720/Act%200602/>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
-| 720 ILCS 602/1 | [sec-0001.md](sec-0001.md) | 0 |  |
-| 720 ILCS 602/5 | [sec-0005.md](sec-0005.md) | 0 |  |
-| 720 ILCS 602/10 | [sec-0010.md](sec-0010.md) | 0 |  |
-| 720 ILCS 602/15 | [sec-0015.md](sec-0015.md) | 0 |  |
-| 720 ILCS 602/20 | [sec-0020.md](sec-0020.md) | 0 |  |
-| 720 ILCS 602/25 | [sec-0025.md](sec-0025.md) | 0 |  |
-| 720 ILCS 602/99 | [sec-0099.md](sec-0099.md) | 0 |  |
+| Act title | [doc-0001-072006020f.md](doc-0001-072006020f.md) | 1 | 2026-08-21 |
+| 720 ILCS 602/1 | [doc-0002-072006020k1.md](doc-0002-072006020k1.md) | 1 | 2026-08-21 |
+| 720 ILCS 602/5 | [doc-0003-072006020k5.md](doc-0003-072006020k5.md) | 1 | 2026-08-21 |
+| 720 ILCS 602/10 | [doc-0004-072006020k10.md](doc-0004-072006020k10.md) | 1 | 2026-08-21 |
+| 720 ILCS 602/15 | [doc-0005-072006020k15.md](doc-0005-072006020k15.md) | 1 | 2026-08-21 |
+| 720 ILCS 602/20 | [doc-0006-072006020k20.md](doc-0006-072006020k20.md) | 1 | 2026-08-21 |
+| 720 ILCS 602/25 | [doc-0007-072006020k25.md](doc-0007-072006020k25.md) | 1 | 2026-08-21 |
+| 720 ILCS 602/99 | [doc-0008-072006020k99.md](doc-0008-072006020k99.md) | 1 | 2026-08-21 |

@@ -1,15 +1,16 @@
-# Illinois Compiled Statutes, Gasoline Storage Act (430 ILCS 15)
+# Gasoline Storage Act
 
-430 ILCS 15 · 1 versions, from 2026-08-08 (latest in force: 2026-08-08) · <https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1646>
+430 ILCS 15 · 2 versions, from 2026-08-08 (latest in force: 2026-08-21) · <https://ftp.ilga.gov/ILCS/Ch%200430/Act%200015/>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
-| 430 ILCS 15/0.01 | [sec-0000-0001.md](sec-0000-0001.md) | 0 |  |
-| 430 ILCS 15/1 | [sec-0001.md](sec-0001.md) | 0 |  |
-| 430 ILCS 15/2 | [sec-0002.md](sec-0002.md) | 0 |  |
-| 430 ILCS 15/3.5 | [sec-0003-0005.md](sec-0003-0005.md) | 0 |  |
-| 430 ILCS 15/4 | [sec-0004.md](sec-0004.md) | 0 |  |
-| 430 ILCS 15/5 | [sec-0005.md](sec-0005.md) | 0 |  |
-| 430 ILCS 15/6 | [sec-0006.md](sec-0006.md) | 0 |  |
-| 430 ILCS 15/6.1 | [sec-0006-0001.md](sec-0006-0001.md) | 0 |  |
-| 430 ILCS 15/7 | [sec-0007.md](sec-0007.md) | 0 |  |
+| Act title | [doc-0001-043000150f.md](doc-0001-043000150f.md) | 1 | 2026-08-21 |
+| 430 ILCS 15/0.01 | [doc-0002-043000150k0-01.md](doc-0002-043000150k0-01.md) | 1 | 2026-08-21 |
+| 430 ILCS 15/1 | [doc-0003-043000150k1.md](doc-0003-043000150k1.md) | 1 | 2026-08-21 |
+| 430 ILCS 15/2 | [doc-0004-043000150k2.md](doc-0004-043000150k2.md) | 1 | 2026-08-21 |
+| 430 ILCS 15/3.5 | [doc-0005-043000150k3-5.md](doc-0005-043000150k3-5.md) | 1 | 2026-08-21 |
+| 430 ILCS 15/4 | [doc-0006-043000150k4.md](doc-0006-043000150k4.md) | 1 | 2026-08-21 |
+| 430 ILCS 15/5 | [doc-0007-043000150k5.md](doc-0007-043000150k5.md) | 1 | 2026-08-21 |
+| 430 ILCS 15/6 | [doc-0008-043000150k6.md](doc-0008-043000150k6.md) | 1 | 2026-08-21 |
+| 430 ILCS 15/6.1 | [doc-0009-043000150k6-1.md](doc-0009-043000150k6-1.md) | 1 | 2026-08-21 |
+| 430 ILCS 15/7 | [doc-0010-043000150k7.md](doc-0010-043000150k7.md) | 1 | 2026-08-21 |

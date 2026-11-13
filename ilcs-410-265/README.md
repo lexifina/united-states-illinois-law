@@ -1,11 +1,12 @@
-# Illinois Compiled Statutes, Genetic and Metabolic Diseases Advisory Committee Act (410 ILCS 265)
+# Genetic and Metabolic Diseases Advisory Committee Act
 
-410 ILCS 265 · 1 versions, from 2026-04-10 (latest in force: 2026-04-10) · <https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2956>
+410 ILCS 265 · 2 versions, from 2026-04-10 (latest in force: 2026-08-21) · <https://ftp.ilga.gov/ILCS/Ch%200410/Act%200265/>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
-| 410 ILCS 265/1 | [sec-0001.md](sec-0001.md) | 0 |  |
-| 410 ILCS 265/5 | [sec-0005.md](sec-0005.md) | 0 |  |
-| 410 ILCS 265/10 | [sec-0010.md](sec-0010.md) | 0 |  |
-| 410 ILCS 265/15 | [sec-0015.md](sec-0015.md) | 0 |  |
-| 410 ILCS 265/99 | [sec-0099.md](sec-0099.md) | 0 |  |
+| Act title | [doc-0001-041002650f.md](doc-0001-041002650f.md) | 1 | 2026-08-21 |
+| 410 ILCS 265/1 | [doc-0002-041002650k1.md](doc-0002-041002650k1.md) | 1 | 2026-08-21 |
+| 410 ILCS 265/5 | [doc-0003-041002650k5.md](doc-0003-041002650k5.md) | 1 | 2026-08-21 |
+| 410 ILCS 265/10 | [doc-0004-041002650k10.md](doc-0004-041002650k10.md) | 1 | 2026-08-21 |
+| 410 ILCS 265/15 | [doc-0005-041002650k15.md](doc-0005-041002650k15.md) | 1 | 2026-08-21 |
+| 410 ILCS 265/99 | [doc-0006-041002650k99.md](doc-0006-041002650k99.md) | 1 | 2026-08-21 |

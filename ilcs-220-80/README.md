@@ -1,13 +1,14 @@
-# Illinois Compiled Statutes, Broadband Advisory Council Act (220 ILCS 80)
+# Broadband Advisory Council Act
 
-220 ILCS 80 · 1 versions, from 2026-04-19 (latest in force: 2026-04-19) · <https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3885>
+220 ILCS 80 · 2 versions, from 2026-04-19 (latest in force: 2026-08-07) · <https://ftp.ilga.gov/ILCS/Ch%200220/Act%200080/>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
-| 220 ILCS 80/1 | [sec-0001.md](sec-0001.md) | 0 |  |
-| 220 ILCS 80/5 | [sec-0005.md](sec-0005.md) | 0 |  |
-| 220 ILCS 80/10 | [sec-0010.md](sec-0010.md) | 0 |  |
-| 220 ILCS 80/15 | [sec-0015.md](sec-0015.md) | 0 |  |
-| 220 ILCS 80/20 | [sec-0020.md](sec-0020.md) | 0 |  |
-| 220 ILCS 80/25 | [sec-0025.md](sec-0025.md) | 0 |  |
-| 220 ILCS 80/30 | [sec-0030.md](sec-0030.md) | 0 |  |
+| Act title | [doc-0001-022000800f.md](doc-0001-022000800f.md) | 1 | 2026-08-07 |
+| 220 ILCS 80/1 | [doc-0002-022000800k1.md](doc-0002-022000800k1.md) | 1 | 2026-08-07 |
+| 220 ILCS 80/5 | [doc-0003-022000800k5.md](doc-0003-022000800k5.md) | 1 | 2026-08-07 |
+| 220 ILCS 80/10 | [doc-0004-022000800k10.md](doc-0004-022000800k10.md) | 1 | 2026-08-07 |
+| 220 ILCS 80/15 | [doc-0005-022000800k15.md](doc-0005-022000800k15.md) | 1 | 2026-08-07 |
+| 220 ILCS 80/20 | [doc-0006-022000800k20.md](doc-0006-022000800k20.md) | 1 | 2026-08-07 |
+| 220 ILCS 80/25 | [doc-0007-022000800k25.md](doc-0007-022000800k25.md) | 1 | 2026-08-07 |
+| 220 ILCS 80/30 | [doc-0008-022000800k30.md](doc-0008-022000800k30.md) | 1 | 2026-08-07 |
