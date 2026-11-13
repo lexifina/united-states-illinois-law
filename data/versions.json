@@ -1,0 +1,124 @@
+{
+ "country": "US-IL",
+ "acts": [
+  {
+   "slug": "ilcs-405-115",
+   "short": "405 ILCS 115",
+   "title": "Advisory Council on Early Identification and Treatment of Mental Health Conditions Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200405/Act%200115/",
+   "versions": [
+    {
+     "from": "2018-08-14",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 4,
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200405/Act%200115/",
+     "sha256": "9198270ef483020345c922cdf1d6d046d37c5f24c8c08f0aee07e6581d0d5423"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-325-27",
+   "short": "325 ILCS 27",
+   "title": "Afterschool Youth Development Project Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200325/Act%200027/",
+   "versions": [
+    {
+     "from": "2017-09-08",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 9,
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200325/Act%200027/",
+     "sha256": "9f83ccfda38f4b1d02f04d855a827fc95d1ea4eeb9201346fc9d912413940625"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-405-160",
+   "short": "405 ILCS 160",
+   "title": "Strengthening and Transforming Behavioral Health Crisis Care in Illinois Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200405/Act%200160/",
+   "versions": [
+    {
+     "from": "2023-07-28",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 9,
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200405/Act%200160/",
+     "sha256": "02d07dc474635e8b696e272d069146b255012f843d4a5f554fb04586434d96ab"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-20-2405",
+   "short": "20 ILCS 2405",
+   "title": "Rehabilitation of Persons with Disabilities Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%202405/",
+   "versions": [
+    {
+     "from": "2025-08-15",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 27,
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%202405/",
+     "sha256": "0f7cd659e3b5da089922c7fd9a6e1c5de59df975ee317c4d3f81d2db2135d246"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-630-5",
+   "short": "630 ILCS 5",
+   "title": "Public-Private Partnerships for Transportation Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200630/Act%200005/",
+   "versions": [
+    {
+     "from": "2025-08-15",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 32,
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200630/Act%200005/",
+     "sha256": "6249ab2d002583ee3fbf075a33115966a3670b37fa50ae0cf36d65a4ab1eb14f"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-225-80",
+   "short": "225 ILCS 80",
+   "title": "Illinois Optometric Practice Act of 1987",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200225/Act%200080/",
+   "versions": [
+    {
+     "from": "2026-08-07",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 57,
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200225/Act%200080/",
+     "sha256": "2c66cf29823bb7ac55a5dfca54974cf7541489dec127b98d7ca806975d88906e"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-20-605",
+   "short": "20 ILCS 605",
+   "title": "Department of Commerce and Economic Opportunity Law of the Civil Administrative Code of Illinois",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%200605/",
+   "versions": [
+    {
+     "from": "2026-08-21",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 175,
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%200605/",
+     "sha256": "86715bf99bbe796319ea4b169b6175e27dc76adc2b5592a433ee7c546d4206d9"
+    }
+   ]
+  }
+ ]
+}
