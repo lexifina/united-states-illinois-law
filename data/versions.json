@@ -49355,6 +49355,21 @@
      "units": 8
     }
    ]
+  },
+  {
+   "slug": "ilcs-320-40",
+   "short": "320 ILCS 40",
+   "title": "Program of All-Inclusive Care for the Elderly Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200320/Act%200040/",
+   "versions": [
+    {
+     "from": "2021-07-06",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200320/Act%200040/",
+     "sha256": "b4faeff42c1251c24847781206c94ffff9ab0eeba404875763a33f7ef07e4891",
+     "source_images": 0,
+     "units": 10
+    }
+   ]
   }
  ]
 }
