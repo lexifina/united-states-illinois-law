@@ -47804,6 +47804,258 @@
      "units": 12
     }
    ]
+  },
+  {
+   "slug": "ilcs-5-412",
+   "short": "5 ILCS 412",
+   "title": "State Employee Housing Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200005/Act%200412/",
+   "versions": [
+    {
+     "from": "2025-11-21",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200005/Act%200412/",
+     "sha256": "68ccedfa6f211169b6f22a591fba7b9da3e035a8a6adeb88703470e46aad2aa0",
+     "units": 14
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-20-801",
+   "short": "20 ILCS 801",
+   "title": "Department of Natural Resources Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%200801/",
+   "versions": [
+    {
+     "from": "2026-06-16",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%200801/",
+     "sha256": "9b0439882c23b07f8782febe87b0e387eddab4e853de99ec659deb28d3c4c7c2",
+     "units": 41
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-105-405",
+   "short": "105 ILCS 405",
+   "title": "Adult Education Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200105/Act%200405/",
+   "versions": [
+    {
+     "from": "2019-08-09",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200105/Act%200405/",
+     "sha256": "c66b51ee38cb4576c66835cf1eebcacaf79012e9f519ae19ae3bc87bf0e09d10",
+     "units": 16
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-110-185",
+   "short": "110 ILCS 185",
+   "title": "Behavioral Health Workforce Education Center of Illinois Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200110/Act%200185/",
+   "versions": [
+    {
+     "from": "2021-04-27",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200110/Act%200185/",
+     "sha256": "985db3b78174dac77d1a2eb15c7cbfbebcb6c2ccd4cf7e69f24a683e4e1cda26",
+     "units": 40
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-210-32",
+   "short": "210 ILCS 32",
+   "title": "Authorized Electronic Monitoring in Long-Term Care Facilities Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200210/Act%200032/",
+   "versions": [
+    {
+     "from": "2019-07-26",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200210/Act%200032/",
+     "sha256": "52b6b43169ee7166a7eb835086ecce9c67b7071a4932e63a7706f40209ca5b6e",
+     "units": 18
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-210-46",
+   "short": "210 ILCS 46",
+   "title": "MC/DD Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200210/Act%200046/",
+   "versions": [
+    {
+     "from": "2026-07-01",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200210/Act%200046/",
+     "sha256": "cc4309e268fa9f645b5324bceefff3491aba04bb213fe808e2a9f86f8a6f4212",
+     "units": 296
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-210-47",
+   "short": "210 ILCS 47",
+   "title": "ID/DD Community Care Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200210/Act%200047/",
+   "versions": [
+    {
+     "from": "2026-08-21",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200210/Act%200047/",
+     "sha256": "3ef26efff9e07959ae1e0ac8cc52a60452cc965181a2f17a11550e6f926ef7fb",
+     "units": 248
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-215-185",
+   "short": "215 ILCS 185",
+   "title": "Unclaimed Life Insurance Benefits Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200215/Act%200185/",
+   "versions": [
+    {
+     "from": "2018-08-14",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200215/Act%200185/",
+     "sha256": "21c92698fc4950eae22bbbac82ae4b50e81fe2f0611d9cfbd116f32cb1c149b4",
+     "units": 10
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-405-30",
+   "short": "405 ILCS 30",
+   "title": "Community Services Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200405/Act%200030/",
+   "versions": [
+    {
+     "from": "2022-06-10",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200405/Act%200030/",
+     "sha256": "e89523577c84b61cd36dbbff5761da1dc6dcc821d3e6b3fb1f52c88194548d9f",
+     "units": 17
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-405-80",
+   "short": "405 ILCS 80",
+   "title": "Developmental Disability and Mental Disability Services Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200405/Act%200080/",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200405/Act%200080/",
+     "sha256": "a5c1dd9179b621c99a9fe204ca3401bec498a0617cc8e6c70a034c956d16bebc",
+     "units": 43
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-405-125",
+   "short": "405 ILCS 125",
+   "title": "Housing is Recovery Pilot Program Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200405/Act%200125/",
+   "versions": [
+    {
+     "from": "2025-01-01",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200405/Act%200125/",
+     "sha256": "4078c148e297612919e45973dae3c45f2750e0377eb1c9e64a41ba55ae9d37e4",
+     "units": 21
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-405-145",
+   "short": "405 ILCS 145",
+   "title": "Ensuring a More Qualified, Competent, and Diverse Community Behavioral Health Workforce Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200405/Act%200145/",
+   "versions": [
+    {
+     "from": "2023-06-30",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200405/Act%200145/",
+     "sha256": "d8ed196c5356fe4c33eb46908ab9efd9f3941b2b816f0b7051bb720f236a1d94",
+     "units": 16
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-410-405",
+   "short": "410 ILCS 405",
+   "title": "Alzheimer's Disease Assistance Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200410/Act%200405/",
+   "versions": [
+    {
+     "from": "2020-01-01",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200410/Act%200405/",
+     "sha256": "c6fbe26a43c3efdef56851ff4459bc95e83848d8c6a936c0beaca39219543be9",
+     "units": 9
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-605-10",
+   "short": "605 ILCS 10",
+   "title": "Toll Highway Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200605/Act%200010/",
+   "versions": [
+    {
+     "from": "2026-08-21",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200605/Act%200010/",
+     "sha256": "ea811e9ed71ee1a04de5c2cbe3fbf7a37ddc2c644d7e2f10d4269cb69f467a66",
+     "units": 66
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-745-19",
+   "short": "745 ILCS 19",
+   "title": "Public and Appellate Defender Immunity Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200745/Act%200019/",
+   "versions": [
+    {
+     "from": "2000-06-30",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200745/Act%200019/",
+     "sha256": "99633178a4a43aa7f8f3810a45b6ea62b3a83c4c4dc9acc39720681362ff17ac",
+     "units": 4
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-750-62",
+   "short": "750 ILCS 62",
+   "title": "Domestic Violence Fatality Review Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200750/Act%200062/",
+   "versions": [
+    {
+     "from": "2021-08-20",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200750/Act%200062/",
+     "sha256": "6074b2500dea76c3793c5ee90a3668a8320ea8f1c727543681423ec8ede9da03",
+     "units": 25
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-775-50",
+   "short": "775 ILCS 50",
+   "title": "Human Trafficking Resource Center Notice Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200775/Act%200050/",
+   "versions": [
+    {
+     "from": "2022-05-13",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200775/Act%200050/",
+     "sha256": "da1412da10a29971a8a6f68dbbdf631050e55c6586a7be66ba346002db095e34",
+     "units": 6
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-805-15",
+   "short": "805 ILCS 15",
+   "title": "Medical Corporation Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200805/Act%200015/",
+   "versions": [
+    {
+     "from": "2018-08-14",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200805/Act%200015/",
+     "sha256": "b9d3eadb12d98eb74f070a5816e90cf65e4515f3aa29745f497b9fc304d4e612",
+     "units": 23
+    }
+   ]
   }
  ]
 }

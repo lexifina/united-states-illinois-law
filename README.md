@@ -813,3 +813,28 @@ Each addition retains all sections, act-title documents and article headings in 
 | [Public Safety Employee Benefits Act (820 ILCS 320)](https://ftp.ilga.gov/ILCS/Ch%200820/Act%200320/) | 9 | 2024-01-01 |
 | [Hotel and Casino Employee Safety Act (820 ILCS 325)](https://ftp.ilga.gov/ILCS/Ch%200820/Act%200325/) | 7 | 2021-03-01 |
 | [Public Accountability and Performance System Act (30 ILCS 25)](https://ftp.ilga.gov/ILCS/Ch%200030/Act%200025/) | 7 | 2009-07-15 |
+
+## Current wording selected from labelled ILCS alternatives
+
+18 additional indexed acts retain current wording from the Illinois General Assembly compilation of 30 October 2026. Where a section supplies a pair labelled before and after amendment by the same Public Act, the before text is retained only when the after text has one explicit effective date later than 13 November 2026 and the before text has an effective date on or before that day. Acts with unlabelled future wording or ambiguous alternatives remain excluded. No earlier wording is reconstructed. The compilation is not official or authoritative; the publisher identifies the printed Secretary of State copy as official. Source words, act titles, article headings and current sections are retained in source order. Dates use the latest explicit effective date of retained source text. Per-document source digests and selected/excluded publisher labels appear in `data/ilcs-current-selection-q1910.json`.
+
+| Act | Sections | Source date |
+| --- | ---: | --- |
+| [State Employee Housing Act (5 ILCS 412)](https://ftp.ilga.gov/ILCS/Ch%200005/Act%200412/) | 9 | 2025-11-21 |
+| [Department of Natural Resources Act (20 ILCS 801)](https://ftp.ilga.gov/ILCS/Ch%200020/Act%200801/) | 33 | 2026-06-16 |
+| [Adult Education Act (105 ILCS 405)](https://ftp.ilga.gov/ILCS/Ch%200105/Act%200405/) | 11 | 2019-08-09 |
+| [Behavioral Health Workforce Education Center of Illinois Act (110 ILCS 185)](https://ftp.ilga.gov/ILCS/Ch%200110/Act%200185/) | 7 | 2021-04-27 |
+| [Authorized Electronic Monitoring in Long-Term Care Facilities Act (210 ILCS 32)](https://ftp.ilga.gov/ILCS/Ch%200210/Act%200032/) | 17 | 2019-07-26 |
+| [MC/DD Act (210 ILCS 46)](https://ftp.ilga.gov/ILCS/Ch%200210/Act%200046/) | 282 | 2026-07-01 |
+| [ID/DD Community Care Act (210 ILCS 47)](https://ftp.ilga.gov/ILCS/Ch%200210/Act%200047/) | 232 | 2026-08-21 |
+| [Unclaimed Life Insurance Benefits Act (215 ILCS 185)](https://ftp.ilga.gov/ILCS/Ch%200215/Act%200185/) | 9 | 2018-08-14 |
+| [Community Services Act (405 ILCS 30)](https://ftp.ilga.gov/ILCS/Ch%200405/Act%200030/) | 16 | 2022-06-10 |
+| [Developmental Disability and Mental Disability Services Act (405 ILCS 80)](https://ftp.ilga.gov/ILCS/Ch%200405/Act%200080/) | 32 | 2026-01-01 |
+| [Housing is Recovery Pilot Program Act (405 ILCS 125)](https://ftp.ilga.gov/ILCS/Ch%200405/Act%200125/) | 20 | 2025-01-01 |
+| [Ensuring a More Qualified, Competent, and Diverse Community Behavioral Health Workforce Act (405 ILCS 145)](https://ftp.ilga.gov/ILCS/Ch%200405/Act%200145/) | 10 | 2023-06-30 |
+| [Alzheimer's Disease Assistance Act (410 ILCS 405)](https://ftp.ilga.gov/ILCS/Ch%200410/Act%200405/) | 8 | 2020-01-01 |
+| [Toll Highway Act (605 ILCS 10)](https://ftp.ilga.gov/ILCS/Ch%200605/Act%200010/) | 65 | 2026-08-21 |
+| [Public and Appellate Defender Immunity Act (745 ILCS 19)](https://ftp.ilga.gov/ILCS/Ch%200745/Act%200019/) | 3 | 2000-06-30 |
+| [Domestic Violence Fatality Review Act (750 ILCS 62)](https://ftp.ilga.gov/ILCS/Ch%200750/Act%200062/) | 24 | 2021-08-20 |
+| [Human Trafficking Resource Center Notice Act (775 ILCS 50)](https://ftp.ilga.gov/ILCS/Ch%200775/Act%200050/) | 5 | 2022-05-13 |
+| [Medical Corporation Act (805 ILCS 15)](https://ftp.ilga.gov/ILCS/Ch%200805/Act%200015/) | 22 | 2018-08-14 |
