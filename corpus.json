@@ -1,0 +1,17 @@
+{
+ "corpus": "us/illinois/acts",
+ "path": "united-states/illinois/acts",
+ "scope": "selected-acts",
+ "acts": 17,
+ "future_branch": "future",
+ "publisher": "Illinois General Assembly (ilga.gov)",
+ "name": "United States (Illinois)",
+ "language": "en",
+ "coverage": "17 acts of United States (Illinois), the current text of each as of 2026-11-13",
+ "history": "current-only",
+ "history_from": "2024-01-01",
+ "record_to": "2026-11-13",
+ "checked_on": "2026-11-13",
+ "record_note": "Texts from Illinois General Assembly (ilga.gov).",
+ "in_force_trailer": "In-force"
+}
