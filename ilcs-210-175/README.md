@@ -1,12 +1,13 @@
-# Illinois Compiled Statutes, Essential Support Person Act (210 ILCS 175)
+# Essential Support Person Act
 
-210 ILCS 175 · 1 versions, from 2026-05-09 (latest in force: 2026-05-09) · <https://www.ilga.gov/Legislation/ILCS/Articles?ActID=4423>
+210 ILCS 175 · 2 versions, from 2026-05-09 (latest in force: 2026-08-21) · <https://ftp.ilga.gov/ILCS/Ch%200210/Act%200175/>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
-| 210 ILCS 175/1 | [sec-0001.md](sec-0001.md) | 0 |  |
-| 210 ILCS 175/5 | [sec-0005.md](sec-0005.md) | 0 |  |
-| 210 ILCS 175/10 | [sec-0010.md](sec-0010.md) | 0 |  |
-| 210 ILCS 175/15 | [sec-0015.md](sec-0015.md) | 0 |  |
-| 210 ILCS 175/20 | [sec-0020.md](sec-0020.md) | 0 |  |
-| 210 ILCS 175/99 | [sec-0099.md](sec-0099.md) | 0 |  |
+| Act title | [doc-0001-021001750f.md](doc-0001-021001750f.md) | 1 | 2026-08-21 |
+| 210 ILCS 175/1 | [doc-0002-021001750k1.md](doc-0002-021001750k1.md) | 1 | 2026-08-21 |
+| 210 ILCS 175/5 | [doc-0003-021001750k5.md](doc-0003-021001750k5.md) | 1 | 2026-08-21 |
+| 210 ILCS 175/10 | [doc-0004-021001750k10.md](doc-0004-021001750k10.md) | 1 | 2026-08-21 |
+| 210 ILCS 175/15 | [doc-0005-021001750k15.md](doc-0005-021001750k15.md) | 1 | 2026-08-21 |
+| 210 ILCS 175/20 | [doc-0006-021001750k20.md](doc-0006-021001750k20.md) | 1 | 2026-08-21 |
+| 210 ILCS 175/99 | [doc-0007-021001750k99.md](doc-0007-021001750k99.md) | 1 | 2026-08-21 |

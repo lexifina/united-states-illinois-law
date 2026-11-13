@@ -1,0 +1,17 @@
+{
+ "corpus": "us/illinois/acts",
+ "path": "united-states/illinois/acts",
+ "scope": "selected-acts",
+ "acts": 20,
+ "future_branch": "future",
+ "publisher": "Illinois General Assembly (ilga.gov)",
+ "name": "United States (Illinois)",
+ "language": "en",
+ "coverage": "20 acts of United States (Illinois) with every dated version the source gives (40 versions), in force from 2026-02-14 to 2026-11-13",
+ "history": "in-force",
+ "history_from": "2026-02-14",
+ "record_to": "2026-11-13",
+ "checked_on": "2026-11-13",
+ "record_note": "Texts from Illinois General Assembly (ilga.gov).",
+ "in_force_trailer": "In-force"
+}

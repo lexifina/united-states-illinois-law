@@ -1,52 +1,6 @@
 {
-  "path": "us/il",
-  "code": "US-IL",
-  "name": "United States (Illinois)",
-  "level": "state",
-  "repo": "https://github.com/lexifina/united-states-illinois-law",
-  "build": "partial",
-  "archive_additions": {
-    "acts": 2,
-    "source": "Internet Archive captures of Illinois General Assembly statute text",
-    "date_basis": "latest explicit effective date in source amendment notes"
-  },
-  "ilcs_static_additions": {
-    "acts": 752,
-    "compilation_date": "2026-10-30",
-    "through_public_act": "104-854",
-    "authoritative": false,
-    "source": "https://ftp.ilga.gov/ILCS/",
-    "date_basis": "explicit source effective dates, otherwise compilation date"
-  },
-  "ilcs_current_selection": {
-    "acts": 17,
-    "checked_on": "2026-11-13",
-    "source": "https://ftp.ilga.gov/ILCS/",
-    "authoritative": false
-  },
-  "ilcs_current_refresh": {
-    "acts": 100,
-    "checked_on": "2026-11-13",
-    "compilation_date": "2026-10-30",
-    "source": "https://ftp.ilga.gov/ILCS/",
-    "authoritative": false,
-    "date_basis": "latest explicit source effective date, otherwise source compilation update",
-    "representation": "correction overlays"
-  },
-  "ilcs_current_refresh_second_batch": {
-    "acts": 20,
-    "checked_on": "2026-11-13",
-    "compilation_date": "2026-10-30",
-    "source": "https://ftp.ilga.gov/ILCS/",
-    "authoritative": false,
-    "representation": "correction overlays"
-  },
-  "ilcs_current_refresh_third_batch": {
-    "acts": 20,
-    "checked_on": "2026-11-13",
-    "compilation_date": "2026-10-30",
-    "source": "https://ftp.ilga.gov/ILCS/",
-    "authoritative": false,
-    "representation": "correction overlays"
-  }
+ "path": "united-states/illinois",
+ "code": "US-IL",
+ "level": "subdivision",
+ "parent": "united-states"
 }

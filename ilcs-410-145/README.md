@@ -1,14 +1,15 @@
-# Illinois Compiled Statutes, Youth Sports Concussion Safety Act (410 ILCS 145)
+# Youth Sports Concussion Safety Act
 
-410 ILCS 145 · 1 versions, from 2026-03-08 (latest in force: 2026-03-08) · <https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3652>
+410 ILCS 145 · 2 versions, from 2026-03-08 (latest in force: 2026-08-21) · <https://ftp.ilga.gov/ILCS/Ch%200410/Act%200145/>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
-| 410 ILCS 145/1 | [sec-0001.md](sec-0001.md) | 0 |  |
-| 410 ILCS 145/5 | [sec-0005.md](sec-0005.md) | 0 |  |
-| 410 ILCS 145/10 | [sec-0010.md](sec-0010.md) | 0 |  |
-| 410 ILCS 145/15 | [sec-0015.md](sec-0015.md) | 0 |  |
-| 410 ILCS 145/75 | [sec-0075.md](sec-0075.md) | 0 |  |
-| 410 ILCS 145/80 | [sec-0080.md](sec-0080.md) | 0 |  |
-| 410 ILCS 145/85 | [sec-0085.md](sec-0085.md) | 0 |  |
-| 410 ILCS 145/99 | [sec-0099.md](sec-0099.md) | 0 |  |
+| Act title | [doc-0001-041001450f.md](doc-0001-041001450f.md) | 1 | 2026-08-21 |
+| 410 ILCS 145/1 | [doc-0002-041001450k1.md](doc-0002-041001450k1.md) | 1 | 2026-08-21 |
+| 410 ILCS 145/5 | [doc-0003-041001450k5.md](doc-0003-041001450k5.md) | 1 | 2026-08-21 |
+| 410 ILCS 145/10 | [doc-0004-041001450k10.md](doc-0004-041001450k10.md) | 1 | 2026-08-21 |
+| 410 ILCS 145/15 | [doc-0005-041001450k15.md](doc-0005-041001450k15.md) | 1 | 2026-08-21 |
+| 410 ILCS 145/75 | [doc-0006-041001450k75.md](doc-0006-041001450k75.md) | 1 | 2026-08-21 |
+| 410 ILCS 145/80 | [doc-0007-041001450k80.md](doc-0007-041001450k80.md) | 1 | 2026-08-21 |
+| 410 ILCS 145/85 | [doc-0008-041001450k85.md](doc-0008-041001450k85.md) | 1 | 2026-08-21 |
+| 410 ILCS 145/99 | [doc-0009-041001450k99.md](doc-0009-041001450k99.md) | 1 | 2026-08-21 |
