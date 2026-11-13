@@ -58,7 +58,7 @@
     "date_basis": "explicit effective date of latest currently cited Public Act; future repeal excluded"
   },
   "ilcs_depth_q2034": {
-    "acts": 7,
+    "acts": 8,
     "checked_on": "2026-11-13",
     "source": "https://ftp.ilga.gov/ILCS/",
     "authoritative": false,
