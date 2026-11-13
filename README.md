@@ -1027,3 +1027,13 @@ Each addition retains all sections, act-title documents and article headings in 
 ## Later ILCS wording recorded but not yet included, 13 November 2026
 
 The Illinois General Assembly static ILCS compilation identifies later wording for 20 acts that is not yet included in this repository's law history. The cited Public Acts and their explicit effective dates are recorded in `data/ilcs-later-wording-held-q2000.json`. The compilation is not official or authoritative; the publisher identifies the printed copy maintained by the Secretary of State as official. The existing law files retain their previously published wording and dates.
+
+## Static ILCS compilation additions, 30 October 2026
+
+1 additional complete indexed acts from the [Illinois General Assembly compilation](https://ftp.ilga.gov/ILCS/) are included. The compilation incorporates Public Acts through 104-854. The publisher states that these provisions have NOT been edited for publication and are NOT the official text; this copy should not be cited as official or authoritative. The only official copy is the printed copy maintained by the Secretary of State’s office.
+
+Each addition retains all sections, act-title documents and article headings in the publisher’s Section Sequence. Dates use the latest explicit amendment effective date in the source, otherwise the compilation’s own update date, 2026-10-30. This date fallback does not claim a commencement date the source does not identify. Future-effective text and normative images are held. Existing records retain their historical dates and text; their inclusion above does not establish equality with this static compilation. Public Acts, administrative rules and earlier wording are not added.
+
+| Act | Sections | Source date |
+| --- | ---: | --- |
+| [Department of Healthcare and Family Services Law of the Civil Administrative Code of Illinois (20 ILCS 2205)](https://ftp.ilga.gov/ILCS/Ch%200020/Act%202205/) | 14 | 2024-06-05 |

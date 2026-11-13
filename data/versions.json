@@ -49134,6 +49134,20 @@
      "units": 224
     }
    ]
+  },
+  {
+   "slug": "ilcs-20-2205",
+   "short": "20 ILCS 2205",
+   "title": "Department of Healthcare and Family Services Law of the Civil Administrative Code of Illinois",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%202205/",
+   "versions": [
+    {
+     "from": "2024-06-05",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%202205/",
+     "sha256": "42ffff6d5b73adda07558f04f41a27a3846879990a4ede21a8508cccbaf1df01",
+     "units": 16
+    }
+   ]
   }
  ]
 }
