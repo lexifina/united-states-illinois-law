@@ -1,0 +1,73 @@
+{
+ "country": "US-IL",
+ "acts": [
+  {
+   "slug": "ilcs-110-675",
+   "short": "110 ILCS 675",
+   "title": "Illinois State University Law",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200110/Act%200675/",
+   "versions": [
+    {
+     "from": "2026-08-07",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 63,
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200110/Act%200675/",
+     "sha256": "976aac5f904fa286dc20bbd36d04bdfced08189757c03e4b2b0df677fbedbf4e"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-405-90",
+   "short": "405 ILCS 90",
+   "title": "Health Care Workplace Violence Prevention Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200405/Act%200090/",
+   "versions": [
+    {
+     "from": "2025-11-21",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 15,
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200405/Act%200090/",
+     "sha256": "881fb9d49c1e9de01f9112d7a5fd048557edf9aec4acb528339f8d3243841ddc"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-405-140",
+   "short": "405 ILCS 140",
+   "title": "Mental Health Inpatient Facility Access Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200405/Act%200140/",
+   "versions": [
+    {
+     "from": "2023-06-30",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 7,
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200405/Act%200140/",
+     "sha256": "06fed446745f1b2818330d8e5fab1f3ee5740e1493cace94217b592f11e713ee"
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-415-145",
+   "short": "415 ILCS 145",
+   "title": "Illinois Cool Cities Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200415/Act%200145/",
+   "versions": [
+    {
+     "from": "2007-08-27",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 6,
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200415/Act%200145/",
+     "sha256": "94d4c1517240758fd8e0288964da93582f9fcec2a083be6aa6e93a6eaa560e26"
+    }
+   ]
+  }
+ ]
+}
