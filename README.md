@@ -1056,3 +1056,11 @@ These four current-text acts include source notices of repeal effective 1 Januar
 | [Public-Private Partnerships for Transportation Act (630 ILCS 5)](https://ftp.ilga.gov/ILCS/Ch%200630/Act%200005/) | 2025-08-15 | 32 |
 | [Illinois Optometric Practice Act of 1987 (225 ILCS 80)](https://ftp.ilga.gov/ILCS/Ch%200225/Act%200080/) | 2026-08-07 | 57 |
 | [Department of Commerce and Economic Opportunity Law of the Civil Administrative Code of Illinois (20 ILCS 605)](https://ftp.ilga.gov/ILCS/Ch%200020/Act%200605/) | 2026-08-21 | 175 |
+
+## Further current ILCS text, 13 November 2026
+
+One additional indexed act from the [Illinois General Assembly static ILCS compilation](https://ftp.ilga.gov/ILCS/) is included at its latest currently cited source effective date. The compilation states that it is updated through Public Act 104-854 on 30 October 2026 and that the printed Secretary of State copy is the official text. Future-effective statutory text is excluded until its stated effective date. The source inventory and exclusions are in `data/ilcs-depth-q2050.json`.
+
+| Act | Source date | Sections |
+| --- | --- | ---: |
+| [Village Library Act (75 ILCS 40)](https://ftp.ilga.gov/ILCS/Ch%200075/Act%200040/) | 2002-01-01 | 6 |
