@@ -81,5 +81,178 @@
         "words_equal": true
       }
     ]
+  },
+  {
+    "slug": "ilcs-325-27",
+    "source_date": {
+      "date": "2017-09-08",
+      "latest_public_act": "100-477",
+      "quote": "100-477, eff. 9-8-17. Repealed by P.A. ",
+      "source_url": "https://ftp.ilga.gov/ILCS/Ch%200325/Act%200027/032500270K15.html"
+    },
+    "documents": [
+      {
+        "file": "ilcs-325-27/doc-0001-032500270f.md",
+        "source_url": "https://ftp.ilga.gov/ILCS/Ch%200325/Act%200027/032500270F.html",
+        "sha256": "140609387bf0b10d288abd4c304e5be79ab87d1166115168e2a4d3aec9075da1",
+        "selection": {
+          "selection": "whole body",
+          "future_repeals": [
+            {
+              "date": "2027-01-01",
+              "quote": "CS 27/1 et seq.\nSource: P.A. 96-1302, eff. 7-27-10. This Act is repealed by P.A. 104-715, eff. 1-1-27"
+            }
+          ]
+        },
+        "source_images": 0,
+        "referenced": 0,
+        "omitted": 0,
+        "words_equal": true
+      },
+      {
+        "file": "ilcs-325-27/doc-0002-032500270k1.md",
+        "source_url": "https://ftp.ilga.gov/ILCS/Ch%200325/Act%200027/032500270K1.html",
+        "sha256": "4dfe8b8014fa3d054c3d9d1028ed31a106a3a3f073886516d26455a3dd7dd9f2",
+        "selection": {
+          "selection": "whole body",
+          "future_repeals": [
+            {
+              "date": "2027-01-01",
+              "quote": "h Development Project Act.\n(Source: P.A. 96-1302, eff. 7-27-10. Repealed by P.A. 104-715, eff. 1-1-27"
+            }
+          ]
+        },
+        "source_images": 0,
+        "referenced": 0,
+        "omitted": 0,
+        "words_equal": true
+      },
+      {
+        "file": "ilcs-325-27/doc-0003-032500270k5.md",
+        "source_url": "https://ftp.ilga.gov/ILCS/Ch%200325/Act%200027/032500270K5.html",
+        "sha256": "68803f404b8b8362b712f783169afb59b70b2b8a46fee28f6eb5f06ec89d8fab",
+        "selection": {
+          "selection": "whole body",
+          "future_repeals": [
+            {
+              "date": "2027-01-01",
+              "quote": "oyment, and civic success.\n(Source: P.A. 96-1302, eff. 7-27-10. Repealed by P.A. 104-715, eff. 1-1-27"
+            }
+          ]
+        },
+        "source_images": 0,
+        "referenced": 0,
+        "omitted": 0,
+        "words_equal": true
+      },
+      {
+        "file": "ilcs-325-27/doc-0004-032500270k10.md",
+        "source_url": "https://ftp.ilga.gov/ILCS/Ch%200325/Act%200027/032500270K10.html",
+        "sha256": "9a58a01877d507a5d9d1abba1ed168d25339e9d15f2b5e685f1b465f48912b29",
+        "selection": {
+          "selection": "whole body",
+          "future_repeals": [
+            {
+              "date": "2027-01-01",
+              "quote": " the demonstration period.\n(Source: P.A. 96-1302, eff. 7-27-10. Repealed by P.A. 104-715, eff. 1-1-27"
+            }
+          ]
+        },
+        "source_images": 0,
+        "referenced": 0,
+        "omitted": 0,
+        "words_equal": true
+      },
+      {
+        "file": "ilcs-325-27/doc-0005-032500270k15.md",
+        "source_url": "https://ftp.ilga.gov/ILCS/Ch%200325/Act%200027/032500270K15.html",
+        "sha256": "ec0a8ead5ca5b7e64ab3d663eded1c8bb16c40b880cc0330e151cc78d240c1f8",
+        "selection": {
+          "selection": "whole body",
+          "future_repeals": [
+            {
+              "date": "2027-01-01",
+              "quote": "of any necessary resources.\n(Source: P.A. 100-477, eff. 9-8-17. Repealed by P.A. 104-715, eff. 1-1-27"
+            }
+          ]
+        },
+        "source_images": 0,
+        "referenced": 0,
+        "omitted": 0,
+        "words_equal": true
+      },
+      {
+        "file": "ilcs-325-27/doc-0006-032500270k20.md",
+        "source_url": "https://ftp.ilga.gov/ILCS/Ch%200325/Act%200027/032500270K20.html",
+        "sha256": "bec3bee07d7a57cc2e401ee861f5548ac98b47528491a17f043087bcbdd1cc04",
+        "selection": {
+          "selection": "whole body",
+          "future_repeals": [
+            {
+              "date": "2027-01-01",
+              "quote": "oward full implementation.\n(Source: P.A. 96-1302, eff. 7-27-10. Repealed by P.A. 104-715, eff. 1-1-27"
+            }
+          ]
+        },
+        "source_images": 0,
+        "referenced": 0,
+        "omitted": 0,
+        "words_equal": true
+      },
+      {
+        "file": "ilcs-325-27/doc-0007-032500270k25.md",
+        "source_url": "https://ftp.ilga.gov/ILCS/Ch%200325/Act%200027/032500270K25.html",
+        "sha256": "831e0339526354a67a38302a726d57e4b38a2dfb9686d749268a87323fe21343",
+        "selection": {
+          "selection": "whole body",
+          "future_repeals": [
+            {
+              "date": "2027-01-01",
+              "quote": "of Section 20 of this Act.\n(Source: P.A. 96-1302, eff. 7-27-10. Repealed by P.A. 104-715, eff. 1-1-27"
+            }
+          ]
+        },
+        "source_images": 0,
+        "referenced": 0,
+        "omitted": 0,
+        "words_equal": true
+      },
+      {
+        "file": "ilcs-325-27/doc-0008-032500270k30.md",
+        "source_url": "https://ftp.ilga.gov/ILCS/Ch%200325/Act%200027/032500270K30.html",
+        "sha256": "8d369ea092be60ff732a72ccf3641ccd401af29977332ccbb1ba7fef04377fd6",
+        "selection": {
+          "selection": "whole body",
+          "future_repeals": [
+            {
+              "date": "2027-01-01",
+              "quote": "ime to implement this Act.\n(Source: P.A. 96-1302, eff. 7-27-10. Repealed by P.A. 104-715, eff. 1-1-27"
+            }
+          ]
+        },
+        "source_images": 0,
+        "referenced": 0,
+        "omitted": 0,
+        "words_equal": true
+      },
+      {
+        "file": "ilcs-325-27/doc-0009-032500270k99.md",
+        "source_url": "https://ftp.ilga.gov/ILCS/Ch%200325/Act%200027/032500270K99.html",
+        "sha256": "d704086cc4d56e37b8c1ba05b0392e9ec1b7c1ede27b3910dc24a9aa2ab5f131",
+        "selection": {
+          "selection": "whole body",
+          "future_repeals": [
+            {
+              "date": "2027-01-01",
+              "quote": " effect upon becoming law.\n(Source: P.A. 96-1302, eff. 7-27-10. Repealed by P.A. 104-715, eff. 1-1-27"
+            }
+          ]
+        },
+        "source_images": 0,
+        "referenced": 0,
+        "omitted": 0,
+        "words_equal": true
+      }
+    ]
   }
 ]

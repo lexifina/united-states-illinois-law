@@ -49205,6 +49205,21 @@
      "units": 4
     }
    ]
+  },
+  {
+   "slug": "ilcs-325-27",
+   "short": "325 ILCS 27",
+   "title": "Afterschool Youth Development Project Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200325/Act%200027/",
+   "versions": [
+    {
+     "from": "2017-09-08",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200325/Act%200027/",
+     "sha256": "9f83ccfda38f4b1d02f04d855a827fc95d1ea4eeb9201346fc9d912413940625",
+     "source_images": 0,
+     "units": 9
+    }
+   ]
   }
  ]
 }
