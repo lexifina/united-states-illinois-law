@@ -1023,3 +1023,7 @@ Each addition retains all sections, act-title documents and article headings in 
 | [70 ILCS 705](https://ftp.ilga.gov/ILCS/Ch%200070/Act%200705/) | 2026-07-23 | 2026-07-24 | 125 |
 | [70 ILCS 710](https://ftp.ilga.gov/ILCS/Ch%200070/Act%200710/) | 2026-04-21 | 2026-10-30 | 3 |
 | [70 ILCS 815](https://ftp.ilga.gov/ILCS/Ch%200070/Act%200815/) | 2026-04-21 | 2026-10-30 | 3 |
+
+## Later ILCS wording recorded but not yet included, 13 November 2026
+
+The Illinois General Assembly static ILCS compilation identifies later wording for 20 acts that is not yet included in this repository's law history. The cited Public Acts and their explicit effective dates are recorded in `data/ilcs-later-wording-held-q2000.json`. The compilation is not official or authoritative; the publisher identifies the printed copy maintained by the Secretary of State as official. The existing law files retain their previously published wording and dates.
