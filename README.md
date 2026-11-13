@@ -1045,7 +1045,7 @@ These four current-text acts include source notices of repeal effective 1 Januar
 
 ## Further current ILCS texts, 13 November 2026
 
-4 additional indexed acts from the [Illinois General Assembly static ILCS compilation](https://ftp.ilga.gov/ILCS/) retain current text selected only by explicit publisher version labels and source effective dates. Future repeal notices remain; future amendment alternatives are excluded. The compilation is updated 30 October 2026 through Public Act 104-854 and is publisher-labelled non-authoritative. Each date is the explicit effective date of the latest currently cited Public Act. The source document and date inventory is in `data/ilcs-depth-q2034.json`.
+5 additional indexed acts from the [Illinois General Assembly static ILCS compilation](https://ftp.ilga.gov/ILCS/) retain current text selected only by explicit publisher version labels and source effective dates. Future repeal notices remain; future amendment alternatives are excluded. The compilation is updated 30 October 2026 through Public Act 104-854 and is publisher-labelled non-authoritative. Each date is the explicit effective date of the latest currently cited Public Act. The source document and date inventory is in `data/ilcs-depth-q2034.json`.
 
 | Act | Source date | Documents |
 | --- | --- | ---: |
@@ -1053,3 +1053,4 @@ These four current-text acts include source notices of repeal effective 1 Januar
 | [Afterschool Youth Development Project Act (325 ILCS 27)](https://ftp.ilga.gov/ILCS/Ch%200325/Act%200027/) | 2017-09-08 | 9 |
 | [Strengthening and Transforming Behavioral Health Crisis Care in Illinois Act (405 ILCS 160)](https://ftp.ilga.gov/ILCS/Ch%200405/Act%200160/) | 2023-07-28 | 9 |
 | [Department of Healthcare and Family Services Law of the Civil Administrative Code of Illinois (20 ILCS 2205)](https://ftp.ilga.gov/ILCS/Ch%200020/Act%202205/) | 2023-08-04 | 16 |
+| [Rehabilitation of Persons with Disabilities Act (20 ILCS 2405)](https://ftp.ilga.gov/ILCS/Ch%200020/Act%202405/) | 2025-08-15 | 27 |

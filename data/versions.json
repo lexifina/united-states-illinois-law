@@ -49250,6 +49250,21 @@
      "units": 16
     }
    ]
+  },
+  {
+   "slug": "ilcs-20-2405",
+   "short": "20 ILCS 2405",
+   "title": "Rehabilitation of Persons with Disabilities Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%202405/",
+   "versions": [
+    {
+     "from": "2025-08-15",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%202405/",
+     "sha256": "0f7cd659e3b5da089922c7fd9a6e1c5de59df975ee317c4d3f81d2db2135d246",
+     "source_images": 0,
+     "units": 27
+    }
+   ]
   }
  ]
 }
