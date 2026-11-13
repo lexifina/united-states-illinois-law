@@ -1,0 +1,85 @@
+[
+  {
+    "slug": "ilcs-405-115",
+    "source_date": {
+      "date": "2018-08-14",
+      "latest_public_act": "100-863",
+      "quote": "100-863, eff. 8-14-18. Repealed by P.A. ",
+      "source_url": "https://ftp.ilga.gov/ILCS/Ch%200405/Act%200115/040501150K5.html"
+    },
+    "documents": [
+      {
+        "file": "ilcs-405-115/doc-0001-040501150f.md",
+        "source_url": "https://ftp.ilga.gov/ILCS/Ch%200405/Act%200115/040501150F.html",
+        "sha256": "49c2ca4a8fd357b67080a82a7e40f00d16fe57d5995e2765c9f37473978cc5cf",
+        "selection": {
+          "selection": "whole body",
+          "future_repeals": [
+            {
+              "date": "2027-01-01",
+              "quote": "CS 115/1 et seq.\nSource: P.A. 100-184, eff. 1-1-18. This Act is repealed by P.A. 104-742, eff. 1-1-27"
+            }
+          ]
+        },
+        "source_images": 0,
+        "referenced": 0,
+        "omitted": 0,
+        "words_equal": true
+      },
+      {
+        "file": "ilcs-405-115/doc-0002-040501150k1.md",
+        "source_url": "https://ftp.ilga.gov/ILCS/Ch%200405/Act%200115/040501150K1.html",
+        "sha256": "373721c6529e6ae86feda0310457c9222f17c145f20ccb7fe23e7e09b3ca16af",
+        "selection": {
+          "selection": "whole body",
+          "future_repeals": [
+            {
+              "date": "2027-01-01",
+              "quote": "ntal Health Conditions Act.\n(Source: P.A. 100-184, eff. 1-1-18. Repealed by P.A. 104-742, eff. 1-1-27"
+            }
+          ]
+        },
+        "source_images": 0,
+        "referenced": 0,
+        "omitted": 0,
+        "words_equal": true
+      },
+      {
+        "file": "ilcs-405-115/doc-0003-040501150k5.md",
+        "source_url": "https://ftp.ilga.gov/ILCS/Ch%200405/Act%200115/040501150K5.html",
+        "sha256": "3369ef0aec65ec5a2d59423b751d1f2e99b378a89616b171924950dfb388ebd9",
+        "selection": {
+          "selection": "whole body",
+          "future_repeals": [
+            {
+              "date": "2027-01-01",
+              "quote": "oms.\n(Source: P.A. 100-184, eff. 1-1-18; 100-863, eff. 8-14-18. Repealed by P.A. 104-742, eff. 1-1-27"
+            }
+          ]
+        },
+        "source_images": 0,
+        "referenced": 0,
+        "omitted": 0,
+        "words_equal": true
+      },
+      {
+        "file": "ilcs-405-115/doc-0004-040501150k10.md",
+        "source_url": "https://ftp.ilga.gov/ILCS/Ch%200405/Act%200115/040501150K10.html",
+        "sha256": "9805205c66167f4d332a9046bba72e7f8fd5ff7d9b4808cdbecc81dbe53914f7",
+        "selection": {
+          "selection": "whole body",
+          "future_repeals": [
+            {
+              "date": "2027-01-01",
+              "quote": "ded.\n(Source: P.A. 100-184, eff. 1-1-18; 100-863, eff. 8-14-18. Repealed by P.A. 104-742, eff. 1-1-27"
+            }
+          ]
+        },
+        "source_images": 0,
+        "referenced": 0,
+        "omitted": 0,
+        "words_equal": true
+      }
+    ]
+  }
+]

@@ -49190,6 +49190,21 @@
      "units": 6
     }
    ]
+  },
+  {
+   "slug": "ilcs-405-115",
+   "short": "405 ILCS 115",
+   "title": "Advisory Council on Early Identification and Treatment of Mental Health Conditions Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200405/Act%200115/",
+   "versions": [
+    {
+     "from": "2018-08-14",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200405/Act%200115/",
+     "sha256": "9198270ef483020345c922cdf1d6d046d37c5f24c8c08f0aee07e6581d0d5423",
+     "source_images": 0,
+     "units": 4
+    }
+   ]
   }
  ]
 }

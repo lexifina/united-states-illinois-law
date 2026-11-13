@@ -1042,3 +1042,11 @@ Each addition retains all sections, act-title documents and article headings in 
 | [Illinois Cool Cities Act (415 ILCS 145)](https://ftp.ilga.gov/ILCS/Ch%200415/Act%200145/) | 5 | 2007-08-27 |
 
 These four current-text acts include source notices of repeal effective 1 January 2027. Their existing text remains in force on 13 November 2026; the future repeal is not applied. The date of each version is the explicit effective date of its latest currently cited Public Act. The per-document source and date evidence is in `data/ilcs-future-repeal-q2023.json`.
+
+## Further current ILCS texts, 13 November 2026
+
+1 additional indexed acts from the [Illinois General Assembly static ILCS compilation](https://ftp.ilga.gov/ILCS/) retain current text selected only by explicit publisher version labels and source effective dates. Future repeal notices remain; future amendment alternatives are excluded. The compilation is updated 30 October 2026 through Public Act 104-854 and is publisher-labelled non-authoritative. Each date is the explicit effective date of the latest currently cited Public Act. The source document and date inventory is in `data/ilcs-depth-q2034.json`.
+
+| Act | Source date | Documents |
+| --- | --- | ---: |
+| [Advisory Council on Early Identification and Treatment of Mental Health Conditions Act (405 ILCS 115)](https://ftp.ilga.gov/ILCS/Ch%200405/Act%200115/) | 2018-08-14 | 4 |
