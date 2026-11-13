@@ -49325,6 +49325,21 @@
      "units": 6
     }
    ]
+  },
+  {
+   "slug": "ilcs-820-75",
+   "short": "820 ILCS 75",
+   "title": "Job Opportunities for Qualified Applicants Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200820/Act%200075/",
+   "versions": [
+    {
+     "from": "2025-06-16",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200820/Act%200075/",
+     "sha256": "c274de6872a228308fac12c8650f7c516af0ac65b6b30c63581698d8fdbfce69",
+     "source_images": 0,
+     "units": 8
+    }
+   ]
   }
  ]
 }

@@ -1,0 +1,133 @@
+[
+  {
+    "slug": "ilcs-820-75",
+    "source_date": {
+      "date": "2025-06-16",
+      "latest_public_act": "104-2",
+      "quote": "104-2, eff. 6-16-25.)",
+      "source_url": "https://ftp.ilga.gov/ILCS/Ch%200820/Act%200075/082000750K20.html"
+    },
+    "documents": [
+      {
+        "file": "ilcs-820-75/doc-0001-082000750f.md",
+        "source_url": "https://ftp.ilga.gov/ILCS/Ch%200820/Act%200075/082000750F.html",
+        "sha256": "2b32fe08622baff72f169bf2c06fef75a706ede9afa3d04932fc81df3bf11539",
+        "selection": {
+          "selection": "whole body",
+          "future_repeals": []
+        },
+        "source_images": 0,
+        "referenced": 0,
+        "omitted": 0,
+        "words_equal": true
+      },
+      {
+        "file": "ilcs-820-75/doc-0002-082000750k1.md",
+        "source_url": "https://ftp.ilga.gov/ILCS/Ch%200820/Act%200075/082000750K1.html",
+        "sha256": "db0a11fe4b78dbac9e72e6e5f6ca6284677de74a4e9909ea84ff5d90a0214a62",
+        "selection": {
+          "selection": "whole body",
+          "future_repeals": []
+        },
+        "source_images": 0,
+        "referenced": 0,
+        "omitted": 0,
+        "words_equal": true
+      },
+      {
+        "file": "ilcs-820-75/doc-0003-082000750k5.md",
+        "source_url": "https://ftp.ilga.gov/ILCS/Ch%200820/Act%200075/082000750K5.html",
+        "sha256": "a5fc261f049ecfe73a54d6d3632aa1787216b27cfa7177c64b19c8a5729cec09",
+        "selection": {
+          "selection": "whole body",
+          "future_repeals": []
+        },
+        "source_images": 0,
+        "referenced": 0,
+        "omitted": 0,
+        "words_equal": true
+      },
+      {
+        "file": "ilcs-820-75/doc-0004-082000750k10.md",
+        "source_url": "https://ftp.ilga.gov/ILCS/Ch%200820/Act%200075/082000750K10.html",
+        "sha256": "a6e0b9b24df071487d75b4d188dc51b9e36d09c3714e1bb0488f080d4a6a387a",
+        "selection": {
+          "selection": "publisher-labelled alternative",
+          "retained_label": "(Text of Section before amendment by P.A. 104-776)",
+          "all_labels": [
+            "(Text of Section before amendment by P.A. 104-776)",
+            "(Text of Section after amendment by P.A. 104-776)"
+          ],
+          "public_act": "104-776",
+          "future_repeals": []
+        },
+        "source_images": 0,
+        "referenced": 0,
+        "omitted": 0,
+        "words_equal": true
+      },
+      {
+        "file": "ilcs-820-75/doc-0005-082000750k15.md",
+        "source_url": "https://ftp.ilga.gov/ILCS/Ch%200820/Act%200075/082000750K15.html",
+        "sha256": "b5b6680402f723827e236d1357a16b70a2a1536e88a97d8ada288b6545dd5db1",
+        "selection": {
+          "selection": "whole body",
+          "future_repeals": []
+        },
+        "source_images": 0,
+        "referenced": 0,
+        "omitted": 0,
+        "words_equal": true
+      },
+      {
+        "file": "ilcs-820-75/doc-0006-082000750k20.md",
+        "source_url": "https://ftp.ilga.gov/ILCS/Ch%200820/Act%200075/082000750K20.html",
+        "sha256": "48d6e167fa575994db79552a6c274bba2c1aca37d7d20ca74f74c934b94a041b",
+        "selection": {
+          "selection": "whole body",
+          "future_repeals": []
+        },
+        "source_images": 0,
+        "referenced": 0,
+        "omitted": 0,
+        "words_equal": true
+      },
+      {
+        "file": "ilcs-820-75/doc-0007-082000750k90.md",
+        "source_url": "https://ftp.ilga.gov/ILCS/Ch%200820/Act%200075/082000750K90.html",
+        "sha256": "4ee60438861fb330a8d32eadfd48e915d4993fe697de737d450ac0cbb2005161",
+        "selection": {
+          "selection": "whole body",
+          "future_repeals": []
+        },
+        "source_images": 0,
+        "referenced": 0,
+        "omitted": 0,
+        "words_equal": true
+      },
+      {
+        "file": "ilcs-820-75/doc-0008-082000750k99.md",
+        "source_url": "https://ftp.ilga.gov/ILCS/Ch%200820/Act%200075/082000750K99.html",
+        "sha256": "5d5452c42f2df58329c0538be72c8552f331c115297e4bf3b0aff91d88246886",
+        "selection": {
+          "selection": "whole body",
+          "future_repeals": []
+        },
+        "source_images": 0,
+        "referenced": 0,
+        "omitted": 0,
+        "words_equal": true
+      }
+    ],
+    "excluded_documents": [
+      {
+        "source_url": "https://ftp.ilga.gov/ILCS/Ch%200820/Act%200075/082000750K17.html",
+        "rel": "Ch 0820/Act 0075/082000750K17.html",
+        "sha256": "91d550dc4a815bddc45dab74089c440ec12d4158a2c811e5ab0ac3e8b2641b5c",
+        "quote": "(Source: P.A. 104-776, eff. 1-1-27.)",
+        "effective_date": "2027-01-01",
+        "reason": "standalone publisher-labelled future-only section"
+      }
+    ]
+  }
+]
