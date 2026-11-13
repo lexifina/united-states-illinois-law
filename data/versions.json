@@ -48056,6 +48056,244 @@
      "units": 23
     }
    ]
+  },
+  {
+   "slug": "ilcs-20-1105",
+   "short": "20 ILCS 1105",
+   "title": "Energy Conservation and Coal Development Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%201105/",
+   "versions": [
+    {
+     "from": "2025-11-21",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%201105/",
+     "sha256": "827ae2f61a19c7431db96b6330a36ff8f04d799bade3ac7ed93bce264aab775e",
+     "units": 18
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-25-80",
+   "short": "25 ILCS 80",
+   "title": "Balanced Budget Note Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200025/Act%200080/",
+   "versions": [
+    {
+     "from": "2026-08-21",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200025/Act%200080/",
+     "sha256": "b94e7905936b357c96bc9f0c06cfdd12997ad487c0a597fca11dcd70ffc7fb8c",
+     "units": 7
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-325-10",
+   "short": "325 ILCS 10",
+   "title": "Birth Control Services to Minors Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200325/Act%200010/",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200325/Act%200010/",
+     "sha256": "9dc8732a95899524b1338d9c6d07cac0c2eba83d3f58c3b31d6bfe786aad06ec",
+     "units": 3
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-15-20",
+   "short": "15 ILCS 20",
+   "title": "State Budget Law of the Civil Administrative Code of Illinois",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200015/Act%200020/",
+   "versions": [
+    {
+     "from": "2025-11-21",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200015/Act%200020/",
+     "sha256": "875a587b8d338a6705d20728a416f0a101237161f7bd356cf3e5d2ba1ea48dc4",
+     "units": 15
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-15-335",
+   "short": "15 ILCS 335",
+   "title": "Illinois Identification Card Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200015/Act%200335/",
+   "versions": [
+    {
+     "from": "2026-08-21",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200015/Act%200335/",
+     "sha256": "8a36320827b5784404461ab6f3957e26d74d1339e8182369e86f1f5a9b15fc8c",
+     "units": 33
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-20-1370",
+   "short": "20 ILCS 1370",
+   "title": "Department of Innovation and Technology Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%201370/",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200020/Act%201370/",
+     "sha256": "2306bd4809f97f82870ef6fff536d429dc0fe57ccc106a3cd80c3345a9ca0f10",
+     "units": 41
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-30-540",
+   "short": "30 ILCS 540",
+   "title": "State Prompt Payment Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200030/Act%200540/",
+   "versions": [
+    {
+     "from": "2024-06-05",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200030/Act%200540/",
+     "sha256": "504ded0b4177f58c8e24a7ba1f7a5709f2732eff3c6b4981165cea935b69a9e1",
+     "units": 24
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-65-95",
+   "short": "65 ILCS 95",
+   "title": "Home Equity Assurance Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200065/Act%200095/",
+   "versions": [
+    {
+     "from": "2025-01-01",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200065/Act%200095/",
+     "sha256": "f52fbce53d9b4e7f38f572bf0d742ec28f0b88ad15d76038a4d08f1739cdfe0e",
+     "units": 25
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-210-49",
+   "short": "210 ILCS 49",
+   "title": "Specialized Mental Health Rehabilitation Act of 2013",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200210/Act%200049/",
+   "versions": [
+    {
+     "from": "2026-08-21",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200210/Act%200049/",
+     "sha256": "4a0783e10d35032b742d5182b161ace3fa6dff72714b300ef26ca0ce39af36cb",
+     "units": 127
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-210-135",
+   "short": "210 ILCS 135",
+   "title": "Community-Integrated Living Arrangements Licensure and Certification Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200210/Act%200135/",
+   "versions": [
+    {
+     "from": "2026-08-21",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200210/Act%200135/",
+     "sha256": "a2260dfbafd97ba59cccdfb84f99aed8eb03bfd93c2ee63b0e1e4cfb99237b33",
+     "units": 22
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-330-30",
+   "short": "330 ILCS 30",
+   "title": "Viet Nam Veterans Compensation Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200330/Act%200030/",
+   "versions": [
+    {
+     "from": "2025-08-15",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200330/Act%200030/",
+     "sha256": "f84c5af40831c4dd1760d3aef169d5a0d7ac94818677af94187de128c4144060",
+     "units": 7
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-405-49",
+   "short": "405 ILCS 49",
+   "title": "Children's Mental Health Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200405/Act%200049/",
+   "versions": [
+    {
+     "from": "2025-08-15",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200405/Act%200049/",
+     "sha256": "26b7c69110dde379028278a267581b28a67287cbf689a3a1ed4e978d5c1fc1f8",
+     "units": 7
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-405-162",
+   "short": "405 ILCS 162",
+   "title": "Workforce Direct Care Expansion Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200405/Act%200162/",
+   "versions": [
+    {
+     "from": "2025-03-21",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200405/Act%200162/",
+     "sha256": "765d40c601972e68f3106907f9e1bbc62d153db53071fd974aba72e678c180b0",
+     "units": 8
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-415-20",
+   "short": "415 ILCS 20",
+   "title": "Illinois Solid Waste Management Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200415/Act%200020/",
+   "versions": [
+    {
+     "from": "2024-01-01",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200415/Act%200020/",
+     "sha256": "92c8dd34e83fbf65d4c65b7bd788cdba2cf4f414f582a133313a71f9279d5e3b",
+     "units": 20
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-415-200",
+   "short": "415 ILCS 200",
+   "title": "Responsible Outdoor Lighting Control Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200415/Act%200200/",
+   "versions": [
+    {
+     "from": "2025-01-01",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200415/Act%200200/",
+     "sha256": "2f8c9dca9fc6c9c1b650b53c6f2fec3f5b5f31f42dac0cde532db98d824447b1",
+     "units": 8
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-725-190",
+   "short": "725 ILCS 190",
+   "title": "Privacy of Child Victims of Criminal Sexual Offenses Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200725/Act%200190/",
+   "versions": [
+    {
+     "from": "2024-01-01",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200725/Act%200190/",
+     "sha256": "3642c448e2df85d802664619e943f7172c2b0627451dc52abd1a4d46b6704546",
+     "units": 4
+    }
+   ]
+  },
+  {
+   "slug": "ilcs-820-405",
+   "short": "820 ILCS 405",
+   "title": "Unemployment Insurance Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200820/Act%200405/",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200820/Act%200405/",
+     "sha256": "e637807792b6ebf035bf7bf2f06a1145569407281e52e466e689f7ecb15bfee3",
+     "units": 224
+    }
+   ]
   }
  ]
 }
