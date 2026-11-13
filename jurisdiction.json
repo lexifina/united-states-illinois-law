@@ -19,7 +19,7 @@
     "date_basis": "explicit source effective dates, otherwise compilation date"
   },
   "ilcs_current_selection": {
-    "acts": 18,
+    "acts": 17,
     "checked_on": "2026-11-13",
     "source": "https://ftp.ilga.gov/ILCS/",
     "authoritative": false

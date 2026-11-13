@@ -838,3 +838,27 @@ Each addition retains all sections, act-title documents and article headings in 
 | [Domestic Violence Fatality Review Act (750 ILCS 62)](https://ftp.ilga.gov/ILCS/Ch%200750/Act%200062/) | 24 | 2021-08-20 |
 | [Human Trafficking Resource Center Notice Act (775 ILCS 50)](https://ftp.ilga.gov/ILCS/Ch%200775/Act%200050/) | 5 | 2022-05-13 |
 | [Medical Corporation Act (805 ILCS 15)](https://ftp.ilga.gov/ILCS/Ch%200805/Act%200015/) | 22 | 2018-08-14 |
+
+## Current wording selected from labelled ILCS alternatives, 13 November 2026
+
+17 additional indexed acts retain current wording from the Illinois General Assembly compilation of 30 October 2026. Where a section supplies a pair labelled before and after amendment by the same Public Act, the before text is retained only when the named amending Public Act has one explicit effective date later than 13 November 2026 and the before text has no future effective date. Acts with unlabelled future wording or ambiguous alternatives remain excluded. No earlier wording is reconstructed. The compilation is not official or authoritative; the publisher identifies the printed Secretary of State copy as official. Source words, act titles, article headings and current sections are retained in source order. Dates use the latest explicit effective date of retained source text, or the publisher compilation update date, 30 October 2026, when the retained text gives no effective date. Per-document source digests and selected/excluded publisher labels appear in `data/ilcs-current-selection-q1928.json`.
+
+| Act | Sections | Source date |
+| --- | ---: | --- |
+| [State Budget Law of the Civil Administrative Code of Illinois (15 ILCS 20)](https://ftp.ilga.gov/ILCS/Ch%200015/Act%200020/) | 13 | 2025-11-21 |
+| [Illinois Identification Card Act (15 ILCS 335)](https://ftp.ilga.gov/ILCS/Ch%200015/Act%200335/) | 32 | 2026-08-21 |
+| [Energy Conservation and Coal Development Act (20 ILCS 1105)](https://ftp.ilga.gov/ILCS/Ch%200020/Act%201105/) | 17 | 2025-11-21 |
+| [Department of Innovation and Technology Act (20 ILCS 1370)](https://ftp.ilga.gov/ILCS/Ch%200020/Act%201370/) | 37 | 2026-01-01 |
+| [Balanced Budget Note Act (25 ILCS 80)](https://ftp.ilga.gov/ILCS/Ch%200025/Act%200080/) | 6 | 2026-08-21 |
+| [State Prompt Payment Act (30 ILCS 540)](https://ftp.ilga.gov/ILCS/Ch%200030/Act%200540/) | 23 | 2024-06-05 |
+| [Home Equity Assurance Act (65 ILCS 95)](https://ftp.ilga.gov/ILCS/Ch%200065/Act%200095/) | 24 | 2025-01-01 |
+| [Specialized Mental Health Rehabilitation Act of 2013 (210 ILCS 49)](https://ftp.ilga.gov/ILCS/Ch%200210/Act%200049/) | 110 | 2026-08-21 |
+| [Community-Integrated Living Arrangements Licensure and Certification Act (210 ILCS 135)](https://ftp.ilga.gov/ILCS/Ch%200210/Act%200135/) | 21 | 2026-08-21 |
+| [Birth Control Services to Minors Act (325 ILCS 10)](https://ftp.ilga.gov/ILCS/Ch%200325/Act%200010/) | 2 | 2026-10-30 |
+| [Viet Nam Veterans Compensation Act (330 ILCS 30)](https://ftp.ilga.gov/ILCS/Ch%200330/Act%200030/) | 6 | 2025-08-15 |
+| [Children's Mental Health Act (405 ILCS 49)](https://ftp.ilga.gov/ILCS/Ch%200405/Act%200049/) | 6 | 2025-08-15 |
+| [Workforce Direct Care Expansion Act (405 ILCS 162)](https://ftp.ilga.gov/ILCS/Ch%200405/Act%200162/) | 7 | 2025-03-21 |
+| [Illinois Solid Waste Management Act (415 ILCS 20)](https://ftp.ilga.gov/ILCS/Ch%200415/Act%200020/) | 19 | 2024-01-01 |
+| [Responsible Outdoor Lighting Control Act (415 ILCS 200)](https://ftp.ilga.gov/ILCS/Ch%200415/Act%200200/) | 7 | 2025-01-01 |
+| [Privacy of Child Victims of Criminal Sexual Offenses Act (725 ILCS 190)](https://ftp.ilga.gov/ILCS/Ch%200725/Act%200190/) | 3 | 2024-01-01 |
+| [Unemployment Insurance Act (820 ILCS 405)](https://ftp.ilga.gov/ILCS/Ch%200820/Act%200405/) | 223 | 2026-01-01 |
