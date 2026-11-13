@@ -1064,3 +1064,11 @@ One additional indexed act from the [Illinois General Assembly static ILCS compi
 | Act | Source date | Sections |
 | --- | --- | ---: |
 | [Village Library Act (75 ILCS 40)](https://ftp.ilga.gov/ILCS/Ch%200075/Act%200040/) | 2002-01-01 | 6 |
+
+## Further current ILCS text, 13 November 2026
+
+One additional indexed act from the [Illinois General Assembly static ILCS compilation](https://ftp.ilga.gov/ILCS/) is included at its latest currently cited source effective date. The compilation states that it is updated through Public Act 104-854 on 30 October 2026 and that the printed Secretary of State copy is the official text. Future-effective statutory text is excluded until its stated effective date. The source inventory and exclusions are in `data/ilcs-depth-q2050-second.json`.
+
+| Act | Source date | Sections |
+| --- | --- | ---: |
+| [Permanent Noise Monitoring Act (620 ILCS 35)](https://ftp.ilga.gov/ILCS/Ch%200620/Act%200035/) | 2018-08-14 | 5 |

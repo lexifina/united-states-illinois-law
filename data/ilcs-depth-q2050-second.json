@@ -1,0 +1,167 @@
+{
+  "checked_on": "2026-11-13",
+  "source": "https://ftp.ilga.gov/ILCS/",
+  "authoritative": false,
+  "listing": {
+    "root_sha256": "bf1f29c4ddbe5719acd7c427c493981faa0e3112a51035899c18e8daec3fd5a3",
+    "chapter_sha256": "20489c950c61ea52b177efcd3df73f3120ef9a9f31f9f91790c139eba2e10483",
+    "act_index_sha256": "8c41d96c76f21c078c681b7e75ec11ebac0faec0b7732798cbf96d7dab5e651c",
+    "listed_documents": [
+      "Ch 0620/Act 0035/062000350F.html",
+      "Ch 0620/Act 0035/062000350K1.html",
+      "Ch 0620/Act 0035/062000350K10.html",
+      "Ch 0620/Act 0035/062000350K15.html",
+      "Ch 0620/Act 0035/062000350K16.html",
+      "Ch 0620/Act 0035/062000350K20.html",
+      "Ch 0620/Act 0035/062000350K5.html"
+    ],
+    "fetched_responses": 21
+  },
+  "act": "ilcs-620-35",
+  "title": "Permanent Noise Monitoring Act",
+  "in_force": {
+    "date": "2018-08-14",
+    "latest_public_act": "100-863",
+    "quote": "100-863, eff. 8-14-18.)",
+    "source_url": "https://ftp.ilga.gov/ILCS/Ch%200620/Act%200035/062000350K10.html",
+    "citations": [
+      {
+        "public_act": [
+          87,
+          808
+        ],
+        "dates": [],
+        "quote": "87-808.)",
+        "source_url": "https://ftp.ilga.gov/ILCS/Ch%200620/Act%200035/062000350K1.html"
+      },
+      {
+        "public_act": [
+          99,
+          202
+        ],
+        "dates": [
+          "2016-01-01"
+        ],
+        "quote": "99-202, eff. 1-1-16.)",
+        "source_url": "https://ftp.ilga.gov/ILCS/Ch%200620/Act%200035/062000350K5.html"
+      },
+      {
+        "public_act": [
+          100,
+          165
+        ],
+        "dates": [
+          "2017-08-18"
+        ],
+        "quote": "100-165, eff. 8-18-17; ",
+        "source_url": "https://ftp.ilga.gov/ILCS/Ch%200620/Act%200035/062000350K10.html"
+      },
+      {
+        "public_act": [
+          100,
+          863
+        ],
+        "dates": [
+          "2018-08-14"
+        ],
+        "quote": "100-863, eff. 8-14-18.)",
+        "source_url": "https://ftp.ilga.gov/ILCS/Ch%200620/Act%200035/062000350K10.html"
+      },
+      {
+        "public_act": [
+          99,
+          202
+        ],
+        "dates": [
+          "2016-01-01"
+        ],
+        "quote": "99-202, eff. 1-1-16.)",
+        "source_url": "https://ftp.ilga.gov/ILCS/Ch%200620/Act%200035/062000350K15.html"
+      },
+      {
+        "public_act": [
+          87,
+          808
+        ],
+        "dates": [],
+        "quote": "87-808.)",
+        "source_url": "https://ftp.ilga.gov/ILCS/Ch%200620/Act%200035/062000350K20.html"
+      }
+    ]
+  },
+  "included_documents": [
+    {
+      "file": "ilcs-620-35/doc-0001-062000350f.md",
+      "source_url": "https://ftp.ilga.gov/ILCS/Ch%200620/Act%200035/062000350F.html",
+      "bytes": 1609,
+      "sha256": "bf87dd9443d27eca7250407261e41b7bd14e093cfcf0debf8cbffa48b421a5db",
+      "words_equal": true,
+      "source_images": 0,
+      "referenced": 0,
+      "omitted": 0
+    },
+    {
+      "file": "ilcs-620-35/doc-0002-062000350k1.md",
+      "source_url": "https://ftp.ilga.gov/ILCS/Ch%200620/Act%200035/062000350K1.html",
+      "bytes": 1606,
+      "sha256": "43442dea754da170719dbe7e89949ac24eb947bb656e8ebe6b7e1764000b92d5",
+      "words_equal": true,
+      "source_images": 0,
+      "referenced": 0,
+      "omitted": 0
+    },
+    {
+      "file": "ilcs-620-35/doc-0003-062000350k5.md",
+      "source_url": "https://ftp.ilga.gov/ILCS/Ch%200620/Act%200035/062000350K5.html",
+      "bytes": 7883,
+      "sha256": "23f36170b4aa71793965b223e7aa429146791c1a2c8659e4faf796f5134463fa",
+      "words_equal": true,
+      "source_images": 0,
+      "referenced": 0,
+      "omitted": 0
+    },
+    {
+      "file": "ilcs-620-35/doc-0004-062000350k10.md",
+      "source_url": "https://ftp.ilga.gov/ILCS/Ch%200620/Act%200035/062000350K10.html",
+      "bytes": 2375,
+      "sha256": "e3ccce7bf5146f6bca48261df097853d26560b2040bdb76745324d6e25f386ac",
+      "words_equal": true,
+      "source_images": 0,
+      "referenced": 0,
+      "omitted": 0
+    },
+    {
+      "file": "ilcs-620-35/doc-0005-062000350k15.md",
+      "source_url": "https://ftp.ilga.gov/ILCS/Ch%200620/Act%200035/062000350K15.html",
+      "bytes": 8716,
+      "sha256": "ec82a3cf8ddf97dfd04161c72b6ab024920faf452f4d5c7cc93c9c9e9c8d9bfb",
+      "words_equal": true,
+      "source_images": 0,
+      "referenced": 0,
+      "omitted": 0
+    },
+    {
+      "file": "ilcs-620-35/doc-0006-062000350k20.md",
+      "source_url": "https://ftp.ilga.gov/ILCS/Ch%200620/Act%200035/062000350K20.html",
+      "bytes": 1399,
+      "sha256": "c44e2cdf09b88d7b156de9812ca018f6da1a79bc354c26a9a7efb949f09e9db4",
+      "words_equal": true,
+      "source_images": 0,
+      "referenced": 0,
+      "omitted": 0
+    }
+  ],
+  "excluded_documents": [
+    {
+      "file": "Ch 0620/Act 0035/062000350K16.html",
+      "source_url": "https://ftp.ilga.gov/ILCS/Ch%200620/Act%200035/062000350K16.html",
+      "sha256": "a8589be8e351cb8f9843596c38c86f1743c5b0c1ce6206a284a7e40c01e19eac",
+      "effective_date": "2027-01-01",
+      "public_act": "104-751",
+      "reason": "publisher section text states delayed effective date"
+    }
+  ],
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}

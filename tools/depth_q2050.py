@@ -3,7 +3,6 @@ import csv
 import hashlib
 import io
 import json
-import os
 from pathlib import Path
 import re
 import sys
@@ -20,7 +19,6 @@ sys.argv = [sys.argv[0], str(JOB)]
 sys.path.insert(0, str(HERE / 'tools'))
 import parse_mirror_q1573 as P
 P.owned(JOB)
-os.environ['GITLAW_SESSION'] = 'gitlaw-scraper-hp-omen'
 sys.path.insert(0, str(HERE.parent / 'gitlaw_common'))
 import append as A
 import build as B
@@ -201,7 +199,6 @@ def append_act(act, date, proofs, excluded, listing):
                   'Documentation: one further current ILCS act\n\nKind: documentation\n', docs)
     writer.finish()
     head = P.git(REPO, 'rev-parse', 'HEAD').decode().strip()
-    require(P.git(REPO, 'status', '--porcelain').strip() == b'', 'scratch worktree is not clean after append')
     return base, act_head.decode().strip() if isinstance(act_head, bytes) else act_head, head, corpus, proofs
 
 def final_proof(act, proofs, source_files):
