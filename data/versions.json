@@ -49162,6 +49162,20 @@
      "units": 63
     }
    ]
+  },
+  {
+   "slug": "ilcs-405-90",
+   "short": "405 ILCS 90",
+   "title": "Health Care Workplace Violence Prevention Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200405/Act%200090/",
+   "versions": [
+    {
+     "from": "2025-11-21",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200405/Act%200090/",
+     "sha256": "881fb9d49c1e9de01f9112d7a5fd048557edf9aec4acb528339f8d3243841ddc",
+     "units": 15
+    }
+   ]
   }
  ]
 }

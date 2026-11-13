@@ -1030,7 +1030,7 @@ The Illinois General Assembly static ILCS compilation identifies later wording f
 
 ## Static ILCS compilation additions, 30 October 2026
 
-2 additional complete indexed acts from the [Illinois General Assembly compilation](https://ftp.ilga.gov/ILCS/) are included. The compilation incorporates Public Acts through 104-854. The publisher states that these provisions have NOT been edited for publication and are NOT the official text; this copy should not be cited as official or authoritative. The only official copy is the printed copy maintained by the Secretary of State’s office.
+3 additional complete indexed acts from the [Illinois General Assembly compilation](https://ftp.ilga.gov/ILCS/) are included. The compilation incorporates Public Acts through 104-854. The publisher states that these provisions have NOT been edited for publication and are NOT the official text; this copy should not be cited as official or authoritative. The only official copy is the printed copy maintained by the Secretary of State’s office.
 
 Each addition retains all sections, act-title documents and article headings in the publisher’s Section Sequence. Dates use the latest explicit amendment effective date in the source, otherwise the compilation’s own update date, 2026-10-30. This date fallback does not claim a commencement date the source does not identify. Future-effective text and normative images are held. Existing records retain their historical dates and text; their inclusion above does not establish equality with this static compilation. Public Acts, administrative rules and earlier wording are not added.
 
@@ -1038,3 +1038,4 @@ Each addition retains all sections, act-title documents and article headings in 
 | --- | ---: | --- |
 | [Department of Healthcare and Family Services Law of the Civil Administrative Code of Illinois (20 ILCS 2205)](https://ftp.ilga.gov/ILCS/Ch%200020/Act%202205/) | 14 | 2024-06-05 |
 | [Illinois State University Law (110 ILCS 675)](https://ftp.ilga.gov/ILCS/Ch%200110/Act%200675/) | 60 | 2026-08-07 |
+| [Health Care Workplace Violence Prevention Act (405 ILCS 90)](https://ftp.ilga.gov/ILCS/Ch%200405/Act%200090/) | 14 | 2025-11-21 |
