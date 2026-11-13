@@ -1045,7 +1045,7 @@ These four current-text acts include source notices of repeal effective 1 Januar
 
 ## Further current ILCS texts, 13 November 2026
 
-6 additional indexed acts from the [Illinois General Assembly static ILCS compilation](https://ftp.ilga.gov/ILCS/) retain current text selected only by explicit publisher version labels and source effective dates. Future repeal notices remain; future amendment alternatives are excluded. The compilation is updated 30 October 2026 through Public Act 104-854 and is publisher-labelled non-authoritative. Each date is the explicit effective date of the latest currently cited Public Act. The source document and date inventory is in `data/ilcs-depth-q2034.json`.
+7 additional indexed acts from the [Illinois General Assembly static ILCS compilation](https://ftp.ilga.gov/ILCS/) retain current text selected only by explicit publisher version labels and source effective dates. Future repeal notices remain; future amendment alternatives are excluded. The compilation is updated 30 October 2026 through Public Act 104-854 and is publisher-labelled non-authoritative. Each date is the explicit effective date of the latest currently cited Public Act. The source document and date inventory is in `data/ilcs-depth-q2034.json`.
 
 | Act | Source date | Documents |
 | --- | --- | ---: |
@@ -1055,3 +1055,4 @@ These four current-text acts include source notices of repeal effective 1 Januar
 | [Department of Healthcare and Family Services Law of the Civil Administrative Code of Illinois (20 ILCS 2205)](https://ftp.ilga.gov/ILCS/Ch%200020/Act%202205/) | 2023-08-04 | 16 |
 | [Rehabilitation of Persons with Disabilities Act (20 ILCS 2405)](https://ftp.ilga.gov/ILCS/Ch%200020/Act%202405/) | 2025-08-15 | 27 |
 | [Public-Private Partnerships for Transportation Act (630 ILCS 5)](https://ftp.ilga.gov/ILCS/Ch%200630/Act%200005/) | 2025-08-15 | 32 |
+| [Illinois Optometric Practice Act of 1987 (225 ILCS 80)](https://ftp.ilga.gov/ILCS/Ch%200225/Act%200080/) | 2026-08-07 | 57 |

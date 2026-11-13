@@ -49280,6 +49280,21 @@
      "units": 32
     }
    ]
+  },
+  {
+   "slug": "ilcs-225-80",
+   "short": "225 ILCS 80",
+   "title": "Illinois Optometric Practice Act of 1987",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200225/Act%200080/",
+   "versions": [
+    {
+     "from": "2026-08-07",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200225/Act%200080/",
+     "sha256": "2c66cf29823bb7ac55a5dfca54974cf7541489dec127b98d7ca806975d88906e",
+     "source_images": 0,
+     "units": 57
+    }
+   ]
   }
  ]
 }
