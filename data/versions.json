@@ -49176,6 +49176,20 @@
      "units": 15
     }
    ]
+  },
+  {
+   "slug": "ilcs-405-140",
+   "short": "405 ILCS 140",
+   "title": "Mental Health Inpatient Facility Access Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200405/Act%200140/",
+   "versions": [
+    {
+     "from": "2023-06-30",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200405/Act%200140/",
+     "sha256": "06fed446745f1b2818330d8e5fab1f3ee5740e1493cace94217b592f11e713ee",
+     "units": 7
+    }
+   ]
   }
  ]
 }
