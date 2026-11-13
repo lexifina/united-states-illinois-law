@@ -1075,7 +1075,7 @@ One additional indexed act from the [Illinois General Assembly static ILCS compi
 
 ## Further current ILCS texts, 13 November 2026
 
-10 additional indexed acts from the [Illinois General Assembly static ILCS compilation](https://ftp.ilga.gov/ILCS/) retain current text selected only by explicit publisher version labels and source effective dates. Future repeal notices remain; explicitly future-only sections and future amendment alternatives are excluded. The compilation is updated 30 October 2026 through Public Act 104-854 and is publisher-labelled non-authoritative. Each date is the explicit effective date of the latest currently cited Public Act. The source document and date inventory is in `data/ilcs-depth-q2054.json`.
+11 additional indexed acts from the [Illinois General Assembly static ILCS compilation](https://ftp.ilga.gov/ILCS/) retain current text selected only by explicit publisher version labels and source effective dates. Future repeal notices remain; explicitly future-only sections and future amendment alternatives are excluded. The compilation is updated 30 October 2026 through Public Act 104-854 and is publisher-labelled non-authoritative. Each date is the explicit effective date of the latest currently cited Public Act. The source document and date inventory is in `data/ilcs-depth-q2054.json`.
 
 | Act | Source date | Documents |
 | --- | --- | ---: |
@@ -1089,3 +1089,4 @@ One additional indexed act from the [Illinois General Assembly static ILCS compi
 | [Uniform Money Transmission Modernization Act (205 ILCS 658)](https://ftp.ilga.gov/ILCS/Ch%200205/Act%200658/) | 2026-08-21 | 71 |
 | [Department of Transportation Law of the Civil Administrative Code of Illinois (20 ILCS 2705)](https://ftp.ilga.gov/ILCS/Ch%200020/Act%202705/) | 2026-07-10 | 87 |
 | [Civil Administrative Code of Illinois (20 ILCS 5)](https://ftp.ilga.gov/ILCS/Ch%200020/Act%200005/) | 2026-07-01 | 109 |
+| [Public Library District Act of 1991 (75 ILCS 16)](https://ftp.ilga.gov/ILCS/Ch%200075/Act%200016/) | 2025-08-01 | 146 |

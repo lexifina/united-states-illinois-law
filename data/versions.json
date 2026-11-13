@@ -49475,6 +49475,21 @@
      "units": 109
     }
    ]
+  },
+  {
+   "slug": "ilcs-75-16",
+   "short": "75 ILCS 16",
+   "title": "Public Library District Act of 1991",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200075/Act%200016/",
+   "versions": [
+    {
+     "from": "2025-08-01",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200075/Act%200016/",
+     "sha256": "0ccf8be77b9bc8ba2e1897b36cd4746aecc0f14a0ee7c77393565f33203863a4",
+     "source_images": 0,
+     "units": 146
+    }
+   ]
   }
  ]
 }
