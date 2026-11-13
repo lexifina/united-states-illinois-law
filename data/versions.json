@@ -49430,6 +49430,21 @@
      "units": 69
     }
    ]
+  },
+  {
+   "slug": "ilcs-205-658",
+   "short": "205 ILCS 658",
+   "title": "Uniform Money Transmission Modernization Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200205/Act%200658/",
+   "versions": [
+    {
+     "from": "2026-08-21",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200205/Act%200658/",
+     "sha256": "248d9ab3d5d965e396b989a549e2be13db8933fc6988d55407ab75b55378f66e",
+     "source_images": 0,
+     "units": 71
+    }
+   ]
   }
  ]
 }
