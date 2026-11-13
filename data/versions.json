@@ -49148,6 +49148,20 @@
      "units": 16
     }
    ]
+  },
+  {
+   "slug": "ilcs-110-675",
+   "short": "110 ILCS 675",
+   "title": "Illinois State University Law",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200110/Act%200675/",
+   "versions": [
+    {
+     "from": "2026-08-07",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200110/Act%200675/",
+     "sha256": "976aac5f904fa286dc20bbd36d04bdfced08189757c03e4b2b0df677fbedbf4e",
+     "units": 63
+    }
+   ]
   }
  ]
 }
