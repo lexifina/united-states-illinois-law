@@ -16204,6 +16204,12 @@
      "units": 6,
      "source_url": "https://web.archive.org/web/20260415194701/https://ilga.gov/Legislation/ILCS/Articles?ActID=3112&ChapterID=18&Chapter=HIGHER%20EDUCATION&MajorTopic=EDUCATION",
      "sha256": "92bca612a2129b8385e1266eda74dd4489330fa3e81688fe325f8b7f4b880371"
+    },
+    {
+     "from": "2026-08-21",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200110/Act%200049/",
+     "sha256": "168643a4ff6575308dc43aea411382a2f3c9fec5592517e7297a604362f50ca1",
+     "units": 7
     }
    ]
   },
@@ -17632,6 +17638,12 @@
      "units": 5,
      "source_url": "https://web.archive.org/web/20260515163716/https://ilga.gov/Legislation/ILCS/Articles?ActID=3991&ChapterID=18&Chapter=HIGHER%20EDUCATION&MajorTopic=EDUCATION",
      "sha256": "9744f7b227aeb88ef13278687791159c9655cbaa9a10884282c0772eedfdfe68"
+    },
+    {
+     "from": "2026-06-26",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200110/Act%200986/",
+     "sha256": "734e8ed129e48617307cb689a390ad52bee2054becf68899f1b901ed8e87a6b7",
+     "units": 6
     }
    ]
   },
@@ -18892,6 +18904,12 @@
      "units": 6,
      "source_url": "https://web.archive.org/web/20260509143439/https://ilga.gov/Legislation/ILCS/Articles?ActID=4423&ChapterID=21&Chapter=HEALTH%20FACILITIES%20AND%20REGULATION&MajorTopic=REGULATION",
      "sha256": "df01256dfc4da85d5a6c1ae048c9e4e303b2b38fac338f809c3375c519208cba"
+    },
+    {
+     "from": "2026-08-21",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200210/Act%200175/",
+     "sha256": "f7ad16af2f7bfe88d403e66368eb48db4721bed2032950ad4ab7aec610790249",
+     "units": 7
     }
    ]
   },
@@ -19872,6 +19890,12 @@
      "units": 7,
      "source_url": "https://web.archive.org/web/20260419044046/https://ilga.gov/Legislation/ILCS/Articles?ActID=3885&ChapterID=23&Chapter=UTILITIES&MajorTopic=REGULATION",
      "sha256": "3ba1f6944fd0903944a6f00775dc06fe1af6375edded8e63a161f3977783b7ad"
+    },
+    {
+     "from": "2026-08-07",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200220/Act%200080/",
+     "sha256": "aeb256e262df681d85ad719be55a30798894841c51a1e7795cfba1c96a5827ee",
+     "units": 8
     }
    ]
   },
@@ -24142,6 +24166,12 @@
      "units": 3,
      "source_url": "https://web.archive.org/web/20260518012329/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=4553&ChapterID=35&Chapter=PUBLIC%20HEALTH&MajorTopic=HEALTH%20AND%20SAFETY",
      "sha256": "aca69d7961711a3b1fd2c7109480c68e353254ccb6a10c8d8e5e25955062c4f3"
+    },
+    {
+     "from": "2026-08-21",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200410/Act%200034/",
+     "sha256": "da013e19897ef2bbaeb635dd523b700a7c62df8727200c4dd7a88362ffe6083b",
+     "units": 4
     }
    ]
   },
@@ -24646,6 +24676,12 @@
      "units": 8,
      "source_url": "https://web.archive.org/web/20260308110727/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3652&ChapterID=35&Chapter=PUBLIC%20HEALTH&MajorTopic=HEALTH%20AND%20SAFETY",
      "sha256": "080aba87ed71ac08735caec0d59037b3dbbaf6fe9a14a38c7884fba6dc61f207"
+    },
+    {
+     "from": "2026-08-21",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200410/Act%200145/",
+     "sha256": "bb20fa20d1e370689ad5c5fbd164f936bc476d66fb05550eefbc00b3057a3af7",
+     "units": 9
     }
    ]
   },
@@ -24730,6 +24766,12 @@
      "units": 6,
      "source_url": "https://web.archive.org/web/20260511122729/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=4181&ChapterID=35&Chapter=PUBLIC%20HEALTH&MajorTopic=HEALTH%20AND%20SAFETY",
      "sha256": "f999f0a2ecd0fe139df4c7c5b053c11f32fc8d05b9d6d09494b1e561ddf4f8e6"
+    },
+    {
+     "from": "2026-07-01",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200410/Act%200170/",
+     "sha256": "16afb86b553b1492903ff059d7141214e6cc79de1782b34c870efc296ad2609a",
+     "units": 7
     }
    ]
   },
@@ -24800,6 +24842,12 @@
      "units": 7,
      "source_url": "https://web.archive.org/web/20260510014950/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1539&ChapterID=35&Chapter=PUBLIC%20HEALTH&MajorTopic=HEALTH%20AND%20SAFETY",
      "sha256": "f87726f66924c01e87107955738504d026f04f8d0a59e57a0a40c8d18debe76e"
+    },
+    {
+     "from": "2026-08-21",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200410/Act%200210/",
+     "sha256": "705f20848d3b5c4f0928a6eef9aac4000fe7cba7571540b03149c10372856fd8",
+     "units": 8
     }
    ]
   },
@@ -24968,6 +25016,12 @@
      "units": 5,
      "source_url": "https://web.archive.org/web/20260410100047/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2956&ChapterID=35&Chapter=PUBLIC%20HEALTH&MajorTopic=HEALTH%20AND%20SAFETY",
      "sha256": "ca3360720c1eab311caa544689fa9486f04e6664f0ab50c5f736c4b6abeded2a"
+    },
+    {
+     "from": "2026-08-21",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200410/Act%200265/",
+     "sha256": "214cfa0aaafa962ec1cbe4701539d94bb9d5d48d7ef38db5a68a430d7a853d44",
+     "units": 6
     }
    ]
   },
@@ -25080,6 +25134,12 @@
      "units": 4,
      "source_url": "https://web.archive.org/web/20260520070836/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1553&ChapterID=35&Chapter=PUBLIC%20HEALTH&MajorTopic=HEALTH%20AND%20SAFETY",
      "sha256": "aa8d27e2432a6c37f8d422fc770758c794b76139fcbd6b4d3987f070d3ebfd5a"
+    },
+    {
+     "from": "2026-08-21",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200410/Act%200320/",
+     "sha256": "fc3cde57ca1f36be064bc7fc569063aa87fee54dade972aa7829fb7335829916",
+     "units": 5
     }
    ]
   },
@@ -26760,6 +26820,12 @@
      "units": 9,
      "source_url": "https://web.archive.org/web/20260808201621/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1646&ChapterID=39",
      "sha256": "3a7a6cca9178483868c6e12925417ef783d64613172703d5329b1a6f25dbb9b2"
+    },
+    {
+     "from": "2026-08-21",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200430/Act%200015/",
+     "sha256": "394ed72fb16e2c403f33f91ebf7de7daaa623caf146cbaf3aadbc7fd35c45b08",
+     "units": 10
     }
    ]
   },
@@ -27264,6 +27330,12 @@
      "units": 5,
      "source_url": "https://web.archive.org/web/20260504045059/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3462&ChapterID=39",
      "sha256": "1ead6c435baf6173eafbc9d10c0f231764f78a5ea30259142172cb49dea0cc06"
+    },
+    {
+     "from": "2026-08-21",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200430/Act%200170/",
+     "sha256": "0ada8d7c236822739fa16599d7e99457bde51288315034c2248cfd142abfa962",
+     "units": 6
     }
    ]
   },
@@ -29364,6 +29436,12 @@
      "units": 4,
      "source_url": "https://web.archive.org/web/20260306182232/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1816&ChapterID=49&Chapter=VEHICLES&MajorTopic=TRANSPORTATION",
      "sha256": "9050631f0ed37b9b18cde0077fdb93e9541f724d22e5089b04e14aefabdf48ae"
+    },
+    {
+     "from": "2026-08-21",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200625/Act%200010/",
+     "sha256": "c42b245e4bfbb13c6210f3fca6bb45c5b2073bb60ad1b3f9bfeadf9eb6dc976d",
+     "units": 5
     }
    ]
   },
@@ -31114,6 +31192,12 @@
      "units": 7,
      "source_url": "https://web.archive.org/web/20260328055835/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2490&ChapterID=53",
      "sha256": "1957505b8f556d86dec93e0a531744e0f9b820239f734fde7f3c3fc96a778532"
+    },
+    {
+     "from": "2026-08-21",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200720/Act%200602/",
+     "sha256": "3e8fc993286cb3902bc97db314ae92791aa773a77ea0317f15fd33dd80b9cee3",
+     "units": 8
     }
    ]
   },
@@ -31604,6 +31688,12 @@
      "units": 4,
      "source_url": "https://web.archive.org/web/20260419121933/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2005&ChapterID=55&Chapter=CORRECTIONS&MajorTopic=RIGHTS%20AND%20REMEDIES",
      "sha256": "71a269ab3177cc1cdec6fb79ac5396ba0964968119b8b77c9e4f7af2b8670ce7"
+    },
+    {
+     "from": "2026-08-21",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200730/Act%200130/",
+     "sha256": "86887ab7cba3db200411acdbac97ff3df3f81a5a39f226ff4b3497508b2c7e0c",
+     "units": 5
     }
    ]
   },
@@ -32024,6 +32114,12 @@
      "units": 2,
      "source_url": "https://web.archive.org/web/20260512082105/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=4452&ChapterID=55",
      "sha256": "79d298b88abd1d1b04f91b6a15196df50bdf8f7e3794dc600a02a6202f033b9a"
+    },
+    {
+     "from": "2026-07-31",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200730/Act%200225/",
+     "sha256": "0cf005de1bfeb099884f9ccddcf83910b32d34a05455bc669abd70360f88475a",
+     "units": 3
     }
    ]
   },
@@ -34936,6 +35032,12 @@
      "units": 5,
      "source_url": "https://web.archive.org/web/20260512104844/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=4534&ChapterID=62",
      "sha256": "444a68a99bbe98390c1206b53af52e0705f1d1569916d934a0c899f712b6ddfe"
+    },
+    {
+     "from": "2026-08-21",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200765/Act%200226/",
+     "sha256": "f5c19b4a6738f30ce9f172c27ec237874044e11d3b6f3e5c7089f3ecc645fe4e",
+     "units": 6
     }
    ]
   },
@@ -37792,6 +37894,12 @@
      "units": 5,
      "source_url": "https://web.archive.org/web/20260403212553/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=4551&ChapterID=67",
      "sha256": "3a4fd032e9d50a4d72ad05910aa2397fc99fac360ffe45a2c6922619def3e797"
+    },
+    {
+     "from": "2026-08-21",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200815/Act%200412/",
+     "sha256": "ccd3c0301159ab2101a6232529cba6ba9609786409d4af7e84521fa96c872493",
+     "units": 6
     }
    ]
   },
@@ -37820,6 +37928,12 @@
      "units": 6,
      "source_url": "https://web.archive.org/web/20260214111439/https://ilga.gov/Legislation/ILCS/Articles?ActID=3442&ChapterID=67&Chapter=BUSINESS%20TRANSACTIONS&MajorTopic=BUSINESS%20AND%20EMPLOYMENT",
      "sha256": "dded36e5c35d38a4b55c2c2deb9a22ea7ca05242e73b8898c67cc6eb45c485e9"
+    },
+    {
+     "from": "2026-06-25",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200815/Act%200414/",
+     "sha256": "2dcd713d3347cf78c6c2ecbff71e87c8951a54725cc55165828e0f826c33fa1c",
+     "units": 9
     }
    ]
   },
@@ -37862,6 +37976,12 @@
      "units": 7,
      "source_url": "https://web.archive.org/web/20260414222821/https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2351&ChapterID=67",
      "sha256": "e4d7acc225ff5771c5cc77c2ec4a09ca24d89b4fc57b5216790926ee66481f76"
+    },
+    {
+     "from": "2026-08-21",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200815/Act%200420/",
+     "sha256": "ea53ff1c382b47e2bd0d4992b2dace47bc8c6540cf72fc519b07b383080328bf",
+     "units": 8
     }
    ]
   },

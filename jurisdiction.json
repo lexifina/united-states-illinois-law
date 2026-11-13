@@ -48,5 +48,14 @@
     "source": "https://ftp.ilga.gov/ILCS/",
     "authoritative": false,
     "representation": "correction overlays"
+  },
+  "ilcs_current_refresh_fourth_batch": {
+    "acts": 20,
+    "checked_on": "2026-11-13",
+    "compilation_date": "2026-10-30",
+    "source": "https://ftp.ilga.gov/ILCS/",
+    "authoritative": false,
+    "date_basis": "explicit effective date of latest cited Public Act",
+    "representation": "correction overlays"
   }
 }
