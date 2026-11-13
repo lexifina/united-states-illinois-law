@@ -49370,6 +49370,21 @@
      "units": 10
     }
    ]
+  },
+  {
+   "slug": "ilcs-210-35",
+   "short": "210 ILCS 35",
+   "title": "Community Living Facilities Licensing Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200210/Act%200035/",
+   "versions": [
+    {
+     "from": "2023-01-01",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200210/Act%200035/",
+     "sha256": "04fb7f8817df9ed42758c68346e6c75de4165e1a949cca2f16eb81f26b102888",
+     "source_images": 0,
+     "units": 21
+    }
+   ]
   }
  ]
 }
