@@ -49190,6 +49190,20 @@
      "units": 7
     }
    ]
+  },
+  {
+   "slug": "ilcs-415-145",
+   "short": "415 ILCS 145",
+   "title": "Illinois Cool Cities Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200415/Act%200145/",
+   "versions": [
+    {
+     "from": "2007-08-27",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200415/Act%200145/",
+     "sha256": "94d4c1517240758fd8e0288964da93582f9fcec2a083be6aa6e93a6eaa560e26",
+     "units": 6
+    }
+   ]
   }
  ]
 }

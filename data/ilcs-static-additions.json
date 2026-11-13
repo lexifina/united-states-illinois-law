@@ -531,5 +531,42 @@
     "sha256": "7687443dcd6d411997476a3771c720f92b38b914793773594e67b58303166d0d"
    }
   ]
+ },
+ {
+  "slug": "ilcs-415-145",
+  "source_date": "2007-08-27",
+  "date_basis": "Publisher compilation updated 2026-10-30 through Public Act 104-854. In-force basis: latest explicit effective date of retained current text 2007-08-27; publisher labels later repeal effective 2027.",
+  "files": [
+   {
+    "path": "doc-0001-041501450f.md",
+    "source_url": "https://ftp.ilga.gov/ILCS/Ch%200415/Act%200145/041501450F.html",
+    "sha256": "5d1f0b938ab359d67fbefef68b05884c7b8a05d7e54dcf9c9b9caa5c09940bbd"
+   },
+   {
+    "path": "doc-0002-041501450k1.md",
+    "source_url": "https://ftp.ilga.gov/ILCS/Ch%200415/Act%200145/041501450K1.html",
+    "sha256": "ee0deb8340bde5b41471864ac3455eaaeefa1687a7dce35106acd0add80ca16a"
+   },
+   {
+    "path": "doc-0003-041501450k5.md",
+    "source_url": "https://ftp.ilga.gov/ILCS/Ch%200415/Act%200145/041501450K5.html",
+    "sha256": "b4c3cc3c443728289fbe86b3507c3fbe54ea3cb5529b28cfd071a47e0d2454d2"
+   },
+   {
+    "path": "doc-0004-041501450k10.md",
+    "source_url": "https://ftp.ilga.gov/ILCS/Ch%200415/Act%200145/041501450K10.html",
+    "sha256": "0b9111a55022446e74c83db0463f8fd4ef4172ef9d58d59e0892caad103f1417"
+   },
+   {
+    "path": "doc-0005-041501450k15.md",
+    "source_url": "https://ftp.ilga.gov/ILCS/Ch%200415/Act%200145/041501450K15.html",
+    "sha256": "c8f57b5fafd28074d41f3cf7dff16dd5b95b953314e2cbcce8116832a5dbbfc7"
+   },
+   {
+    "path": "doc-0006-041501450k99.md",
+    "source_url": "https://ftp.ilga.gov/ILCS/Ch%200415/Act%200145/041501450K99.html",
+    "sha256": "951e2d617919018c9b46265d47bd807a4ff03422fd458e0d41e80db72fb60bd5"
+   }
+  ]
  }
 ]

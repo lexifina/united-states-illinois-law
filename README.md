@@ -1030,7 +1030,7 @@ The Illinois General Assembly static ILCS compilation identifies later wording f
 
 ## Static ILCS compilation additions, 30 October 2026
 
-4 additional complete indexed acts from the [Illinois General Assembly compilation](https://ftp.ilga.gov/ILCS/) are included. The compilation incorporates Public Acts through 104-854. The publisher states that these provisions have NOT been edited for publication and are NOT the official text; this copy should not be cited as official or authoritative. The only official copy is the printed copy maintained by the Secretary of State’s office.
+5 additional complete indexed acts from the [Illinois General Assembly compilation](https://ftp.ilga.gov/ILCS/) are included. The compilation incorporates Public Acts through 104-854. The publisher states that these provisions have NOT been edited for publication and are NOT the official text; this copy should not be cited as official or authoritative. The only official copy is the printed copy maintained by the Secretary of State’s office.
 
 Each addition retains all sections, act-title documents and article headings in the publisher’s Section Sequence. Dates use the latest explicit amendment effective date in the source, otherwise the compilation’s own update date, 2026-10-30. This date fallback does not claim a commencement date the source does not identify. Future-effective text and normative images are held. Existing records retain their historical dates and text; their inclusion above does not establish equality with this static compilation. Public Acts, administrative rules and earlier wording are not added.
 
@@ -1040,3 +1040,4 @@ Each addition retains all sections, act-title documents and article headings in 
 | [Illinois State University Law (110 ILCS 675)](https://ftp.ilga.gov/ILCS/Ch%200110/Act%200675/) | 60 | 2026-08-07 |
 | [Health Care Workplace Violence Prevention Act (405 ILCS 90)](https://ftp.ilga.gov/ILCS/Ch%200405/Act%200090/) | 14 | 2025-11-21 |
 | [Mental Health Inpatient Facility Access Act (405 ILCS 140)](https://ftp.ilga.gov/ILCS/Ch%200405/Act%200140/) | 6 | 2023-06-30 |
+| [Illinois Cool Cities Act (415 ILCS 145)](https://ftp.ilga.gov/ILCS/Ch%200415/Act%200145/) | 5 | 2007-08-27 |
