@@ -49265,6 +49265,21 @@
      "units": 27
     }
    ]
+  },
+  {
+   "slug": "ilcs-630-5",
+   "short": "630 ILCS 5",
+   "title": "Public-Private Partnerships for Transportation Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200630/Act%200005/",
+   "versions": [
+    {
+     "from": "2025-08-15",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200630/Act%200005/",
+     "sha256": "6249ab2d002583ee3fbf075a33115966a3670b37fa50ae0cf36d65a4ab1eb14f",
+     "source_images": 0,
+     "units": 32
+    }
+   ]
   }
  ]
 }
