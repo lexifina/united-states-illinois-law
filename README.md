@@ -1075,7 +1075,7 @@ One additional indexed act from the [Illinois General Assembly static ILCS compi
 
 ## Further current ILCS texts, 13 November 2026
 
-5 additional indexed acts from the [Illinois General Assembly static ILCS compilation](https://ftp.ilga.gov/ILCS/) retain current text selected only by explicit publisher version labels and source effective dates. Future repeal notices remain; explicitly future-only sections and future amendment alternatives are excluded. The compilation is updated 30 October 2026 through Public Act 104-854 and is publisher-labelled non-authoritative. Each date is the explicit effective date of the latest currently cited Public Act. The source document and date inventory is in `data/ilcs-depth-q2054.json`.
+6 additional indexed acts from the [Illinois General Assembly static ILCS compilation](https://ftp.ilga.gov/ILCS/) retain current text selected only by explicit publisher version labels and source effective dates. Future repeal notices remain; explicitly future-only sections and future amendment alternatives are excluded. The compilation is updated 30 October 2026 through Public Act 104-854 and is publisher-labelled non-authoritative. Each date is the explicit effective date of the latest currently cited Public Act. The source document and date inventory is in `data/ilcs-depth-q2054.json`.
 
 | Act | Source date | Documents |
 | --- | --- | ---: |
@@ -1084,3 +1084,4 @@ One additional indexed act from the [Illinois General Assembly static ILCS compi
 | [Program of All-Inclusive Care for the Elderly Act (320 ILCS 40)](https://ftp.ilga.gov/ILCS/Ch%200320/Act%200040/) | 2021-07-06 | 10 |
 | [Community Living Facilities Licensing Act (210 ILCS 35)](https://ftp.ilga.gov/ILCS/Ch%200210/Act%200035/) | 2023-01-01 | 21 |
 | [Common Interest Community Association Act (765 ILCS 160)](https://ftp.ilga.gov/ILCS/Ch%200765/Act%200160/) | 2025-08-15 | 26 |
+| [State Treasurer Act (15 ILCS 505)](https://ftp.ilga.gov/ILCS/Ch%200015/Act%200505/) | 2026-06-26 | 38 |

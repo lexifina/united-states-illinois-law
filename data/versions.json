@@ -49400,6 +49400,21 @@
      "units": 26
     }
    ]
+  },
+  {
+   "slug": "ilcs-15-505",
+   "short": "15 ILCS 505",
+   "title": "State Treasurer Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200015/Act%200505/",
+   "versions": [
+    {
+     "from": "2026-06-26",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200015/Act%200505/",
+     "sha256": "79ba1b9391a4ca6bb69ae02ce4f2dfae1e1d1e5501c7793fe8304f1e91dcb88c",
+     "source_images": 0,
+     "units": 38
+    }
+   ]
   }
  ]
 }
