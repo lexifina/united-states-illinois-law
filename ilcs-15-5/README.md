@@ -1,8 +1,9 @@
-# Illinois Compiled Statutes, Governor Succession Act (15 ILCS 5)
+# Governor Succession Act
 
-15 ILCS 5 · 1 versions, from 2026-06-06 (latest in force: 2026-06-06) · <https://www.ilga.gov/Legislation/ILCS/Articles?ActID=183>
+15 ILCS 5 · 2 versions, from 2026-06-06 (latest in force: 2026-10-30) · <https://ftp.ilga.gov/ILCS/Ch%200015/Act%200005/>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
-| 15 ILCS 5/0.01 | [sec-0000-0001.md](sec-0000-0001.md) | 0 |  |
-| 15 ILCS 5/1 | [sec-0001.md](sec-0001.md) | 0 |  |
+| Act title | [doc-0001-001500050f.md](doc-0001-001500050f.md) | 1 | 2026-10-30 |
+| 15 ILCS 5/0.01 | [doc-0002-001500050k0-01.md](doc-0002-001500050k0-01.md) | 1 | 2026-10-30 |
+| 15 ILCS 5/1 | [doc-0003-001500050k1.md](doc-0003-001500050k1.md) | 1 | 2026-10-30 |

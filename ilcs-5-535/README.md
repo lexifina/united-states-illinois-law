@@ -1,8 +1,9 @@
-# Illinois Compiled Statutes, Lake County Land Cession Act (5 ILCS 535)
+# Lake County Land Cession Act
 
-5 ILCS 535 · 1 versions, from 2026-02-18 (latest in force: 2026-02-18) · <https://www.ilga.gov/Legislation/ILCS/Articles?ActID=141>
+5 ILCS 535 · 2 versions, from 2026-02-18 (latest in force: 2026-10-30) · <https://ftp.ilga.gov/ILCS/Ch%200005/Act%200535/>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
-| 5 ILCS 535/0.01 | [sec-0000-0001.md](sec-0000-0001.md) | 0 |  |
-| 5 ILCS 535/3 | [sec-0003.md](sec-0003.md) | 0 |  |
+| Act title | [doc-0001-000505350f.md](doc-0001-000505350f.md) | 1 | 2026-10-30 |
+| 5 ILCS 535/0.01 | [doc-0002-000505350k0-01.md](doc-0002-000505350k0-01.md) | 1 | 2026-10-30 |
+| 5 ILCS 535/3 | [doc-0003-000505350k3.md](doc-0003-000505350k3.md) | 1 | 2026-10-30 |

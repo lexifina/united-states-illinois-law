@@ -1,18 +1,22 @@
-# Illinois Compiled Statutes, Fiscal Control and Internal Auditing Act (30 ILCS 10)
+# Fiscal Control and Internal Auditing Act
 
-30 ILCS 10 · 1 versions, from 2026-06-10 (latest in force: 2026-06-10) · <https://www.ilga.gov/Legislation/ILCS/Articles?ActID=467>
+30 ILCS 10 · 2 versions, from 2026-06-10 (latest in force: 2026-08-21) · <https://ftp.ilga.gov/ILCS/Ch%200030/Act%200010/>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
-| 30 ILCS 10/1001 | [sec-1001.md](sec-1001.md) | 0 |  |
-| 30 ILCS 10/1002 | [sec-1002.md](sec-1002.md) | 0 |  |
-| 30 ILCS 10/1003 | [sec-1003.md](sec-1003.md) | 0 |  |
-| 30 ILCS 10/2001 | [sec-2001.md](sec-2001.md) | 0 |  |
-| 30 ILCS 10/2002 | [sec-2002.md](sec-2002.md) | 0 |  |
-| 30 ILCS 10/2003 | [sec-2003.md](sec-2003.md) | 0 |  |
-| 30 ILCS 10/2004 | [sec-2004.md](sec-2004.md) | 0 |  |
-| 30 ILCS 10/2005 | [sec-2005.md](sec-2005.md) | 0 |  |
-| 30 ILCS 10/3001 | [sec-3001.md](sec-3001.md) | 0 |  |
-| 30 ILCS 10/3002 | [sec-3002.md](sec-3002.md) | 0 |  |
-| 30 ILCS 10/3003 | [sec-3003.md](sec-3003.md) | 0 |  |
-| 30 ILCS 10/3004 | [sec-3004.md](sec-3004.md) | 0 |  |
+| Act title | [doc-0001-003000100f.md](doc-0001-003000100f.md) | 1 | 2026-08-21 |
+| Article heading Art. 1 | [doc-0002-003000100hart-1.md](doc-0002-003000100hart-1.md) | 1 | 2026-08-21 |
+| 30 ILCS 10/1001 | [doc-0003-003000100k1001.md](doc-0003-003000100k1001.md) | 1 | 2026-08-21 |
+| 30 ILCS 10/1002 | [doc-0004-003000100k1002.md](doc-0004-003000100k1002.md) | 1 | 2026-08-21 |
+| 30 ILCS 10/1003 | [doc-0005-003000100k1003.md](doc-0005-003000100k1003.md) | 1 | 2026-08-21 |
+| Article heading Art. 2 | [doc-0006-003000100hart-2.md](doc-0006-003000100hart-2.md) | 1 | 2026-08-21 |
+| 30 ILCS 10/2001 | [doc-0007-003000100k2001.md](doc-0007-003000100k2001.md) | 1 | 2026-08-21 |
+| 30 ILCS 10/2002 | [doc-0008-003000100k2002.md](doc-0008-003000100k2002.md) | 1 | 2026-08-21 |
+| 30 ILCS 10/2003 | [doc-0009-003000100k2003.md](doc-0009-003000100k2003.md) | 1 | 2026-08-21 |
+| 30 ILCS 10/2004 | [doc-0010-003000100k2004.md](doc-0010-003000100k2004.md) | 1 | 2026-08-21 |
+| 30 ILCS 10/2005 | [doc-0011-003000100k2005.md](doc-0011-003000100k2005.md) | 1 | 2026-08-21 |
+| Article heading Art. 3 | [doc-0012-003000100hart-3.md](doc-0012-003000100hart-3.md) | 1 | 2026-08-21 |
+| 30 ILCS 10/3001 | [doc-0013-003000100k3001.md](doc-0013-003000100k3001.md) | 1 | 2026-08-21 |
+| 30 ILCS 10/3002 | [doc-0014-003000100k3002.md](doc-0014-003000100k3002.md) | 1 | 2026-08-21 |
+| 30 ILCS 10/3003 | [doc-0015-003000100k3003.md](doc-0015-003000100k3003.md) | 1 | 2026-08-21 |
+| 30 ILCS 10/3004 | [doc-0016-003000100k3004.md](doc-0016-003000100k3004.md) | 1 | 2026-08-21 |

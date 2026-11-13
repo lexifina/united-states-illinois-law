@@ -1,19 +1,20 @@
-# Illinois Compiled Statutes, Hotel Operators' Occupation Tax Act (35 ILCS 145)
+# Hotel Operators' Occupation Tax Act
 
-35 ILCS 145 · 1 versions, from 2026-05-19 (latest in force: 2026-05-19) · <https://www.ilga.gov/Legislation/ILCS/Articles?ActID=589>
+35 ILCS 145 · 2 versions, from 2026-05-19 (latest in force: 2026-06-16) · <https://ftp.ilga.gov/ILCS/Ch%200035/Act%200145/>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
-| 35 ILCS 145/1 | [sec-0001.md](sec-0001.md) | 0 |  |
-| 35 ILCS 145/2 | [sec-0002.md](sec-0002.md) | 0 |  |
-| 35 ILCS 145/3 | [sec-0003.md](sec-0003.md) | 0 |  |
-| 35 ILCS 145/3-2 | [sec-0003-0002.md](sec-0003-0002.md) | 0 |  |
-| 35 ILCS 145/3-3 | [sec-0003-0003.md](sec-0003-0003.md) | 0 |  |
-| 35 ILCS 145/3-5 | [sec-0003-0005.md](sec-0003-0005.md) | 0 |  |
-| 35 ILCS 145/4 | [sec-0004.md](sec-0004.md) | 0 |  |
-| 35 ILCS 145/5 | [sec-0005.md](sec-0005.md) | 0 |  |
-| 35 ILCS 145/6 | [sec-0006.md](sec-0006.md) | 0 |  |
-| 35 ILCS 145/7 | [sec-0007.md](sec-0007.md) | 0 |  |
-| 35 ILCS 145/8 | [sec-0008.md](sec-0008.md) | 0 |  |
-| 35 ILCS 145/9 | [sec-0009.md](sec-0009.md) | 0 |  |
-| 35 ILCS 145/10 | [sec-0010.md](sec-0010.md) | 0 |  |
+| Act title | [doc-0001-003501450f.md](doc-0001-003501450f.md) | 1 | 2026-06-16 |
+| 35 ILCS 145/1 | [doc-0002-003501450k1.md](doc-0002-003501450k1.md) | 1 | 2026-06-16 |
+| 35 ILCS 145/2 | [doc-0003-003501450k2.md](doc-0003-003501450k2.md) | 1 | 2026-06-16 |
+| 35 ILCS 145/3 | [doc-0004-003501450k3.md](doc-0004-003501450k3.md) | 1 | 2026-06-16 |
+| 35 ILCS 145/3-2 | [doc-0005-003501450k3-2.md](doc-0005-003501450k3-2.md) | 1 | 2026-06-16 |
+| 35 ILCS 145/3-3 | [doc-0006-003501450k3-3.md](doc-0006-003501450k3-3.md) | 1 | 2026-06-16 |
+| 35 ILCS 145/3-5 | [doc-0007-003501450k3-5.md](doc-0007-003501450k3-5.md) | 1 | 2026-06-16 |
+| 35 ILCS 145/4 | [doc-0008-003501450k4.md](doc-0008-003501450k4.md) | 1 | 2026-06-16 |
+| 35 ILCS 145/5 | [doc-0009-003501450k5.md](doc-0009-003501450k5.md) | 1 | 2026-06-16 |
+| 35 ILCS 145/6 | [doc-0010-003501450k6.md](doc-0010-003501450k6.md) | 1 | 2026-06-16 |
+| 35 ILCS 145/7 | [doc-0011-003501450k7.md](doc-0011-003501450k7.md) | 1 | 2026-06-16 |
+| 35 ILCS 145/8 | [doc-0012-003501450k8.md](doc-0012-003501450k8.md) | 1 | 2026-06-16 |
+| 35 ILCS 145/9 | [doc-0013-003501450k9.md](doc-0013-003501450k9.md) | 1 | 2026-06-16 |
+| 35 ILCS 145/10 | [doc-0014-003501450k10.md](doc-0014-003501450k10.md) | 1 | 2026-06-16 |

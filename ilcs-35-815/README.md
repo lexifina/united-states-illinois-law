@@ -1,10 +1,11 @@
-# Illinois Compiled Statutes, Postage Stamp Vending Machine Act (35 ILCS 815)
+# Postage Stamp Vending Machine Act
 
-35 ILCS 815 · 1 versions, from 2026-04-21 (latest in force: 2026-04-21) · <https://www.ilga.gov/Legislation/ILCS/Articles?ActID=636>
+35 ILCS 815 · 2 versions, from 2026-04-21 (latest in force: 2026-06-01) · <https://ftp.ilga.gov/ILCS/Ch%200035/Act%200815/>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
-| 35 ILCS 815/0.01 | [sec-0000-0001.md](sec-0000-0001.md) | 0 |  |
-| 35 ILCS 815/1 | [sec-0001.md](sec-0001.md) | 0 |  |
-| 35 ILCS 815/2 | [sec-0002.md](sec-0002.md) | 0 |  |
-| 35 ILCS 815/3 | [sec-0003.md](sec-0003.md) | 0 |  |
+| Act title | [doc-0001-003508150f.md](doc-0001-003508150f.md) | 1 | 2026-06-01 |
+| 35 ILCS 815/0.01 | [doc-0002-003508150k0-01.md](doc-0002-003508150k0-01.md) | 1 | 2026-06-01 |
+| 35 ILCS 815/1 | [doc-0003-003508150k1.md](doc-0003-003508150k1.md) | 1 | 2026-06-01 |
+| 35 ILCS 815/2 | [doc-0004-003508150k2.md](doc-0004-003508150k2.md) | 1 | 2026-06-01 |
+| 35 ILCS 815/3 | [doc-0005-003508150k3.md](doc-0005-003508150k3.md) | 1 | 2026-06-01 |

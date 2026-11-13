@@ -1,18 +1,19 @@
-# Illinois Compiled Statutes, State Pension Funds Continuing Appropriation Act (40 ILCS 15)
+# State Pension Funds Continuing Appropriation Act
 
-40 ILCS 15 · 1 versions, from 2026-05-16 (latest in force: 2026-05-16) · <https://www.ilga.gov/Legislation/ILCS/Articles?ActID=640>
+40 ILCS 15 · 2 versions, from 2026-05-16 (latest in force: 2026-07-01) · <https://ftp.ilga.gov/ILCS/Ch%200040/Act%200015/>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
-| 40 ILCS 15/0.1 | [sec-0000-0001.md](sec-0000-0001.md) | 0 |  |
-| 40 ILCS 15/1 | [sec-0001.md](sec-0001.md) | 0 |  |
-| 40 ILCS 15/1.1 | [sec-0001-0001.md](sec-0001-0001.md) | 0 |  |
-| 40 ILCS 15/1.2 | [sec-0001-0002.md](sec-0001-0002.md) | 0 |  |
-| 40 ILCS 15/1.3 | [sec-0001-0003.md](sec-0001-0003.md) | 0 |  |
-| 40 ILCS 15/1.4 | [sec-0001-0004.md](sec-0001-0004.md) | 0 |  |
-| 40 ILCS 15/1.5 | [sec-0001-0005.md](sec-0001-0005.md) | 0 |  |
-| 40 ILCS 15/1.6 | [sec-0001-0006.md](sec-0001-0006.md) | 0 |  |
-| 40 ILCS 15/1.7 | [sec-0001-0007.md](sec-0001-0007.md) | 0 |  |
-| 40 ILCS 15/1.8 | [sec-0001-0008.md](sec-0001-0008.md) | 0 |  |
-| 40 ILCS 15/1.9 | [sec-0001-0009.md](sec-0001-0009.md) | 0 |  |
-| 40 ILCS 15/2 | [sec-0002.md](sec-0002.md) | 0 |  |
+| Act title | [doc-0001-004000150f.md](doc-0001-004000150f.md) | 1 | 2026-07-01 |
+| 40 ILCS 15/0.1 | [doc-0002-004000150k0-1.md](doc-0002-004000150k0-1.md) | 1 | 2026-07-01 |
+| 40 ILCS 15/1 | [doc-0003-004000150k1.md](doc-0003-004000150k1.md) | 1 | 2026-07-01 |
+| 40 ILCS 15/1.1 | [doc-0004-004000150k1-1.md](doc-0004-004000150k1-1.md) | 1 | 2026-07-01 |
+| 40 ILCS 15/1.2 | [doc-0005-004000150k1-2.md](doc-0005-004000150k1-2.md) | 1 | 2026-07-01 |
+| 40 ILCS 15/1.3 | [doc-0006-004000150k1-3.md](doc-0006-004000150k1-3.md) | 1 | 2026-07-01 |
+| 40 ILCS 15/1.4 | [doc-0007-004000150k1-4.md](doc-0007-004000150k1-4.md) | 1 | 2026-07-01 |
+| 40 ILCS 15/1.5 | [doc-0008-004000150k1-5.md](doc-0008-004000150k1-5.md) | 1 | 2026-07-01 |
+| 40 ILCS 15/1.6 | [doc-0009-004000150k1-6.md](doc-0009-004000150k1-6.md) | 1 | 2026-07-01 |
+| 40 ILCS 15/1.7 | [doc-0010-004000150k1-7.md](doc-0010-004000150k1-7.md) | 1 | 2026-07-01 |
+| 40 ILCS 15/1.8 | [doc-0011-004000150k1-8.md](doc-0011-004000150k1-8.md) | 1 | 2026-07-01 |
+| 40 ILCS 15/1.9 | [doc-0012-004000150k1-9.md](doc-0012-004000150k1-9.md) | 1 | 2026-07-01 |
+| 40 ILCS 15/2 | [doc-0013-004000150k2.md](doc-0013-004000150k2.md) | 1 | 2026-07-01 |

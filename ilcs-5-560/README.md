@@ -1,9 +1,10 @@
-# Illinois Compiled Statutes, Veteran's Administration Retrocession Act (5 ILCS 560)
+# Veteran's Administration Retrocession Act
 
-5 ILCS 560 · 1 versions, from 2026-02-07 (latest in force: 2026-02-07) · <https://www.ilga.gov/Legislation/ILCS/Articles?ActID=152>
+5 ILCS 560 · 2 versions, from 2026-02-07 (latest in force: 2026-10-30) · <https://ftp.ilga.gov/ILCS/Ch%200005/Act%200560/>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
-| 5 ILCS 560/0.01 | [sec-0000-0001.md](sec-0000-0001.md) | 0 |  |
-| 5 ILCS 560/1 | [sec-0001.md](sec-0001.md) | 0 |  |
-| 5 ILCS 560/2 | [sec-0002.md](sec-0002.md) | 0 |  |
+| Act title | [doc-0001-000505600f.md](doc-0001-000505600f.md) | 1 | 2026-10-30 |
+| 5 ILCS 560/0.01 | [doc-0002-000505600k0-01.md](doc-0002-000505600k0-01.md) | 1 | 2026-10-30 |
+| 5 ILCS 560/1 | [doc-0003-000505600k1.md](doc-0003-000505600k1.md) | 1 | 2026-10-30 |
+| 5 ILCS 560/2 | [doc-0004-000505600k2.md](doc-0004-000505600k2.md) | 1 | 2026-10-30 |

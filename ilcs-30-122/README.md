@@ -1,14 +1,15 @@
-# Illinois Compiled Statutes, Budget Stabilization Act (30 ILCS 122)
+# Budget Stabilization Act
 
-30 ILCS 122 · 1 versions, from 2026-03-31 (latest in force: 2026-03-31) · <https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2543>
+30 ILCS 122 · 2 versions, from 2026-03-31 (latest in force: 2026-07-01) · <https://ftp.ilga.gov/ILCS/Ch%200030/Act%200122/>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
-| 30 ILCS 122/1 | [sec-0001.md](sec-0001.md) | 0 |  |
-| 30 ILCS 122/5 | [sec-0005.md](sec-0005.md) | 0 |  |
-| 30 ILCS 122/10 | [sec-0010.md](sec-0010.md) | 0 |  |
-| 30 ILCS 122/15 | [sec-0015.md](sec-0015.md) | 0 |  |
-| 30 ILCS 122/20 | [sec-0020.md](sec-0020.md) | 0 |  |
-| 30 ILCS 122/25 | [sec-0025.md](sec-0025.md) | 0 |  |
-| 30 ILCS 122/90 | [sec-0090.md](sec-0090.md) | 0 |  |
-| 30 ILCS 122/99 | [sec-0099.md](sec-0099.md) | 0 |  |
+| Act title | [doc-0001-003001220f.md](doc-0001-003001220f.md) | 1 | 2026-07-01 |
+| 30 ILCS 122/1 | [doc-0002-003001220k1.md](doc-0002-003001220k1.md) | 1 | 2026-07-01 |
+| 30 ILCS 122/5 | [doc-0003-003001220k5.md](doc-0003-003001220k5.md) | 1 | 2026-07-01 |
+| 30 ILCS 122/10 | [doc-0004-003001220k10.md](doc-0004-003001220k10.md) | 1 | 2026-07-01 |
+| 30 ILCS 122/15 | [doc-0005-003001220k15.md](doc-0005-003001220k15.md) | 1 | 2026-07-01 |
+| 30 ILCS 122/20 | [doc-0006-003001220k20.md](doc-0006-003001220k20.md) | 1 | 2026-07-01 |
+| 30 ILCS 122/25 | [doc-0007-003001220k25.md](doc-0007-003001220k25.md) | 1 | 2026-07-01 |
+| 30 ILCS 122/90 | [doc-0008-003001220k90.md](doc-0008-003001220k90.md) | 1 | 2026-07-01 |
+| 30 ILCS 122/99 | [doc-0009-003001220k99.md](doc-0009-003001220k99.md) | 1 | 2026-07-01 |

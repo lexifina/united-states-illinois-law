@@ -1,10 +1,11 @@
-# Illinois Compiled Statutes, Chicago U. S. Courthouse Cession Act (5 ILCS 530)
+# Chicago U. S. Courthouse Cession Act
 
-5 ILCS 530 · 1 versions, from 2026-06-01 (latest in force: 2026-06-01) · <https://www.ilga.gov/Legislation/ILCS/Articles?ActID=140>
+5 ILCS 530 · 2 versions, from 2026-06-01 (latest in force: 2026-10-30) · <https://ftp.ilga.gov/ILCS/Ch%200005/Act%200530/>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
-| 5 ILCS 530/0.01 | [sec-0000-0001.md](sec-0000-0001.md) | 0 |  |
-| 5 ILCS 530/1 | [sec-0001.md](sec-0001.md) | 0 |  |
-| 5 ILCS 530/2 | [sec-0002.md](sec-0002.md) | 0 |  |
-| 5 ILCS 530/3 | [sec-0003.md](sec-0003.md) | 0 |  |
+| Act title | [doc-0001-000505300f.md](doc-0001-000505300f.md) | 1 | 2026-10-30 |
+| 5 ILCS 530/0.01 | [doc-0002-000505300k0-01.md](doc-0002-000505300k0-01.md) | 1 | 2026-10-30 |
+| 5 ILCS 530/1 | [doc-0003-000505300k1.md](doc-0003-000505300k1.md) | 1 | 2026-10-30 |
+| 5 ILCS 530/2 | [doc-0004-000505300k2.md](doc-0004-000505300k2.md) | 1 | 2026-10-30 |
+| 5 ILCS 530/3 | [doc-0005-000505300k3.md](doc-0005-000505300k3.md) | 1 | 2026-10-30 |

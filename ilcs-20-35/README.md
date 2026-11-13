@@ -1,17 +1,18 @@
-# Illinois Compiled Statutes, Government Electronic Records Act (20 ILCS 35)
+# Government Electronic Records Act
 
-20 ILCS 35 · 1 versions, from 2026-04-21 (latest in force: 2026-04-21) · <https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3275>
+20 ILCS 35 · 2 versions, from 2026-04-21 (latest in force: 2026-08-21) · <https://ftp.ilga.gov/ILCS/Ch%200020/Act%200035/>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
-| 20 ILCS 35/1 | [sec-0001.md](sec-0001.md) | 0 |  |
-| 20 ILCS 35/5 | [sec-0005.md](sec-0005.md) | 0 |  |
-| 20 ILCS 35/10 | [sec-0010.md](sec-0010.md) | 0 |  |
-| 20 ILCS 35/15 | [sec-0015.md](sec-0015.md) | 0 |  |
-| 20 ILCS 35/20 | [sec-0020.md](sec-0020.md) | 0 |  |
-| 20 ILCS 35/25 | [sec-0025.md](sec-0025.md) | 0 |  |
-| 20 ILCS 35/30 | [sec-0030.md](sec-0030.md) | 0 |  |
-| 20 ILCS 35/35 | [sec-0035.md](sec-0035.md) | 0 |  |
-| 20 ILCS 35/37 | [sec-0037.md](sec-0037.md) | 0 |  |
-| 20 ILCS 35/40 | [sec-0040.md](sec-0040.md) | 0 |  |
-| 20 ILCS 35/99 | [sec-0099.md](sec-0099.md) | 0 |  |
+| Act title | [doc-0001-002000350f.md](doc-0001-002000350f.md) | 1 | 2026-08-21 |
+| 20 ILCS 35/1 | [doc-0002-002000350k1.md](doc-0002-002000350k1.md) | 1 | 2026-08-21 |
+| 20 ILCS 35/5 | [doc-0003-002000350k5.md](doc-0003-002000350k5.md) | 1 | 2026-08-21 |
+| 20 ILCS 35/10 | [doc-0004-002000350k10.md](doc-0004-002000350k10.md) | 1 | 2026-08-21 |
+| 20 ILCS 35/15 | [doc-0005-002000350k15.md](doc-0005-002000350k15.md) | 1 | 2026-08-21 |
+| 20 ILCS 35/20 | [doc-0006-002000350k20.md](doc-0006-002000350k20.md) | 1 | 2026-08-21 |
+| 20 ILCS 35/25 | [doc-0007-002000350k25.md](doc-0007-002000350k25.md) | 1 | 2026-08-21 |
+| 20 ILCS 35/30 | [doc-0008-002000350k30.md](doc-0008-002000350k30.md) | 1 | 2026-08-21 |
+| 20 ILCS 35/35 | [doc-0009-002000350k35.md](doc-0009-002000350k35.md) | 1 | 2026-08-21 |
+| 20 ILCS 35/37 | [doc-0010-002000350k37.md](doc-0010-002000350k37.md) | 1 | 2026-08-21 |
+| 20 ILCS 35/40 | [doc-0011-002000350k40.md](doc-0011-002000350k40.md) | 1 | 2026-08-21 |
+| 20 ILCS 35/99 | [doc-0012-002000350k99.md](doc-0012-002000350k99.md) | 1 | 2026-08-21 |

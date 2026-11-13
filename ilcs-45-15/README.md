@@ -1,16 +1,17 @@
-# Illinois Compiled Statutes, Interstate Compact on Placement of Children Act (45 ILCS 15)
+# Interstate Compact on Placement of Children Act
 
-45 ILCS 15 · 1 versions, from 2026-05-11 (latest in force: 2026-05-11) · <https://www.ilga.gov/Legislation/ILCS/Articles?ActID=643>
+45 ILCS 15 · 2 versions, from 2026-05-11 (latest in force: 2026-10-30) · <https://ftp.ilga.gov/ILCS/Ch%200045/Act%200015/>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
-| 45 ILCS 15/0.01 | [sec-0000-0001.md](sec-0000-0001.md) | 0 |  |
-| 45 ILCS 15/1 | [sec-0001.md](sec-0001.md) | 0 |  |
-| 45 ILCS 15/2 | [sec-0002.md](sec-0002.md) | 0 |  |
-| 45 ILCS 15/3 | [sec-0003.md](sec-0003.md) | 0 |  |
-| 45 ILCS 15/4 | [sec-0004.md](sec-0004.md) | 0 |  |
-| 45 ILCS 15/5 | [sec-0005.md](sec-0005.md) | 0 |  |
-| 45 ILCS 15/6 | [sec-0006.md](sec-0006.md) | 0 |  |
-| 45 ILCS 15/7 | [sec-0007.md](sec-0007.md) | 0 |  |
-| 45 ILCS 15/8 | [sec-0008.md](sec-0008.md) | 0 |  |
-| 45 ILCS 15/9 | [sec-0009.md](sec-0009.md) | 0 |  |
+| Act title | [doc-0001-004500150f.md](doc-0001-004500150f.md) | 1 | 2026-10-30 |
+| 45 ILCS 15/0.01 | [doc-0002-004500150k0-01.md](doc-0002-004500150k0-01.md) | 1 | 2026-10-30 |
+| 45 ILCS 15/1 | [doc-0003-004500150k1.md](doc-0003-004500150k1.md) | 1 | 2026-10-30 |
+| 45 ILCS 15/2 | [doc-0004-004500150k2.md](doc-0004-004500150k2.md) | 1 | 2026-10-30 |
+| 45 ILCS 15/3 | [doc-0005-004500150k3.md](doc-0005-004500150k3.md) | 1 | 2026-10-30 |
+| 45 ILCS 15/4 | [doc-0006-004500150k4.md](doc-0006-004500150k4.md) | 1 | 2026-10-30 |
+| 45 ILCS 15/5 | [doc-0007-004500150k5.md](doc-0007-004500150k5.md) | 1 | 2026-10-30 |
+| 45 ILCS 15/6 | [doc-0008-004500150k6.md](doc-0008-004500150k6.md) | 1 | 2026-10-30 |
+| 45 ILCS 15/7 | [doc-0009-004500150k7.md](doc-0009-004500150k7.md) | 1 | 2026-10-30 |
+| 45 ILCS 15/8 | [doc-0010-004500150k8.md](doc-0010-004500150k8.md) | 1 | 2026-10-30 |
+| 45 ILCS 15/9 | [doc-0011-004500150k9.md](doc-0011-004500150k9.md) | 1 | 2026-10-30 |

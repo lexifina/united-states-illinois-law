@@ -1,14 +1,15 @@
-# Illinois Compiled Statutes, Accessible Electronic Information Act (15 ILCS 323)
+# Accessible Electronic Information Act
 
-15 ILCS 323 · 1 versions, from 2026-05-02 (latest in force: 2026-05-02) · <https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2588>
+15 ILCS 323 · 2 versions, from 2026-05-02 (latest in force: 2026-06-16) · <https://ftp.ilga.gov/ILCS/Ch%200015/Act%200323/>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
-| 15 ILCS 323/1 | [sec-0001.md](sec-0001.md) | 0 |  |
-| 15 ILCS 323/5 | [sec-0005.md](sec-0005.md) | 0 |  |
-| 15 ILCS 323/10 | [sec-0010.md](sec-0010.md) | 0 |  |
-| 15 ILCS 323/15 | [sec-0015.md](sec-0015.md) | 0 |  |
-| 15 ILCS 323/20 | [sec-0020.md](sec-0020.md) | 0 |  |
-| 15 ILCS 323/90 | [sec-0090.md](sec-0090.md) | 0 |  |
-| 15 ILCS 323/95 | [sec-0095.md](sec-0095.md) | 0 |  |
-| 15 ILCS 323/99 | [sec-0099.md](sec-0099.md) | 0 |  |
+| Act title | [doc-0001-001503230f.md](doc-0001-001503230f.md) | 1 | 2026-06-16 |
+| 15 ILCS 323/1 | [doc-0002-001503230k1.md](doc-0002-001503230k1.md) | 1 | 2026-06-16 |
+| 15 ILCS 323/5 | [doc-0003-001503230k5.md](doc-0003-001503230k5.md) | 1 | 2026-06-16 |
+| 15 ILCS 323/10 | [doc-0004-001503230k10.md](doc-0004-001503230k10.md) | 1 | 2026-06-16 |
+| 15 ILCS 323/15 | [doc-0005-001503230k15.md](doc-0005-001503230k15.md) | 1 | 2026-06-16 |
+| 15 ILCS 323/20 | [doc-0006-001503230k20.md](doc-0006-001503230k20.md) | 1 | 2026-06-16 |
+| 15 ILCS 323/90 | [doc-0007-001503230k90.md](doc-0007-001503230k90.md) | 1 | 2026-06-16 |
+| 15 ILCS 323/95 | [doc-0008-001503230k95.md](doc-0008-001503230k95.md) | 1 | 2026-06-16 |
+| 15 ILCS 323/99 | [doc-0009-001503230k99.md](doc-0009-001503230k99.md) | 1 | 2026-06-16 |

@@ -1,15 +1,16 @@
-# Illinois Compiled Statutes, Voluntary Payroll Deductions Act of 1983 (5 ILCS 340)
+# Voluntary Payroll Deductions Act of 1983
 
-5 ILCS 340 · 1 versions, from 2026-02-07 (latest in force: 2026-02-07) · <https://www.ilga.gov/Legislation/ILCS/Articles?ActID=114>
+5 ILCS 340 · 2 versions, from 2026-02-07 (latest in force: 2026-07-01) · <https://ftp.ilga.gov/ILCS/Ch%200005/Act%200340/>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
-| 5 ILCS 340/1 | [sec-0001.md](sec-0001.md) | 0 |  |
-| 5 ILCS 340/2 | [sec-0002.md](sec-0002.md) | 0 |  |
-| 5 ILCS 340/3 | [sec-0003.md](sec-0003.md) | 0 |  |
-| 5 ILCS 340/4 | [sec-0004.md](sec-0004.md) | 0 |  |
-| 5 ILCS 340/4.5 | [sec-0004-0005.md](sec-0004-0005.md) | 0 |  |
-| 5 ILCS 340/5 | [sec-0005.md](sec-0005.md) | 0 |  |
-| 5 ILCS 340/6 | [sec-0006.md](sec-0006.md) | 0 |  |
-| 5 ILCS 340/7 | [sec-0007.md](sec-0007.md) | 0 |  |
-| 5 ILCS 340/8 | [sec-0008.md](sec-0008.md) | 0 |  |
+| Act title | [doc-0001-000503400f.md](doc-0001-000503400f.md) | 1 | 2026-07-01 |
+| 5 ILCS 340/1 | [doc-0002-000503400k1.md](doc-0002-000503400k1.md) | 1 | 2026-07-01 |
+| 5 ILCS 340/2 | [doc-0003-000503400k2.md](doc-0003-000503400k2.md) | 1 | 2026-07-01 |
+| 5 ILCS 340/3 | [doc-0004-000503400k3.md](doc-0004-000503400k3.md) | 1 | 2026-07-01 |
+| 5 ILCS 340/4 | [doc-0005-000503400k4.md](doc-0005-000503400k4.md) | 1 | 2026-07-01 |
+| 5 ILCS 340/4.5 | [doc-0006-000503400k4-5.md](doc-0006-000503400k4-5.md) | 1 | 2026-07-01 |
+| 5 ILCS 340/5 | [doc-0007-000503400k5.md](doc-0007-000503400k5.md) | 1 | 2026-07-01 |
+| 5 ILCS 340/6 | [doc-0008-000503400k6.md](doc-0008-000503400k6.md) | 1 | 2026-07-01 |
+| 5 ILCS 340/7 | [doc-0009-000503400k7.md](doc-0009-000503400k7.md) | 1 | 2026-07-01 |
+| 5 ILCS 340/8 | [doc-0010-000503400k8.md](doc-0010-000503400k8.md) | 1 | 2026-07-01 |

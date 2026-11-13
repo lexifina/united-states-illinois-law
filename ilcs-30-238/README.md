@@ -1,14 +1,15 @@
-# Illinois Compiled Statutes, Illinois Sustainable Investing Act (30 ILCS 238)
+# Illinois Sustainable Investing Act
 
-30 ILCS 238 · 1 versions, from 2026-05-14 (latest in force: 2026-05-14) · <https://www.ilga.gov/Legislation/ILCS/Articles?ActID=4027>
+30 ILCS 238 · 2 versions, from 2026-05-14 (latest in force: 2026-08-21) · <https://ftp.ilga.gov/ILCS/Ch%200030/Act%200238/>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
-| 30 ILCS 238/1 | [sec-0001.md](sec-0001.md) | 0 |  |
-| 30 ILCS 238/5 | [sec-0005.md](sec-0005.md) | 0 |  |
-| 30 ILCS 238/10 | [sec-0010.md](sec-0010.md) | 0 |  |
-| 30 ILCS 238/15 | [sec-0015.md](sec-0015.md) | 0 |  |
-| 30 ILCS 238/20 | [sec-0020.md](sec-0020.md) | 0 |  |
-| 30 ILCS 238/100 | [sec-0100.md](sec-0100.md) | 0 |  |
-| 30 ILCS 238/105 | [sec-0105.md](sec-0105.md) | 0 |  |
-| 30 ILCS 238/110 | [sec-0110.md](sec-0110.md) | 0 |  |
+| Act title | [doc-0001-003002380f.md](doc-0001-003002380f.md) | 1 | 2026-08-21 |
+| 30 ILCS 238/1 | [doc-0002-003002380k1.md](doc-0002-003002380k1.md) | 1 | 2026-08-21 |
+| 30 ILCS 238/5 | [doc-0003-003002380k5.md](doc-0003-003002380k5.md) | 1 | 2026-08-21 |
+| 30 ILCS 238/10 | [doc-0004-003002380k10.md](doc-0004-003002380k10.md) | 1 | 2026-08-21 |
+| 30 ILCS 238/15 | [doc-0005-003002380k15.md](doc-0005-003002380k15.md) | 1 | 2026-08-21 |
+| 30 ILCS 238/20 | [doc-0006-003002380k20.md](doc-0006-003002380k20.md) | 1 | 2026-08-21 |
+| 30 ILCS 238/100 | [doc-0007-003002380k100.md](doc-0007-003002380k100.md) | 1 | 2026-08-21 |
+| 30 ILCS 238/105 | [doc-0008-003002380k105.md](doc-0008-003002380k105.md) | 1 | 2026-08-21 |
+| 30 ILCS 238/110 | [doc-0009-003002380k110.md](doc-0009-003002380k110.md) | 1 | 2026-08-21 |

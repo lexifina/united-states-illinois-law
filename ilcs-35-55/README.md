@@ -1,20 +1,21 @@
-# Illinois Compiled Statutes, Hydrogen Fuel Replacement Tax Credit Act (35 ILCS 55)
+# Hydrogen Fuel Replacement Tax Credit Act
 
-35 ILCS 55 · 1 versions, from 2026-05-14 (latest in force: 2026-05-14) · <https://www.ilga.gov/Legislation/ILCS/Articles?ActID=4425>
+35 ILCS 55 · 2 versions, from 2026-05-14 (latest in force: 2026-08-21) · <https://ftp.ilga.gov/ILCS/Ch%200035/Act%200055/>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
-| 35 ILCS 55/1 | [sec-0001.md](sec-0001.md) | 0 |  |
-| 35 ILCS 55/5 | [sec-0005.md](sec-0005.md) | 0 |  |
-| 35 ILCS 55/10 | [sec-0010.md](sec-0010.md) | 0 |  |
-| 35 ILCS 55/15 | [sec-0015.md](sec-0015.md) | 0 |  |
-| 35 ILCS 55/20 | [sec-0020.md](sec-0020.md) | 0 |  |
-| 35 ILCS 55/25 | [sec-0025.md](sec-0025.md) | 0 |  |
-| 35 ILCS 55/27 | [sec-0027.md](sec-0027.md) | 0 |  |
-| 35 ILCS 55/30 | [sec-0030.md](sec-0030.md) | 0 |  |
-| 35 ILCS 55/35 | [sec-0035.md](sec-0035.md) | 0 |  |
-| 35 ILCS 55/36 | [sec-0036.md](sec-0036.md) | 0 |  |
-| 35 ILCS 55/37 | [sec-0037.md](sec-0037.md) | 0 |  |
-| 35 ILCS 55/40 | [sec-0040.md](sec-0040.md) | 0 |  |
-| 35 ILCS 55/900 | [sec-0900.md](sec-0900.md) | 0 |  |
-| 35 ILCS 55/999 | [sec-0999.md](sec-0999.md) | 0 |  |
+| Act title | [doc-0001-003500550f.md](doc-0001-003500550f.md) | 1 | 2026-08-21 |
+| 35 ILCS 55/1 | [doc-0002-003500550k1.md](doc-0002-003500550k1.md) | 1 | 2026-08-21 |
+| 35 ILCS 55/5 | [doc-0003-003500550k5.md](doc-0003-003500550k5.md) | 1 | 2026-08-21 |
+| 35 ILCS 55/10 | [doc-0004-003500550k10.md](doc-0004-003500550k10.md) | 1 | 2026-08-21 |
+| 35 ILCS 55/15 | [doc-0005-003500550k15.md](doc-0005-003500550k15.md) | 1 | 2026-08-21 |
+| 35 ILCS 55/20 | [doc-0006-003500550k20.md](doc-0006-003500550k20.md) | 1 | 2026-08-21 |
+| 35 ILCS 55/25 | [doc-0007-003500550k25.md](doc-0007-003500550k25.md) | 1 | 2026-08-21 |
+| 35 ILCS 55/27 | [doc-0008-003500550k27.md](doc-0008-003500550k27.md) | 1 | 2026-08-21 |
+| 35 ILCS 55/30 | [doc-0009-003500550k30.md](doc-0009-003500550k30.md) | 1 | 2026-08-21 |
+| 35 ILCS 55/35 | [doc-0010-003500550k35.md](doc-0010-003500550k35.md) | 1 | 2026-08-21 |
+| 35 ILCS 55/36 | [doc-0011-003500550k36.md](doc-0011-003500550k36.md) | 1 | 2026-08-21 |
+| 35 ILCS 55/37 | [doc-0012-003500550k37.md](doc-0012-003500550k37.md) | 1 | 2026-08-21 |
+| 35 ILCS 55/40 | [doc-0013-003500550k40.md](doc-0013-003500550k40.md) | 1 | 2026-08-21 |
+| 35 ILCS 55/900 | [doc-0014-003500550k900.md](doc-0014-003500550k900.md) | 1 | 2026-08-21 |
+| 35 ILCS 55/999 | [doc-0015-003500550k999.md](doc-0015-003500550k999.md) | 1 | 2026-08-21 |

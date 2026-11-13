@@ -1,24 +1,25 @@
-# Illinois Compiled Statutes, Illinois Promotion Act (20 ILCS 665)
+# Illinois Promotion Act
 
-20 ILCS 665 · 1 versions, from 2026-04-16 (latest in force: 2026-04-16) · <https://www.ilga.gov/Legislation/ILCS/Articles?ActID=261>
+20 ILCS 665 · 2 versions, from 2026-04-16 (latest in force: 2026-08-07) · <https://ftp.ilga.gov/ILCS/Ch%200020/Act%200665/>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
-| 20 ILCS 665/1 | [sec-0001.md](sec-0001.md) | 0 |  |
-| 20 ILCS 665/2 | [sec-0002.md](sec-0002.md) | 0 |  |
-| 20 ILCS 665/3 | [sec-0003.md](sec-0003.md) | 0 |  |
-| 20 ILCS 665/4 | [sec-0004.md](sec-0004.md) | 0 |  |
-| 20 ILCS 665/4a | [sec-0004a.md](sec-0004a.md) | 0 |  |
-| 20 ILCS 665/4b | [sec-0004b.md](sec-0004b.md) | 0 |  |
-| 20 ILCS 665/5 | [sec-0005.md](sec-0005.md) | 0 |  |
-| 20 ILCS 665/6 | [sec-0006.md](sec-0006.md) | 0 |  |
-| 20 ILCS 665/7 | [sec-0007.md](sec-0007.md) | 0 |  |
-| 20 ILCS 665/8 | [sec-0008.md](sec-0008.md) | 0 |  |
-| 20 ILCS 665/8a | [sec-0008a.md](sec-0008a.md) | 0 |  |
-| 20 ILCS 665/8b | [sec-0008b.md](sec-0008b.md) | 0 |  |
-| 20 ILCS 665/9 | [sec-0009.md](sec-0009.md) | 0 |  |
-| 20 ILCS 665/10 | [sec-0010.md](sec-0010.md) | 0 |  |
-| 20 ILCS 665/11 | [sec-0011.md](sec-0011.md) | 0 |  |
-| 20 ILCS 665/13 | [sec-0013.md](sec-0013.md) | 0 |  |
-| 20 ILCS 665/13a | [sec-0013a.md](sec-0013a.md) | 0 |  |
-| 20 ILCS 665/14 | [sec-0014.md](sec-0014.md) | 0 |  |
+| Act title | [doc-0001-002006650f.md](doc-0001-002006650f.md) | 1 | 2026-08-07 |
+| 20 ILCS 665/1 | [doc-0002-002006650k1.md](doc-0002-002006650k1.md) | 1 | 2026-08-07 |
+| 20 ILCS 665/2 | [doc-0003-002006650k2.md](doc-0003-002006650k2.md) | 1 | 2026-08-07 |
+| 20 ILCS 665/3 | [doc-0004-002006650k3.md](doc-0004-002006650k3.md) | 1 | 2026-08-07 |
+| 20 ILCS 665/4 | [doc-0005-002006650k4.md](doc-0005-002006650k4.md) | 1 | 2026-08-07 |
+| 20 ILCS 665/4a | [doc-0006-002006650k4a.md](doc-0006-002006650k4a.md) | 1 | 2026-08-07 |
+| 20 ILCS 665/4b | [doc-0007-002006650k4b.md](doc-0007-002006650k4b.md) | 1 | 2026-08-07 |
+| 20 ILCS 665/5 | [doc-0008-002006650k5.md](doc-0008-002006650k5.md) | 1 | 2026-08-07 |
+| 20 ILCS 665/6 | [doc-0009-002006650k6.md](doc-0009-002006650k6.md) | 1 | 2026-08-07 |
+| 20 ILCS 665/7 | [doc-0010-002006650k7.md](doc-0010-002006650k7.md) | 1 | 2026-08-07 |
+| 20 ILCS 665/8 | [doc-0011-002006650k8.md](doc-0011-002006650k8.md) | 1 | 2026-08-07 |
+| 20 ILCS 665/8a | [doc-0012-002006650k8a.md](doc-0012-002006650k8a.md) | 1 | 2026-08-07 |
+| 20 ILCS 665/8b | [doc-0013-002006650k8b.md](doc-0013-002006650k8b.md) | 1 | 2026-08-07 |
+| 20 ILCS 665/9 | [doc-0014-002006650k9.md](doc-0014-002006650k9.md) | 1 | 2026-08-07 |
+| 20 ILCS 665/10 | [doc-0015-002006650k10.md](doc-0015-002006650k10.md) | 1 | 2026-08-07 |
+| 20 ILCS 665/11 | [doc-0016-002006650k11.md](doc-0016-002006650k11.md) | 1 | 2026-08-07 |
+| 20 ILCS 665/13 | [doc-0017-002006650k13.md](doc-0017-002006650k13.md) | 1 | 2026-08-07 |
+| 20 ILCS 665/13a | [doc-0018-002006650k13a.md](doc-0018-002006650k13a.md) | 1 | 2026-08-07 |
+| 20 ILCS 665/14 | [doc-0019-002006650k14.md](doc-0019-002006650k14.md) | 1 | 2026-08-07 |

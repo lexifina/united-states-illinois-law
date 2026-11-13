@@ -1,11 +1,12 @@
-# Illinois Compiled Statutes, Law Enforcement Gang Database Information Act (5 ILCS 865)
+# Law Enforcement Gang Database Information Act
 
-5 ILCS 865 · 1 versions, from 2026-02-18 (latest in force: 2026-02-18) · <https://www.ilga.gov/Legislation/ILCS/Articles?ActID=4416>
+5 ILCS 865 · 2 versions, from 2026-02-18 (latest in force: 2026-08-21) · <https://ftp.ilga.gov/ILCS/Ch%200005/Act%200865/>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
-| 5 ILCS 865/1 | [sec-0001.md](sec-0001.md) | 0 |  |
-| 5 ILCS 865/5 | [sec-0005.md](sec-0005.md) | 0 |  |
-| 5 ILCS 865/10 | [sec-0010.md](sec-0010.md) | 0 |  |
-| 5 ILCS 865/105 | [sec-0105.md](sec-0105.md) | 0 |  |
-| 5 ILCS 865/999 | [sec-0999.md](sec-0999.md) | 0 |  |
+| Act title | [doc-0001-000508650f.md](doc-0001-000508650f.md) | 1 | 2026-08-21 |
+| 5 ILCS 865/1 | [doc-0002-000508650k1.md](doc-0002-000508650k1.md) | 1 | 2026-08-21 |
+| 5 ILCS 865/5 | [doc-0003-000508650k5.md](doc-0003-000508650k5.md) | 1 | 2026-08-21 |
+| 5 ILCS 865/10 | [doc-0004-000508650k10.md](doc-0004-000508650k10.md) | 1 | 2026-08-21 |
+| 5 ILCS 865/105 | [doc-0005-000508650k105.md](doc-0005-000508650k105.md) | 1 | 2026-08-21 |
+| 5 ILCS 865/999 | [doc-0006-000508650k999.md](doc-0006-000508650k999.md) | 1 | 2026-08-21 |

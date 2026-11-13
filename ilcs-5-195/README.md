@@ -1,10 +1,11 @@
-# Illinois Compiled Statutes, Emergency Seat of Government Act (5 ILCS 195)
+# Emergency Seat of Government Act
 
-5 ILCS 195 · 1 versions, from 2026-05-05 (latest in force: 2026-05-05) · <https://www.ilga.gov/Legislation/ILCS/Articles?ActID=91>
+5 ILCS 195 · 2 versions, from 2026-05-05 (latest in force: 2026-10-30) · <https://ftp.ilga.gov/ILCS/Ch%200005/Act%200195/>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
-| 5 ILCS 195/0.01 | [sec-0000-0001.md](sec-0000-0001.md) | 0 |  |
-| 5 ILCS 195/1 | [sec-0001.md](sec-0001.md) | 0 |  |
-| 5 ILCS 195/2 | [sec-0002.md](sec-0002.md) | 0 |  |
-| 5 ILCS 195/3 | [sec-0003.md](sec-0003.md) | 0 |  |
+| Act title | [doc-0001-000501950f.md](doc-0001-000501950f.md) | 1 | 2026-10-30 |
+| 5 ILCS 195/0.01 | [doc-0002-000501950k0-01.md](doc-0002-000501950k0-01.md) | 1 | 2026-10-30 |
+| 5 ILCS 195/1 | [doc-0003-000501950k1.md](doc-0003-000501950k1.md) | 1 | 2026-10-30 |
+| 5 ILCS 195/2 | [doc-0004-000501950k2.md](doc-0004-000501950k2.md) | 1 | 2026-10-30 |
+| 5 ILCS 195/3 | [doc-0005-000501950k3.md](doc-0005-000501950k3.md) | 1 | 2026-10-30 |

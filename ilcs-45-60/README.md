@@ -1,12 +1,13 @@
-# Illinois Compiled Statutes, Ohio River Valley Water Sanitation Compact Act (45 ILCS 60)
+# Ohio River Valley Water Sanitation Compact Act
 
-45 ILCS 60 · 1 versions, from 2026-05-11 (latest in force: 2026-05-11) · <https://www.ilga.gov/Legislation/ILCS/Articles?ActID=653>
+45 ILCS 60 · 2 versions, from 2026-05-11 (latest in force: 2026-10-30) · <https://ftp.ilga.gov/ILCS/Ch%200045/Act%200060/>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
-| 45 ILCS 60/0.01 | [sec-0000-0001.md](sec-0000-0001.md) | 0 |  |
-| 45 ILCS 60/1 | [sec-0001.md](sec-0001.md) | 0 |  |
-| 45 ILCS 60/2 | [sec-0002.md](sec-0002.md) | 0 |  |
-| 45 ILCS 60/3 | [sec-0003.md](sec-0003.md) | 0 |  |
-| 45 ILCS 60/4 | [sec-0004.md](sec-0004.md) | 0 |  |
-| 45 ILCS 60/5 | [sec-0005.md](sec-0005.md) | 0 |  |
+| Act title | [doc-0001-004500600f.md](doc-0001-004500600f.md) | 1 | 2026-10-30 |
+| 45 ILCS 60/0.01 | [doc-0002-004500600k0-01.md](doc-0002-004500600k0-01.md) | 1 | 2026-10-30 |
+| 45 ILCS 60/1 | [doc-0003-004500600k1.md](doc-0003-004500600k1.md) | 1 | 2026-10-30 |
+| 45 ILCS 60/2 | [doc-0004-004500600k2.md](doc-0004-004500600k2.md) | 1 | 2026-10-30 |
+| 45 ILCS 60/3 | [doc-0005-004500600k3.md](doc-0005-004500600k3.md) | 1 | 2026-10-30 |
+| 45 ILCS 60/4 | [doc-0006-004500600k4.md](doc-0006-004500600k4.md) | 1 | 2026-10-30 |
+| 45 ILCS 60/5 | [doc-0007-004500600k5.md](doc-0007-004500600k5.md) | 1 | 2026-10-30 |

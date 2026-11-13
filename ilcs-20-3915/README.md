@@ -1,14 +1,15 @@
-# Illinois Compiled Statutes, Arts Council Act (20 ILCS 3915)
+# Arts Council Act
 
-20 ILCS 3915 · 1 versions, from 2026-05-20 (latest in force: 2026-05-20) · <https://www.ilga.gov/Legislation/ILCS/Articles?ActID=389>
+20 ILCS 3915 · 2 versions, from 2026-05-20 (latest in force: 2026-06-16) · <https://ftp.ilga.gov/ILCS/Ch%200020/Act%203915/>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
-| 20 ILCS 3915/0.01 | [sec-0000-0001.md](sec-0000-0001.md) | 0 |  |
-| 20 ILCS 3915/1 | [sec-0001.md](sec-0001.md) | 0 |  |
-| 20 ILCS 3915/2 | [sec-0002.md](sec-0002.md) | 0 |  |
-| 20 ILCS 3915/3 | [sec-0003.md](sec-0003.md) | 0 |  |
-| 20 ILCS 3915/4 | [sec-0004.md](sec-0004.md) | 0 |  |
-| 20 ILCS 3915/4.5 | [sec-0004-0005.md](sec-0004-0005.md) | 0 |  |
-| 20 ILCS 3915/5 | [sec-0005.md](sec-0005.md) | 0 |  |
-| 20 ILCS 3915/6 | [sec-0006.md](sec-0006.md) | 0 |  |
+| Act title | [doc-0001-002039150f.md](doc-0001-002039150f.md) | 1 | 2026-06-16 |
+| 20 ILCS 3915/0.01 | [doc-0002-002039150k0-01.md](doc-0002-002039150k0-01.md) | 1 | 2026-06-16 |
+| 20 ILCS 3915/1 | [doc-0003-002039150k1.md](doc-0003-002039150k1.md) | 1 | 2026-06-16 |
+| 20 ILCS 3915/2 | [doc-0004-002039150k2.md](doc-0004-002039150k2.md) | 1 | 2026-06-16 |
+| 20 ILCS 3915/3 | [doc-0005-002039150k3.md](doc-0005-002039150k3.md) | 1 | 2026-06-16 |
+| 20 ILCS 3915/4 | [doc-0006-002039150k4.md](doc-0006-002039150k4.md) | 1 | 2026-06-16 |
+| 20 ILCS 3915/4.5 | [doc-0007-002039150k4-5.md](doc-0007-002039150k4-5.md) | 1 | 2026-06-16 |
+| 20 ILCS 3915/5 | [doc-0008-002039150k5.md](doc-0008-002039150k5.md) | 1 | 2026-06-16 |
+| 20 ILCS 3915/6 | [doc-0009-002039150k6.md](doc-0009-002039150k6.md) | 1 | 2026-06-16 |

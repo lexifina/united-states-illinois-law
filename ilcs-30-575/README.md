@@ -1,35 +1,36 @@
-# Illinois Compiled Statutes, Business Enterprise for Minorities, Women, and Persons with Disabilities Act (30 ILCS 575)
+# Business Enterprise for Minorities, Women, and Persons with Disabilities Act
 
-30 ILCS 575 · 1 versions, from 2026-04-12 (latest in force: 2026-04-12) · <https://www.ilga.gov/Legislation/ILCS/Articles?ActID=550>
+30 ILCS 575 · 2 versions, from 2026-04-12 (latest in force: 2026-08-21) · <https://ftp.ilga.gov/ILCS/Ch%200030/Act%200575/>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
-| 30 ILCS 575/0.01 | [sec-0000-0001.md](sec-0000-0001.md) | 0 |  |
-| 30 ILCS 575/1 | [sec-0001.md](sec-0001.md) | 0 |  |
-| 30 ILCS 575/2 | [sec-0002.md](sec-0002.md) | 0 |  |
-| 30 ILCS 575/2.5 | [sec-0002-0005.md](sec-0002-0005.md) | 0 |  |
-| 30 ILCS 575/2.7 | [sec-0002-0007.md](sec-0002-0007.md) | 0 |  |
-| 30 ILCS 575/2.8 | [sec-0002-0008.md](sec-0002-0008.md) | 0 |  |
-| 30 ILCS 575/3 | [sec-0003.md](sec-0003.md) | 0 |  |
-| 30 ILCS 575/3.5 | [sec-0003-0005.md](sec-0003-0005.md) | 0 |  |
-| 30 ILCS 575/4 | [sec-0004.md](sec-0004.md) | 0 |  |
-| 30 ILCS 575/4f | [sec-0004f.md](sec-0004f.md) | 0 |  |
-| 30 ILCS 575/5 | [sec-0005.md](sec-0005.md) | 0 |  |
-| 30 ILCS 575/5.5 | [sec-0005-0005.md](sec-0005-0005.md) | 0 |  |
-| 30 ILCS 575/6 | [sec-0006.md](sec-0006.md) | 0 |  |
-| 30 ILCS 575/6a | [sec-0006a.md](sec-0006a.md) | 0 |  |
-| 30 ILCS 575/7 | [sec-0007.md](sec-0007.md) | 0 |  |
-| 30 ILCS 575/8 | [sec-0008.md](sec-0008.md) | 0 |  |
-| 30 ILCS 575/8a | [sec-0008a.md](sec-0008a.md) | 0 |  |
-| 30 ILCS 575/8b | [sec-0008b.md](sec-0008b.md) | 0 |  |
-| 30 ILCS 575/8c | [sec-0008c.md](sec-0008c.md) | 0 |  |
-| 30 ILCS 575/8d | [sec-0008d.md](sec-0008d.md) | 0 |  |
-| 30 ILCS 575/8e | [sec-0008e.md](sec-0008e.md) | 0 |  |
-| 30 ILCS 575/8f | [sec-0008f.md](sec-0008f.md) | 0 |  |
-| 30 ILCS 575/8g | [sec-0008g.md](sec-0008g.md) | 0 |  |
-| 30 ILCS 575/8h | [sec-0008h.md](sec-0008h.md) | 0 |  |
-| 30 ILCS 575/8i | [sec-0008i.md](sec-0008i.md) | 0 |  |
-| 30 ILCS 575/8j | [sec-0008j.md](sec-0008j.md) | 0 |  |
-| 30 ILCS 575/8k | [sec-0008k.md](sec-0008k.md) | 0 |  |
-| 30 ILCS 575/8l | [sec-0008l.md](sec-0008l.md) | 0 |  |
-| 30 ILCS 575/9 | [sec-0009.md](sec-0009.md) | 0 |  |
+| Act title | [doc-0001-003005750f.md](doc-0001-003005750f.md) | 1 | 2026-08-21 |
+| 30 ILCS 575/0.01 | [doc-0002-003005750k0-01.md](doc-0002-003005750k0-01.md) | 1 | 2026-08-21 |
+| 30 ILCS 575/1 | [doc-0003-003005750k1.md](doc-0003-003005750k1.md) | 1 | 2026-08-21 |
+| 30 ILCS 575/2 | [doc-0004-003005750k2.md](doc-0004-003005750k2.md) | 1 | 2026-08-21 |
+| 30 ILCS 575/2.5 | [doc-0005-003005750k2-5.md](doc-0005-003005750k2-5.md) | 1 | 2026-08-21 |
+| 30 ILCS 575/2.7 | [doc-0006-003005750k2-7.md](doc-0006-003005750k2-7.md) | 1 | 2026-08-21 |
+| 30 ILCS 575/2.8 | [doc-0007-003005750k2-8.md](doc-0007-003005750k2-8.md) | 1 | 2026-08-21 |
+| 30 ILCS 575/3 | [doc-0008-003005750k3.md](doc-0008-003005750k3.md) | 1 | 2026-08-21 |
+| 30 ILCS 575/3.5 | [doc-0009-003005750k3-5.md](doc-0009-003005750k3-5.md) | 1 | 2026-08-21 |
+| 30 ILCS 575/4 | [doc-0010-003005750k4.md](doc-0010-003005750k4.md) | 1 | 2026-08-21 |
+| 30 ILCS 575/4f | [doc-0011-003005750k4f.md](doc-0011-003005750k4f.md) | 1 | 2026-08-21 |
+| 30 ILCS 575/5 | [doc-0012-003005750k5.md](doc-0012-003005750k5.md) | 1 | 2026-08-21 |
+| 30 ILCS 575/5.5 | [doc-0013-003005750k5-5.md](doc-0013-003005750k5-5.md) | 1 | 2026-08-21 |
+| 30 ILCS 575/6 | [doc-0014-003005750k6.md](doc-0014-003005750k6.md) | 1 | 2026-08-21 |
+| 30 ILCS 575/6a | [doc-0015-003005750k6a.md](doc-0015-003005750k6a.md) | 1 | 2026-08-21 |
+| 30 ILCS 575/7 | [doc-0016-003005750k7.md](doc-0016-003005750k7.md) | 1 | 2026-08-21 |
+| 30 ILCS 575/8 | [doc-0017-003005750k8.md](doc-0017-003005750k8.md) | 1 | 2026-08-21 |
+| 30 ILCS 575/8a | [doc-0018-003005750k8a.md](doc-0018-003005750k8a.md) | 1 | 2026-08-21 |
+| 30 ILCS 575/8b | [doc-0019-003005750k8b.md](doc-0019-003005750k8b.md) | 1 | 2026-08-21 |
+| 30 ILCS 575/8c | [doc-0020-003005750k8c.md](doc-0020-003005750k8c.md) | 1 | 2026-08-21 |
+| 30 ILCS 575/8d | [doc-0021-003005750k8d.md](doc-0021-003005750k8d.md) | 1 | 2026-08-21 |
+| 30 ILCS 575/8e | [doc-0022-003005750k8e.md](doc-0022-003005750k8e.md) | 1 | 2026-08-21 |
+| 30 ILCS 575/8f | [doc-0023-003005750k8f.md](doc-0023-003005750k8f.md) | 1 | 2026-08-21 |
+| 30 ILCS 575/8g | [doc-0024-003005750k8g.md](doc-0024-003005750k8g.md) | 1 | 2026-08-21 |
+| 30 ILCS 575/8h | [doc-0025-003005750k8h.md](doc-0025-003005750k8h.md) | 1 | 2026-08-21 |
+| 30 ILCS 575/8i | [doc-0026-003005750k8i.md](doc-0026-003005750k8i.md) | 1 | 2026-08-21 |
+| 30 ILCS 575/8j | [doc-0027-003005750k8j.md](doc-0027-003005750k8j.md) | 1 | 2026-08-21 |
+| 30 ILCS 575/8k | [doc-0028-003005750k8k.md](doc-0028-003005750k8k.md) | 1 | 2026-08-21 |
+| 30 ILCS 575/8l | [doc-0029-003005750k8l.md](doc-0029-003005750k8l.md) | 1 | 2026-08-21 |
+| 30 ILCS 575/9 | [doc-0030-003005750k9.md](doc-0030-003005750k9.md) | 1 | 2026-08-21 |

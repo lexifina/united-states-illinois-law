@@ -1,21 +1,22 @@
-# Illinois Compiled Statutes, Illinois Commission on Volunteerism and Community Service Act (20 ILCS 1345)
+# Illinois Commission on Volunteerism and Community Service Act
 
-20 ILCS 1345 · 1 versions, from 2026-03-10 (latest in force: 2026-03-10) · <https://www.ilga.gov/Legislation/ILCS/Articles?ActID=4189>
+20 ILCS 1345 · 2 versions, from 2026-03-10 (latest in force: 2026-08-21) · <https://ftp.ilga.gov/ILCS/Ch%200020/Act%201345/>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
-| 20 ILCS 1345/0.01 | [sec-0000-0001.md](sec-0000-0001.md) | 0 |  |
-| 20 ILCS 1345/1 | [sec-0001.md](sec-0001.md) | 0 |  |
-| 20 ILCS 1345/1.1 | [sec-0001-0001.md](sec-0001-0001.md) | 0 |  |
-| 20 ILCS 1345/2 | [sec-0002.md](sec-0002.md) | 0 |  |
-| 20 ILCS 1345/3 | [sec-0003.md](sec-0003.md) | 0 |  |
-| 20 ILCS 1345/4 | [sec-0004.md](sec-0004.md) | 0 |  |
-| 20 ILCS 1345/4.1 | [sec-0004-0001.md](sec-0004-0001.md) | 0 |  |
-| 20 ILCS 1345/4.2 | [sec-0004-0002.md](sec-0004-0002.md) | 0 |  |
-| 20 ILCS 1345/4.5 | [sec-0004-0005.md](sec-0004-0005.md) | 0 |  |
-| 20 ILCS 1345/5 | [sec-0005.md](sec-0005.md) | 0 |  |
-| 20 ILCS 1345/5.1 | [sec-0005-0001.md](sec-0005-0001.md) | 0 |  |
-| 20 ILCS 1345/6 | [sec-0006.md](sec-0006.md) | 0 |  |
-| 20 ILCS 1345/6.1 | [sec-0006-0001.md](sec-0006-0001.md) | 0 |  |
-| 20 ILCS 1345/7 | [sec-0007.md](sec-0007.md) | 0 |  |
-| 20 ILCS 1345/10 | [sec-0010.md](sec-0010.md) | 0 |  |
+| Act title | [doc-0001-002013450f.md](doc-0001-002013450f.md) | 1 | 2026-08-21 |
+| 20 ILCS 1345/0.01 | [doc-0002-002013450k0-01.md](doc-0002-002013450k0-01.md) | 1 | 2026-08-21 |
+| 20 ILCS 1345/1 | [doc-0003-002013450k1.md](doc-0003-002013450k1.md) | 1 | 2026-08-21 |
+| 20 ILCS 1345/1.1 | [doc-0004-002013450k1-1.md](doc-0004-002013450k1-1.md) | 1 | 2026-08-21 |
+| 20 ILCS 1345/2 | [doc-0005-002013450k2.md](doc-0005-002013450k2.md) | 1 | 2026-08-21 |
+| 20 ILCS 1345/3 | [doc-0006-002013450k3.md](doc-0006-002013450k3.md) | 1 | 2026-08-21 |
+| 20 ILCS 1345/4 | [doc-0007-002013450k4.md](doc-0007-002013450k4.md) | 1 | 2026-08-21 |
+| 20 ILCS 1345/4.1 | [doc-0008-002013450k4-1.md](doc-0008-002013450k4-1.md) | 1 | 2026-08-21 |
+| 20 ILCS 1345/4.2 | [doc-0009-002013450k4-2.md](doc-0009-002013450k4-2.md) | 1 | 2026-08-21 |
+| 20 ILCS 1345/4.5 | [doc-0010-002013450k4-5.md](doc-0010-002013450k4-5.md) | 1 | 2026-08-21 |
+| 20 ILCS 1345/5 | [doc-0011-002013450k5.md](doc-0011-002013450k5.md) | 1 | 2026-08-21 |
+| 20 ILCS 1345/5.1 | [doc-0012-002013450k5-1.md](doc-0012-002013450k5-1.md) | 1 | 2026-08-21 |
+| 20 ILCS 1345/6 | [doc-0013-002013450k6.md](doc-0013-002013450k6.md) | 1 | 2026-08-21 |
+| 20 ILCS 1345/6.1 | [doc-0014-002013450k6-1.md](doc-0014-002013450k6-1.md) | 1 | 2026-08-21 |
+| 20 ILCS 1345/7 | [doc-0015-002013450k7.md](doc-0015-002013450k7.md) | 1 | 2026-08-21 |
+| 20 ILCS 1345/10 | [doc-0016-002013450k10.md](doc-0016-002013450k10.md) | 1 | 2026-08-21 |

@@ -1,8 +1,9 @@
-# Illinois Compiled Statutes, Chicago Land Cession Act (5 ILCS 515)
+# Chicago Land Cession Act
 
-5 ILCS 515 · 1 versions, from 2026-02-18 (latest in force: 2026-02-18) · <https://www.ilga.gov/Legislation/ILCS/Articles?ActID=136>
+5 ILCS 515 · 2 versions, from 2026-02-18 (latest in force: 2026-10-30) · <https://ftp.ilga.gov/ILCS/Ch%200005/Act%200515/>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
-| 5 ILCS 515/0.01 | [sec-0000-0001.md](sec-0000-0001.md) | 0 |  |
-| 5 ILCS 515/2 | [sec-0002.md](sec-0002.md) | 0 |  |
+| Act title | [doc-0001-000505150f.md](doc-0001-000505150f.md) | 1 | 2026-10-30 |
+| 5 ILCS 515/0.01 | [doc-0002-000505150k0-01.md](doc-0002-000505150k0-01.md) | 1 | 2026-10-30 |
+| 5 ILCS 515/2 | [doc-0003-000505150k2.md](doc-0003-000505150k2.md) | 1 | 2026-10-30 |

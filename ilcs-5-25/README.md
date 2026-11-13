@@ -1,8 +1,9 @@
-# Illinois Compiled Statutes, Constitutional Convention Act (5 ILCS 25)
+# Constitutional Convention Act
 
-5 ILCS 25 · 1 versions, from 2026-07-10 (latest in force: 2026-07-10) · <https://www.ilga.gov/Legislation/ILCS/Articles?ActID=76>
+5 ILCS 25 · 2 versions, from 2026-07-10 (latest in force: 2026-10-30) · <https://ftp.ilga.gov/ILCS/Ch%200005/Act%200025/>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
-| 5 ILCS 25/0.01 | [sec-0000-0001.md](sec-0000-0001.md) | 0 |  |
-| 5 ILCS 25/1 | [sec-0001.md](sec-0001.md) | 0 |  |
+| Act title | [doc-0001-000500250f.md](doc-0001-000500250f.md) | 1 | 2026-10-30 |
+| 5 ILCS 25/0.01 | [doc-0002-000500250k0-01.md](doc-0002-000500250k0-01.md) | 1 | 2026-10-30 |
+| 5 ILCS 25/1 | [doc-0003-000500250k1.md](doc-0003-000500250k1.md) | 1 | 2026-10-30 |

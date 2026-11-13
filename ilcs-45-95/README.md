@@ -1,10 +1,11 @@
-# Illinois Compiled Statutes, Border State School Interstate Compact Act (45 ILCS 95)
+# Border State School Interstate Compact Act
 
-45 ILCS 95 · 1 versions, from 2026-05-11 (latest in force: 2026-05-11) · <https://www.ilga.gov/Legislation/ILCS/Articles?ActID=661>
+45 ILCS 95 · 2 versions, from 2026-05-11 (latest in force: 2026-10-30) · <https://ftp.ilga.gov/ILCS/Ch%200045/Act%200095/>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
-| 45 ILCS 95/0.01 | [sec-0000-0001.md](sec-0000-0001.md) | 0 |  |
-| 45 ILCS 95/1 | [sec-0001.md](sec-0001.md) | 0 |  |
-| 45 ILCS 95/2 | [sec-0002.md](sec-0002.md) | 0 |  |
-| 45 ILCS 95/3 | [sec-0003.md](sec-0003.md) | 0 |  |
+| Act title | [doc-0001-004500950f.md](doc-0001-004500950f.md) | 1 | 2026-10-30 |
+| 45 ILCS 95/0.01 | [doc-0002-004500950k0-01.md](doc-0002-004500950k0-01.md) | 1 | 2026-10-30 |
+| 45 ILCS 95/1 | [doc-0003-004500950k1.md](doc-0003-004500950k1.md) | 1 | 2026-10-30 |
+| 45 ILCS 95/2 | [doc-0004-004500950k2.md](doc-0004-004500950k2.md) | 1 | 2026-10-30 |
+| 45 ILCS 95/3 | [doc-0005-004500950k3.md](doc-0005-004500950k3.md) | 1 | 2026-10-30 |

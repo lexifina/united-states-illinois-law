@@ -1,8 +1,9 @@
-# Illinois Compiled Statutes, Gubernatorial Appointee Oath Act (5 ILCS 250)
+# Gubernatorial Appointee Oath Act
 
-5 ILCS 250 · 1 versions, from 2026-04-14 (latest in force: 2026-04-14) · <https://www.ilga.gov/Legislation/ILCS/Articles?ActID=94>
+5 ILCS 250 · 2 versions, from 2026-04-14 (latest in force: 2026-10-30) · <https://ftp.ilga.gov/ILCS/Ch%200005/Act%200250/>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
-| 5 ILCS 250/0.01 | [sec-0000-0001.md](sec-0000-0001.md) | 0 |  |
-| 5 ILCS 250/10 | [sec-0010.md](sec-0010.md) | 0 |  |
+| Act title | [doc-0001-000502500f.md](doc-0001-000502500f.md) | 1 | 2026-10-30 |
+| 5 ILCS 250/0.01 | [doc-0002-000502500k0-01.md](doc-0002-000502500k0-01.md) | 1 | 2026-10-30 |
+| 5 ILCS 250/10 | [doc-0003-000502500k10.md](doc-0003-000502500k10.md) | 1 | 2026-10-30 |

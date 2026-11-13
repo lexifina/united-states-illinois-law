@@ -1,15 +1,16 @@
-# Illinois Compiled Statutes, Radioactive Waste Compact Enforcement Act (45 ILCS 141)
+# Radioactive Waste Compact Enforcement Act
 
-45 ILCS 141 · 1 versions, from 2026-05-11 (latest in force: 2026-05-11) · <https://www.ilga.gov/Legislation/ILCS/Articles?ActID=672>
+45 ILCS 141 · 2 versions, from 2026-05-11 (latest in force: 2026-06-01) · <https://ftp.ilga.gov/ILCS/Ch%200045/Act%200141/>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
-| 45 ILCS 141/1 | [sec-0001.md](sec-0001.md) | 0 |  |
-| 45 ILCS 141/5 | [sec-0005.md](sec-0005.md) | 0 |  |
-| 45 ILCS 141/15 | [sec-0015.md](sec-0015.md) | 0 |  |
-| 45 ILCS 141/20 | [sec-0020.md](sec-0020.md) | 0 |  |
-| 45 ILCS 141/25 | [sec-0025.md](sec-0025.md) | 0 |  |
-| 45 ILCS 141/30 | [sec-0030.md](sec-0030.md) | 0 |  |
-| 45 ILCS 141/31 | [sec-0031.md](sec-0031.md) | 0 |  |
-| 45 ILCS 141/35 | [sec-0035.md](sec-0035.md) | 0 |  |
-| 45 ILCS 141/51 | [sec-0051.md](sec-0051.md) | 0 |  |
+| Act title | [doc-0001-004501410f.md](doc-0001-004501410f.md) | 1 | 2026-06-01 |
+| 45 ILCS 141/1 | [doc-0002-004501410k1.md](doc-0002-004501410k1.md) | 1 | 2026-06-01 |
+| 45 ILCS 141/5 | [doc-0003-004501410k5.md](doc-0003-004501410k5.md) | 1 | 2026-06-01 |
+| 45 ILCS 141/15 | [doc-0004-004501410k15.md](doc-0004-004501410k15.md) | 1 | 2026-06-01 |
+| 45 ILCS 141/20 | [doc-0005-004501410k20.md](doc-0005-004501410k20.md) | 1 | 2026-06-01 |
+| 45 ILCS 141/25 | [doc-0006-004501410k25.md](doc-0006-004501410k25.md) | 1 | 2026-06-01 |
+| 45 ILCS 141/30 | [doc-0007-004501410k30.md](doc-0007-004501410k30.md) | 1 | 2026-06-01 |
+| 45 ILCS 141/31 | [doc-0008-004501410k31.md](doc-0008-004501410k31.md) | 1 | 2026-06-01 |
+| 45 ILCS 141/35 | [doc-0009-004501410k35.md](doc-0009-004501410k35.md) | 1 | 2026-06-01 |
+| 45 ILCS 141/51 | [doc-0010-004501410k51.md](doc-0010-004501410k51.md) | 1 | 2026-06-01 |
