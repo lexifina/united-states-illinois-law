@@ -1023,3 +1023,30 @@ Each addition retains all sections, act-title documents and article headings in 
 | [70 ILCS 705](https://ftp.ilga.gov/ILCS/Ch%200070/Act%200705/) | 2026-07-23 | 2026-07-24 | 125 |
 | [70 ILCS 710](https://ftp.ilga.gov/ILCS/Ch%200070/Act%200710/) | 2026-04-21 | 2026-10-30 | 3 |
 | [70 ILCS 815](https://ftp.ilga.gov/ILCS/Ch%200070/Act%200815/) | 2026-04-21 | 2026-10-30 | 3 |
+
+## Later current wording from the static ILCS compilation, 13 November 2026 (fourth batch)
+
+20 previously represented acts have a later current-text version from the [Illinois General Assembly static ILCS compilation](https://ftp.ilga.gov/ILCS/), updated 30 October 2026 through Public Act 104-854. The publisher says this web copy is not official or authoritative. Each date is the latest explicit effective date in the source notes, or the publisher compilation update date where no effective date is given. The new versions are labelled correction overlays; earlier published commits remain. The per-document source inventory is in `data/ilcs-current-refresh-q2000.json`.
+
+| Act | Previous date | Source date | Documents |
+| --- | --- | --- | ---: |
+| [70 ILCS 820](https://ftp.ilga.gov/ILCS/Ch%200070/Act%200820/) | 2026-04-19 | 2026-10-30 | 10 |
+| [70 ILCS 825](https://ftp.ilga.gov/ILCS/Ch%200070/Act%200825/) | 2026-03-12 | 2026-10-30 | 3 |
+| [70 ILCS 830](https://ftp.ilga.gov/ILCS/Ch%200070/Act%200830/) | 2026-04-12 | 2026-10-30 | 5 |
+| [70 ILCS 840](https://ftp.ilga.gov/ILCS/Ch%200070/Act%200840/) | 2026-03-08 | 2026-10-30 | 3 |
+| [70 ILCS 845](https://ftp.ilga.gov/ILCS/Ch%200070/Act%200845/) | 2026-04-15 | 2026-10-30 | 3 |
+| [70 ILCS 850](https://ftp.ilga.gov/ILCS/Ch%200070/Act%200850/) | 2026-04-12 | 2026-10-30 | 4 |
+| [70 ILCS 855](https://ftp.ilga.gov/ILCS/Ch%200070/Act%200855/) | 2026-03-16 | 2026-10-30 | 4 |
+| [70 ILCS 1220](https://ftp.ilga.gov/ILCS/Ch%200070/Act%201220/) | 2026-04-15 | 2026-10-30 | 6 |
+| [70 ILCS 1240](https://ftp.ilga.gov/ILCS/Ch%200070/Act%201240/) | 2026-04-11 | 2026-10-30 | 4 |
+| [70 ILCS 1245](https://ftp.ilga.gov/ILCS/Ch%200070/Act%201245/) | 2026-05-26 | 2026-10-30 | 7 |
+| [70 ILCS 1255](https://ftp.ilga.gov/ILCS/Ch%200070/Act%201255/) | 2026-06-06 | 2026-10-30 | 8 |
+| [70 ILCS 1260](https://ftp.ilga.gov/ILCS/Ch%200070/Act%201260/) | 2026-04-17 | 2026-10-30 | 6 |
+| [70 ILCS 1265](https://ftp.ilga.gov/ILCS/Ch%200070/Act%201265/) | 2026-04-12 | 2026-10-30 | 7 |
+| [70 ILCS 1270](https://ftp.ilga.gov/ILCS/Ch%200070/Act%201270/) | 2026-04-18 | 2026-10-30 | 10 |
+| [70 ILCS 1275](https://ftp.ilga.gov/ILCS/Ch%200070/Act%201275/) | 2026-05-01 | 2026-10-30 | 11 |
+| [70 ILCS 1280](https://ftp.ilga.gov/ILCS/Ch%200070/Act%201280/) | 2026-04-20 | 2026-10-30 | 3 |
+| [70 ILCS 1285](https://ftp.ilga.gov/ILCS/Ch%200070/Act%201285/) | 2026-04-22 | 2026-10-30 | 3 |
+| [70 ILCS 1295](https://ftp.ilga.gov/ILCS/Ch%200070/Act%201295/) | 2026-04-16 | 2026-10-30 | 3 |
+| [70 ILCS 1300](https://ftp.ilga.gov/ILCS/Ch%200070/Act%201300/) | 2026-04-17 | 2026-10-30 | 3 |
+| [70 ILCS 1315](https://ftp.ilga.gov/ILCS/Ch%200070/Act%201315/) | 2026-04-16 | 2026-10-30 | 3 |

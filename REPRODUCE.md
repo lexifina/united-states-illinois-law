@@ -2747,3 +2747,7 @@ The batch input inventory is `data/ilcs-current-selection-q1928.json`. It identi
 ## Later current Illinois text checked 13 November 2026 (third batch)
 
 20 represented acts received later source wording. The document inventory is `data/ilcs-current-refresh-q1989.json`, SHA-256 `bb2f427c630254869a74e2e4518e43ebb763cb0679f29bcec5fb7e9410f58767`. Each final git document was compared with the unchanged publisher HTML body after whitespace normalization; the official listing and sampled documents were checked live. No model wrote law text or corrected OCR.
+
+## Later current Illinois text checked 13 November 2026 (fourth batch)
+
+20 represented acts received later source wording. The document inventory is `data/ilcs-current-refresh-q2000.json`, SHA-256 `caf160ec15e45fb01d07ac66c3464875e55d3bac76261261b7b85de80ac30687`. Each final git document was compared with the unchanged publisher HTML body after whitespace normalization; the official listing and sampled documents were checked live. No model wrote law text or corrected OCR.
