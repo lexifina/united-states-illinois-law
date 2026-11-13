@@ -49220,6 +49220,21 @@
      "units": 9
     }
    ]
+  },
+  {
+   "slug": "ilcs-405-160",
+   "short": "405 ILCS 160",
+   "title": "Strengthening and Transforming Behavioral Health Crisis Care in Illinois Act",
+   "url": "https://ftp.ilga.gov/ILCS/Ch%200405/Act%200160/",
+   "versions": [
+    {
+     "from": "2023-07-28",
+     "source_url": "https://ftp.ilga.gov/ILCS/Ch%200405/Act%200160/",
+     "sha256": "02d07dc474635e8b696e272d069146b255012f843d4a5f554fb04586434d96ab",
+     "source_images": 0,
+     "units": 9
+    }
+   ]
   }
  ]
 }

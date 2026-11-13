@@ -254,5 +254,178 @@
         "words_equal": true
       }
     ]
+  },
+  {
+    "slug": "ilcs-405-160",
+    "source_date": {
+      "date": "2023-07-28",
+      "latest_public_act": "103-337",
+      "quote": "103-337, eff. 7-28-23. Repealed by P.A. ",
+      "source_url": "https://ftp.ilga.gov/ILCS/Ch%200405/Act%200160/040501600K1.html"
+    },
+    "documents": [
+      {
+        "file": "ilcs-405-160/doc-0001-040501600f.md",
+        "source_url": "https://ftp.ilga.gov/ILCS/Ch%200405/Act%200160/040501600F.html",
+        "sha256": "51b83c47e237a96ac5fc706490f121ab0edf4062108767ffe0b771085feec849",
+        "selection": {
+          "selection": "whole body",
+          "future_repeals": [
+            {
+              "date": "2027-01-01",
+              "quote": "S 160/1 et seq.\nSource: P.A. 103-337, eff. 7-28-23. This Act is repealed by P.A. 104-742, eff. 1-1-27"
+            }
+          ]
+        },
+        "source_images": 0,
+        "referenced": 0,
+        "omitted": 0,
+        "words_equal": true
+      },
+      {
+        "file": "ilcs-405-160/doc-0002-040501600k1.md",
+        "source_url": "https://ftp.ilga.gov/ILCS/Ch%200405/Act%200160/040501600K1.html",
+        "sha256": "e9d3f3efe9ac70b40c26fc0d285a00568b1e99c63ca49062c75730e8ddd2e26c",
+        "selection": {
+          "selection": "whole body",
+          "future_repeals": [
+            {
+              "date": "2027-01-01",
+              "quote": "isis Care in Illinois Act.\n(Source: P.A. 103-337, eff. 7-28-23. Repealed by P.A. 104-742, eff. 1-1-27"
+            }
+          ]
+        },
+        "source_images": 0,
+        "referenced": 0,
+        "omitted": 0,
+        "words_equal": true
+      },
+      {
+        "file": "ilcs-405-160/doc-0003-040501600k5.md",
+        "source_url": "https://ftp.ilga.gov/ILCS/Ch%200405/Act%200160/040501600K5.html",
+        "sha256": "87a8b3c90eacc25cbf55f60a88743c80ab4fcf2dc3e50532b2f408f4e930d8ef",
+        "selection": {
+          "selection": "whole body",
+          "future_repeals": [
+            {
+              "date": "2027-01-01",
+              "quote": "he crisis response system.\n(Source: P.A. 103-337, eff. 7-28-23. Repealed by P.A. 104-742, eff. 1-1-27"
+            }
+          ]
+        },
+        "source_images": 0,
+        "referenced": 0,
+        "omitted": 0,
+        "words_equal": true
+      },
+      {
+        "file": "ilcs-405-160/doc-0004-040501600k10.md",
+        "source_url": "https://ftp.ilga.gov/ILCS/Ch%200405/Act%200160/040501600K10.html",
+        "sha256": "c0804ff78ae1c0ee23088605cac74f184164ca4e37b0a681cc4646756c3b6196",
+        "selection": {
+          "selection": "whole body",
+          "future_repeals": [
+            {
+              "date": "2027-01-01",
+              "quote": "k, or travel in the State.\n(Source: P.A. 103-337, eff. 7-28-23. Repealed by P.A. 104-742, eff. 1-1-27"
+            }
+          ]
+        },
+        "source_images": 0,
+        "referenced": 0,
+        "omitted": 0,
+        "words_equal": true
+      },
+      {
+        "file": "ilcs-405-160/doc-0005-040501600k15.md",
+        "source_url": "https://ftp.ilga.gov/ILCS/Ch%200405/Act%200160/040501600K15.html",
+        "sha256": "784ebd250ea953627efcc18a86749c5f62b73912219d47e171455d8ee0bed9f6",
+        "selection": {
+          "selection": "whole body",
+          "future_repeals": [
+            {
+              "date": "2027-01-01",
+              "quote": "\noutlined in this Section.\n(Source: P.A. 103-337, eff. 7-28-23. Repealed by P.A. 104-742, eff. 1-1-27"
+            }
+          ]
+        },
+        "source_images": 0,
+        "referenced": 0,
+        "omitted": 0,
+        "words_equal": true
+      },
+      {
+        "file": "ilcs-405-160/doc-0006-040501600k20.md",
+        "source_url": "https://ftp.ilga.gov/ILCS/Ch%200405/Act%200160/040501600K20.html",
+        "sha256": "8cea7a21b7aea3187938cc7c939b62a0ff3c341e21ce97c2d6d33ef36c6d07d2",
+        "selection": {
+          "selection": "whole body",
+          "future_repeals": [
+            {
+              "date": "2027-01-01",
+              "quote": "ffective date of this Act.\n(Source: P.A. 103-337, eff. 7-28-23. Repealed by P.A. 104-742, eff. 1-1-27"
+            }
+          ]
+        },
+        "source_images": 0,
+        "referenced": 0,
+        "omitted": 0,
+        "words_equal": true
+      },
+      {
+        "file": "ilcs-405-160/doc-0007-040501600k25.md",
+        "source_url": "https://ftp.ilga.gov/ILCS/Ch%200405/Act%200160/040501600K25.html",
+        "sha256": "083e665d99763ff7acaaea7f2be5a52cb0209162491dc48196721d9934a0e7e6",
+        "selection": {
+          "selection": "whole body",
+          "future_repeals": [
+            {
+              "date": "2027-01-01",
+              "quote": "s' website for the public.\n(Source: P.A. 103-337, eff. 7-28-23. Repealed by P.A. 104-742, eff. 1-1-27"
+            }
+          ]
+        },
+        "source_images": 0,
+        "referenced": 0,
+        "omitted": 0,
+        "words_equal": true
+      },
+      {
+        "file": "ilcs-405-160/doc-0008-040501600k30.md",
+        "source_url": "https://ftp.ilga.gov/ILCS/Ch%200405/Act%200160/040501600K30.html",
+        "sha256": "586c1f2fe68ad10a045dafcf25e32fd22d47005c23ca3713fe5ca5662c952840",
+        "selection": {
+          "selection": "whole body",
+          "future_repeals": [
+            {
+              "date": "2027-01-01",
+              "quote": "s' website for the public.\n(Source: P.A. 103-337, eff. 7-28-23. Repealed by P.A. 104-742, eff. 1-1-27"
+            }
+          ]
+        },
+        "source_images": 0,
+        "referenced": 0,
+        "omitted": 0,
+        "words_equal": true
+      },
+      {
+        "file": "ilcs-405-160/doc-0009-040501600k99.md",
+        "source_url": "https://ftp.ilga.gov/ILCS/Ch%200405/Act%200160/040501600K99.html",
+        "sha256": "5426f68f9205229e91dc5408185064cf15f56f85f125694ced8eadfee669bee0",
+        "selection": {
+          "selection": "whole body",
+          "future_repeals": [
+            {
+              "date": "2027-01-01",
+              "quote": " effect upon becoming law.\n(Source: P.A. 103-337, eff. 7-28-23. Repealed by P.A. 104-742, eff. 1-1-27"
+            }
+          ]
+        },
+        "source_images": 0,
+        "referenced": 0,
+        "omitted": 0,
+        "words_equal": true
+      }
+    ]
   }
 ]
