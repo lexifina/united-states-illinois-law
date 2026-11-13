@@ -2739,3 +2739,7 @@ The batch input inventory is `data/ilcs-current-selection-q1928.json`. It identi
 ## Later current Illinois text checked 13 November 2026
 
 100 previously represented acts received later current wording from the Illinois General Assembly static ILCS compilation, updated 30 October 2026 through Public Act 104-854. The source input inventory is `data/ilcs-current-refresh-q1951.json`, SHA-256 `38e5588e7b7ce6fb903c3d94a1ca0fd6793ca6aa326fc4af688b6b5d1008164b`. It lists every official document URL and source byte digest, and the version date and basis for each act. Source words were compared with the final git files after whitespace normalization. The later versions use labelled correction ranges, preserving the earlier published commits; all indexed source documents were retained in publisher order. No model wrote or corrected law text.
+
+## Later current Illinois text checked 13 November 2026 (second batch)
+
+20 represented acts received later source wording. The document inventory is `data/ilcs-current-refresh-q1973.json`, SHA-256 `65664627983885090127bcb6a6490c5a33a113503c1d56e7b6bec7faa8551e57`. Each final git document was compared with the unchanged publisher HTML body after whitespace normalization; the official listing and sampled documents were checked live. No model wrote law text or corrected OCR.
